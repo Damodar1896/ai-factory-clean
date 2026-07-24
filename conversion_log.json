@@ -1,0 +1,12 @@
+{
+    "total_clicks": 1,
+    "active_campaigns": 45,
+    "conversions": [
+        {
+            "timestamp": "2026-07-23 23:33:02",
+            "network": "ClickBank",
+            "assigned_email": "support@damodartechcraze.com",
+            "status": "Routed & Tracked Securely"
+        }
+    ]
+}

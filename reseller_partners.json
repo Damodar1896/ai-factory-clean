@@ -1,0 +1,17 @@
+{
+    "brand_name": "Damodar AI Automations",
+    "license_type": "White-Label Global Reseller",
+    "commission_split": "70% Partner / 30% Platform",
+    "active_partners": [
+        {
+            "partner_name": "Digital Boost Agency",
+            "tier": "Gold Reseller",
+            "sales_linked": 12
+        },
+        {
+            "partner_name": "NextGen Marketers",
+            "tier": "Silver Reseller",
+            "sales_linked": 5
+        }
+    ]
+}

@@ -1,0 +1,548 @@
+[
+    {
+        "network": "Test Network",
+        "url": "https://example.com",
+        "status": "Success",
+        "timestamp": "2026-07-23 21:10:16"
+    },
+    {
+        "network": "ClickBank",
+        "url": "https://www.clickbank.com",
+        "status": "Success",
+        "timestamp": "2026-07-23 21:10:56"
+    },
+    {
+        "network": "DigiStore24",
+        "url": "https://www.digistore24.com",
+        "status": "Success",
+        "timestamp": "2026-07-23 21:11:00"
+    },
+    {
+        "network": "ShareASale",
+        "url": "https://www.shareasale.com",
+        "status": "Success",
+        "timestamp": "2026-07-23 21:11:04"
+    },
+    {
+        "network": "CJ Affiliate",
+        "url": "https://www.cj.com",
+        "status": "Success",
+        "timestamp": "2026-07-23 21:11:08"
+    },
+    {
+        "network": "Impact.com",
+        "url": "https://impact.com",
+        "status": "Success",
+        "timestamp": "2026-07-23 21:11:12"
+    },
+    {
+        "network": "PartnerStack",
+        "url": "https://partnerstack.com",
+        "status": "Success",
+        "timestamp": "2026-07-23 21:11:16"
+    },
+    {
+        "network": "Hostinger",
+        "url": "https://www.hostinger.com/affiliates",
+        "status": "Success",
+        "timestamp": "2026-07-23 21:11:20"
+    },
+    {
+        "network": "Notion",
+        "url": "https://www.notion.so/affiliates",
+        "status": "Success",
+        "timestamp": "2026-07-23 21:11:24"
+    },
+    {
+        "network": "Jasper AI",
+        "url": "https://www.jasper.ai/affiliate",
+        "status": "Success",
+        "timestamp": "2026-07-23 21:11:28"
+    },
+    {
+        "network": "Amazon Associates",
+        "url": "https://affiliate-program.amazon.com",
+        "status": "Success",
+        "timestamp": "2026-07-23 21:11:32"
+    },
+    {
+        "network": "JVZoo",
+        "url": "https://www.jvzoo.com",
+        "status": "Success",
+        "timestamp": "2026-07-23 21:11:36"
+    },
+    {
+        "network": "WarriorPlus",
+        "url": "https://warriorplus.com",
+        "status": "Success",
+        "timestamp": "2026-07-23 21:11:40"
+    },
+    {
+        "network": "Awin",
+        "url": "https://www.awin.com",
+        "status": "Success",
+        "timestamp": "2026-07-23 21:11:44"
+    },
+    {
+        "network": "Rakuten Advertising",
+        "url": "https://rakutenadvertising.com",
+        "status": "Success",
+        "timestamp": "2026-07-23 21:11:48"
+    },
+    {
+        "network": "Bluehost",
+        "url": "https://www.bluehost.com/track/affiliates",
+        "status": "Success",
+        "timestamp": "2026-07-23 21:11:52"
+    },
+    {
+        "network": "SiteGround",
+        "url": "https://www.siteground.com/affiliates",
+        "status": "Success",
+        "timestamp": "2026-07-23 21:11:56"
+    },
+    {
+        "network": "Copy.ai",
+        "url": "https://www.copy.ai/affiliate",
+        "status": "Success",
+        "timestamp": "2026-07-23 21:12:00"
+    },
+    {
+        "network": "GetResponse",
+        "url": "https://www.getresponse.com/affiliates",
+        "status": "Success",
+        "timestamp": "2026-07-23 21:12:04"
+    },
+    {
+        "network": "ActiveCampaign",
+        "url": "https://www.activecampaign.com/partners/affiliates",
+        "status": "Success",
+        "timestamp": "2026-07-23 21:12:08"
+    },
+    {
+        "network": "ConvertKit",
+        "url": "https://kit.com/affiliates",
+        "status": "Success",
+        "timestamp": "2026-07-23 21:12:12"
+    },
+    {
+        "network": "Teachable",
+        "url": "https://teachable.com/affiliate",
+        "status": "Success",
+        "timestamp": "2026-07-23 21:12:16"
+    },
+    {
+        "network": "Thinkific",
+        "url": "https://www.thinkific.com/affiliate",
+        "status": "Success",
+        "timestamp": "2026-07-23 21:12:20"
+    },
+    {
+        "network": "Systeme.io",
+        "url": "https://systeme.io/affiliates",
+        "status": "Success",
+        "timestamp": "2026-07-23 21:12:24"
+    },
+    {
+        "network": "ClickFunnels",
+        "url": "https://www.clickfunnels.com/affiliate",
+        "status": "Success",
+        "timestamp": "2026-07-23 21:12:28"
+    },
+    {
+        "network": "Elementor",
+        "url": "https://elementor.com/affiliate-program",
+        "status": "Success",
+        "timestamp": "2026-07-23 21:12:32"
+    },
+    {
+        "network": "eBay Partner Network",
+        "url": "https://partnernetwork.ebay.com",
+        "status": "Success",
+        "timestamp": "2026-07-23 21:12:36"
+    },
+    {
+        "network": "AliExpress Affiliate",
+        "url": "https://portal.letyshops.com",
+        "status": "Success",
+        "timestamp": "2026-07-23 21:12:40"
+    },
+    {
+        "network": "Walmart Affiliates",
+        "url": "https://affiliates.walmart.com",
+        "status": "Success",
+        "timestamp": "2026-07-23 21:12:44"
+    },
+    {
+        "network": "Etsy Affiliate",
+        "url": "https://www.etsy.com/affiliates",
+        "status": "Success",
+        "timestamp": "2026-07-23 21:12:48"
+    },
+    {
+        "network": "Booking.com Affiliate",
+        "url": "https://www.booking.com/affiliate-program",
+        "status": "Success",
+        "timestamp": "2026-07-23 21:12:52"
+    },
+    {
+        "network": "Tripadvisor",
+        "url": "https://www.tripadvisor.com/Affiliates",
+        "status": "Success",
+        "timestamp": "2026-07-23 21:12:56"
+    },
+    {
+        "network": "Skyscanner",
+        "url": "https://www.skyscanner.net/affiliates",
+        "status": "Success",
+        "timestamp": "2026-07-23 21:13:00"
+    },
+    {
+        "network": "Klook",
+        "url": "https://www.klook.com/affiliate",
+        "status": "Success",
+        "timestamp": "2026-07-23 21:13:04"
+    },
+    {
+        "network": "NordVPN",
+        "url": "https://nordvpn.com/affiliate",
+        "status": "Success",
+        "timestamp": "2026-07-23 21:13:08"
+    },
+    {
+        "network": "ExpressVPN",
+        "url": "https://www.expressvpn.com/affiliates",
+        "status": "Success",
+        "timestamp": "2026-07-23 21:13:12"
+    },
+    {
+        "network": "Surfshark",
+        "url": "https://surfshark.com/affiliate",
+        "status": "Success",
+        "timestamp": "2026-07-23 21:13:16"
+    },
+    {
+        "network": "Grammarly",
+        "url": "https://www.grammarly.com/affiliates",
+        "status": "Success",
+        "timestamp": "2026-07-23 21:13:20"
+    },
+    {
+        "network": "Canva",
+        "url": "https://www.canva.com/affiliates",
+        "status": "Success",
+        "timestamp": "2026-07-23 21:13:24"
+    },
+    {
+        "network": "Fiverr Affiliates",
+        "url": "https://affiliates.fiverr.com",
+        "status": "Success",
+        "timestamp": "2026-07-23 21:13:28"
+    },
+    {
+        "network": "Upwork",
+        "url": "https://www.upwork.com/affiliates",
+        "status": "Success",
+        "timestamp": "2026-07-23 21:13:32"
+    },
+    {
+        "network": "Udemy",
+        "url": "https://www.udemy.com/affiliate",
+        "status": "Success",
+        "timestamp": "2026-07-23 21:13:36"
+    },
+    {
+        "network": "Coursera",
+        "url": "https://www.coursera.org/partners",
+        "status": "Success",
+        "timestamp": "2026-07-23 21:13:40"
+    },
+    {
+        "network": "Skillshare",
+        "url": "https://www.skillshare.com/affiliates",
+        "status": "Success",
+        "timestamp": "2026-07-23 21:13:44"
+    },
+    {
+        "network": "Envato Market",
+        "url": "https://themeforest.net/affiliates",
+        "status": "Success",
+        "timestamp": "2026-07-23 21:13:48"
+    },
+    {
+        "network": "AppSumo",
+        "url": "https://appsumo.com/affiliate",
+        "status": "Success",
+        "timestamp": "2026-07-23 21:13:52"
+    },
+    {
+        "network": "ClickBank",
+        "url": "https://www.clickbank.com",
+        "status": "Success",
+        "timestamp": "2026-07-23 21:32:08"
+    },
+    {
+        "network": "DigiStore24",
+        "url": "https://www.digistore24.com",
+        "status": "Success",
+        "timestamp": "2026-07-23 21:32:21"
+    },
+    {
+        "network": "ShareASale",
+        "url": "https://www.shareasale.com",
+        "status": "Success",
+        "timestamp": "2026-07-23 21:32:35"
+    },
+    {
+        "network": "CJ Affiliate",
+        "url": "https://www.cj.com",
+        "status": "Success",
+        "timestamp": "2026-07-23 21:32:49"
+    },
+    {
+        "network": "Impact.com",
+        "url": "https://impact.com",
+        "status": "Success",
+        "timestamp": "2026-07-23 21:33:02"
+    },
+    {
+        "network": "PartnerStack",
+        "url": "https://partnerstack.com",
+        "status": "Success",
+        "timestamp": "2026-07-23 21:33:16"
+    },
+    {
+        "network": "Hostinger",
+        "url": "https://www.hostinger.com/affiliates",
+        "status": "Success",
+        "timestamp": "2026-07-23 21:33:29"
+    },
+    {
+        "network": "Notion",
+        "url": "https://www.notion.so/affiliates",
+        "status": "Success",
+        "timestamp": "2026-07-23 21:33:43"
+    },
+    {
+        "network": "Jasper AI",
+        "url": "https://www.jasper.ai/affiliate",
+        "status": "Success",
+        "timestamp": "2026-07-23 21:33:56"
+    },
+    {
+        "network": "Amazon Associates",
+        "url": "https://affiliate-program.amazon.com",
+        "status": "Success",
+        "timestamp": "2026-07-23 21:34:10"
+    },
+    {
+        "network": "JVZoo",
+        "url": "https://www.jvzoo.com",
+        "status": "Success",
+        "timestamp": "2026-07-23 21:34:23"
+    },
+    {
+        "network": "WarriorPlus",
+        "url": "https://warriorplus.com",
+        "status": "Success",
+        "timestamp": "2026-07-23 21:34:37"
+    },
+    {
+        "network": "Awin",
+        "url": "https://www.awin.com",
+        "status": "Success",
+        "timestamp": "2026-07-23 21:34:50"
+    },
+    {
+        "network": "Rakuten Advertising",
+        "url": "https://rakutenadvertising.com",
+        "status": "Success",
+        "timestamp": "2026-07-23 21:35:04"
+    },
+    {
+        "network": "Bluehost",
+        "url": "https://www.bluehost.com/track/affiliates",
+        "status": "Success",
+        "timestamp": "2026-07-23 21:35:17"
+    },
+    {
+        "network": "SiteGround",
+        "url": "https://www.siteground.com/affiliates",
+        "status": "Success",
+        "timestamp": "2026-07-23 21:35:31"
+    },
+    {
+        "network": "Copy.ai",
+        "url": "https://www.copy.ai/affiliate",
+        "status": "Success",
+        "timestamp": "2026-07-23 21:35:44"
+    },
+    {
+        "network": "GetResponse",
+        "url": "https://www.getresponse.com/affiliates",
+        "status": "Success",
+        "timestamp": "2026-07-23 21:35:58"
+    },
+    {
+        "network": "ActiveCampaign",
+        "url": "https://www.activecampaign.com/partners/affiliates",
+        "status": "Success",
+        "timestamp": "2026-07-23 21:36:11"
+    },
+    {
+        "network": "ConvertKit",
+        "url": "https://kit.com/affiliates",
+        "status": "Success",
+        "timestamp": "2026-07-23 21:36:25"
+    },
+    {
+        "network": "Teachable",
+        "url": "https://teachable.com/affiliate",
+        "status": "Success",
+        "timestamp": "2026-07-23 21:36:38"
+    },
+    {
+        "network": "Thinkific",
+        "url": "https://www.thinkific.com/affiliate",
+        "status": "Success",
+        "timestamp": "2026-07-23 21:36:52"
+    },
+    {
+        "network": "Systeme.io",
+        "url": "https://systeme.io/affiliates",
+        "status": "Success",
+        "timestamp": "2026-07-23 21:37:05"
+    },
+    {
+        "network": "ClickFunnels",
+        "url": "https://www.clickfunnels.com/affiliate",
+        "status": "Success",
+        "timestamp": "2026-07-23 21:37:19"
+    },
+    {
+        "network": "Elementor",
+        "url": "https://elementor.com/affiliate-program",
+        "status": "Success",
+        "timestamp": "2026-07-23 21:37:32"
+    },
+    {
+        "network": "eBay Partner Network",
+        "url": "https://partnernetwork.ebay.com",
+        "status": "Success",
+        "timestamp": "2026-07-23 21:37:46"
+    },
+    {
+        "network": "AliExpress Affiliate",
+        "url": "https://portal.letyshops.com",
+        "status": "Success",
+        "timestamp": "2026-07-23 21:37:59"
+    },
+    {
+        "network": "Walmart Affiliates",
+        "url": "https://affiliates.walmart.com",
+        "status": "Success",
+        "timestamp": "2026-07-23 21:38:13"
+    },
+    {
+        "network": "Etsy Affiliate",
+        "url": "https://www.etsy.com/affiliates",
+        "status": "Success",
+        "timestamp": "2026-07-23 21:38:26"
+    },
+    {
+        "network": "Booking.com Affiliate",
+        "url": "https://www.booking.com/affiliate-program",
+        "status": "Success",
+        "timestamp": "2026-07-23 21:38:40"
+    },
+    {
+        "network": "Tripadvisor",
+        "url": "https://www.tripadvisor.com/Affiliates",
+        "status": "Success",
+        "timestamp": "2026-07-23 21:38:53"
+    },
+    {
+        "network": "Skyscanner",
+        "url": "https://www.skyscanner.net/affiliates",
+        "status": "Success",
+        "timestamp": "2026-07-23 21:39:07"
+    },
+    {
+        "network": "Klook",
+        "url": "https://www.klook.com/affiliate",
+        "status": "Success",
+        "timestamp": "2026-07-23 21:39:21"
+    },
+    {
+        "network": "NordVPN",
+        "url": "https://nordvpn.com/affiliate",
+        "status": "Success",
+        "timestamp": "2026-07-23 21:39:34"
+    },
+    {
+        "network": "ExpressVPN",
+        "url": "https://www.expressvpn.com/affiliates",
+        "status": "Success",
+        "timestamp": "2026-07-23 21:39:48"
+    },
+    {
+        "network": "Surfshark",
+        "url": "https://surfshark.com/affiliate",
+        "status": "Success",
+        "timestamp": "2026-07-23 21:40:01"
+    },
+    {
+        "network": "Grammarly",
+        "url": "https://www.grammarly.com/affiliates",
+        "status": "Success",
+        "timestamp": "2026-07-23 21:40:15"
+    },
+    {
+        "network": "Canva",
+        "url": "https://www.canva.com/affiliates",
+        "status": "Success",
+        "timestamp": "2026-07-23 21:40:28"
+    },
+    {
+        "network": "Fiverr Affiliates",
+        "url": "https://affiliates.fiverr.com",
+        "status": "Success",
+        "timestamp": "2026-07-23 21:40:42"
+    },
+    {
+        "network": "Upwork",
+        "url": "https://www.upwork.com/affiliates",
+        "status": "Success",
+        "timestamp": "2026-07-23 21:40:55"
+    },
+    {
+        "network": "Udemy",
+        "url": "https://www.udemy.com/affiliate",
+        "status": "Success",
+        "timestamp": "2026-07-23 21:41:09"
+    },
+    {
+        "network": "Coursera",
+        "url": "https://www.coursera.org/partners",
+        "status": "Success",
+        "timestamp": "2026-07-23 21:41:22"
+    },
+    {
+        "network": "Skillshare",
+        "url": "https://www.skillshare.com/affiliates",
+        "status": "Success",
+        "timestamp": "2026-07-23 21:41:36"
+    },
+    {
+        "network": "Envato Market",
+        "url": "https://themeforest.net/affiliates",
+        "status": "Success",
+        "timestamp": "2026-07-23 21:41:49"
+    },
+    {
+        "network": "AppSumo",
+        "url": "https://appsumo.com/affiliate",
+        "status": "Success",
+        "timestamp": "2026-07-23 21:42:03"
+    }
+]

@@ -1,0 +1,23 @@
+name: Damodar Tech Craze Empire CI/CD
+
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  deploy-infrastructure:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v3
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.10'
+    - name: Run Multi-Cloud Infrastructure Sync
+      run: |
+        python3 cloud_database_connector.py
+        python3 render_worker_daemon.py
+        python3 vercel_netlify_edge_router.py
+        python3 fly_video_media_worker.py
+        python3 cloudflare_edge_security.py
+        echo "[SUCCESS] Multi-cloud distributed deployment synchronization complete!"

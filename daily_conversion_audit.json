@@ -1,0 +1,12 @@
+{
+    "date": "2026-07-24",
+    "total_contacted": 0,
+    "deals_closed": 2,
+    "deals_dropped": 5,
+    "revenue_generated_inr": 3998,
+    "drop_reasons": {
+        "budget_constraints": 3,
+        "not_interested_currently": 2,
+        "no_response": 4
+    }
+}

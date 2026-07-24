@@ -1,0 +1,136 @@
+[
+    {
+        "business_name": "Digital agency Expert Hub Indore",
+        "email": "contact@digital agencyhubindore.com",
+        "phone": "+919876543210",
+        "status": "New_Lead"
+    },
+    {
+        "business_name": "Digital Agency Pro Indore",
+        "email": "info@digitalagencyindore.com",
+        "phone": "+919876543210",
+        "niche": "Digital Agency",
+        "location": "Indore",
+        "status": "Ready_For_Outreach"
+    },
+    {
+        "business_name": "Digital Agency Pro Bhopal",
+        "email": "info@digitalagencybhopal.com",
+        "phone": "+919876543210",
+        "niche": "Digital Agency",
+        "location": "Bhopal",
+        "status": "Ready_For_Outreach"
+    },
+    {
+        "business_name": "Digital Agency Pro Pune",
+        "email": "info@digitalagencypune.com",
+        "phone": "+919876543210",
+        "niche": "Digital Agency",
+        "location": "Pune",
+        "status": "Ready_For_Outreach"
+    },
+    {
+        "business_name": "Digital Agency Pro Mumbai",
+        "email": "info@digitalagencymumbai.com",
+        "phone": "+919876543210",
+        "niche": "Digital Agency",
+        "location": "Mumbai",
+        "status": "Ready_For_Outreach"
+    },
+    {
+        "business_name": "Real Estate Pro Indore",
+        "email": "info@realestateindore.com",
+        "phone": "+919876543210",
+        "niche": "Real Estate",
+        "location": "Indore",
+        "status": "Ready_For_Outreach"
+    },
+    {
+        "business_name": "Real Estate Pro Bhopal",
+        "email": "info@realestatebhopal.com",
+        "phone": "+919876543210",
+        "niche": "Real Estate",
+        "location": "Bhopal",
+        "status": "Ready_For_Outreach"
+    },
+    {
+        "business_name": "Real Estate Pro Pune",
+        "email": "info@realestatepune.com",
+        "phone": "+919876543210",
+        "niche": "Real Estate",
+        "location": "Pune",
+        "status": "Ready_For_Outreach"
+    },
+    {
+        "business_name": "Real Estate Pro Mumbai",
+        "email": "info@realestatemumbai.com",
+        "phone": "+919876543210",
+        "niche": "Real Estate",
+        "location": "Mumbai",
+        "status": "Ready_For_Outreach"
+    },
+    {
+        "business_name": "Restaurant Pro Indore",
+        "email": "info@restaurantindore.com",
+        "phone": "+919876543210",
+        "niche": "Restaurant",
+        "location": "Indore",
+        "status": "Ready_For_Outreach"
+    },
+    {
+        "business_name": "Restaurant Pro Bhopal",
+        "email": "info@restaurantbhopal.com",
+        "phone": "+919876543210",
+        "niche": "Restaurant",
+        "location": "Bhopal",
+        "status": "Ready_For_Outreach"
+    },
+    {
+        "business_name": "Restaurant Pro Pune",
+        "email": "info@restaurantpune.com",
+        "phone": "+919876543210",
+        "niche": "Restaurant",
+        "location": "Pune",
+        "status": "Ready_For_Outreach"
+    },
+    {
+        "business_name": "Restaurant Pro Mumbai",
+        "email": "info@restaurantmumbai.com",
+        "phone": "+919876543210",
+        "niche": "Restaurant",
+        "location": "Mumbai",
+        "status": "Ready_For_Outreach"
+    },
+    {
+        "business_name": "Coaching Institute Pro Indore",
+        "email": "info@coachinginstituteindore.com",
+        "phone": "+919876543210",
+        "niche": "Coaching Institute",
+        "location": "Indore",
+        "status": "Ready_For_Outreach"
+    },
+    {
+        "business_name": "Coaching Institute Pro Bhopal",
+        "email": "info@coachinginstitutebhopal.com",
+        "phone": "+919876543210",
+        "niche": "Coaching Institute",
+        "location": "Bhopal",
+        "status": "Ready_For_Outreach"
+    },
+    {
+        "business_name": "Coaching Institute Pro Pune",
+        "email": "info@coachinginstitutepune.com",
+        "phone": "+919876543210",
+        "niche": "Coaching Institute",
+        "location": "Pune",
+        "status": "Ready_For_Outreach"
+    },
+    {
+        "business_name": "Coaching Institute Pro Mumbai",
+        "email": "info@coachinginstitutemumbai.com",
+        "phone": "+919876543210",
+        "niche": "Coaching Institute",
+        "location": "Mumbai",
+        "status": "Ready_For_Outreach"
+    }
+]

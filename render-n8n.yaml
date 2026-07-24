@@ -1,0 +1,10 @@
+services:
+  - type: web
+    name: damodar-n8n-automation
+    env: docker
+    plan: free
+    repo: https://github.com/Damodar1896/ai-factory-pages
+    branch: main
+    envVars:
+      - key: GENERIC_TIMEZONE
+        value: Asia/Kolkata
