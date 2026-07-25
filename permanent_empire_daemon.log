@@ -1,0 +1,18 @@
+2026-07-25 12:55:17,619 - INFO - 24x7 Permanent Empire Daemon started successfully.
+2026-07-25 12:55:18,381 - INFO - HTTP Request: POST https://fhtverdbtmwjvgxlkmkz.supabase.co/rest/v1/execution_logs "HTTP/2 404 Not Found"
+2026-07-25 12:55:18,382 - ERROR - Cloud sync error: {'message': "Could not find the table 'public.execution_logs' in the schema cache", 'code': 'PGRST205', 'hint': None, 'details': None}
+2026-07-25 12:55:39,492 - INFO - Daemon stopped by user.
+2026-07-25 12:55:41,907 - INFO - 24x7 Permanent Empire Daemon started successfully.
+2026-07-25 12:55:42,555 - INFO - HTTP Request: POST https://fhtverdbtmwjvgxlkmkz.supabase.co/rest/v1/execution_logs "HTTP/2 404 Not Found"
+2026-07-25 12:55:42,556 - ERROR - Cloud sync error: {'message': "Could not find the table 'public.execution_logs' in the schema cache", 'code': 'PGRST205', 'hint': None, 'details': None}
+2026-07-25 13:05:43,015 - INFO - HTTP Request: POST https://fhtverdbtmwjvgxlkmkz.supabase.co/rest/v1/execution_logs "HTTP/2 404 Not Found"
+2026-07-25 13:05:43,017 - ERROR - Cloud sync error: {'message': "Could not find the table 'public.execution_logs' in the schema cache", 'code': 'PGRST205', 'hint': None, 'details': None}
+2026-07-25 13:15:43,713 - INFO - HTTP Request: POST https://fhtverdbtmwjvgxlkmkz.supabase.co/rest/v1/execution_logs "HTTP/2 201 Created"
+2026-07-25 13:25:44,369 - INFO - HTTP Request: POST https://fhtverdbtmwjvgxlkmkz.supabase.co/rest/v1/execution_logs "HTTP/2 201 Created"
+2026-07-25 13:35:44,405 - ERROR - Cloud sync error: [Errno 8] nodename nor servname provided, or not known
+2026-07-25 13:45:45,030 - INFO - HTTP Request: POST https://fhtverdbtmwjvgxlkmkz.supabase.co/rest/v1/execution_logs "HTTP/2 201 Created"
+2026-07-25 13:55:45,660 - INFO - HTTP Request: POST https://fhtverdbtmwjvgxlkmkz.supabase.co/rest/v1/execution_logs "HTTP/2 201 Created"
+2026-07-25 14:05:46,091 - INFO - HTTP Request: POST https://fhtverdbtmwjvgxlkmkz.supabase.co/rest/v1/execution_logs "HTTP/2 201 Created"
+2026-07-25 14:15:46,643 - INFO - HTTP Request: POST https://fhtverdbtmwjvgxlkmkz.supabase.co/rest/v1/execution_logs "HTTP/2 201 Created"
+2026-07-25 14:25:46,930 - INFO - HTTP Request: POST https://fhtverdbtmwjvgxlkmkz.supabase.co/rest/v1/execution_logs "HTTP/2 201 Created"
+2026-07-25 14:35:47,397 - INFO - HTTP Request: POST https://fhtverdbtmwjvgxlkmkz.supabase.co/rest/v1/execution_logs "HTTP/2 201 Created"

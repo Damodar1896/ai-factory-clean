@@ -1,0 +1,18 @@
+2026-07-25 13:07:20,500 - INFO - HTTP Request: POST https://fhtverdbtmwjvgxlkmkz.supabase.co/rest/v1/execution_logs "HTTP/2 404 Not Found"
+2026-07-25 13:07:20,501 - ERROR - Cloud sync error: {'message': "Could not find the table 'public.execution_logs' in the schema cache", 'code': 'PGRST205', 'hint': None, 'details': None}
+2026-07-25 13:07:54,443 - INFO - HTTP Request: POST https://fhtverdbtmwjvgxlkmkz.supabase.co/rest/v1/execution_logs "HTTP/2 404 Not Found"
+2026-07-25 13:07:54,446 - ERROR - Cloud sync error: {'message': "Could not find the table 'public.execution_logs' in the schema cache", 'code': 'PGRST205', 'hint': None, 'details': None}
+2026-07-25 13:08:28,066 - INFO - HTTP Request: POST https://fhtverdbtmwjvgxlkmkz.supabase.co/rest/v1/execution_logs "HTTP/2 404 Not Found"
+2026-07-25 13:08:28,069 - ERROR - Cloud sync error: {'message': "Could not find the table 'public.execution_logs' in the schema cache", 'code': 'PGRST205', 'hint': None, 'details': None}
+2026-07-25 13:09:01,686 - INFO - HTTP Request: POST https://fhtverdbtmwjvgxlkmkz.supabase.co/rest/v1/execution_logs "HTTP/2 404 Not Found"
+2026-07-25 13:09:01,688 - ERROR - Cloud sync error: {'message': "Could not find the table 'public.execution_logs' in the schema cache", 'code': 'PGRST205', 'hint': None, 'details': None}
+2026-07-25 13:09:35,356 - INFO - HTTP Request: POST https://fhtverdbtmwjvgxlkmkz.supabase.co/rest/v1/execution_logs "HTTP/2 404 Not Found"
+2026-07-25 13:09:35,358 - ERROR - Cloud sync error: {'message': "Could not find the table 'public.execution_logs' in the schema cache", 'code': 'PGRST205', 'hint': None, 'details': None}
+2026-07-25 13:10:09,107 - INFO - HTTP Request: POST https://fhtverdbtmwjvgxlkmkz.supabase.co/rest/v1/execution_logs "HTTP/2 404 Not Found"
+2026-07-25 13:10:09,109 - ERROR - Cloud sync error: {'message': "Could not find the table 'public.execution_logs' in the schema cache", 'code': 'PGRST205', 'hint': None, 'details': None}
+2026-07-25 13:10:43,172 - INFO - HTTP Request: POST https://fhtverdbtmwjvgxlkmkz.supabase.co/rest/v1/execution_logs "HTTP/2 404 Not Found"
+2026-07-25 13:10:43,173 - ERROR - Cloud sync error: {'message': "Could not find the table 'public.execution_logs' in the schema cache", 'code': 'PGRST205', 'hint': None, 'details': None}
+2026-07-25 13:11:17,170 - INFO - HTTP Request: POST https://fhtverdbtmwjvgxlkmkz.supabase.co/rest/v1/execution_logs "HTTP/2 404 Not Found"
+2026-07-25 13:11:17,171 - ERROR - Cloud sync error: {'message': "Could not find the table 'public.execution_logs' in the schema cache", 'code': 'PGRST205', 'hint': None, 'details': None}
+2026-07-25 13:11:51,225 - INFO - HTTP Request: POST https://fhtverdbtmwjvgxlkmkz.supabase.co/rest/v1/execution_logs "HTTP/2 404 Not Found"
+2026-07-25 13:11:51,227 - ERROR - Cloud sync error: {'message': "Could not find the table 'public.execution_logs' in the schema cache", 'code': 'PGRST205', 'hint': None, 'details': None}

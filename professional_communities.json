@@ -1,0 +1,24 @@
+{
+    "whatsapp_networks": {
+        "vip_buyers": {
+            "base_name": "Damodar VIP Buyers",
+            "limit": 1024,
+            "active_index": 1
+        },
+        "tech_craze_community": {
+            "base_name": "Tech Craze Community",
+            "limit": 1024,
+            "active_index": 1
+        }
+    },
+    "telegram_networks": {
+        "elite_channel": {
+            "base_name": "Damodar Tech Craze Elite Channel",
+            "active_index": 1
+        },
+        "buyers_supergroup": {
+            "base_name": "Tech Craze Buyers Supergroup",
+            "active_index": 1
+        }
+    }
+}

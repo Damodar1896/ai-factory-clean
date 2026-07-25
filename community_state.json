@@ -1,0 +1,16 @@
+{
+    "telegram_groups": [
+        {
+            "name": "Damodar Elite Community #1",
+            "members": 0,
+            "active": true
+        }
+    ],
+    "whatsapp_groups": [
+        {
+            "name": "Damodar VIP Buyers #1",
+            "members": 1,
+            "active": true
+        }
+    ]
+}

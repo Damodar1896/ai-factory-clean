@@ -1,0 +1,11 @@
+{
+    "invoice_no": "DTV-2026-1784969867",
+    "date": "2026-07-25",
+    "client": "Rahul Sharma",
+    "amount_inr": 1999,
+    "gst_rate": "18% Inclusive",
+    "payment_mode": "UPI (damodartechcraze@okaxis)",
+    "upi_ref": "UPI_REF_987654321",
+    "status": "PAID & VERIFIED",
+    "seller": "Damodar Tech Craze Ventures"
+}
