@@ -1,41 +1,35 @@
-import os
-import time
-import subprocess
-import sys
+import os, time, subprocess, sys
 from datetime import datetime
 
-# Cloud-Optimized Empire Services
-CLOUD_SERVICES = [
-    "scraper.py",
-    "business_empire_master.py",
-    "ai_personalizer.py",
-    "smart_sales_engine.py",
-    "smtp_dispatcher.py",
-    "outreach_dispatcher_pro.py",
-    "followup_engine.py",
-    "payment_and_delivery_engine.py",
-    "payment_delivery_bot.py",
-    "ai_inbox_responder.py",
-    "master_crm_tracker.py"
+GROWTH_STACK = [
+    ("trick_1_viral_loop.py", 90),
+    ("trick_2_retargeting.py", 60),
+    ("trick_3_affiliate_swarm.py", 120),
+    ("trick_4_pseo.py", 180),
+    ("trick_5_onboarding.py", 40),
+    ("trick_6_upsell.py", 100),
+    ("trick_7_fomo.py", 50),
+    ("trick_8_community.py", 110),
+    ("trick_9_behavioral_triggers.py", 70),
+    ("trick_10_interactive_quiz.py", 80)
 ]
 
-def cloud_log(message):
-    timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-    print(f"[CLOUD-DAEMON {timestamp}] {message}")
+def log(msg):
+    line = f"[{datetime.now().strftime('%Y-%m-%d %H:%M:%S')}] {msg}"
+    print(line)
+    try:
+        with open("global_growth_stack.log", "a") as f: f.write(line + "\n")
+    except: pass
 
-def run_cloud_empire():
-    cloud_log("=== [DAMODAR CLOUD EMPIRE DEPLOYED & ACTIVE] Running 24x7 on Cloud (Zero Local Load) ===")
-    while True:
-        for service in CLOUD_SERVICES:
-            if os.path.exists(service):
-                try:
-                    check = subprocess.run(f"pgrep -f {service}", shell=True, capture_output=True, text=True)
-                    if not check.stdout.strip():
-                        cloud_log(f"[☁️ CLOUD HEALING] Service '{service}' restarted on cloud instance.")
-                        subprocess.Popen(f"{sys.executable} {service}", shell=True, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
-                except Exception as e:
-                    cloud_log(f"[❌ CLOUD ERROR on {service}]: {e}")
-        time.sleep(30)
-
-if __name__ == "__main__":
-    run_cloud_empire()
+log("=== [DAMODAR GLOBAL GROWTH STACK ACTIVATED 24x7] ===")
+while True:
+    for script, delay in GROWTH_STACK:
+        if os.path.exists(script):
+            try:
+                res = subprocess.run(f"pgrep -f {script}", shell=True, capture_output=True, text=True)
+                if not res.stdout.strip():
+                    log(f"[⚙️ LOAD-BALANCED EXECUTION] Triggering {script}...")
+                    subprocess.Popen(f"{sys.executable} {script}", shell=True, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
+            except Exception as e:
+                log(f"[❌ ERROR on {script}]: {e}")
+        time.sleep(delay)
