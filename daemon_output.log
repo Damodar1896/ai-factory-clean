@@ -1,0 +1,4 @@
+Exception ignored while calling deallocator <function SyncGoTrueClient.__del__ at 0x10672e090>:
+Traceback (most recent call last):
+  File "/Users/shubhamdewangan/ai-factory/venv/lib/python3.14/site-packages/supabase_auth/_sync/gotrue_client.py", line 1289, in __del__
+AttributeError: 'SyncSupabaseAuthClient' object has no attribute '_refresh_token_timer'
