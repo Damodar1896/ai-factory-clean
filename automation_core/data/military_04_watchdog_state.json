@@ -1,0 +1,6 @@
+{
+    "module": "Watchdog Sentinel",
+    "sentinel_pid": 37862,
+    "auto_restart_policy": "INSTANT",
+    "timestamp": 1785081950.512362
+}

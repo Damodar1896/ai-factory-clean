@@ -1,0 +1,6 @@
+{
+    "module": "Atomic Rollback",
+    "stable_checkpoint": "git-commit-stable-v2.6",
+    "status": "ARMED",
+    "timestamp": 1785081950.643334
+}
