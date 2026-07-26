@@ -1,0 +1,11 @@
+{
+    "account_profile_id": "profile_bot_node_07",
+    "actions_performed": [
+        "Random Feed Scrolling (Duration: 184 seconds with Gaussian Jitter)",
+        "Niche Content Engagement (Liked 3 related posts, 0.8s dwell time)",
+        "Session Fingerprint Masking (Browser/App state synchronized)"
+    ],
+    "warmup_delay_sec": 26.280046441724664,
+    "warmup_status": "Behavioral Warm-up Active (Zero Cost)",
+    "timestamp": 1785078943.15974
+}

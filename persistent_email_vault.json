@@ -1,5 +1,5 @@
 {
-    "total": 86,
+    "total": 88,
     "today": 75,
     "date": "2026-07-26",
     "logs": [
@@ -454,9 +454,23 @@
             "status": "Warming-Up (Hardware ADB IP Rotated - Primary Inbox Ready)",
             "warmup_days_completed": 1,
             "time": "2026-07-26 20:18:23.110264"
+        },
+        {
+            "email": "hubpressdamodartechcraze95@gmail.com",
+            "date": "2026-07-26",
+            "status": "Warming-Up (Hardware ADB IP Rotated - Primary Inbox Ready)",
+            "warmup_days_completed": 1,
+            "time": "2026-07-26 20:47:56.833956"
+        },
+        {
+            "email": "globalgroupventurestechcraze45@outlook.com",
+            "date": "2026-07-26",
+            "status": "Warming-Up (Hardware ADB IP Rotated - Primary Inbox Ready)",
+            "warmup_days_completed": 1,
+            "time": "2026-07-26 21:09:50.434817"
         }
     ],
     "daily_breakdown": {
-        "2026-07-26": 11
+        "2026-07-26": 13
     }
 }

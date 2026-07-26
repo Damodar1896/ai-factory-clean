@@ -1,0 +1,36 @@
+{
+    "target_post_id": "viral_post_target_100m",
+    "active_nodes": 7,
+    "deployed_actions": [
+        {
+            "node": "proxy_node_bot_01",
+            "action": "Finally someone exposed how this actual loop works."
+        },
+        {
+            "node": "proxy_node_bot_02",
+            "action": "Tested this out today, results are unreal."
+        },
+        {
+            "node": "proxy_node_bot_03",
+            "action": "Saved this before it gets taken down. Insane insight."
+        },
+        {
+            "node": "proxy_node_bot_04",
+            "action": "Finally someone exposed how this actual loop works."
+        },
+        {
+            "node": "proxy_node_bot_05",
+            "action": "Saved this before it gets taken down. Insane insight."
+        },
+        {
+            "node": "proxy_node_bot_06",
+            "action": "Finally someone exposed how this actual loop works."
+        },
+        {
+            "node": "proxy_node_bot_07",
+            "action": "Saved this before it gets taken down. Insane insight."
+        }
+    ],
+    "illusion_status": "Swarm Sowing Illusion Active (Zero Cost)",
+    "timestamp": 1785079264.041585
+}

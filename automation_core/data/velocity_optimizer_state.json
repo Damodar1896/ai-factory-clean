@@ -1,0 +1,11 @@
+{
+    "published_post_id": "post_release_velocity_01",
+    "velocity_multiplier": 5.239124009532344,
+    "signals": {
+        "likes_per_minute": 94,
+        "save_share_ratio": "18.7%",
+        "algorithm_pool": "Broad Discovery Feed Promotion"
+    },
+    "optimizer_status": "Velocity Push Active (Zero Cost)",
+    "timestamp": 1785078586.0843341
+}
