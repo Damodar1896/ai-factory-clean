@@ -1,0 +1,707 @@
+{
+    "engine_status": "OPERATIONAL",
+    "total_count": 100,
+    "generated_emails": [
+        {
+            "email": "stack.techcrazeteam.ventures@gmail.com",
+            "prefix": "stack",
+            "base": "techcrazeteam",
+            "suffix": "ventures",
+            "status": "READY_FOR_AUTOMATION",
+            "timestamp": 1785083843.08779
+        },
+        {
+            "email": "nexus.damodarcrazeventures.exec@gmail.com",
+            "prefix": "nexus",
+            "base": "damodarcrazeventures",
+            "suffix": "exec",
+            "status": "READY_FOR_AUTOMATION",
+            "timestamp": 1785083843.087795
+        },
+        {
+            "email": "base.damodartechventures.hr@gmail.com",
+            "prefix": "base",
+            "base": "damodartechventures",
+            "suffix": "hr",
+            "status": "READY_FOR_AUTOMATION",
+            "timestamp": 1785083843.087797
+        },
+        {
+            "email": "hive.damodartechventures.connect@gmail.com",
+            "prefix": "hive",
+            "base": "damodartechventures",
+            "suffix": "connect",
+            "status": "READY_FOR_AUTOMATION",
+            "timestamp": 1785083843.087798
+        },
+        {
+            "email": "elite.damodardigital.desk@gmail.com",
+            "prefix": "elite",
+            "base": "damodardigital",
+            "suffix": "desk",
+            "status": "READY_FOR_AUTOMATION",
+            "timestamp": 1785083843.0878
+        },
+        {
+            "email": "global.venturesteam.exec@gmail.com",
+            "prefix": "global",
+            "base": "venturesteam",
+            "suffix": "exec",
+            "status": "READY_FOR_AUTOMATION",
+            "timestamp": 1785083843.087801
+        },
+        {
+            "email": "desk.venturesteam.connect@gmail.com",
+            "prefix": "desk",
+            "base": "venturesteam",
+            "suffix": "connect",
+            "status": "READY_FOR_AUTOMATION",
+            "timestamp": 1785083843.0878022
+        },
+        {
+            "email": "app.venturesteam.legal@gmail.com",
+            "prefix": "app",
+            "base": "venturesteam",
+            "suffix": "legal",
+            "status": "READY_FOR_AUTOMATION",
+            "timestamp": 1785083843.0878038
+        },
+        {
+            "email": "cloud.damodarempire.exec@gmail.com",
+            "prefix": "cloud",
+            "base": "damodarempire",
+            "suffix": "exec",
+            "status": "READY_FOR_AUTOMATION",
+            "timestamp": 1785083843.087805
+        },
+        {
+            "email": "base.techcrazeteam.media@gmail.com",
+            "prefix": "base",
+            "base": "techcrazeteam",
+            "suffix": "media",
+            "status": "READY_FOR_AUTOMATION",
+            "timestamp": 1785083843.087806
+        },
+        {
+            "email": "gen.venturesempire.labs@gmail.com",
+            "prefix": "gen",
+            "base": "venturesempire",
+            "suffix": "labs",
+            "status": "READY_FOR_AUTOMATION",
+            "timestamp": 1785083843.087807
+        },
+        {
+            "email": "official.venturesdamodar.security@gmail.com",
+            "prefix": "official",
+            "base": "venturesdamodar",
+            "suffix": "security",
+            "status": "READY_FOR_AUTOMATION",
+            "timestamp": 1785083843.087809
+        },
+        {
+            "email": "gen.techcrazedamodar.legal@gmail.com",
+            "prefix": "gen",
+            "base": "techcrazedamodar",
+            "suffix": "legal",
+            "status": "READY_FOR_AUTOMATION",
+            "timestamp": 1785083843.08781
+        },
+        {
+            "email": "zone.damodarcore.labs@gmail.com",
+            "prefix": "zone",
+            "base": "damodarcore",
+            "suffix": "labs",
+            "status": "READY_FOR_AUTOMATION",
+            "timestamp": 1785083843.0878122
+        },
+        {
+            "email": "global.damodarcrazeventures.connect@gmail.com",
+            "prefix": "global",
+            "base": "damodarcrazeventures",
+            "suffix": "connect",
+            "status": "READY_FOR_AUTOMATION",
+            "timestamp": 1785083843.0878131
+        },
+        {
+            "email": "axis.venturesteam.security@gmail.com",
+            "prefix": "axis",
+            "base": "venturesteam",
+            "suffix": "security",
+            "status": "READY_FOR_AUTOMATION",
+            "timestamp": 1785083843.0878148
+        },
+        {
+            "email": "labs.teamdamodar.connect@gmail.com",
+            "prefix": "labs",
+            "base": "teamdamodar",
+            "suffix": "connect",
+            "status": "READY_FOR_AUTOMATION",
+            "timestamp": 1785083843.087816
+        },
+        {
+            "email": "empire.damodarteam.partners@gmail.com",
+            "prefix": "empire",
+            "base": "damodarteam",
+            "suffix": "partners",
+            "status": "READY_FOR_AUTOMATION",
+            "timestamp": 1785083843.087818
+        },
+        {
+            "email": "zone.damodardigital.security@gmail.com",
+            "prefix": "zone",
+            "base": "damodardigital",
+            "suffix": "security",
+            "status": "READY_FOR_AUTOMATION",
+            "timestamp": 1785083843.087819
+        },
+        {
+            "email": "data.damodarventures.team@gmail.com",
+            "prefix": "data",
+            "base": "damodarventures",
+            "suffix": "team",
+            "status": "READY_FOR_AUTOMATION",
+            "timestamp": 1785083843.087821
+        },
+        {
+            "email": "data.damodartechventures.group@gmail.com",
+            "prefix": "data",
+            "base": "damodartechventures",
+            "suffix": "group",
+            "status": "READY_FOR_AUTOMATION",
+            "timestamp": 1785083843.0878222
+        },
+        {
+            "email": "hq.damodarventures.desk@gmail.com",
+            "prefix": "hq",
+            "base": "damodarventures",
+            "suffix": "desk",
+            "status": "READY_FOR_AUTOMATION",
+            "timestamp": 1785083843.0878239
+        },
+        {
+            "email": "global.venturesdamodar.partners@gmail.com",
+            "prefix": "global",
+            "base": "venturesdamodar",
+            "suffix": "partners",
+            "status": "READY_FOR_AUTOMATION",
+            "timestamp": 1785083843.087826
+        },
+        {
+            "email": "realm.venturesdamodar.hr@gmail.com",
+            "prefix": "realm",
+            "base": "venturesdamodar",
+            "suffix": "hr",
+            "status": "READY_FOR_AUTOMATION",
+            "timestamp": 1785083843.087827
+        },
+        {
+            "email": "next.damodarcrazeventures.corp@gmail.com",
+            "prefix": "next",
+            "base": "damodarcrazeventures",
+            "suffix": "corp",
+            "status": "READY_FOR_AUTOMATION",
+            "timestamp": 1785083843.0878289
+        },
+        {
+            "email": "gate.venturesteam.corp@gmail.com",
+            "prefix": "gate",
+            "base": "venturesteam",
+            "suffix": "corp",
+            "status": "READY_FOR_AUTOMATION",
+            "timestamp": 1785083843.087831
+        },
+        {
+            "email": "hub.damodarcore.hr@gmail.com",
+            "prefix": "hub",
+            "base": "damodarcore",
+            "suffix": "hr",
+            "status": "READY_FOR_AUTOMATION",
+            "timestamp": 1785083843.087832
+        },
+        {
+            "email": "hub.techcrazedamodar.connect@gmail.com",
+            "prefix": "hub",
+            "base": "techcrazedamodar",
+            "suffix": "connect",
+            "status": "READY_FOR_AUTOMATION",
+            "timestamp": 1785083843.0878341
+        },
+        {
+            "email": "data.damodarempire.labs@gmail.com",
+            "prefix": "data",
+            "base": "damodarempire",
+            "suffix": "labs",
+            "status": "READY_FOR_AUTOMATION",
+            "timestamp": 1785083843.0878358
+        },
+        {
+            "email": "global.damodarventures.admin@gmail.com",
+            "prefix": "global",
+            "base": "damodarventures",
+            "suffix": "admin",
+            "status": "READY_FOR_AUTOMATION",
+            "timestamp": 1785083843.087838
+        },
+        {
+            "email": "elite.damodarteam.labs@gmail.com",
+            "prefix": "elite",
+            "base": "damodarteam",
+            "suffix": "labs",
+            "status": "READY_FOR_AUTOMATION",
+            "timestamp": 1785083843.08784
+        },
+        {
+            "email": "empire.damodarworks.partners@gmail.com",
+            "prefix": "empire",
+            "base": "damodarworks",
+            "suffix": "partners",
+            "status": "READY_FOR_AUTOMATION",
+            "timestamp": 1785083843.087842
+        },
+        {
+            "email": "prime.techcrazeempire.support@gmail.com",
+            "prefix": "prime",
+            "base": "techcrazeempire",
+            "suffix": "support",
+            "status": "READY_FOR_AUTOMATION",
+            "timestamp": 1785083843.0878441
+        },
+        {
+            "email": "port.techcrazeventures.labs@gmail.com",
+            "prefix": "port",
+            "base": "techcrazeventures",
+            "suffix": "labs",
+            "status": "READY_FOR_AUTOMATION",
+            "timestamp": 1785083843.0878458
+        },
+        {
+            "email": "zone.techcrazedamodar.admin@gmail.com",
+            "prefix": "zone",
+            "base": "techcrazedamodar",
+            "suffix": "admin",
+            "status": "READY_FOR_AUTOMATION",
+            "timestamp": 1785083843.087848
+        },
+        {
+            "email": "labs.damodarempire.media@gmail.com",
+            "prefix": "labs",
+            "base": "damodarempire",
+            "suffix": "media",
+            "status": "READY_FOR_AUTOMATION",
+            "timestamp": 1785083843.08785
+        },
+        {
+            "email": "port.techcrazeempire.desk@gmail.com",
+            "prefix": "port",
+            "base": "techcrazeempire",
+            "suffix": "desk",
+            "status": "READY_FOR_AUTOMATION",
+            "timestamp": 1785083843.087852
+        },
+        {
+            "email": "data.damodarcrazeventures.security@gmail.com",
+            "prefix": "data",
+            "base": "damodarcrazeventures",
+            "suffix": "security",
+            "status": "READY_FOR_AUTOMATION",
+            "timestamp": 1785083843.0878541
+        },
+        {
+            "email": "hq.venturesdamodar.legal@gmail.com",
+            "prefix": "hq",
+            "base": "venturesdamodar",
+            "suffix": "legal",
+            "status": "READY_FOR_AUTOMATION",
+            "timestamp": 1785083843.087856
+        },
+        {
+            "email": "app.damodarcore.ventures@gmail.com",
+            "prefix": "app",
+            "base": "damodarcore",
+            "suffix": "ventures",
+            "status": "READY_FOR_AUTOMATION",
+            "timestamp": 1785083843.087861
+        },
+        {
+            "email": "pro.techcrazeempire.billing@gmail.com",
+            "prefix": "pro",
+            "base": "techcrazeempire",
+            "suffix": "billing",
+            "status": "READY_FOR_AUTOMATION",
+            "timestamp": 1785083843.087863
+        },
+        {
+            "email": "port.damodarworks.security@gmail.com",
+            "prefix": "port",
+            "base": "damodarworks",
+            "suffix": "security",
+            "status": "READY_FOR_AUTOMATION",
+            "timestamp": 1785083843.0878668
+        },
+        {
+            "email": "next.venturesdamodar.hr@gmail.com",
+            "prefix": "next",
+            "base": "venturesdamodar",
+            "suffix": "hr",
+            "status": "READY_FOR_AUTOMATION",
+            "timestamp": 1785083843.087869
+        },
+        {
+            "email": "hub.damodarventures.desk@gmail.com",
+            "prefix": "hub",
+            "base": "damodarventures",
+            "suffix": "desk",
+            "status": "READY_FOR_AUTOMATION",
+            "timestamp": 1785083843.087872
+        },
+        {
+            "email": "elite.damodarcrazeventures.studio@gmail.com",
+            "prefix": "elite",
+            "base": "damodarcrazeventures",
+            "suffix": "studio",
+            "status": "READY_FOR_AUTOMATION",
+            "timestamp": 1785083843.087874
+        },
+        {
+            "email": "app.damodartechventures.press@gmail.com",
+            "prefix": "app",
+            "base": "damodartechventures",
+            "suffix": "press",
+            "status": "READY_FOR_AUTOMATION",
+            "timestamp": 1785083843.087877
+        },
+        {
+            "email": "sys.venturesempire.corp@gmail.com",
+            "prefix": "sys",
+            "base": "venturesempire",
+            "suffix": "corp",
+            "status": "READY_FOR_AUTOMATION",
+            "timestamp": 1785083843.087879
+        },
+        {
+            "email": "web.damodartechventures.billing@gmail.com",
+            "prefix": "web",
+            "base": "damodartechventures",
+            "suffix": "billing",
+            "status": "READY_FOR_AUTOMATION",
+            "timestamp": 1785083843.0878808
+        },
+        {
+            "email": "hive.venturesteam.solutions@gmail.com",
+            "prefix": "hive",
+            "base": "venturesteam",
+            "suffix": "solutions",
+            "status": "READY_FOR_AUTOMATION",
+            "timestamp": 1785083843.087884
+        },
+        {
+            "email": "global.venturestechcraze.group@gmail.com",
+            "prefix": "global",
+            "base": "venturestechcraze",
+            "suffix": "group",
+            "status": "READY_FOR_AUTOMATION",
+            "timestamp": 1785083843.087886
+        },
+        {
+            "email": "webventuresdamodar@gmail.com",
+            "pattern": "prefix",
+            "status": "READY_FOR_AUTOMATION",
+            "timestamp": 1785083977.274116
+        },
+        {
+            "email": "damodartechventuresdata@gmail.com",
+            "pattern": "suffix",
+            "status": "READY_FOR_AUTOMATION",
+            "timestamp": 1785083977.2741199
+        },
+        {
+            "email": "netdamodarcrazeventures@gmail.com",
+            "pattern": "prefix",
+            "status": "READY_FOR_AUTOMATION",
+            "timestamp": 1785083977.274122
+        },
+        {
+            "email": "vaultventuresempire@gmail.com",
+            "pattern": "prefix",
+            "status": "READY_FOR_AUTOMATION",
+            "timestamp": 1785083977.2741241
+        },
+        {
+            "email": "damodarventuresbilling@gmail.com",
+            "pattern": "suffix",
+            "status": "READY_FOR_AUTOMATION",
+            "timestamp": 1785083977.274125
+        },
+        {
+            "email": "venturesempiresolutions@gmail.com",
+            "pattern": "suffix",
+            "status": "READY_FOR_AUTOMATION",
+            "timestamp": 1785083977.274126
+        },
+        {
+            "email": "portdamodarventures@gmail.com",
+            "pattern": "prefix",
+            "status": "READY_FOR_AUTOMATION",
+            "timestamp": 1785083977.274128
+        },
+        {
+            "email": "damodarworksconnect@gmail.com",
+            "pattern": "suffix",
+            "status": "READY_FOR_AUTOMATION",
+            "timestamp": 1785083977.274129
+        },
+        {
+            "email": "techcrazeempireport@gmail.com",
+            "pattern": "suffix",
+            "status": "READY_FOR_AUTOMATION",
+            "timestamp": 1785083977.2741299
+        },
+        {
+            "email": "portdamodartechventures@gmail.com",
+            "pattern": "prefix",
+            "status": "READY_FOR_AUTOMATION",
+            "timestamp": 1785083977.274131
+        },
+        {
+            "email": "techcrazeteampartners@gmail.com",
+            "pattern": "suffix",
+            "status": "READY_FOR_AUTOMATION",
+            "timestamp": 1785083977.274133
+        },
+        {
+            "email": "damodarworkspress@gmail.com",
+            "pattern": "suffix",
+            "status": "READY_FOR_AUTOMATION",
+            "timestamp": 1785083977.274134
+        },
+        {
+            "email": "solutionstechcrazeempire@gmail.com",
+            "pattern": "prefix",
+            "status": "READY_FOR_AUTOMATION",
+            "timestamp": 1785083977.274135
+        },
+        {
+            "email": "damodarcrazeventuresstudio@gmail.com",
+            "pattern": "suffix",
+            "status": "READY_FOR_AUTOMATION",
+            "timestamp": 1785083977.274136
+        },
+        {
+            "email": "admindamodartechcraze@gmail.com",
+            "pattern": "prefix",
+            "status": "READY_FOR_AUTOMATION",
+            "timestamp": 1785083977.2741382
+        },
+        {
+            "email": "damodarventuresbase@gmail.com",
+            "pattern": "suffix",
+            "status": "READY_FOR_AUTOMATION",
+            "timestamp": 1785083977.274139
+        },
+        {
+            "email": "labstechcrazeteam@gmail.com",
+            "pattern": "prefix",
+            "status": "READY_FOR_AUTOMATION",
+            "timestamp": 1785083977.27414
+        },
+        {
+            "email": "venturesdamodarhive@gmail.com",
+            "pattern": "suffix",
+            "status": "READY_FOR_AUTOMATION",
+            "timestamp": 1785083977.274142
+        },
+        {
+            "email": "damodardigitalhr@gmail.com",
+            "pattern": "suffix",
+            "status": "READY_FOR_AUTOMATION",
+            "timestamp": 1785083977.274144
+        },
+        {
+            "email": "sysdamodarworks@gmail.com",
+            "pattern": "prefix",
+            "status": "READY_FOR_AUTOMATION",
+            "timestamp": 1785083977.2741451
+        },
+        {
+            "email": "mediadamodartechcraze@gmail.com",
+            "pattern": "prefix",
+            "status": "READY_FOR_AUTOMATION",
+            "timestamp": 1785083977.274147
+        },
+        {
+            "email": "vaultdamodarteam@gmail.com",
+            "pattern": "prefix",
+            "status": "READY_FOR_AUTOMATION",
+            "timestamp": 1785083977.274148
+        },
+        {
+            "email": "partnersdamodarventures@gmail.com",
+            "pattern": "prefix",
+            "status": "READY_FOR_AUTOMATION",
+            "timestamp": 1785083977.27415
+        },
+        {
+            "email": "vaultdamodartechcraze@gmail.com",
+            "pattern": "prefix",
+            "status": "READY_FOR_AUTOMATION",
+            "timestamp": 1785083977.274152
+        },
+        {
+            "email": "damodarcrazeventuresexec@gmail.com",
+            "pattern": "suffix",
+            "status": "READY_FOR_AUTOMATION",
+            "timestamp": 1785083977.274153
+        },
+        {
+            "email": "techcrazeteamlabs@gmail.com",
+            "pattern": "suffix",
+            "status": "READY_FOR_AUTOMATION",
+            "timestamp": 1785083977.274155
+        },
+        {
+            "email": "damodarcoreofficial@gmail.com",
+            "pattern": "suffix",
+            "status": "READY_FOR_AUTOMATION",
+            "timestamp": 1785083977.274157
+        },
+        {
+            "email": "damodartechventuresstack@gmail.com",
+            "pattern": "suffix",
+            "status": "READY_FOR_AUTOMATION",
+            "timestamp": 1785083977.2741592
+        },
+        {
+            "email": "mediaventuresdamodar@gmail.com",
+            "pattern": "prefix",
+            "status": "READY_FOR_AUTOMATION",
+            "timestamp": 1785083977.2741609
+        },
+        {
+            "email": "supportventuresempire@gmail.com",
+            "pattern": "prefix",
+            "status": "READY_FOR_AUTOMATION",
+            "timestamp": 1785083977.274163
+        },
+        {
+            "email": "codedamodarcrazeventures@gmail.com",
+            "pattern": "prefix",
+            "status": "READY_FOR_AUTOMATION",
+            "timestamp": 1785083977.274165
+        },
+        {
+            "email": "gateteamdamodar@gmail.com",
+            "pattern": "prefix",
+            "status": "READY_FOR_AUTOMATION",
+            "timestamp": 1785083977.274167
+        },
+        {
+            "email": "damodartechcrazeprime@gmail.com",
+            "pattern": "suffix",
+            "status": "READY_FOR_AUTOMATION",
+            "timestamp": 1785083977.2741692
+        },
+        {
+            "email": "damodarempirelegal@gmail.com",
+            "pattern": "suffix",
+            "status": "READY_FOR_AUTOMATION",
+            "timestamp": 1785083977.2741709
+        },
+        {
+            "email": "techcrazeteamlegal@gmail.com",
+            "pattern": "suffix",
+            "status": "READY_FOR_AUTOMATION",
+            "timestamp": 1785083977.274173
+        },
+        {
+            "email": "venturesteamfusion@gmail.com",
+            "pattern": "suffix",
+            "status": "READY_FOR_AUTOMATION",
+            "timestamp": 1785083977.274175
+        },
+        {
+            "email": "damodarworksgate@gmail.com",
+            "pattern": "suffix",
+            "status": "READY_FOR_AUTOMATION",
+            "timestamp": 1785083977.274177
+        },
+        {
+            "email": "worksventurestechcraze@gmail.com",
+            "pattern": "prefix",
+            "status": "READY_FOR_AUTOMATION",
+            "timestamp": 1785083977.274179
+        },
+        {
+            "email": "venturesdamodarstack@gmail.com",
+            "pattern": "suffix",
+            "status": "READY_FOR_AUTOMATION",
+            "timestamp": 1785083977.2741811
+        },
+        {
+            "email": "axisdamodarworks@gmail.com",
+            "pattern": "prefix",
+            "status": "READY_FOR_AUTOMATION",
+            "timestamp": 1785083977.2741828
+        },
+        {
+            "email": "zonedamodarcore@gmail.com",
+            "pattern": "prefix",
+            "status": "READY_FOR_AUTOMATION",
+            "timestamp": 1785083977.274186
+        },
+        {
+            "email": "damodarteamelite@gmail.com",
+            "pattern": "suffix",
+            "status": "READY_FOR_AUTOMATION",
+            "timestamp": 1785083977.274188
+        },
+        {
+            "email": "techcrazeteamapex@gmail.com",
+            "pattern": "suffix",
+            "status": "READY_FOR_AUTOMATION",
+            "timestamp": 1785083977.2741902
+        },
+        {
+            "email": "realmdamodardigital@gmail.com",
+            "pattern": "prefix",
+            "status": "READY_FOR_AUTOMATION",
+            "timestamp": 1785083977.2741928
+        },
+        {
+            "email": "venturestechcrazeport@gmail.com",
+            "pattern": "suffix",
+            "status": "READY_FOR_AUTOMATION",
+            "timestamp": 1785083977.274195
+        },
+        {
+            "email": "venturesteamofficial@gmail.com",
+            "pattern": "suffix",
+            "status": "READY_FOR_AUTOMATION",
+            "timestamp": 1785083977.274197
+        },
+        {
+            "email": "orbitdamodartechcraze@gmail.com",
+            "pattern": "prefix",
+            "status": "READY_FOR_AUTOMATION",
+            "timestamp": 1785083977.2742
+        },
+        {
+            "email": "stackdamodarcrazeventures@gmail.com",
+            "pattern": "prefix",
+            "status": "READY_FOR_AUTOMATION",
+            "timestamp": 1785083977.274202
+        },
+        {
+            "email": "damodarteamnova@gmail.com",
+            "pattern": "suffix",
+            "status": "READY_FOR_AUTOMATION",
+            "timestamp": 1785083977.274205
+        },
+        {
+            "email": "salesdamodartechcraze@gmail.com",
+            "pattern": "prefix",
+            "status": "READY_FOR_AUTOMATION",
+            "timestamp": 1785083977.2742069
+        }
+    ],
+    "last_updated": 1785083977.274208
+}

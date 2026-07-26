@@ -1,0 +1,6 @@
+[2026-07-26 22:07:23] WARNING: ADB bridge skipped -> Command '['adb', 'shell', 'settings', 'put', 'global', 'airplane_mode_on', '1']' returned non-zero exit status 255.
+[2026-07-26 22:07:23] Successfully generated batch of 50 corporate emails.
+[2026-07-26 22:07:23] Human-mimicry delay injected: 30.0 minutes.
+[2026-07-26 22:09:37] WARNING: ADB bridge skipped -> Command '['adb', 'shell', 'settings', 'put', 'global', 'airplane_mode_on', '1']' returned non-zero exit status 255.
+[2026-07-26 22:09:37] Successfully generated batch of 50 dot-free corporate emails.
+[2026-07-26 22:09:37] Human-mimicry delay injected: 45.0 minutes.

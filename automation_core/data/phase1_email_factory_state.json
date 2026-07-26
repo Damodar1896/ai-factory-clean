@@ -1,0 +1,25 @@
+{
+    "phase": "Phase 1 - Corporate Email Factory",
+    "status": "SECURE",
+    "active_batch": [
+        {
+            "email_id": "support.node606@damodartechcraze.io",
+            "status": "GENERATED",
+            "warmup_day": 1,
+            "timestamp": 1785083180.013292
+        },
+        {
+            "email_id": "official.node601@damodartechcraze.io",
+            "status": "GENERATED",
+            "warmup_day": 1,
+            "timestamp": 1785083180.013298
+        },
+        {
+            "email_id": "corporate.node146@ai-factory-nexus.com",
+            "status": "GENERATED",
+            "warmup_day": 1,
+            "timestamp": 1785083180.013299
+        }
+    ],
+    "timestamp": 1785083180.0133
+}
