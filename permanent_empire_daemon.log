@@ -150,3 +150,5 @@
 2026-07-26 12:53:14,854 - INFO - HTTP Request: POST https://fhtverdbtmwjvgxlkmkz.supabase.co/rest/v1/execution_logs "HTTP/2 201 Created"
 2026-07-26 13:03:14,871 - ERROR - Cloud sync error: [Errno 2] No such file or directory
 2026-07-26 13:13:14,882 - ERROR - Cloud sync error: [Errno 2] No such file or directory
+2026-07-26 13:23:14,894 - ERROR - Cloud sync error: [Errno 2] No such file or directory
+2026-07-26 13:33:14,899 - ERROR - Cloud sync error: [Errno 2] No such file or directory

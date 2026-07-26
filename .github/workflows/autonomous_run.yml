@@ -24,8 +24,8 @@ jobs:
 
       - name: Run Multi-Cloud Verification & Pipeline Engine
         env:
-          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
-          SUPABASE_KEY: ${{ secrets.SUPABASE_KEY }}
+          SUPABASE_URL: ${{  postgresql://postgres:[SP#*&$NG%^!*@RK/%$]@db.zhdrghjygatcqsyjmvdl.supabase.co:5432/postgres }}
+          SUPABASE_KEY: ${{ eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InpoZHJnaGp5Z2F0Y3FzeWptdmRsIiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTc4NTA0MTU2MiwiZXhwIjoyMTAwNjE3NTYyfQ.siqScmP8G0RVCMLw_bOtxe8fRAEc5V_TgZZuIkHUD9s }}
         run: |
           python automation_core/deploy_manager.py
           python automation_core/pipeline_engine.py
