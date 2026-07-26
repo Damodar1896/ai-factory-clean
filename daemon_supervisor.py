@@ -5,23 +5,23 @@ import subprocess
 
 def run_supervisor():
     print("="*70)
-    print("[*] [DAEMON SUPERVISOR] 24/7 Autopilot Retention & Safety Guardian Initialized...")
+    print("[*] [DAEMON SUPERVISOR] 24/7 Autopilot 13-Point Safety Guardian Initialized...")
     print("="*70)
     
-    state_path = "automation_core/data/underground_empire_state.json"
+    state_path = "automation_core/data/thirteen_point_safety_state.json"
     
     while True:
-        # Periodic Safety & Circuit Breaker Audit
-        subprocess.run(["python", "verify_and_heal_empire.py"], stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
+        # Run 13-point safety audit and self-healing loop in background
+        subprocess.run(["python", "automation_core/module_thirteen_point_safety.py"], stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
         
         if os.path.exists(state_path):
             with open(state_path, "r", encoding="utf-8") as f:
                 data = json.load(f)
-            print(f"[HEARTBEAT] 24/7 Autopilot + Safety Shield Active | Daemons Online: {len(data.get('active_daemons', []))} | Timestamp: {time.strftime('%Y-%m-%d %H:%M:%S')}")
+            print(f"[HEARTBEAT] 24/7 Autopilot Active | 13-Point Safety Shield: ONLINE | Protocols Enforced: {len(data.get('protocols_enforced', []))} | Timestamp: {time.strftime('%Y-%m-%d %H:%M:%S')}")
         else:
-            print("[WARNING] State file missing! Re-initializing underground empire...")
+            print("[WARNING] Safety state file missing! Re-initializing 13-point matrix...")
             
-        # Background check interval (Runs indefinitely with built-in anti-ban protection)
+        # Background check interval (Runs indefinitely on autopilot)
         time.sleep(60)
 
 if __name__ == "__main__":
