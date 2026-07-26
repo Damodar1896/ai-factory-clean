@@ -1,5 +1,5 @@
 {
-    "total": 80,
+    "total": 86,
     "today": 75,
     "date": "2026-07-26",
     "logs": [
@@ -412,9 +412,51 @@
             "status": "Warming-Up (Hardware ADB IP Rotated - Primary Inbox Ready)",
             "warmup_days_completed": 1,
             "time": "2026-07-26 17:35:08.920777"
+        },
+        {
+            "email": "orbitpartnersdamodarcore60@enterprise-mail.com",
+            "date": "2026-07-26",
+            "status": "Warming-Up (Hardware ADB IP Rotated - Primary Inbox Ready)",
+            "warmup_days_completed": 1,
+            "time": "2026-07-26 17:59:22.533717"
+        },
+        {
+            "email": "realm.connect.damodarventures@outlook.com",
+            "date": "2026-07-26",
+            "status": "Warming-Up (Hardware ADB IP Rotated - Primary Inbox Ready)",
+            "warmup_days_completed": 1,
+            "time": "2026-07-26 18:21:36.203454"
+        },
+        {
+            "email": "workspartnersventurestechcraze60@enterprise-mail.com",
+            "date": "2026-07-26",
+            "status": "Warming-Up (Hardware ADB IP Rotated - Primary Inbox Ready)",
+            "warmup_days_completed": 1,
+            "time": "2026-07-26 18:43:30.238470"
+        },
+        {
+            "email": "primepressdamodardigital63@gmail.com",
+            "date": "2026-07-26",
+            "status": "Warming-Up (Hardware ADB IP Rotated - Primary Inbox Ready)",
+            "warmup_days_completed": 1,
+            "time": "2026-07-26 19:17:54.749188"
+        },
+        {
+            "email": "elite.admin.crazeventures@outlook.com",
+            "date": "2026-07-26",
+            "status": "Warming-Up (Hardware ADB IP Rotated - Primary Inbox Ready)",
+            "warmup_days_completed": 1,
+            "time": "2026-07-26 19:49:49.080901"
+        },
+        {
+            "email": "deskmediadamodartechcraze68@proton.me",
+            "date": "2026-07-26",
+            "status": "Warming-Up (Hardware ADB IP Rotated - Primary Inbox Ready)",
+            "warmup_days_completed": 1,
+            "time": "2026-07-26 20:18:23.110264"
         }
     ],
     "daily_breakdown": {
-        "2026-07-26": 5
+        "2026-07-26": 11
     }
 }
