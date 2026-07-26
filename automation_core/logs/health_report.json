@@ -1,0 +1,5 @@
+{
+    "node_status": "WARNING",
+    "edge_network": "Cloudflare Workers Active",
+    "frontend_hosting": "Vercel Static Node Ready"
+}

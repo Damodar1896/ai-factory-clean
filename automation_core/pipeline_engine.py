@@ -7,10 +7,12 @@ from module_stealth import StealthBrowserConfig
 from module_omnichannel import OmnichannelDistributor
 from module_monetization import MonetizationFunnel
 from module_landing_page import LandingPageGenerator
+from module_health_check import CloudHealthMonitor
 
 class AutonomousEnterpriseEmpire:
     def __init__(self):
-        print("[-] Initializing Autonomous Enterprise Empire & Monetization Funnel...")
+        print("[-] Initializing Autonomous Enterprise Empire & Multi-Cloud Health Diagnostics...")
+        CloudHealthMonitor.run_full_diagnostic()
         initialize_branding("FINANCE")
         self.api_manager = FreeAPIPoolManager()
         self.omnichannel = OmnichannelDistributor()
@@ -44,7 +46,7 @@ class AutonomousEnterpriseEmpire:
         self.omnichannel.dispatch_to_reddit(monetized_assets)
         self.omnichannel.dispatch_to_linkedin(monetized_assets)
         self.omnichannel.dispatch_to_telegram(monetized_assets)
-        print("\n[+] FULL AUTONOMOUS EMPIRE CYCLE COMPLETED SUCCESSFULLY!")
+        print("\n[+] FULL AUTONOMOUS EMPIRE CYCLE COMPLETED SUCCESSFULLY WITH MULTI-CLOUD HEALTH VERIFICATION!")
 
 if __name__ == "__main__":
     empire = AutonomousEnterpriseEmpire()
