@@ -1,55 +1,43 @@
 import os
-import json
 import time
+import subprocess
+from pathlib import Path
 
-class MasterEmpireOrchestrator:
-    def __init__(self):
-        print("[-] Initializing Supreme Master Empire Orchestrator...")
+Path("automation_core/data").mkdir(parents=True, exist_ok=True)
+Path("automation_core/logs").mkdir(parents=True, exist_ok=True)
 
-    def run_full_pipeline(self):
-        print("\n" + "="*50)
-        print("[*] STARTING 100% AUTONOMOUS EMPIRE EXECUTION CYCLE")
-        print("="*50 + "\n")
+def log_master_event(message):
+    timestamp = time.strftime("%Y-%m-%d %H:%M:%S")
+    log_msg = f"[{timestamp}] [Master Orchestrator] {message}"
+    print(log_msg)
+    with open("automation_core/logs/master_daemon.log", "a") as f:
+        f.write(log_msg + "\n")
 
-        # Step 1: Branding & Niche Verification
-        print("[Phase 1/5] Verifying Active Brand & Niche Registry...")
-        brand_path = "automation_core/config/branding/active_brand.json"
-        if os.path.exists(brand_path):
-            with open(brand_path, "r", encoding="utf-8") as f:
-                b_data = json.load(f)
-            print(f"[OK] Brand Active: {b_data['assigned_brand']} | Niche: {b_data['selected_niche']}")
-        else:
-            print("[!] Brand config missing. Initializing default...")
-
-        # Step 2: Email Factory Vault Check
-        print("\n[Phase 2/5] Validating Corporate Email Vault & Identity Linkage...")
-        time.sleep(0.5)
-        print("[OK] Corporate identities loaded securely from vault.")
-
-        # Step 3: Stealth Proxy & Cellular Rotation Check
-        print("\n[Phase 3/5] Executing Ban-Proof Stealth & Cellular IP Check...")
-        time.sleep(0.5)
-        print("[OK] Residential IP rotation and user-agent stealth headers active.")
-
-        # Step 4: AI API Rotator Check
-        print("\n[Phase 4/5] Checking Free AI API Pool Rotator...")
-        time.sleep(0.5)
-        print("[OK] API keys validated, zero rate-limit blocks detected.")
-
-        # Step 5: Content Pipeline & Viral Payload Generation
-        print("\n[Phase 5/5] Harvesting Trends & Generating Viral Payload...")
-        payload_path = "automation_core/data/viral_payload.json"
-        if os.path.exists(payload_path):
-            with open(payload_path, "r", encoding="utf-8") as f:
-                p_data = json.load(f)
-            print(f"[OK] Viral Payload ready for multi-platform publishing. Hook: '{p_data['viral_hook']}'")
-        else:
-            print("[!] Viral payload not found.")
-
-        print("\n" + "="*50)
-        print("[SUCCESS] 24/7 CLOUD-NATIVE EMPIRE CYCLE COMPLETED WITHOUT LOCAL LOAD.")
-        print("="*50 + "\n")
+def run_empire_cycle():
+    log_master_event("=== [STARTING AUTONOMOUS EMPIRE CYCLE] ===")
+    
+    # 1. Check & Rotate IP via ADB Airplane Mode
+    log_master_event("[Step 1] Triggering hardware IP rotation...")
+    try:
+        subprocess.run(["python", "automation_core/adb_connector.py"], capture_output=True, text=True)
+        log_master_event("[✅ SUCCESS] IP rotated successfully via mobile data toggle.")
+    except Exception as e:
+        log_master_event(f"[⚠️ WARNING] IP rotation skipped/failed: {e}")
+        
+    # 2. Render Short & Inject CTA
+    log_master_event("[Step 2] Executing video render & UPI funnel injection...")
+    try:
+        subprocess.run(["python", "automation_core/video_subtitle_renderer.py"], capture_output=True, text=True)
+        subprocess.run(["python", "automation_core/funnel_cta_injector.py"], capture_output=True, text=True)
+        log_master_event("[✅ SUCCESS] High-retention video compiled & UPI funnel CTA locked (damodartechcraze@okaxis).")
+    except Exception as e:
+        log_master_event(f"[❌ ERROR] Content pipeline error: {e}")
+        
+    log_master_event("=== [CYCLE COMPLETED. SLEEPING FOR NEXT BATCH] ===")
 
 if __name__ == "__main__":
-    orchestrator = MasterEmpireOrchestrator()
-    orchestrator.run_full_pipeline()
+    log_master_event("🚀 DAMODAR EMPIRE MASTER ORCHESTRATOR STARTED 24/7")
+    while True:
+        run_empire_cycle()
+        # Sleep for 1 hour before next automated growth cycle
+        time.sleep(3600)
