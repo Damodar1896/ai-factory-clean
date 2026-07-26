@@ -1,4 +1,6 @@
-import time
+import os
+
+supervisor_code = '''import time
 import json
 import os
 import subprocess
@@ -28,4 +30,10 @@ if __name__ == "__main__":
     try:
         run_supervisor()
     except KeyboardInterrupt:
-        print("\n[!] Daemon Supervisor paused manually. Background state safe.")
+        print("\\n[!] Daemon Supervisor paused manually. Background state safe.")
+'''
+
+with open("daemon_supervisor.py", "w", encoding="utf-8") as f:
+    f.write(supervisor_code)
+
+print("[SUCCESS] Daemon supervisor successfully updated with 24/7 Safety Shield integration!")

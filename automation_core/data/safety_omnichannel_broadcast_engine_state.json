@@ -1,0 +1,8 @@
+{
+    "protected_module": "Omnichannel Broadcast Engine",
+    "jitter_delay_sec": 9.302378886729759,
+    "proxy_node": "Residential IP Pool [US-East] - Clean",
+    "ban_risk_pct": 0.8382012268271305,
+    "circuit_breaker": "ACTIVE",
+    "timestamp": 1785081207.0935628
+}
