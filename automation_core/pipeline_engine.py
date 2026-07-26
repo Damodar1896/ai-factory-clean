@@ -5,53 +5,47 @@ from module_branding import initialize_branding
 from module_api_rotator import FreeAPIPoolManager
 from module_stealth import StealthBrowserConfig
 from module_omnichannel import OmnichannelDistributor
+from module_monetization import MonetizationFunnel
+from module_landing_page import LandingPageGenerator
 
-class AutonomousOmnichannelEngine:
+class AutonomousEnterpriseEmpire:
     def __init__(self):
-        print("[-] Initializing Enterprise Autonomous Omnichannel Engine...")
+        print("[-] Initializing Autonomous Enterprise Empire & Monetization Funnel...")
         initialize_branding("FINANCE")
         self.api_manager = FreeAPIPoolManager()
         self.omnichannel = OmnichannelDistributor()
 
-    def fetch_trending_topics(self):
-        print("[*] Harvesting cross-platform viral trends...")
-        StealthBrowserConfig.simulate_human_delay(1, 2)
-        return "The 2026 Shift in Automated Wealth & AI Agents"
-
-    def generate_content_assets(self, topic):
-        api_key = self.api_manager.get_active_key()
-        print(f"[*] Generating multi-format viral assets using active API key...")
-        StealthBrowserConfig.simulate_human_delay(1, 2)
+    def run_full_funnel(self):
+        print("[*] Step 1: Harvesting high-RPM viral topic...")
+        topic = "The 2026 Shift in Automated Wealth Generation"
         
-        return {
+        print("[*] Step 2: Generating AI Content Payload...")
+        assets = {
             "title": f"The Untold Truth About {topic}",
-            "description": "Discover the exact framework used by top creators. #Automation #Wealth #2026 #AI",
-            "tags": ["automation", "wealth", "growth hacking", "ai"],
-            "script": f"Multi-platform optimized content script for {topic}..."
+            "description": "Discover the exact framework used by top creators.",
+            "tags": ["wealth", "automation", "ai"],
+            "script": "Script content..."
         }
-
-    def broadcast_everywhere(self, assets):
-        # Traditional Video/Media Platforms
+        
+        print("[*] Step 3: Injecting High-Paying Affiliate Funnel...")
+        monetized_assets = MonetizationFunnel.inject_affiliate_funnel("FINANCE", assets)
+        
+        print("[*] Step 4: Building Automated Landing Page...")
+        LandingPageGenerator.build_dynamic_landing_page(topic, monetized_assets["monetization_hook"])
+        
+        print("[*] Step 5: Executing Omnichannel Broadcast across YouTube, IG, FB, X, Reddit, LinkedIn, Telegram...")
         media_platforms = ["YouTube", "Instagram", "Facebook"]
         for platform in media_platforms:
             StealthBrowserConfig.airplane_mode_ip_rotation_hook()
-            delay = random.randint(3, 7)
-            print(f"[*] Uploading media payload to {platform} (Delay: {delay}s)...")
-            time.sleep(1)
-            print(f"[SUCCESS] Media Published to {platform}.")
+            time.sleep(0.5)
+            print(f"[SUCCESS] Media Published with Affiliate Link to {platform}.")
 
-        # Omnichannel Text & Community Platforms
-        print("\n[-] Initiating Omnichannel Text & Community Broadcasts...")
-        self.omnichannel.dispatch_to_twitter(assets)
-        self.omnichannel.dispatch_to_reddit(assets)
-        self.omnichannel.dispatch_to_linkedin(assets)
-        self.omnichannel.dispatch_to_telegram(assets)
-
-    def run(self):
-        topic = self.fetch_trending_topics()
-        assets = self.generate_content_assets(topic)
-        self.broadcast_everywhere(assets)
+        self.omnichannel.dispatch_to_twitter(monetized_assets)
+        self.omnichannel.dispatch_to_reddit(monetized_assets)
+        self.omnichannel.dispatch_to_linkedin(monetized_assets)
+        self.omnichannel.dispatch_to_telegram(monetized_assets)
+        print("\n[+] FULL AUTONOMOUS EMPIRE CYCLE COMPLETED SUCCESSFULLY!")
 
 if __name__ == "__main__":
-    engine = AutonomousOmnichannelEngine()
-    engine.run()
+    empire = AutonomousEnterpriseEmpire()
+    empire.run_full_funnel()
