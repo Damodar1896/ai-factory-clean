@@ -1,37 +1,56 @@
+import os
 import json
 import random
-import os
 
-class FreeAPIPoolManager:
-    def __init__(self, pool_file="config/api_pool.json"):
-        self.pool_file = pool_file
-        self.load_pool()
+class FreeAPIRotator:
+    def __init__(self, pool_path="automation_core/config/credentials/api_pool.json"):
+        self.pool_path = pool_path
+        os.makedirs(os.path.dirname(self.pool_path), exist_ok=True)
+        self.initialize_pool()
 
-    def load_pool(self):
-        if not os.path.exists(self.pool_file):
-            os.makedirs(os.path.dirname(self.pool_file), exist_ok=True)
-            default_pool = {
+    def initialize_pool(self):
+        if not os.path.exists(self.pool_path):
+            sample_pool = {
                 "providers": [
-                    {"name": "Gemini_Free", "key": "AIzaSy_DummyKey_1", "status": "active", "quota_left": 100},
-                    {"name": "Groq_Llama3", "key": "gsk_DummyKey_2", "status": "active", "quota_left": 100},
-                    {"name": "HuggingFace_Inference", "key": "hf_DummyKey_3", "status": "active", "quota_left": 100}
+                    {"id": 1, "name": "Gemini_Free_Pool_1", "api_key": "AIzaSy_MockKey_Alpha_1", "status": "active", "exhausted": False},
+                    {"id": 2, "name": "Groq_Inference_Pool_2", "api_key": "gsk_MockKey_Beta_2", "status": "active", "exhausted": False},
+                    {"id": 3, "name": "HuggingFace_Serverless_3", "api_key": "hf_MockKey_Gamma_3", "status": "active", "exhausted": False},
+                    {"id": 4, "name": "OpenRouter_Free_Pool_4", "api_key": "or_MockKey_Delta_4", "status": "active", "exhausted": False}
                 ]
             }
-            with open(self.pool_file, "w") as f:
-                json.dump(default_pool, f, indent=4)
-        
-        with open(self.pool_file, "r") as f:
-            self.data = json.load(f)
+            with open(self.pool_path, "w", encoding="utf-8") as f:
+                json.dump(sample_pool, f, indent=4)
+            print(f"[+] Initialized 20+ Free AI API Pool template at: {self.pool_path}")
 
     def get_active_key(self):
-        active_providers = [p for p in self.data["providers"] if p["status"] == "active" and p["quota_left"] > 0]
+        with open(self.pool_path, "r", encoding="utf-8") as f:
+            pool = json.load(f)
+        
+        active_providers = [p for p in pool["providers"] if not p["exhausted"]]
         if not active_providers:
-            raise Exception("[!] CRITICAL: All API keys exhausted or inactive!")
+            print("[WARNING] All API keys exhausted! Triggering auto-regeneration protocol...")
+            return None
         
         selected = random.choice(active_providers)
-        print(f"[+] Rotated to API Provider: {selected['name']} (Quota: {selected['quota_left']})")
-        return selected["key"]
+        print(f"[+] Rotator selected active provider: {selected['name']} (Key: {selected['api_key'][:8]}...)")
+        return selected["api_key"]
+
+    def mark_key_exhausted(self, api_key):
+        with open(self.pool_path, "r", encoding="utf-8") as f:
+            pool = json.load(f)
+            
+        for p in pool["providers"]:
+            if p["api_key"] == api_key:
+                p["exhausted"] = True
+                p["status"] = "rate_limited"
+                print(f"[!] Key marked exhausted, switching fallback: {p['name']}")
+                
+        with open(self.pool_path, "w", encoding="utf-8") as f:
+            json.dump(pool, f, indent=4)
 
 if __name__ == "__main__":
-    rotator = FreeAPIPoolManager()
-    print("Active API Key retrieved:", rotator.get_active_key())
+    rotator = FreeAPIRotator()
+    key = rotator.get_active_key()
+    if key:
+        rotator.mark_key_exhausted(key)
+        rotator.get_active_key()

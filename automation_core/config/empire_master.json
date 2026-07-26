@@ -1,0 +1,10 @@
+{
+    "empire_name": "Damodar Factory Empire",
+    "target_channels": 1000,
+    "initial_batch": 5,
+    "infrastructure": {
+        "orchestration": "GitHub Actions Cron",
+        "state_database": "Supabase PostgreSQL",
+        "proxy_network": "Mobile ADB Airplane Mode Toggle"
+    }
+}
