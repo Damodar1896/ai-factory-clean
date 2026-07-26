@@ -1,0 +1,9 @@
+{
+  "version": 2,
+  "builds": [
+    { "src": "automation_core/public_landing/index.html", "use": "@vercel/static" }
+  ],
+  "routes": [
+    { "src": "/(.*)", "dest": "/automation_core/public_landing/index.html" }
+  ]
+}
