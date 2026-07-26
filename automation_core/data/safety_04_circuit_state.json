@@ -1,0 +1,7 @@
+{
+    "module": "Circuit Breaker",
+    "error_code_monitored": "429 / 403",
+    "cooldown_min": 10,
+    "status": "ARMED",
+    "timestamp": 1785081349.189535
+}

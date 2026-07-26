@@ -1,0 +1,6 @@
+{
+    "module": "Emergency Kill-Switch",
+    "ban_risk_threshold_pct": 80.0,
+    "status": "ARMED",
+    "timestamp": 1785081349.273324
+}
