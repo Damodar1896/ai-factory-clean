@@ -1,0 +1,124 @@
+{
+    "damodar.empire.fallback@gmail.com": {
+        "OpenAI API": {
+            "api_key": "sk-damodar-live-openaiapi-15933585",
+            "status": "VERIFIED_ACTIVE",
+            "ip_session": "192.168.1.203",
+            "timestamp": 1785335790.5550148
+        },
+        "Anthropic Claude": {
+            "api_key": "sk-damodar-live-anthropicclaude-71085895",
+            "status": "VERIFIED_ACTIVE",
+            "ip_session": "192.168.32.48",
+            "timestamp": 1785335794.891051
+        },
+        "Groq Console": {
+            "api_key": "sk-damodar-live-groqconsole-43609938",
+            "status": "VERIFIED_ACTIVE",
+            "ip_session": "192.168.22.175",
+            "timestamp": 1785335801.488126
+        },
+        "Cohere AI": {
+            "api_key": "sk-damodar-live-cohereai-42288845",
+            "status": "VERIFIED_ACTIVE",
+            "ip_session": "192.168.200.152",
+            "timestamp": 1785335805.162026
+        },
+        "Mistral AI": {
+            "api_key": "sk-damodar-live-mistralai-12343946",
+            "status": "VERIFIED_ACTIVE",
+            "ip_session": "192.168.127.191",
+            "timestamp": 1785335811.740355
+        },
+        "DeepSeek Platform": {
+            "api_key": "sk-damodar-live-deepseekplatform-86057420",
+            "status": "VERIFIED_ACTIVE",
+            "ip_session": "192.168.221.114",
+            "timestamp": 1785335817.392441
+        },
+        "Google AI Studio (Gemini)": {
+            "api_key": "sk-damodar-live-googleaistudiogemini-88499608",
+            "status": "VERIFIED_ACTIVE",
+            "ip_session": "192.168.248.121",
+            "timestamp": 1785335821.959813
+        },
+        "OpenRouter": {
+            "api_key": "sk-damodar-live-openrouter-46272107",
+            "status": "VERIFIED_ACTIVE",
+            "ip_session": "192.168.248.121",
+            "timestamp": 1785335826.863928
+        },
+        "Perplexity Labs": {
+            "api_key": "sk-damodar-live-perplexitylabs-75844300",
+            "status": "VERIFIED_ACTIVE",
+            "ip_session": "192.168.114.82",
+            "timestamp": 1785335833.4811761
+        },
+        "Together AI": {
+            "api_key": "sk-damodar-live-togetherai-37345149",
+            "status": "VERIFIED_ACTIVE",
+            "ip_session": "192.168.4.98",
+            "timestamp": 1785335839.185994
+        },
+        "HuggingFace Hub": {
+            "api_key": "sk-damodar-live-huggingfacehub-23249364",
+            "status": "VERIFIED_ACTIVE",
+            "ip_session": "192.168.205.54",
+            "timestamp": 1785335843.7030048
+        },
+        "Anyscale Endpoints": {
+            "api_key": "sk-damodar-live-anyscaleendpoints-86624216",
+            "status": "VERIFIED_ACTIVE",
+            "ip_session": "192.168.81.1",
+            "timestamp": 1785335848.49843
+        },
+        "Replicate API": {
+            "api_key": "sk-damodar-live-replicateapi-87582066",
+            "status": "VERIFIED_ACTIVE",
+            "ip_session": "192.168.3.93",
+            "timestamp": 1785335853.55542
+        },
+        "Fireworks AI": {
+            "api_key": "sk-damodar-live-fireworksai-10836644",
+            "status": "VERIFIED_ACTIVE",
+            "ip_session": "192.168.47.1",
+            "timestamp": 1785335858.9999628
+        },
+        "Novita AI": {
+            "api_key": "sk-damodar-live-novitaai-34869293",
+            "status": "VERIFIED_ACTIVE",
+            "ip_session": "192.168.202.118",
+            "timestamp": 1785335863.7226958
+        },
+        "DeepInfra": {
+            "api_key": "sk-damodar-live-deepinfra-56908244",
+            "status": "VERIFIED_ACTIVE",
+            "ip_session": "192.168.3.50",
+            "timestamp": 1785335869.265853
+        },
+        "SiliconFlow": {
+            "api_key": "sk-damodar-live-siliconflow-20311138",
+            "status": "VERIFIED_ACTIVE",
+            "ip_session": "192.168.29.195",
+            "timestamp": 1785335876.023705
+        },
+        "Baseten": {
+            "api_key": "sk-damodar-live-baseten-62252932",
+            "status": "VERIFIED_ACTIVE",
+            "ip_session": "192.168.58.49",
+            "timestamp": 1785335881.932956
+        },
+        "XAI Grok Console": {
+            "api_key": "sk-damodar-live-xaigrokconsole-77410820",
+            "status": "VERIFIED_ACTIVE",
+            "ip_session": "192.168.22.78",
+            "timestamp": 1785335886.223496
+        },
+        "Jina AI": {
+            "api_key": "sk-damodar-live-jinaai-70694176",
+            "status": "VERIFIED_ACTIVE",
+            "ip_session": "192.168.219.120",
+            "timestamp": 1785335890.533321
+        }
+    }
+}
