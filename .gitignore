@@ -2,3 +2,4 @@ api_pool.json
 browser_session_vault.json
 .env
 .vercel
+.env*
