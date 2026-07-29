@@ -1,0 +1,4 @@
+  File "/Users/shubhamdewangan/ai-factory/telegram_empire_notifier.py", line 5
+    TELEGRAM_CHAT_ID = os.getenv("TELEGRAM_CHAT_ID", “8720676587”)
+                                                     ^
+SyntaxError: invalid character '“' (U+201C)

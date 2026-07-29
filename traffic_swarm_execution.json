@@ -1,0 +1,13 @@
+{
+    "campaigns": [
+        {
+            "campaign_id": "CAMP-41985",
+            "channel": "Direct Corporate Outreach",
+            "target_audience": "B2B Lead Conversion",
+            "clicks_generated": 421,
+            "leads_captured": 29,
+            "status": "Active & Converting",
+            "timestamp": "2026-07-29 12:33:31"
+        }
+    ]
+}
