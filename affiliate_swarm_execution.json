@@ -1,5 +1,5 @@
 {
-    "total_registered": 3,
+    "total_registered": 4,
     "partnerships": [
         {
             "network_name": "Upwork",
@@ -108,9 +108,17 @@
             "status": "Strict Corporate & Hardware IP Verified",
             "referral_link": "https://www.coursera.org/partners/partner/damodar-62001",
             "timestamp": "2026-07-29 12:34:16.626412"
+        },
+        {
+            "network_name": "Jasper AI",
+            "network_url": "https://www.jasper.ai/affiliate",
+            "corporate_email": "appadmindamodarcore68@gmail.com",
+            "status": "Strict Corporate & Hardware IP Verified",
+            "referral_link": "https://www.jasper.ai/affiliate/partner/damodar-41234",
+            "timestamp": "2026-07-29 13:02:53.762379"
         }
     ],
     "daily_breakdown": {
-        "2026-07-29": 2
+        "2026-07-29": 3
     }
 }
