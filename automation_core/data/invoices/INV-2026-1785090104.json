@@ -1,0 +1,12 @@
+{
+    "invoice_id": "INV-2026-1785090104",
+    "date": "2026-07-26",
+    "customer_name": "Rahul Sharma",
+    "item": "AI Automation Empire Setup",
+    "base_amount_inr": 5000,
+    "cgst_9_percent": 450.0,
+    "sgst_9_percent": 450.0,
+    "total_amount_inr": 5900.0,
+    "payment_gateway": "UPI Direct",
+    "upi_id": "damodartechcraze@okaxis"
+}
