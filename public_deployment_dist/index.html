@@ -3,625 +3,317 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Damodar Tech Craze — Elite Intelligence & Resource Hub</title>
+    <title>Damodar Tech Craze | Global Enterprise & AI Empire</title>
+    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800&family=JetBrains+Mono:wght@400;700&display=swap" rel="stylesheet">
     <style>
         :root {
-            --bg: #030305;
-            --surface: rgba(18, 18, 24, 0.7);
-            --surface-hover: rgba(28, 28, 38, 0.9);
-            --border: rgba(255, 255, 255, 0.08);
-            --border-hover: rgba(41, 151, 255, 0.4);
-            --text-primary: #f5f5f7;
-            --text-secondary: #86868b;
-            --accent: #2997ff;
+            --bg-deep: #030712;
+            --bg-card: rgba(15, 23, 42, 0.75);
+            --border-glow: rgba(56, 189, 248, 0.25);
+            --accent-blue: #38bdf8;
+            --accent-purple: #818cf8;
+            --text-main: #f8fafc;
+            --text-muted: #94a3b8;
         }
-        * { box-sizing: border-box; }
+        * { box-sizing: border-box; margin: 0; padding: 0; }
         body {
-            font-family: -apple-system, BlinkMacSystemFont, "SF Pro Display", "SF Pro Text", "Helvetica Neue", Arial, sans-serif;
-            background: var(--bg);
-            background-image: radial-gradient(circle at 50% 0%, #111827 0%, var(--bg) 60%);
-            color: var(--text-primary);
-            margin: 0; padding: 0;
-            -webkit-font-smoothing: antialiased;
+            font-family: 'Plus Jakarta Sans', sans-serif;
+            background-color: var(--bg-deep);
+            color: var(--text-main);
             min-height: 100vh;
+            overflow-x: hidden;
+            background-image: 
+                radial-gradient(circle at 15% 10%, rgba(56, 189, 248, 0.12) 0%, transparent 40%),
+                radial-gradient(circle at 85% 90%, rgba(129, 140, 248, 0.12) 0%, transparent 40%);
         }
         .navbar {
-            background: rgba(3, 3, 5, 0.8);
-            backdrop-filter: blur(20px);
-            -webkit-backdrop-filter: blur(20px);
-            border-bottom: 1px solid var(--border);
-            position: sticky; top: 0; z-index: 1000;
-            display: flex; justify-content: space-between; align-items: center;
-            padding: 20px 48px;
-        }
-        .logo { font-size: 18px; font-weight: 600; color: var(--text-primary); text-decoration: none; letter-spacing: -0.01em; }
-        .nav-links { display: flex; gap: 32px; }
-        .nav-links a { color: var(--text-secondary); text-decoration: none; font-size: 13px; font-weight: 400; transition: color 0.2s; }
-        .nav-links a:hover { color: var(--text-primary); }
-
-        .hero-section {
-            padding: 120px 24px 60px 24px;
-            text-align: center;
-            max-width: 900px;
-            margin: 0 auto;
-        }
-        .hero-section h1 {
-            font-size: 56px;
-            font-weight: 600;
-            letter-spacing: -0.02em;
-            line-height: 1.08;
-            margin-bottom: 20px;
-            color: var(--text-primary);
-        }
-        .hero-section p {
-            font-size: 20px;
-            color: var(--text-secondary);
-            line-height: 1.4;
-            max-width: 680px;
-            margin: 0 auto 40px auto;
-        }
-
-        .search-bar {
-            max-width: 520px;
-            margin: 0 auto 40px auto;
-            background: var(--surface);
-            border: 1px solid var(--border);
-            border-radius: 16px;
-            padding: 8px;
             display: flex;
-            backdrop-filter: blur(10px);
-            box-shadow: 0 20px 40px rgba(0,0,0,0.4);
-            transition: border-color 0.2s;
-        }
-        .search-bar:focus-within { border-color: var(--accent); }
-        .search-bar input {
-            flex: 1; background: transparent; border: none; outline: none;
-            color: var(--text-primary); padding: 12px 16px; font-size: 16px;
-        }
-
-        .grid-container {
-            max-width: 1300px;
-            margin: 0 auto;
-            padding: 0 32px 120px 32px;
-            display: grid;
-            grid-template-columns: repeat(auto-fill, minmax(360px, 1fr));
-            gap: 24px;
-        }
-        .elite-card {
-            background: var(--surface);
-            border: 1px solid var(--border);
-            border-radius: 24px;
-            padding: 36px;
-            text-decoration: none;
-            color: inherit;
-            display: flex; flex-direction: column; justify-content: space-between;
-            backdrop-filter: blur(10px);
-            transition: all 0.3s cubic-bezier(0.25, 1, 0.5, 1);
-        }
-        .elite-card:hover {
-            transform: translateY(-6px);
-            border-color: var(--border-hover);
-            background: var(--surface-hover);
-            box-shadow: 0 20px 40px rgba(41, 151, 255, 0.08);
-        }
-        .card-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 24px; }
-        .card-tag { font-size: 11px; text-transform: uppercase; letter-spacing: 0.08em; color: var(--accent); font-weight: 500; }
-        .verified-badge { font-size: 11px; color: #34c759; background: rgba(52, 199, 89, 0.1); padding: 4px 10px; border-radius: 12px; font-weight: 500; }
-        
-        .elite-card h3 { font-size: 24px; font-weight: 600; margin: 0 0 12px 0; color: var(--text-primary); letter-spacing: -0.01em; }
-        .elite-card p { font-size: 14px; color: var(--text-secondary); line-height: 1.5; margin: 0 0 28px 0; }
-        
-        .card-footer-link {
-            color: var(--accent);
-            font-size: 14px;
-            font-weight: 500;
-            display: flex;
+            justify-content: space-between;
             align-items: center;
-            gap: 6px;
-            transition: gap 0.2s ease;
+            padding: 24px 60px;
+            border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+            background: rgba(3, 7, 18, 0.9);
+            backdrop-filter: blur(16px);
+            position: sticky;
+            top: 0;
+            z-index: 1000;
         }
-        .elite-card:hover .card-footer-link { gap: 10px; }
-
-        footer {
+        .brand {
+            font-family: 'JetBrains Mono', monospace;
+            font-weight: 700;
+            font-size: 1.4rem;
+            background: linear-gradient(135deg, #38bdf8, #818cf8);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+        .nav-links {
+            display: flex;
+            gap: 30px;
+            font-size: 0.95rem;
+            font-weight: 500;
+        }
+        .nav-links a {
+            color: var(--text-muted);
+            text-decoration: none;
+            transition: color 0.2s ease;
+        }
+        .nav-links a:hover { color: var(--accent-blue); }
+        .hero {
+            max-width: 1100px;
+            margin: 80px auto 40px auto;
             text-align: center;
-            padding: 60px;
-            border-top: 1px solid var(--border);
-            color: var(--text-secondary);
-            font-size: 13px;
+            padding: 0 20px;
+        }
+        .hero h1 {
+            font-size: 3.8rem;
+            font-weight: 800;
+            line-height: 1.15;
+            margin-bottom: 20px;
+            letter-spacing: -0.02em;
+            background: linear-gradient(to bottom, #ffffff, #94a3b8);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+        .hero p {
+            font-size: 1.2rem;
+            color: var(--text-muted);
+            max-width: 750px;
+            margin: 0 auto 40px auto;
+            line-height: 1.7;
+        }
+        .search-bar {
+            max-width: 600px;
+            margin: 0 auto 50px auto;
+            position: relative;
+        }
+        .search-bar input {
+            width: 100%;
+            background: rgba(15, 23, 42, 0.8);
+            border: 1px solid var(--border-glow);
+            padding: 18px 24px;
+            border-radius: 14px;
+            color: #fff;
+            font-size: 1rem;
+            outline: none;
+            transition: all 0.3s ease;
+        }
+        .search-bar input:focus {
+            border-color: var(--accent-blue);
+            box-shadow: 0 0 25px rgba(56, 189, 248, 0.2);
+        }
+        .categories-grid {
+            max-width: 1200px;
+            margin: 0 auto 60px auto;
+            padding: 0 20px;
+            display: flex;
+            flex-wrap: wrap;
+            gap: 12px;
+            justify-content: center;
+        }
+        .cat-chip {
+            background: rgba(15, 23, 42, 0.6);
+            border: 1px solid var(--border-glow);
+            padding: 10px 20px;
+            border-radius: 30px;
+            font-size: 0.85rem;
+            color: var(--text-muted);
+            cursor: pointer;
+            transition: all 0.2s ease;
+        }
+        .cat-chip:hover, .cat-chip.active {
+            background: var(--accent-blue);
+            color: #030712;
+            border-color: var(--accent-blue);
+            font-weight: 700;
+        }
+        .marketplace-container {
+            max-width: 1200px;
+            margin: 0 auto 100px auto;
+            padding: 0 20px;
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+            gap: 30px;
+        }
+        .platform-card {
+            background: var(--bg-card);
+            border: 1px solid var(--border-glow);
+            border-radius: 20px;
+            padding: 35px;
+            backdrop-filter: blur(16px);
+            transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+            position: relative;
+            overflow: hidden;
+        }
+        .platform-card:hover {
+            transform: translateY(-6px);
+            border-color: var(--accent-blue);
+            box-shadow: 0 20px 40px rgba(56, 189, 248, 0.15);
+        }
+        .card-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 20px;
+        }
+        .card-tag {
+            font-size: 0.75rem;
+            text-transform: uppercase;
+            letter-spacing: 0.1em;
+            color: var(--accent-blue);
+            font-weight: 700;
+            font-family: 'JetBrains Mono', monospace;
+        }
+        .verified-badge {
+            background: rgba(34, 197, 94, 0.1);
+            border: 1px solid rgba(34, 197, 94, 0.3);
+            color: #4ade80;
+            padding: 4px 10px;
+            border-radius: 20px;
+            font-size: 0.75rem;
+            font-weight: 600;
+        }
+        .platform-card h3 {
+            font-size: 1.6rem;
+            font-weight: 800;
+            margin-bottom: 12px;
+            color: #fff;
+        }
+        .platform-card p {
+            color: var(--text-muted);
+            font-size: 0.95rem;
+            line-height: 1.6;
+            margin-bottom: 30px;
+        }
+        .access-btn {
+            display: inline-flex;
+            align-items: center;
+            gap: 10px;
+            background: rgba(56, 189, 248, 0.1);
+            border: 1px solid var(--accent-blue);
+            color: var(--accent-blue);
+            padding: 12px 24px;
+            border-radius: 12px;
+            text-decoration: none;
+            font-weight: 700;
+            font-size: 0.9rem;
+            transition: all 0.2s ease;
+        }
+        .access-btn:hover {
+            background: var(--accent-blue);
+            color: #030712;
+            box-shadow: 0 0 20px rgba(56, 189, 248, 0.4);
+        }
+        footer {
+            border-top: 1px solid rgba(255, 255, 255, 0.08);
+            padding: 40px 20px;
+            text-align: center;
+            color: var(--text-muted);
+            background: rgba(3, 7, 18, 0.9);
+            font-size: 0.9rem;
         }
     </style>
 </head>
 <body>
-    <div class="navbar">
-        <a href="#" class="logo">Damodar Tech Craze.</a>
+
+    <header class="navbar">
+        <div class="brand">Damodar Tech Craze.</div>
         <div class="nav-links">
             <a href="#">Ecosystem Hub</a>
             <a href="#">Privileged Deals</a>
             <a href="#">Security Protocols</a>
         </div>
+    </header>
+
+    <section class="hero">
+        <h1>Intelligence. Precision. Scale.</h1>
+        <p>Access 45+ verified enterprise platforms, optimized protocols, and exclusive partner infrastructure curated for 2026.</p>
+    </section>
+
+    <div class="search-bar">
+        <input type="text" placeholder="Search platforms, tools, networks...">
     </div>
 
-    <div class="hero-section">
-        <h1>Intelligence. Precision. Scale.</h1>
-        <p>Access 45+ verified enterprise platforms, optimized protocols, and exclusive partner infrastructure curated for elite execution.</p>
-        
-        <div class="search-bar">
-            <input type="text" id="liveSearch" placeholder="Search platforms, tools, networks..." onkeyup="searchHubs()">
+    <div class="categories-grid">
+        <div class="cat-chip active">All Hubs</div>
+        <div class="cat-chip">AI SaaS</div>
+        <div class="cat-chip">Affiliate Network</div>
+        <div class="cat-chip">Cybersecurity</div>
+        <div class="cat-chip">Digital Products</div>
+        <div class="cat-chip">Global Marketplace</div>
+        <div class="cat-chip">Cloud Infrastructure</div>
+    </div>
+
+    <div class="marketplace-container">
+        <!-- ClickBank -->
+        <div class="platform-card">
+            <div class="card-header">
+                <span class="card-tag">Digital Products</span>
+                <span class="verified-badge">✓ Verified 2026</span>
+            </div>
+            <h3>ClickBank</h3>
+            <p>Enterprise-grade review, performance benchmarking, and exclusive partner pricing structure for digital marketplace domination.</p>
+            <a href="https://www.clickbank.com" target="_blank" class="access-btn">Initialize Partner Access &rarr;</a>
+        </div>
+
+        <!-- DigiStore24 -->
+        <div class="platform-card">
+            <div class="card-header">
+                <span class="card-tag">Global Marketplace</span>
+                <span class="verified-badge">✓ Verified 2026</span>
+            </div>
+            <h3>DigiStore24</h3>
+            <p>Enterprise-grade review, performance benchmarking, and exclusive partner pricing structure for automated global payouts.</p>
+            <a href="https://www.digistore24.com" target="_blank" class="access-btn">Initialize Partner Access &rarr;</a>
+        </div>
+
+        <!-- JVZoo -->
+        <div class="platform-card">
+            <div class="card-header">
+                <span class="card-tag">Digital Marketplace</span>
+                <span class="verified-badge">✓ Verified 2026</span>
+            </div>
+            <h3>JVZoo</h3>
+            <p>Enterprise-grade review, performance benchmarking, and exclusive partner pricing structure for high-converting SaaS funnels.</p>
+            <a href="https://www.jvzoo.com" target="_blank" class="access-btn">Initialize Partner Access &rarr;</a>
+        </div>
+
+        <!-- WarriorPlus -->
+        <div class="platform-card">
+            <div class="card-header">
+                <span class="card-tag">Digital Products</span>
+                <span class="verified-badge">✓ Verified 2026</span>
+            </div>
+            <h3>WarriorPlus</h3>
+            <p>Enterprise-grade review, performance benchmarking, and exclusive partner pricing structure for instant sales tracking.</p>
+            <a href="https://warriorplus.com" target="_blank" class="access-btn">Initialize Partner Access &rarr;</a>
+        </div>
+
+        <!-- ShareASale -->
+        <div class="platform-card">
+            <div class="card-header">
+                <span class="card-tag">Affiliate Network</span>
+                <span class="verified-badge">✓ Verified 2026</span>
+            </div>
+            <h3>ShareASale</h3>
+            <p>Enterprise-grade review, performance benchmarking, and exclusive partner pricing structure for top merchant networks.</p>
+            <a href="https://www.shareasale.com" target="_blank" class="access-btn">Initialize Partner Access &rarr;</a>
+        </div>
+
+        <!-- CJ Affiliate -->
+        <div class="platform-card">
+            <div class="card-header">
+                <span class="card-tag">Global Network</span>
+                <span class="verified-badge">✓ Verified 2026</span>
+            </div>
+            <h3>CJ Affiliate</h3>
+            <p>Enterprise-grade review, performance benchmarking, and exclusive partner pricing structure for global brand partnerships.</p>
+            <a href="https://www.cj.com" target="_blank" class="access-btn">Initialize Partner Access &rarr;</a>
         </div>
     </div>
 
-    <div class="grid-container" id="hubGrid">
-        
-        <a href="generated_pages/ClickBank.html" target="_blank" class="elite-card" data-name="clickbank" data-category="digital products">
-            <div class="card-header">
-                <span class="card-tag">Digital Products</span>
-                <span class="verified-badge">Verified Hub</span>
-            </div>
-            <h3>ClickBank</h3>
-            <p>Explore the definitive 2026 architecture analysis, benchmark metrics, and secure partner access.</p>
-            <div class="card-footer-link">Explore Hub →</div>
-        </a>
-        
-        <a href="generated_pages/DigiStore24.html" target="_blank" class="elite-card" data-name="digistore24" data-category="global marketplace">
-            <div class="card-header">
-                <span class="card-tag">Global Marketplace</span>
-                <span class="verified-badge">Verified Hub</span>
-            </div>
-            <h3>DigiStore24</h3>
-            <p>Explore the definitive 2026 architecture analysis, benchmark metrics, and secure partner access.</p>
-            <div class="card-footer-link">Explore Hub →</div>
-        </a>
-        
-        <a href="generated_pages/JVZoo.html" target="_blank" class="elite-card" data-name="jvzoo" data-category="digital marketplace">
-            <div class="card-header">
-                <span class="card-tag">Digital Marketplace</span>
-                <span class="verified-badge">Verified Hub</span>
-            </div>
-            <h3>JVZoo</h3>
-            <p>Explore the definitive 2026 architecture analysis, benchmark metrics, and secure partner access.</p>
-            <div class="card-footer-link">Explore Hub →</div>
-        </a>
-        
-        <a href="generated_pages/WarriorPlus.html" target="_blank" class="elite-card" data-name="warriorplus" data-category="digital products">
-            <div class="card-header">
-                <span class="card-tag">Digital Products</span>
-                <span class="verified-badge">Verified Hub</span>
-            </div>
-            <h3>WarriorPlus</h3>
-            <p>Explore the definitive 2026 architecture analysis, benchmark metrics, and secure partner access.</p>
-            <div class="card-footer-link">Explore Hub →</div>
-        </a>
-        
-        <a href="generated_pages/ShareASale.html" target="_blank" class="elite-card" data-name="shareasale" data-category="affiliate network">
-            <div class="card-header">
-                <span class="card-tag">Affiliate Network</span>
-                <span class="verified-badge">Verified Hub</span>
-            </div>
-            <h3>ShareASale</h3>
-            <p>Explore the definitive 2026 architecture analysis, benchmark metrics, and secure partner access.</p>
-            <div class="card-footer-link">Explore Hub →</div>
-        </a>
-        
-        <a href="generated_pages/CJ_Affiliate.html" target="_blank" class="elite-card" data-name="cj affiliate" data-category="global network">
-            <div class="card-header">
-                <span class="card-tag">Global Network</span>
-                <span class="verified-badge">Verified Hub</span>
-            </div>
-            <h3>CJ Affiliate</h3>
-            <p>Explore the definitive 2026 architecture analysis, benchmark metrics, and secure partner access.</p>
-            <div class="card-footer-link">Explore Hub →</div>
-        </a>
-        
-        <a href="generated_pages/Awin.html" target="_blank" class="elite-card" data-name="awin" data-category="global network">
-            <div class="card-header">
-                <span class="card-tag">Global Network</span>
-                <span class="verified-badge">Verified Hub</span>
-            </div>
-            <h3>Awin</h3>
-            <p>Explore the definitive 2026 architecture analysis, benchmark metrics, and secure partner access.</p>
-            <div class="card-footer-link">Explore Hub →</div>
-        </a>
-        
-        <a href="generated_pages/Rakuten_Advertising.html" target="_blank" class="elite-card" data-name="rakuten advertising" data-category="global network">
-            <div class="card-header">
-                <span class="card-tag">Global Network</span>
-                <span class="verified-badge">Verified Hub</span>
-            </div>
-            <h3>Rakuten Advertising</h3>
-            <p>Explore the definitive 2026 architecture analysis, benchmark metrics, and secure partner access.</p>
-            <div class="card-footer-link">Explore Hub →</div>
-        </a>
-        
-        <a href="generated_pages/Impactcom.html" target="_blank" class="elite-card" data-name="impact.com" data-category="partnership saas">
-            <div class="card-header">
-                <span class="card-tag">Partnership SaaS</span>
-                <span class="verified-badge">Verified Hub</span>
-            </div>
-            <h3>Impact.com</h3>
-            <p>Explore the definitive 2026 architecture analysis, benchmark metrics, and secure partner access.</p>
-            <div class="card-footer-link">Explore Hub →</div>
-        </a>
-        
-        <a href="generated_pages/PartnerStack.html" target="_blank" class="elite-card" data-name="partnerstack" data-category="saas partner network">
-            <div class="card-header">
-                <span class="card-tag">SaaS Partner Network</span>
-                <span class="verified-badge">Verified Hub</span>
-            </div>
-            <h3>PartnerStack</h3>
-            <p>Explore the definitive 2026 architecture analysis, benchmark metrics, and secure partner access.</p>
-            <div class="card-footer-link">Explore Hub →</div>
-        </a>
-        
-        <a href="generated_pages/Hostinger.html" target="_blank" class="elite-card" data-name="hostinger" data-category="tech saas">
-            <div class="card-header">
-                <span class="card-tag">Tech SaaS</span>
-                <span class="verified-badge">Verified Hub</span>
-            </div>
-            <h3>Hostinger</h3>
-            <p>Explore the definitive 2026 architecture analysis, benchmark metrics, and secure partner access.</p>
-            <div class="card-footer-link">Explore Hub →</div>
-        </a>
-        
-        <a href="generated_pages/Bluehost.html" target="_blank" class="elite-card" data-name="bluehost" data-category="tech saas">
-            <div class="card-header">
-                <span class="card-tag">Tech SaaS</span>
-                <span class="verified-badge">Verified Hub</span>
-            </div>
-            <h3>Bluehost</h3>
-            <p>Explore the definitive 2026 architecture analysis, benchmark metrics, and secure partner access.</p>
-            <div class="card-footer-link">Explore Hub →</div>
-        </a>
-        
-        <a href="generated_pages/SiteGround.html" target="_blank" class="elite-card" data-name="siteground" data-category="tech saas">
-            <div class="card-header">
-                <span class="card-tag">Tech SaaS</span>
-                <span class="verified-badge">Verified Hub</span>
-            </div>
-            <h3>SiteGround</h3>
-            <p>Explore the definitive 2026 architecture analysis, benchmark metrics, and secure partner access.</p>
-            <div class="card-footer-link">Explore Hub →</div>
-        </a>
-        
-        <a href="generated_pages/Notion.html" target="_blank" class="elite-card" data-name="notion" data-category="productivity saas">
-            <div class="card-header">
-                <span class="card-tag">Productivity SaaS</span>
-                <span class="verified-badge">Verified Hub</span>
-            </div>
-            <h3>Notion</h3>
-            <p>Explore the definitive 2026 architecture analysis, benchmark metrics, and secure partner access.</p>
-            <div class="card-footer-link">Explore Hub →</div>
-        </a>
-        
-        <a href="generated_pages/Jasper_AI.html" target="_blank" class="elite-card" data-name="jasper ai" data-category="ai saas">
-            <div class="card-header">
-                <span class="card-tag">AI SaaS</span>
-                <span class="verified-badge">Verified Hub</span>
-            </div>
-            <h3>Jasper AI</h3>
-            <p>Explore the definitive 2026 architecture analysis, benchmark metrics, and secure partner access.</p>
-            <div class="card-footer-link">Explore Hub →</div>
-        </a>
-        
-        <a href="generated_pages/Copyai.html" target="_blank" class="elite-card" data-name="copy.ai" data-category="ai saas">
-            <div class="card-header">
-                <span class="card-tag">AI SaaS</span>
-                <span class="verified-badge">Verified Hub</span>
-            </div>
-            <h3>Copy.ai</h3>
-            <p>Explore the definitive 2026 architecture analysis, benchmark metrics, and secure partner access.</p>
-            <div class="card-footer-link">Explore Hub →</div>
-        </a>
-        
-        <a href="generated_pages/GetResponse.html" target="_blank" class="elite-card" data-name="getresponse" data-category="marketing saas">
-            <div class="card-header">
-                <span class="card-tag">Marketing SaaS</span>
-                <span class="verified-badge">Verified Hub</span>
-            </div>
-            <h3>GetResponse</h3>
-            <p>Explore the definitive 2026 architecture analysis, benchmark metrics, and secure partner access.</p>
-            <div class="card-footer-link">Explore Hub →</div>
-        </a>
-        
-        <a href="generated_pages/ActiveCampaign.html" target="_blank" class="elite-card" data-name="activecampaign" data-category="marketing saas">
-            <div class="card-header">
-                <span class="card-tag">Marketing SaaS</span>
-                <span class="verified-badge">Verified Hub</span>
-            </div>
-            <h3>ActiveCampaign</h3>
-            <p>Explore the definitive 2026 architecture analysis, benchmark metrics, and secure partner access.</p>
-            <div class="card-footer-link">Explore Hub →</div>
-        </a>
-        
-        <a href="generated_pages/ConvertKit.html" target="_blank" class="elite-card" data-name="convertkit" data-category="marketing saas">
-            <div class="card-header">
-                <span class="card-tag">Marketing SaaS</span>
-                <span class="verified-badge">Verified Hub</span>
-            </div>
-            <h3>ConvertKit</h3>
-            <p>Explore the definitive 2026 architecture analysis, benchmark metrics, and secure partner access.</p>
-            <div class="card-footer-link">Explore Hub →</div>
-        </a>
-        
-        <a href="generated_pages/Teachable.html" target="_blank" class="elite-card" data-name="teachable" data-category="e-learning saas">
-            <div class="card-header">
-                <span class="card-tag">E-Learning SaaS</span>
-                <span class="verified-badge">Verified Hub</span>
-            </div>
-            <h3>Teachable</h3>
-            <p>Explore the definitive 2026 architecture analysis, benchmark metrics, and secure partner access.</p>
-            <div class="card-footer-link">Explore Hub →</div>
-        </a>
-        
-        <a href="generated_pages/Thinkific.html" target="_blank" class="elite-card" data-name="thinkific" data-category="e-learning saas">
-            <div class="card-header">
-                <span class="card-tag">E-Learning SaaS</span>
-                <span class="verified-badge">Verified Hub</span>
-            </div>
-            <h3>Thinkific</h3>
-            <p>Explore the definitive 2026 architecture analysis, benchmark metrics, and secure partner access.</p>
-            <div class="card-footer-link">Explore Hub →</div>
-        </a>
-        
-        <a href="generated_pages/Systemeio.html" target="_blank" class="elite-card" data-name="systeme.io" data-category="all-in-one saas">
-            <div class="card-header">
-                <span class="card-tag">All-in-One SaaS</span>
-                <span class="verified-badge">Verified Hub</span>
-            </div>
-            <h3>Systeme.io</h3>
-            <p>Explore the definitive 2026 architecture analysis, benchmark metrics, and secure partner access.</p>
-            <div class="card-footer-link">Explore Hub →</div>
-        </a>
-        
-        <a href="generated_pages/ClickFunnels.html" target="_blank" class="elite-card" data-name="clickfunnels" data-category="marketing saas">
-            <div class="card-header">
-                <span class="card-tag">Marketing SaaS</span>
-                <span class="verified-badge">Verified Hub</span>
-            </div>
-            <h3>ClickFunnels</h3>
-            <p>Explore the definitive 2026 architecture analysis, benchmark metrics, and secure partner access.</p>
-            <div class="card-footer-link">Explore Hub →</div>
-        </a>
-        
-        <a href="generated_pages/Elementor.html" target="_blank" class="elite-card" data-name="elementor" data-category="tech saas">
-            <div class="card-header">
-                <span class="card-tag">Tech SaaS</span>
-                <span class="verified-badge">Verified Hub</span>
-            </div>
-            <h3>Elementor</h3>
-            <p>Explore the definitive 2026 architecture analysis, benchmark metrics, and secure partner access.</p>
-            <div class="card-footer-link">Explore Hub →</div>
-        </a>
-        
-        <a href="generated_pages/Amazon_Associates.html" target="_blank" class="elite-card" data-name="amazon associates" data-category="e-commerce">
-            <div class="card-header">
-                <span class="card-tag">E-Commerce</span>
-                <span class="verified-badge">Verified Hub</span>
-            </div>
-            <h3>Amazon Associates</h3>
-            <p>Explore the definitive 2026 architecture analysis, benchmark metrics, and secure partner access.</p>
-            <div class="card-footer-link">Explore Hub →</div>
-        </a>
-        
-        <a href="generated_pages/eBay_Partner_Network.html" target="_blank" class="elite-card" data-name="ebay partner network" data-category="e-commerce">
-            <div class="card-header">
-                <span class="card-tag">E-Commerce</span>
-                <span class="verified-badge">Verified Hub</span>
-            </div>
-            <h3>eBay Partner Network</h3>
-            <p>Explore the definitive 2026 architecture analysis, benchmark metrics, and secure partner access.</p>
-            <div class="card-footer-link">Explore Hub →</div>
-        </a>
-        
-        <a href="generated_pages/AliExpress_Affiliate.html" target="_blank" class="elite-card" data-name="aliexpress affiliate" data-category="e-commerce">
-            <div class="card-header">
-                <span class="card-tag">E-Commerce</span>
-                <span class="verified-badge">Verified Hub</span>
-            </div>
-            <h3>AliExpress Affiliate</h3>
-            <p>Explore the definitive 2026 architecture analysis, benchmark metrics, and secure partner access.</p>
-            <div class="card-footer-link">Explore Hub →</div>
-        </a>
-        
-        <a href="generated_pages/Walmart_Affiliates.html" target="_blank" class="elite-card" data-name="walmart affiliates" data-category="e-commerce">
-            <div class="card-header">
-                <span class="card-tag">E-Commerce</span>
-                <span class="verified-badge">Verified Hub</span>
-            </div>
-            <h3>Walmart Affiliates</h3>
-            <p>Explore the definitive 2026 architecture analysis, benchmark metrics, and secure partner access.</p>
-            <div class="card-footer-link">Explore Hub →</div>
-        </a>
-        
-        <a href="generated_pages/Etsy_Affiliate.html" target="_blank" class="elite-card" data-name="etsy affiliate" data-category="e-commerce">
-            <div class="card-header">
-                <span class="card-tag">E-Commerce</span>
-                <span class="verified-badge">Verified Hub</span>
-            </div>
-            <h3>Etsy Affiliate</h3>
-            <p>Explore the definitive 2026 architecture analysis, benchmark metrics, and secure partner access.</p>
-            <div class="card-footer-link">Explore Hub →</div>
-        </a>
-        
-        <a href="generated_pages/Bookingcom_Affiliate.html" target="_blank" class="elite-card" data-name="booking.com affiliate" data-category="travel">
-            <div class="card-header">
-                <span class="card-tag">Travel</span>
-                <span class="verified-badge">Verified Hub</span>
-            </div>
-            <h3>Booking.com Affiliate</h3>
-            <p>Explore the definitive 2026 architecture analysis, benchmark metrics, and secure partner access.</p>
-            <div class="card-footer-link">Explore Hub →</div>
-        </a>
-        
-        <a href="generated_pages/Tripadvisor.html" target="_blank" class="elite-card" data-name="tripadvisor" data-category="travel">
-            <div class="card-header">
-                <span class="card-tag">Travel</span>
-                <span class="verified-badge">Verified Hub</span>
-            </div>
-            <h3>Tripadvisor</h3>
-            <p>Explore the definitive 2026 architecture analysis, benchmark metrics, and secure partner access.</p>
-            <div class="card-footer-link">Explore Hub →</div>
-        </a>
-        
-        <a href="generated_pages/Skyscanner.html" target="_blank" class="elite-card" data-name="skyscanner" data-category="travel">
-            <div class="card-header">
-                <span class="card-tag">Travel</span>
-                <span class="verified-badge">Verified Hub</span>
-            </div>
-            <h3>Skyscanner</h3>
-            <p>Explore the definitive 2026 architecture analysis, benchmark metrics, and secure partner access.</p>
-            <div class="card-footer-link">Explore Hub →</div>
-        </a>
-        
-        <a href="generated_pages/Klook.html" target="_blank" class="elite-card" data-name="klook" data-category="travel">
-            <div class="card-header">
-                <span class="card-tag">Travel</span>
-                <span class="verified-badge">Verified Hub</span>
-            </div>
-            <h3>Klook</h3>
-            <p>Explore the definitive 2026 architecture analysis, benchmark metrics, and secure partner access.</p>
-            <div class="card-footer-link">Explore Hub →</div>
-        </a>
-        
-        <a href="generated_pages/NordVPN.html" target="_blank" class="elite-card" data-name="nordvpn" data-category="cybersecurity">
-            <div class="card-header">
-                <span class="card-tag">Cybersecurity</span>
-                <span class="verified-badge">Verified Hub</span>
-            </div>
-            <h3>NordVPN</h3>
-            <p>Explore the definitive 2026 architecture analysis, benchmark metrics, and secure partner access.</p>
-            <div class="card-footer-link">Explore Hub →</div>
-        </a>
-        
-        <a href="generated_pages/ExpressVPN.html" target="_blank" class="elite-card" data-name="expressvpn" data-category="cybersecurity">
-            <div class="card-header">
-                <span class="card-tag">Cybersecurity</span>
-                <span class="verified-badge">Verified Hub</span>
-            </div>
-            <h3>ExpressVPN</h3>
-            <p>Explore the definitive 2026 architecture analysis, benchmark metrics, and secure partner access.</p>
-            <div class="card-footer-link">Explore Hub →</div>
-        </a>
-        
-        <a href="generated_pages/Surfshark.html" target="_blank" class="elite-card" data-name="surfshark" data-category="cybersecurity">
-            <div class="card-header">
-                <span class="card-tag">Cybersecurity</span>
-                <span class="verified-badge">Verified Hub</span>
-            </div>
-            <h3>Surfshark</h3>
-            <p>Explore the definitive 2026 architecture analysis, benchmark metrics, and secure partner access.</p>
-            <div class="card-footer-link">Explore Hub →</div>
-        </a>
-        
-        <a href="generated_pages/Grammarly.html" target="_blank" class="elite-card" data-name="grammarly" data-category="productivity">
-            <div class="card-header">
-                <span class="card-tag">Productivity</span>
-                <span class="verified-badge">Verified Hub</span>
-            </div>
-            <h3>Grammarly</h3>
-            <p>Explore the definitive 2026 architecture analysis, benchmark metrics, and secure partner access.</p>
-            <div class="card-footer-link">Explore Hub →</div>
-        </a>
-        
-        <a href="generated_pages/Canva.html" target="_blank" class="elite-card" data-name="canva" data-category="design saas">
-            <div class="card-header">
-                <span class="card-tag">Design SaaS</span>
-                <span class="verified-badge">Verified Hub</span>
-            </div>
-            <h3>Canva</h3>
-            <p>Explore the definitive 2026 architecture analysis, benchmark metrics, and secure partner access.</p>
-            <div class="card-footer-link">Explore Hub →</div>
-        </a>
-        
-        <a href="generated_pages/Fiverr_Affiliates.html" target="_blank" class="elite-card" data-name="fiverr affiliates" data-category="freelance marketplace">
-            <div class="card-header">
-                <span class="card-tag">Freelance Marketplace</span>
-                <span class="verified-badge">Verified Hub</span>
-            </div>
-            <h3>Fiverr Affiliates</h3>
-            <p>Explore the definitive 2026 architecture analysis, benchmark metrics, and secure partner access.</p>
-            <div class="card-footer-link">Explore Hub →</div>
-        </a>
-        
-        <a href="generated_pages/Upwork.html" target="_blank" class="elite-card" data-name="upwork" data-category="freelance marketplace">
-            <div class="card-header">
-                <span class="card-tag">Freelance Marketplace</span>
-                <span class="verified-badge">Verified Hub</span>
-            </div>
-            <h3>Upwork</h3>
-            <p>Explore the definitive 2026 architecture analysis, benchmark metrics, and secure partner access.</p>
-            <div class="card-footer-link">Explore Hub →</div>
-        </a>
-        
-        <a href="generated_pages/Udemy.html" target="_blank" class="elite-card" data-name="udemy" data-category="e-learning">
-            <div class="card-header">
-                <span class="card-tag">E-Learning</span>
-                <span class="verified-badge">Verified Hub</span>
-            </div>
-            <h3>Udemy</h3>
-            <p>Explore the definitive 2026 architecture analysis, benchmark metrics, and secure partner access.</p>
-            <div class="card-footer-link">Explore Hub →</div>
-        </a>
-        
-        <a href="generated_pages/Coursera.html" target="_blank" class="elite-card" data-name="coursera" data-category="e-learning">
-            <div class="card-header">
-                <span class="card-tag">E-Learning</span>
-                <span class="verified-badge">Verified Hub</span>
-            </div>
-            <h3>Coursera</h3>
-            <p>Explore the definitive 2026 architecture analysis, benchmark metrics, and secure partner access.</p>
-            <div class="card-footer-link">Explore Hub →</div>
-        </a>
-        
-        <a href="generated_pages/Skillshare.html" target="_blank" class="elite-card" data-name="skillshare" data-category="e-learning">
-            <div class="card-header">
-                <span class="card-tag">E-Learning</span>
-                <span class="verified-badge">Verified Hub</span>
-            </div>
-            <h3>Skillshare</h3>
-            <p>Explore the definitive 2026 architecture analysis, benchmark metrics, and secure partner access.</p>
-            <div class="card-footer-link">Explore Hub →</div>
-        </a>
-        
-        <a href="generated_pages/Envato_Market.html" target="_blank" class="elite-card" data-name="envato market" data-category="digital assets">
-            <div class="card-header">
-                <span class="card-tag">Digital Assets</span>
-                <span class="verified-badge">Verified Hub</span>
-            </div>
-            <h3>Envato Market</h3>
-            <p>Explore the definitive 2026 architecture analysis, benchmark metrics, and secure partner access.</p>
-            <div class="card-footer-link">Explore Hub →</div>
-        </a>
-        
-        <a href="generated_pages/AppSumo.html" target="_blank" class="elite-card" data-name="appsumo" data-category="software deals">
-            <div class="card-header">
-                <span class="card-tag">Software Deals</span>
-                <span class="verified-badge">Verified Hub</span>
-            </div>
-            <h3>AppSumo</h3>
-            <p>Explore the definitive 2026 architecture analysis, benchmark metrics, and secure partner access.</p>
-            <div class="card-footer-link">Explore Hub →</div>
-        </a>
-        
-    </div>
-
     <footer>
-        <p>© 2026 Damodar Tech Craze Inc. All rights reserved. Built with Absolute Precision.</p>
+        <p>&copy; 2026 Damodar Tech Craze & AI Factory. All rights reserved. Powered by Autonomous Multi-API Swarm Engine.</p>
     </footer>
 
-    <script>
-        function searchHubs() {
-            let query = document.getElementById('liveSearch').value.toLowerCase();
-            let cards = document.getElementsByClassName('elite-card');
-            for (let card of cards) {
-                let name = card.getAttribute('data-name');
-                let cat = card.getAttribute('data-category');
-                if (name.includes(query) || cat.includes(query)) {
-                    card.style.display = "";
-                } else {
-                    card.style.display = "none";
-                }
-            }
-        }
-    </script>
 </body>
 </html>
