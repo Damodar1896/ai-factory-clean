@@ -1,5 +1,5 @@
 {
-    "total_registered": 139,
+    "total_registered": 140,
     "partnerships": [
         {
             "network_name": "Upwork",
@@ -1306,6 +1306,14 @@
             "status": "Strict Corporate & Hardware IP Verified",
             "referral_link": "https://www.shareasale.com/partner/damodar-85750",
             "timestamp": "2026-08-04 01:57:53.359486"
+        },
+        {
+            "network_name": "NordVPN",
+            "network_url": "https://nordvpn.com/affiliate",
+            "corporate_email": "apex.partners.damodarempire@gmail.com",
+            "status": "Strict Corporate & Hardware IP Verified",
+            "referral_link": "https://nordvpn.com/affiliate/partner/damodar-32730",
+            "timestamp": "2026-08-04 02:47:43.609275"
         }
     ],
     "daily_breakdown": {
@@ -1315,6 +1323,6 @@
         "2026-08-01": 26,
         "2026-08-02": 24,
         "2026-08-03": 20,
-        "2026-08-04": 1
+        "2026-08-04": 2
     }
 }
