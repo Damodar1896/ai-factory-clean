@@ -1,0 +1,12 @@
+{
+    "captcha_solver_mode": "Automated Token Injection / Extension Bypass",
+    "dom_target_selectors": {
+        "email_input": "input[type='email'], input[name*='email']",
+        "submit_button": "button[type='submit'], button:has-text('Sign up')",
+        "prompt_box": "textarea[placeholder*='prompt'], div[contenteditable='true']",
+        "download_trigger": "a[download], button:has-text('Download')"
+    },
+    "file_handler_target": "/Users/shubhamdewangan/ai-factory/stealth_engine_output/downloads",
+    "status": "Ready for Live Execution",
+    "timestamp": "2026-08-04 00:19:56"
+}

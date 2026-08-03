@@ -1,0 +1,8 @@
+{
+    "engine": "Playwright Chromium Stealth",
+    "webdriver_hidden": true,
+    "canvas_noise_injection": "Active",
+    "webgl_vendor_spoof": "Intel Inc. / Apple M2",
+    "proxy_rotation_policy": "Residential SOCKS5 per session",
+    "timestamp": "2026-08-04 00:19:16"
+}
