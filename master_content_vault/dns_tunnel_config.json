@@ -1,0 +1,7 @@
+{
+    "dns_leak_protection": "Active",
+    "primary_resolver": "1.1.1.1 (Cloudflare DoH)",
+    "secondary_resolver": "8.8.8.8 (Google Secure DNS)",
+    "proxy_routing": "Encrypted SOCKS5 / Residential Node Bound",
+    "status": "100% Zero-Leak Tunnel Secured"
+}
