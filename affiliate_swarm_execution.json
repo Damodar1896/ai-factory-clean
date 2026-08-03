@@ -1,5 +1,5 @@
 {
-    "total_registered": 133,
+    "total_registered": 134,
     "partnerships": [
         {
             "network_name": "Upwork",
@@ -1258,6 +1258,14 @@
             "status": "Strict Corporate & Hardware IP Verified",
             "referral_link": "https://www.copy.ai/affiliate/partner/damodar-67007",
             "timestamp": "2026-08-03 19:25:15.082168"
+        },
+        {
+            "network_name": "SiteGround",
+            "network_url": "https://www.siteground.com/affiliates",
+            "corporate_email": "ai.hr.damodartechcraze@gmail.com",
+            "status": "Strict Corporate & Hardware IP Verified",
+            "referral_link": "https://www.siteground.com/affiliates/partner/damodar-41075",
+            "timestamp": "2026-08-03 20:11:34.313792"
         }
     ],
     "daily_breakdown": {
@@ -1266,6 +1274,6 @@
         "2026-07-31": 23,
         "2026-08-01": 26,
         "2026-08-02": 24,
-        "2026-08-03": 15
+        "2026-08-03": 16
     }
 }
