@@ -1,5 +1,5 @@
 {
-    "total_registered": 134,
+    "total_registered": 135,
     "partnerships": [
         {
             "network_name": "Upwork",
@@ -1266,6 +1266,14 @@
             "status": "Strict Corporate & Hardware IP Verified",
             "referral_link": "https://www.siteground.com/affiliates/partner/damodar-41075",
             "timestamp": "2026-08-03 20:11:34.313792"
+        },
+        {
+            "network_name": "Bluehost",
+            "network_url": "https://www.bluehost.com/track/affiliates",
+            "corporate_email": "gatepressdamodarventures20@enterprise-mail.com",
+            "status": "Strict Corporate & Hardware IP Verified",
+            "referral_link": "https://www.bluehost.com/track/affiliates/partner/damodar-45939",
+            "timestamp": "2026-08-03 21:00:19.432933"
         }
     ],
     "daily_breakdown": {
@@ -1274,6 +1282,6 @@
         "2026-07-31": 23,
         "2026-08-01": 26,
         "2026-08-02": 24,
-        "2026-08-03": 16
+        "2026-08-03": 17
     }
 }
