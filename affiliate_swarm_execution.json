@@ -1,5 +1,5 @@
 {
-    "total_registered": 140,
+    "total_registered": 141,
     "partnerships": [
         {
             "network_name": "Upwork",
@@ -1314,6 +1314,14 @@
             "status": "Strict Corporate & Hardware IP Verified",
             "referral_link": "https://nordvpn.com/affiliate/partner/damodar-32730",
             "timestamp": "2026-08-04 02:47:43.609275"
+        },
+        {
+            "network_name": "Fiverr Affiliates",
+            "network_url": "https://affiliates.fiverr.com",
+            "corporate_email": "official.connect.venturestechcraze@gmail.com",
+            "status": "Strict Corporate & Hardware IP Verified",
+            "referral_link": "https://affiliates.fiverr.com/partner/damodar-32352",
+            "timestamp": "2026-08-04 03:16:30.840119"
         }
     ],
     "daily_breakdown": {
@@ -1323,6 +1331,6 @@
         "2026-08-01": 26,
         "2026-08-02": 24,
         "2026-08-03": 20,
-        "2026-08-04": 2
+        "2026-08-04": 3
     }
 }

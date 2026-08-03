@@ -2321,6 +2321,24 @@
             "leads_captured": 30,
             "status": "Active & Converting",
             "timestamp": "2026-08-04 02:19:06"
+        },
+        {
+            "campaign_id": "CAMP-40442",
+            "channel": "Social Media Hook Spreader",
+            "target_audience": "Viral Short-Form Traffic",
+            "clicks_generated": 546,
+            "leads_captured": 36,
+            "status": "Active & Converting",
+            "timestamp": "2026-08-04 03:01:37"
+        },
+        {
+            "campaign_id": "CAMP-25739",
+            "channel": "Social Media Hook Spreader",
+            "target_audience": "Viral Short-Form Traffic",
+            "clicks_generated": 365,
+            "leads_captured": 36,
+            "status": "Active & Converting",
+            "timestamp": "2026-08-04 03:22:37"
         }
     ]
 }
