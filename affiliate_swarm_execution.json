@@ -1,5 +1,5 @@
 {
-    "total_registered": 141,
+    "total_registered": 143,
     "partnerships": [
         {
             "network_name": "Upwork",
@@ -1322,6 +1322,22 @@
             "status": "Strict Corporate & Hardware IP Verified",
             "referral_link": "https://affiliates.fiverr.com/partner/damodar-32352",
             "timestamp": "2026-08-04 03:16:30.840119"
+        },
+        {
+            "network_name": "DigiStore24",
+            "network_url": "https://www.digistore24.com",
+            "corporate_email": "ai.labs.damodartechcraze@enterprise-mail.com",
+            "status": "Strict Corporate & Hardware IP Verified",
+            "referral_link": "https://www.digistore24.com/partner/damodar-65166",
+            "timestamp": "2026-08-04 03:57:25.110765"
+        },
+        {
+            "network_name": "Copy.ai",
+            "network_url": "https://www.copy.ai/affiliate",
+            "corporate_email": "app.studio.damodarworks@gmail.com",
+            "status": "Strict Corporate & Hardware IP Verified",
+            "referral_link": "https://www.copy.ai/affiliate/partner/damodar-75276",
+            "timestamp": "2026-08-04 04:29:44.352592"
         }
     ],
     "daily_breakdown": {
@@ -1331,6 +1347,6 @@
         "2026-08-01": 26,
         "2026-08-02": 24,
         "2026-08-03": 20,
-        "2026-08-04": 3
+        "2026-08-04": 5
     }
 }
