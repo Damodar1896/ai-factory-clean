@@ -1,5 +1,5 @@
 {
-    "total_registered": 138,
+    "total_registered": 139,
     "partnerships": [
         {
             "network_name": "Upwork",
@@ -1298,6 +1298,14 @@
             "status": "Strict Corporate & Hardware IP Verified",
             "referral_link": "https://www.jasper.ai/affiliate/partner/damodar-12914",
             "timestamp": "2026-08-03 23:23:46.039821"
+        },
+        {
+            "network_name": "ShareASale",
+            "network_url": "https://www.shareasale.com",
+            "corporate_email": "pro.support.damodarempire@gmail.com",
+            "status": "Strict Corporate & Hardware IP Verified",
+            "referral_link": "https://www.shareasale.com/partner/damodar-85750",
+            "timestamp": "2026-08-04 01:57:53.359486"
         }
     ],
     "daily_breakdown": {
@@ -1306,6 +1314,7 @@
         "2026-07-31": 23,
         "2026-08-01": 26,
         "2026-08-02": 24,
-        "2026-08-03": 20
+        "2026-08-03": 20,
+        "2026-08-04": 1
     }
 }
