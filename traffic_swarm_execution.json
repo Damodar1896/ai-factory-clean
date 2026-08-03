@@ -2150,6 +2150,24 @@
             "leads_captured": 20,
             "status": "Active & Converting",
             "timestamp": "2026-08-03 17:12:00"
+        },
+        {
+            "campaign_id": "CAMP-82291",
+            "channel": "Automated SEO Blog Feed",
+            "target_audience": "Global Affiliate Searchers",
+            "clicks_generated": 410,
+            "leads_captured": 13,
+            "status": "Active & Converting",
+            "timestamp": "2026-08-03 17:44:00"
+        },
+        {
+            "campaign_id": "CAMP-40116",
+            "channel": "Telegram Growth Swarm",
+            "target_audience": "Tech & SaaS Audiences",
+            "clicks_generated": 353,
+            "leads_captured": 33,
+            "status": "Active & Converting",
+            "timestamp": "2026-08-03 18:01:00"
         }
     ]
 }

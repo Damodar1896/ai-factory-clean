@@ -1,5 +1,5 @@
 {
-    "total_registered": 130,
+    "total_registered": 131,
     "partnerships": [
         {
             "network_name": "Upwork",
@@ -1234,6 +1234,14 @@
             "status": "Strict Corporate & Hardware IP Verified",
             "referral_link": "https://www.hostinger.com/affiliates/partner/damodar-69444",
             "timestamp": "2026-08-03 17:18:40.251271"
+        },
+        {
+            "network_name": "AppSumo",
+            "network_url": "https://appsumo.com/affiliate",
+            "corporate_email": "deskpartnersventuresdamodar84@enterprise-mail.com",
+            "status": "Strict Corporate & Hardware IP Verified",
+            "referral_link": "https://appsumo.com/affiliate/partner/damodar-91091",
+            "timestamp": "2026-08-03 18:04:38.473518"
         }
     ],
     "daily_breakdown": {
@@ -1242,6 +1250,6 @@
         "2026-07-31": 23,
         "2026-08-01": 26,
         "2026-08-02": 24,
-        "2026-08-03": 12
+        "2026-08-03": 13
     }
 }
