@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "/Users/shubhamdewangan/ai-factory/permanent_empire_daemon.py", line 5, in <module>
+    from supabase import create_client
+ModuleNotFoundError: No module named 'supabase'

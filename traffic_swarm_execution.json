@@ -17,6 +17,2139 @@
             "leads_captured": 17,
             "status": "Active & Converting",
             "timestamp": "2026-07-29 13:11:31"
+        },
+        {
+            "campaign_id": "CAMP-31337",
+            "channel": "Automated SEO Blog Feed",
+            "target_audience": "Global Affiliate Searchers",
+            "clicks_generated": 227,
+            "leads_captured": 24,
+            "status": "Active & Converting",
+            "timestamp": "2026-07-29 13:56:02"
+        },
+        {
+            "campaign_id": "CAMP-73602",
+            "channel": "Telegram Growth Swarm",
+            "target_audience": "Tech & SaaS Audiences",
+            "clicks_generated": 566,
+            "leads_captured": 21,
+            "status": "Active & Converting",
+            "timestamp": "2026-07-29 14:27:02"
+        },
+        {
+            "campaign_id": "CAMP-86463",
+            "channel": "Telegram Growth Swarm",
+            "target_audience": "Tech & SaaS Audiences",
+            "clicks_generated": 600,
+            "leads_captured": 22,
+            "status": "Active & Converting",
+            "timestamp": "2026-07-29 15:03:03"
+        },
+        {
+            "campaign_id": "CAMP-21903",
+            "channel": "Telegram Growth Swarm",
+            "target_audience": "Tech & SaaS Audiences",
+            "clicks_generated": 472,
+            "leads_captured": 31,
+            "status": "Active & Converting",
+            "timestamp": "2026-07-29 15:24:03"
+        },
+        {
+            "campaign_id": "CAMP-50905",
+            "channel": "Telegram Growth Swarm",
+            "target_audience": "Tech & SaaS Audiences",
+            "clicks_generated": 271,
+            "leads_captured": 33,
+            "status": "Active & Converting",
+            "timestamp": "2026-07-29 15:42:33"
+        },
+        {
+            "campaign_id": "CAMP-25114",
+            "channel": "Direct Corporate Outreach",
+            "target_audience": "B2B Lead Conversion",
+            "clicks_generated": 164,
+            "leads_captured": 20,
+            "status": "Active & Converting",
+            "timestamp": "2026-07-29 16:16:34"
+        },
+        {
+            "campaign_id": "CAMP-88208",
+            "channel": "Social Media Hook Spreader",
+            "target_audience": "Viral Short-Form Traffic",
+            "clicks_generated": 413,
+            "leads_captured": 27,
+            "status": "Active & Converting",
+            "timestamp": "2026-07-29 16:36:34"
+        },
+        {
+            "campaign_id": "CAMP-51713",
+            "channel": "Telegram Growth Swarm",
+            "target_audience": "Tech & SaaS Audiences",
+            "clicks_generated": 295,
+            "leads_captured": 17,
+            "status": "Active & Converting",
+            "timestamp": "2026-07-29 17:04:35"
+        },
+        {
+            "campaign_id": "CAMP-66973",
+            "channel": "Automated SEO Blog Feed",
+            "target_audience": "Global Affiliate Searchers",
+            "clicks_generated": 296,
+            "leads_captured": 42,
+            "status": "Active & Converting",
+            "timestamp": "2026-07-29 17:20:05"
+        },
+        {
+            "campaign_id": "CAMP-45068",
+            "channel": "Direct Corporate Outreach",
+            "target_audience": "B2B Lead Conversion",
+            "clicks_generated": 223,
+            "leads_captured": 13,
+            "status": "Active & Converting",
+            "timestamp": "2026-07-29 17:49:05"
+        },
+        {
+            "campaign_id": "CAMP-62923",
+            "channel": "Social Media Hook Spreader",
+            "target_audience": "Viral Short-Form Traffic",
+            "clicks_generated": 454,
+            "leads_captured": 12,
+            "status": "Active & Converting",
+            "timestamp": "2026-07-29 18:24:36"
+        },
+        {
+            "campaign_id": "CAMP-29877",
+            "channel": "Telegram Growth Swarm",
+            "target_audience": "Tech & SaaS Audiences",
+            "clicks_generated": 384,
+            "leads_captured": 23,
+            "status": "Active & Converting",
+            "timestamp": "2026-07-29 19:08:36"
+        },
+        {
+            "campaign_id": "CAMP-22702",
+            "channel": "Social Media Hook Spreader",
+            "target_audience": "Viral Short-Form Traffic",
+            "clicks_generated": 225,
+            "leads_captured": 44,
+            "status": "Active & Converting",
+            "timestamp": "2026-07-29 19:45:37"
+        },
+        {
+            "campaign_id": "CAMP-69341",
+            "channel": "Automated SEO Blog Feed",
+            "target_audience": "Global Affiliate Searchers",
+            "clicks_generated": 488,
+            "leads_captured": 19,
+            "status": "Active & Converting",
+            "timestamp": "2026-07-29 20:16:37"
+        },
+        {
+            "campaign_id": "CAMP-31791",
+            "channel": "Telegram Growth Swarm",
+            "target_audience": "Tech & SaaS Audiences",
+            "clicks_generated": 209,
+            "leads_captured": 34,
+            "status": "Active & Converting",
+            "timestamp": "2026-07-29 20:48:37"
+        },
+        {
+            "campaign_id": "CAMP-30070",
+            "channel": "Automated SEO Blog Feed",
+            "target_audience": "Global Affiliate Searchers",
+            "clicks_generated": 267,
+            "leads_captured": 37,
+            "status": "Active & Converting",
+            "timestamp": "2026-07-29 21:12:38"
+        },
+        {
+            "campaign_id": "CAMP-48881",
+            "channel": "Direct Corporate Outreach",
+            "target_audience": "B2B Lead Conversion",
+            "clicks_generated": 245,
+            "leads_captured": 42,
+            "status": "Active & Converting",
+            "timestamp": "2026-07-29 21:40:08"
+        },
+        {
+            "campaign_id": "CAMP-56478",
+            "channel": "Telegram Growth Swarm",
+            "target_audience": "Tech & SaaS Audiences",
+            "clicks_generated": 591,
+            "leads_captured": 26,
+            "status": "Active & Converting",
+            "timestamp": "2026-07-29 22:15:38"
+        },
+        {
+            "campaign_id": "CAMP-50058",
+            "channel": "Automated SEO Blog Feed",
+            "target_audience": "Global Affiliate Searchers",
+            "clicks_generated": 457,
+            "leads_captured": 19,
+            "status": "Active & Converting",
+            "timestamp": "2026-07-29 22:50:39"
+        },
+        {
+            "campaign_id": "CAMP-68501",
+            "channel": "Telegram Growth Swarm",
+            "target_audience": "Tech & SaaS Audiences",
+            "clicks_generated": 330,
+            "leads_captured": 38,
+            "status": "Active & Converting",
+            "timestamp": "2026-07-29 23:30:09"
+        },
+        {
+            "campaign_id": "CAMP-67151",
+            "channel": "Direct Corporate Outreach",
+            "target_audience": "B2B Lead Conversion",
+            "clicks_generated": 178,
+            "leads_captured": 45,
+            "status": "Active & Converting",
+            "timestamp": "2026-07-29 23:51:39"
+        },
+        {
+            "campaign_id": "CAMP-75135",
+            "channel": "Social Media Hook Spreader",
+            "target_audience": "Viral Short-Form Traffic",
+            "clicks_generated": 179,
+            "leads_captured": 40,
+            "status": "Active & Converting",
+            "timestamp": "2026-07-30 00:28:40"
+        },
+        {
+            "campaign_id": "CAMP-36060",
+            "channel": "Automated SEO Blog Feed",
+            "target_audience": "Global Affiliate Searchers",
+            "clicks_generated": 364,
+            "leads_captured": 42,
+            "status": "Active & Converting",
+            "timestamp": "2026-07-30 00:51:40"
+        },
+        {
+            "campaign_id": "CAMP-71000",
+            "channel": "Automated SEO Blog Feed",
+            "target_audience": "Global Affiliate Searchers",
+            "clicks_generated": 217,
+            "leads_captured": 32,
+            "status": "Active & Converting",
+            "timestamp": "2026-07-30 01:07:40"
+        },
+        {
+            "campaign_id": "CAMP-60498",
+            "channel": "Telegram Growth Swarm",
+            "target_audience": "Tech & SaaS Audiences",
+            "clicks_generated": 429,
+            "leads_captured": 28,
+            "status": "Active & Converting",
+            "timestamp": "2026-07-30 01:22:40"
+        },
+        {
+            "campaign_id": "CAMP-66405",
+            "channel": "Automated SEO Blog Feed",
+            "target_audience": "Global Affiliate Searchers",
+            "clicks_generated": 414,
+            "leads_captured": 37,
+            "status": "Active & Converting",
+            "timestamp": "2026-07-30 01:55:41"
+        },
+        {
+            "campaign_id": "CAMP-86249",
+            "channel": "Social Media Hook Spreader",
+            "target_audience": "Viral Short-Form Traffic",
+            "clicks_generated": 326,
+            "leads_captured": 17,
+            "status": "Active & Converting",
+            "timestamp": "2026-07-30 02:38:11"
+        },
+        {
+            "campaign_id": "CAMP-41067",
+            "channel": "Social Media Hook Spreader",
+            "target_audience": "Viral Short-Form Traffic",
+            "clicks_generated": 292,
+            "leads_captured": 25,
+            "status": "Active & Converting",
+            "timestamp": "2026-07-30 03:19:42"
+        },
+        {
+            "campaign_id": "CAMP-59984",
+            "channel": "Automated SEO Blog Feed",
+            "target_audience": "Global Affiliate Searchers",
+            "clicks_generated": 167,
+            "leads_captured": 20,
+            "status": "Active & Converting",
+            "timestamp": "2026-07-30 03:48:12"
+        },
+        {
+            "campaign_id": "CAMP-31956",
+            "channel": "Automated SEO Blog Feed",
+            "target_audience": "Global Affiliate Searchers",
+            "clicks_generated": 527,
+            "leads_captured": 38,
+            "status": "Active & Converting",
+            "timestamp": "2026-07-30 04:30:43"
+        },
+        {
+            "campaign_id": "CAMP-52091",
+            "channel": "Social Media Hook Spreader",
+            "target_audience": "Viral Short-Form Traffic",
+            "clicks_generated": 355,
+            "leads_captured": 13,
+            "status": "Active & Converting",
+            "timestamp": "2026-07-30 04:52:43"
+        },
+        {
+            "campaign_id": "CAMP-57097",
+            "channel": "Telegram Growth Swarm",
+            "target_audience": "Tech & SaaS Audiences",
+            "clicks_generated": 489,
+            "leads_captured": 18,
+            "status": "Active & Converting",
+            "timestamp": "2026-07-30 05:07:44"
+        },
+        {
+            "campaign_id": "CAMP-49304",
+            "channel": "Telegram Growth Swarm",
+            "target_audience": "Tech & SaaS Audiences",
+            "clicks_generated": 403,
+            "leads_captured": 38,
+            "status": "Active & Converting",
+            "timestamp": "2026-07-30 05:36:44"
+        },
+        {
+            "campaign_id": "CAMP-97947",
+            "channel": "Telegram Growth Swarm",
+            "target_audience": "Tech & SaaS Audiences",
+            "clicks_generated": 596,
+            "leads_captured": 24,
+            "status": "Active & Converting",
+            "timestamp": "2026-07-30 05:53:14"
+        },
+        {
+            "campaign_id": "CAMP-50788",
+            "channel": "Telegram Growth Swarm",
+            "target_audience": "Tech & SaaS Audiences",
+            "clicks_generated": 465,
+            "leads_captured": 37,
+            "status": "Active & Converting",
+            "timestamp": "2026-07-30 06:21:15"
+        },
+        {
+            "campaign_id": "CAMP-97012",
+            "channel": "Automated SEO Blog Feed",
+            "target_audience": "Global Affiliate Searchers",
+            "clicks_generated": 421,
+            "leads_captured": 21,
+            "status": "Active & Converting",
+            "timestamp": "2026-07-30 07:01:15"
+        },
+        {
+            "campaign_id": "CAMP-20486",
+            "channel": "Automated SEO Blog Feed",
+            "target_audience": "Global Affiliate Searchers",
+            "clicks_generated": 433,
+            "leads_captured": 26,
+            "status": "Active & Converting",
+            "timestamp": "2026-07-30 07:30:16"
+        },
+        {
+            "campaign_id": "CAMP-53118",
+            "channel": "Direct Corporate Outreach",
+            "target_audience": "B2B Lead Conversion",
+            "clicks_generated": 272,
+            "leads_captured": 28,
+            "status": "Active & Converting",
+            "timestamp": "2026-07-30 07:57:16"
+        },
+        {
+            "campaign_id": "CAMP-93699",
+            "channel": "Automated SEO Blog Feed",
+            "target_audience": "Global Affiliate Searchers",
+            "clicks_generated": 433,
+            "leads_captured": 15,
+            "status": "Active & Converting",
+            "timestamp": "2026-07-30 08:20:16"
+        },
+        {
+            "campaign_id": "CAMP-29055",
+            "channel": "Automated SEO Blog Feed",
+            "target_audience": "Global Affiliate Searchers",
+            "clicks_generated": 181,
+            "leads_captured": 36,
+            "status": "Active & Converting",
+            "timestamp": "2026-07-30 09:03:17"
+        },
+        {
+            "campaign_id": "CAMP-68483",
+            "channel": "Telegram Growth Swarm",
+            "target_audience": "Tech & SaaS Audiences",
+            "clicks_generated": 430,
+            "leads_captured": 24,
+            "status": "Active & Converting",
+            "timestamp": "2026-07-30 09:26:47"
+        },
+        {
+            "campaign_id": "CAMP-49497",
+            "channel": "Social Media Hook Spreader",
+            "target_audience": "Viral Short-Form Traffic",
+            "clicks_generated": 328,
+            "leads_captured": 12,
+            "status": "Active & Converting",
+            "timestamp": "2026-07-30 10:02:18"
+        },
+        {
+            "campaign_id": "CAMP-36157",
+            "channel": "Social Media Hook Spreader",
+            "target_audience": "Viral Short-Form Traffic",
+            "clicks_generated": 285,
+            "leads_captured": 29,
+            "status": "Active & Converting",
+            "timestamp": "2026-07-30 10:26:48"
+        },
+        {
+            "campaign_id": "CAMP-58763",
+            "channel": "Automated SEO Blog Feed",
+            "target_audience": "Global Affiliate Searchers",
+            "clicks_generated": 219,
+            "leads_captured": 31,
+            "status": "Active & Converting",
+            "timestamp": "2026-07-30 10:59:48"
+        },
+        {
+            "campaign_id": "CAMP-60629",
+            "channel": "Direct Corporate Outreach",
+            "target_audience": "B2B Lead Conversion",
+            "clicks_generated": 252,
+            "leads_captured": 32,
+            "status": "Active & Converting",
+            "timestamp": "2026-07-30 11:35:19"
+        },
+        {
+            "campaign_id": "CAMP-72275",
+            "channel": "Automated SEO Blog Feed",
+            "target_audience": "Global Affiliate Searchers",
+            "clicks_generated": 215,
+            "leads_captured": 31,
+            "status": "Active & Converting",
+            "timestamp": "2026-07-30 11:52:49"
+        },
+        {
+            "campaign_id": "CAMP-35399",
+            "channel": "Social Media Hook Spreader",
+            "target_audience": "Viral Short-Form Traffic",
+            "clicks_generated": 220,
+            "leads_captured": 17,
+            "status": "Active & Converting",
+            "timestamp": "2026-07-30 12:25:19"
+        },
+        {
+            "campaign_id": "CAMP-74609",
+            "channel": "Automated SEO Blog Feed",
+            "target_audience": "Global Affiliate Searchers",
+            "clicks_generated": 340,
+            "leads_captured": 12,
+            "status": "Active & Converting",
+            "timestamp": "2026-07-30 13:00:20"
+        },
+        {
+            "campaign_id": "CAMP-52117",
+            "channel": "Automated SEO Blog Feed",
+            "target_audience": "Global Affiliate Searchers",
+            "clicks_generated": 184,
+            "leads_captured": 12,
+            "status": "Active & Converting",
+            "timestamp": "2026-07-30 13:20:50"
+        },
+        {
+            "campaign_id": "CAMP-11650",
+            "channel": "Direct Corporate Outreach",
+            "target_audience": "B2B Lead Conversion",
+            "clicks_generated": 423,
+            "leads_captured": 44,
+            "status": "Active & Converting",
+            "timestamp": "2026-07-30 13:51:50"
+        },
+        {
+            "campaign_id": "CAMP-45102",
+            "channel": "Social Media Hook Spreader",
+            "target_audience": "Viral Short-Form Traffic",
+            "clicks_generated": 184,
+            "leads_captured": 39,
+            "status": "Active & Converting",
+            "timestamp": "2026-07-30 14:31:51"
+        },
+        {
+            "campaign_id": "CAMP-83478",
+            "channel": "Social Media Hook Spreader",
+            "target_audience": "Viral Short-Form Traffic",
+            "clicks_generated": 446,
+            "leads_captured": 33,
+            "status": "Active & Converting",
+            "timestamp": "2026-07-30 15:13:51"
+        },
+        {
+            "campaign_id": "CAMP-58443",
+            "channel": "Social Media Hook Spreader",
+            "target_audience": "Viral Short-Form Traffic",
+            "clicks_generated": 384,
+            "leads_captured": 19,
+            "status": "Active & Converting",
+            "timestamp": "2026-07-30 15:49:52"
+        },
+        {
+            "campaign_id": "CAMP-78137",
+            "channel": "Automated SEO Blog Feed",
+            "target_audience": "Global Affiliate Searchers",
+            "clicks_generated": 528,
+            "leads_captured": 27,
+            "status": "Active & Converting",
+            "timestamp": "2026-07-30 16:08:22"
+        },
+        {
+            "campaign_id": "CAMP-24492",
+            "channel": "Direct Corporate Outreach",
+            "target_audience": "B2B Lead Conversion",
+            "clicks_generated": 316,
+            "leads_captured": 14,
+            "status": "Active & Converting",
+            "timestamp": "2026-07-30 16:39:53"
+        },
+        {
+            "campaign_id": "CAMP-81987",
+            "channel": "Automated SEO Blog Feed",
+            "target_audience": "Global Affiliate Searchers",
+            "clicks_generated": 455,
+            "leads_captured": 14,
+            "status": "Active & Converting",
+            "timestamp": "2026-07-30 17:12:53"
+        },
+        {
+            "campaign_id": "CAMP-94896",
+            "channel": "Direct Corporate Outreach",
+            "target_audience": "B2B Lead Conversion",
+            "clicks_generated": 247,
+            "leads_captured": 36,
+            "status": "Active & Converting",
+            "timestamp": "2026-07-30 17:56:23"
+        },
+        {
+            "campaign_id": "CAMP-17184",
+            "channel": "Telegram Growth Swarm",
+            "target_audience": "Tech & SaaS Audiences",
+            "clicks_generated": 547,
+            "leads_captured": 17,
+            "status": "Active & Converting",
+            "timestamp": "2026-07-30 18:38:54"
+        },
+        {
+            "campaign_id": "CAMP-75646",
+            "channel": "Telegram Growth Swarm",
+            "target_audience": "Tech & SaaS Audiences",
+            "clicks_generated": 479,
+            "leads_captured": 26,
+            "status": "Active & Converting",
+            "timestamp": "2026-07-30 19:12:24"
+        },
+        {
+            "campaign_id": "CAMP-98226",
+            "channel": "Telegram Growth Swarm",
+            "target_audience": "Tech & SaaS Audiences",
+            "clicks_generated": 366,
+            "leads_captured": 15,
+            "status": "Active & Converting",
+            "timestamp": "2026-07-30 19:27:54"
+        },
+        {
+            "campaign_id": "CAMP-72145",
+            "channel": "Direct Corporate Outreach",
+            "target_audience": "B2B Lead Conversion",
+            "clicks_generated": 587,
+            "leads_captured": 41,
+            "status": "Active & Converting",
+            "timestamp": "2026-07-30 19:45:24"
+        },
+        {
+            "campaign_id": "CAMP-19118",
+            "channel": "Social Media Hook Spreader",
+            "target_audience": "Viral Short-Form Traffic",
+            "clicks_generated": 176,
+            "leads_captured": 38,
+            "status": "Active & Converting",
+            "timestamp": "2026-07-30 20:05:24"
+        },
+        {
+            "campaign_id": "CAMP-18931",
+            "channel": "Direct Corporate Outreach",
+            "target_audience": "B2B Lead Conversion",
+            "clicks_generated": 554,
+            "leads_captured": 12,
+            "status": "Active & Converting",
+            "timestamp": "2026-07-30 20:24:25"
+        },
+        {
+            "campaign_id": "CAMP-46147",
+            "channel": "Telegram Growth Swarm",
+            "target_audience": "Tech & SaaS Audiences",
+            "clicks_generated": 198,
+            "leads_captured": 35,
+            "status": "Active & Converting",
+            "timestamp": "2026-07-30 20:51:25"
+        },
+        {
+            "campaign_id": "CAMP-44004",
+            "channel": "Social Media Hook Spreader",
+            "target_audience": "Viral Short-Form Traffic",
+            "clicks_generated": 336,
+            "leads_captured": 38,
+            "status": "Active & Converting",
+            "timestamp": "2026-07-30 21:24:55"
+        },
+        {
+            "campaign_id": "CAMP-25418",
+            "channel": "Automated SEO Blog Feed",
+            "target_audience": "Global Affiliate Searchers",
+            "clicks_generated": 182,
+            "leads_captured": 14,
+            "status": "Active & Converting",
+            "timestamp": "2026-07-30 21:42:25"
+        },
+        {
+            "campaign_id": "CAMP-71667",
+            "channel": "Telegram Growth Swarm",
+            "target_audience": "Tech & SaaS Audiences",
+            "clicks_generated": 596,
+            "leads_captured": 16,
+            "status": "Active & Converting",
+            "timestamp": "2026-07-30 22:07:55"
+        },
+        {
+            "campaign_id": "CAMP-47705",
+            "channel": "Automated SEO Blog Feed",
+            "target_audience": "Global Affiliate Searchers",
+            "clicks_generated": 170,
+            "leads_captured": 19,
+            "status": "Active & Converting",
+            "timestamp": "2026-07-30 22:26:56"
+        },
+        {
+            "campaign_id": "CAMP-90640",
+            "channel": "Direct Corporate Outreach",
+            "target_audience": "B2B Lead Conversion",
+            "clicks_generated": 360,
+            "leads_captured": 24,
+            "status": "Active & Converting",
+            "timestamp": "2026-07-30 23:03:26"
+        },
+        {
+            "campaign_id": "CAMP-26345",
+            "channel": "Social Media Hook Spreader",
+            "target_audience": "Viral Short-Form Traffic",
+            "clicks_generated": 266,
+            "leads_captured": 24,
+            "status": "Active & Converting",
+            "timestamp": "2026-07-30 23:26:56"
+        },
+        {
+            "campaign_id": "CAMP-63486",
+            "channel": "Telegram Growth Swarm",
+            "target_audience": "Tech & SaaS Audiences",
+            "clicks_generated": 264,
+            "leads_captured": 20,
+            "status": "Active & Converting",
+            "timestamp": "2026-07-30 23:48:57"
+        },
+        {
+            "campaign_id": "CAMP-35413",
+            "channel": "Automated SEO Blog Feed",
+            "target_audience": "Global Affiliate Searchers",
+            "clicks_generated": 453,
+            "leads_captured": 40,
+            "status": "Active & Converting",
+            "timestamp": "2026-07-31 00:28:57"
+        },
+        {
+            "campaign_id": "CAMP-77438",
+            "channel": "Telegram Growth Swarm",
+            "target_audience": "Tech & SaaS Audiences",
+            "clicks_generated": 332,
+            "leads_captured": 40,
+            "status": "Active & Converting",
+            "timestamp": "2026-07-31 00:46:58"
+        },
+        {
+            "campaign_id": "CAMP-53004",
+            "channel": "Telegram Growth Swarm",
+            "target_audience": "Tech & SaaS Audiences",
+            "clicks_generated": 161,
+            "leads_captured": 31,
+            "status": "Active & Converting",
+            "timestamp": "2026-07-31 01:12:28"
+        },
+        {
+            "campaign_id": "CAMP-10732",
+            "channel": "Direct Corporate Outreach",
+            "target_audience": "B2B Lead Conversion",
+            "clicks_generated": 439,
+            "leads_captured": 44,
+            "status": "Active & Converting",
+            "timestamp": "2026-07-31 01:55:29"
+        },
+        {
+            "campaign_id": "CAMP-66268",
+            "channel": "Direct Corporate Outreach",
+            "target_audience": "B2B Lead Conversion",
+            "clicks_generated": 347,
+            "leads_captured": 17,
+            "status": "Active & Converting",
+            "timestamp": "2026-07-31 02:21:59"
+        },
+        {
+            "campaign_id": "CAMP-71869",
+            "channel": "Social Media Hook Spreader",
+            "target_audience": "Viral Short-Form Traffic",
+            "clicks_generated": 334,
+            "leads_captured": 33,
+            "status": "Active & Converting",
+            "timestamp": "2026-07-31 02:41:59"
+        },
+        {
+            "campaign_id": "CAMP-40806",
+            "channel": "Social Media Hook Spreader",
+            "target_audience": "Viral Short-Form Traffic",
+            "clicks_generated": 469,
+            "leads_captured": 34,
+            "status": "Active & Converting",
+            "timestamp": "2026-07-31 02:56:59"
+        },
+        {
+            "campaign_id": "CAMP-12579",
+            "channel": "Direct Corporate Outreach",
+            "target_audience": "B2B Lead Conversion",
+            "clicks_generated": 494,
+            "leads_captured": 24,
+            "status": "Active & Converting",
+            "timestamp": "2026-07-31 03:18:00"
+        },
+        {
+            "campaign_id": "CAMP-49724",
+            "channel": "Automated SEO Blog Feed",
+            "target_audience": "Global Affiliate Searchers",
+            "clicks_generated": 471,
+            "leads_captured": 44,
+            "status": "Active & Converting",
+            "timestamp": "2026-07-31 03:58:30"
+        },
+        {
+            "campaign_id": "CAMP-84551",
+            "channel": "Social Media Hook Spreader",
+            "target_audience": "Viral Short-Form Traffic",
+            "clicks_generated": 218,
+            "leads_captured": 43,
+            "status": "Active & Converting",
+            "timestamp": "2026-07-31 04:40:31"
+        },
+        {
+            "campaign_id": "CAMP-83788",
+            "channel": "Direct Corporate Outreach",
+            "target_audience": "B2B Lead Conversion",
+            "clicks_generated": 429,
+            "leads_captured": 36,
+            "status": "Active & Converting",
+            "timestamp": "2026-07-31 04:57:01"
+        },
+        {
+            "campaign_id": "CAMP-56101",
+            "channel": "Social Media Hook Spreader",
+            "target_audience": "Viral Short-Form Traffic",
+            "clicks_generated": 253,
+            "leads_captured": 15,
+            "status": "Active & Converting",
+            "timestamp": "2026-07-31 05:21:02"
+        },
+        {
+            "campaign_id": "CAMP-42187",
+            "channel": "Social Media Hook Spreader",
+            "target_audience": "Viral Short-Form Traffic",
+            "clicks_generated": 362,
+            "leads_captured": 16,
+            "status": "Active & Converting",
+            "timestamp": "2026-07-31 05:51:02"
+        },
+        {
+            "campaign_id": "CAMP-24764",
+            "channel": "Telegram Growth Swarm",
+            "target_audience": "Tech & SaaS Audiences",
+            "clicks_generated": 401,
+            "leads_captured": 39,
+            "status": "Active & Converting",
+            "timestamp": "2026-07-31 06:35:03"
+        },
+        {
+            "campaign_id": "CAMP-30035",
+            "channel": "Direct Corporate Outreach",
+            "target_audience": "B2B Lead Conversion",
+            "clicks_generated": 411,
+            "leads_captured": 41,
+            "status": "Active & Converting",
+            "timestamp": "2026-07-31 07:15:03"
+        },
+        {
+            "campaign_id": "CAMP-85922",
+            "channel": "Direct Corporate Outreach",
+            "target_audience": "B2B Lead Conversion",
+            "clicks_generated": 225,
+            "leads_captured": 33,
+            "status": "Active & Converting",
+            "timestamp": "2026-07-31 07:49:04"
+        },
+        {
+            "campaign_id": "CAMP-29684",
+            "channel": "Direct Corporate Outreach",
+            "target_audience": "B2B Lead Conversion",
+            "clicks_generated": 417,
+            "leads_captured": 27,
+            "status": "Active & Converting",
+            "timestamp": "2026-07-31 08:21:34"
+        },
+        {
+            "campaign_id": "CAMP-68859",
+            "channel": "Automated SEO Blog Feed",
+            "target_audience": "Global Affiliate Searchers",
+            "clicks_generated": 406,
+            "leads_captured": 36,
+            "status": "Active & Converting",
+            "timestamp": "2026-07-31 09:04:35"
+        },
+        {
+            "campaign_id": "CAMP-47254",
+            "channel": "Automated SEO Blog Feed",
+            "target_audience": "Global Affiliate Searchers",
+            "clicks_generated": 277,
+            "leads_captured": 43,
+            "status": "Active & Converting",
+            "timestamp": "2026-07-31 09:41:05"
+        },
+        {
+            "campaign_id": "CAMP-51185",
+            "channel": "Social Media Hook Spreader",
+            "target_audience": "Viral Short-Form Traffic",
+            "clicks_generated": 224,
+            "leads_captured": 12,
+            "status": "Active & Converting",
+            "timestamp": "2026-07-31 10:24:36"
+        },
+        {
+            "campaign_id": "CAMP-21429",
+            "channel": "Social Media Hook Spreader",
+            "target_audience": "Viral Short-Form Traffic",
+            "clicks_generated": 417,
+            "leads_captured": 40,
+            "status": "Active & Converting",
+            "timestamp": "2026-07-31 10:41:06"
+        },
+        {
+            "campaign_id": "CAMP-46105",
+            "channel": "Direct Corporate Outreach",
+            "target_audience": "B2B Lead Conversion",
+            "clicks_generated": 407,
+            "leads_captured": 42,
+            "status": "Active & Converting",
+            "timestamp": "2026-07-31 11:21:07"
+        },
+        {
+            "campaign_id": "CAMP-30801",
+            "channel": "Social Media Hook Spreader",
+            "target_audience": "Viral Short-Form Traffic",
+            "clicks_generated": 266,
+            "leads_captured": 43,
+            "status": "Active & Converting",
+            "timestamp": "2026-07-31 11:37:07"
+        },
+        {
+            "campaign_id": "CAMP-90915",
+            "channel": "Telegram Growth Swarm",
+            "target_audience": "Tech & SaaS Audiences",
+            "clicks_generated": 176,
+            "leads_captured": 33,
+            "status": "Active & Converting",
+            "timestamp": "2026-07-31 11:56:37"
+        },
+        {
+            "campaign_id": "CAMP-77851",
+            "channel": "Automated SEO Blog Feed",
+            "target_audience": "Global Affiliate Searchers",
+            "clicks_generated": 202,
+            "leads_captured": 30,
+            "status": "Active & Converting",
+            "timestamp": "2026-07-31 12:12:07"
+        },
+        {
+            "campaign_id": "CAMP-39931",
+            "channel": "Social Media Hook Spreader",
+            "target_audience": "Viral Short-Form Traffic",
+            "clicks_generated": 425,
+            "leads_captured": 25,
+            "status": "Active & Converting",
+            "timestamp": "2026-07-31 12:39:38"
+        },
+        {
+            "campaign_id": "CAMP-69390",
+            "channel": "Direct Corporate Outreach",
+            "target_audience": "B2B Lead Conversion",
+            "clicks_generated": 270,
+            "leads_captured": 28,
+            "status": "Active & Converting",
+            "timestamp": "2026-07-31 13:01:08"
+        },
+        {
+            "campaign_id": "CAMP-63206",
+            "channel": "Automated SEO Blog Feed",
+            "target_audience": "Global Affiliate Searchers",
+            "clicks_generated": 268,
+            "leads_captured": 45,
+            "status": "Active & Converting",
+            "timestamp": "2026-07-31 13:16:08"
+        },
+        {
+            "campaign_id": "CAMP-19924",
+            "channel": "Social Media Hook Spreader",
+            "target_audience": "Viral Short-Form Traffic",
+            "clicks_generated": 288,
+            "leads_captured": 38,
+            "status": "Active & Converting",
+            "timestamp": "2026-07-31 13:47:38"
+        },
+        {
+            "campaign_id": "CAMP-57327",
+            "channel": "Telegram Growth Swarm",
+            "target_audience": "Tech & SaaS Audiences",
+            "clicks_generated": 527,
+            "leads_captured": 30,
+            "status": "Active & Converting",
+            "timestamp": "2026-07-31 14:12:09"
+        },
+        {
+            "campaign_id": "CAMP-62273",
+            "channel": "Direct Corporate Outreach",
+            "target_audience": "B2B Lead Conversion",
+            "clicks_generated": 161,
+            "leads_captured": 27,
+            "status": "Active & Converting",
+            "timestamp": "2026-07-31 14:30:09"
+        },
+        {
+            "campaign_id": "CAMP-41343",
+            "channel": "Direct Corporate Outreach",
+            "target_audience": "B2B Lead Conversion",
+            "clicks_generated": 213,
+            "leads_captured": 40,
+            "status": "Active & Converting",
+            "timestamp": "2026-07-31 14:57:09"
+        },
+        {
+            "campaign_id": "CAMP-61747",
+            "channel": "Telegram Growth Swarm",
+            "target_audience": "Tech & SaaS Audiences",
+            "clicks_generated": 238,
+            "leads_captured": 15,
+            "status": "Active & Converting",
+            "timestamp": "2026-07-31 15:30:39"
+        },
+        {
+            "campaign_id": "CAMP-61622",
+            "channel": "Telegram Growth Swarm",
+            "target_audience": "Tech & SaaS Audiences",
+            "clicks_generated": 175,
+            "leads_captured": 26,
+            "status": "Active & Converting",
+            "timestamp": "2026-07-31 16:08:10"
+        },
+        {
+            "campaign_id": "CAMP-30579",
+            "channel": "Direct Corporate Outreach",
+            "target_audience": "B2B Lead Conversion",
+            "clicks_generated": 482,
+            "leads_captured": 22,
+            "status": "Active & Converting",
+            "timestamp": "2026-07-31 16:30:40"
+        },
+        {
+            "campaign_id": "CAMP-18648",
+            "channel": "Social Media Hook Spreader",
+            "target_audience": "Viral Short-Form Traffic",
+            "clicks_generated": 316,
+            "leads_captured": 35,
+            "status": "Active & Converting",
+            "timestamp": "2026-07-31 16:55:11"
+        },
+        {
+            "campaign_id": "CAMP-58137",
+            "channel": "Automated SEO Blog Feed",
+            "target_audience": "Global Affiliate Searchers",
+            "clicks_generated": 539,
+            "leads_captured": 37,
+            "status": "Active & Converting",
+            "timestamp": "2026-07-31 17:28:41"
+        },
+        {
+            "campaign_id": "CAMP-72596",
+            "channel": "Direct Corporate Outreach",
+            "target_audience": "B2B Lead Conversion",
+            "clicks_generated": 319,
+            "leads_captured": 28,
+            "status": "Active & Converting",
+            "timestamp": "2026-07-31 17:55:42"
+        },
+        {
+            "campaign_id": "CAMP-10752",
+            "channel": "Social Media Hook Spreader",
+            "target_audience": "Viral Short-Form Traffic",
+            "clicks_generated": 171,
+            "leads_captured": 26,
+            "status": "Active & Converting",
+            "timestamp": "2026-07-31 18:11:42"
+        },
+        {
+            "campaign_id": "CAMP-36131",
+            "channel": "Social Media Hook Spreader",
+            "target_audience": "Viral Short-Form Traffic",
+            "clicks_generated": 217,
+            "leads_captured": 44,
+            "status": "Active & Converting",
+            "timestamp": "2026-07-31 18:50:42"
+        },
+        {
+            "campaign_id": "CAMP-43564",
+            "channel": "Direct Corporate Outreach",
+            "target_audience": "B2B Lead Conversion",
+            "clicks_generated": 493,
+            "leads_captured": 18,
+            "status": "Active & Converting",
+            "timestamp": "2026-07-31 19:31:43"
+        },
+        {
+            "campaign_id": "CAMP-71739",
+            "channel": "Telegram Growth Swarm",
+            "target_audience": "Tech & SaaS Audiences",
+            "clicks_generated": 513,
+            "leads_captured": 22,
+            "status": "Active & Converting",
+            "timestamp": "2026-07-31 20:09:13"
+        },
+        {
+            "campaign_id": "CAMP-73859",
+            "channel": "Telegram Growth Swarm",
+            "target_audience": "Tech & SaaS Audiences",
+            "clicks_generated": 479,
+            "leads_captured": 37,
+            "status": "Active & Converting",
+            "timestamp": "2026-07-31 20:30:43"
+        },
+        {
+            "campaign_id": "CAMP-29748",
+            "channel": "Social Media Hook Spreader",
+            "target_audience": "Viral Short-Form Traffic",
+            "clicks_generated": 385,
+            "leads_captured": 15,
+            "status": "Active & Converting",
+            "timestamp": "2026-07-31 20:52:14"
+        },
+        {
+            "campaign_id": "CAMP-99576",
+            "channel": "Direct Corporate Outreach",
+            "target_audience": "B2B Lead Conversion",
+            "clicks_generated": 526,
+            "leads_captured": 13,
+            "status": "Active & Converting",
+            "timestamp": "2026-07-31 21:17:14"
+        },
+        {
+            "campaign_id": "CAMP-83463",
+            "channel": "Social Media Hook Spreader",
+            "target_audience": "Viral Short-Form Traffic",
+            "clicks_generated": 274,
+            "leads_captured": 39,
+            "status": "Active & Converting",
+            "timestamp": "2026-07-31 21:43:14"
+        },
+        {
+            "campaign_id": "CAMP-27310",
+            "channel": "Automated SEO Blog Feed",
+            "target_audience": "Global Affiliate Searchers",
+            "clicks_generated": 550,
+            "leads_captured": 35,
+            "status": "Active & Converting",
+            "timestamp": "2026-07-31 22:02:44"
+        },
+        {
+            "campaign_id": "CAMP-39376",
+            "channel": "Automated SEO Blog Feed",
+            "target_audience": "Global Affiliate Searchers",
+            "clicks_generated": 438,
+            "leads_captured": 38,
+            "status": "Active & Converting",
+            "timestamp": "2026-07-31 22:30:15"
+        },
+        {
+            "campaign_id": "CAMP-64327",
+            "channel": "Social Media Hook Spreader",
+            "target_audience": "Viral Short-Form Traffic",
+            "clicks_generated": 279,
+            "leads_captured": 32,
+            "status": "Active & Converting",
+            "timestamp": "2026-07-31 23:07:15"
+        },
+        {
+            "campaign_id": "CAMP-55549",
+            "channel": "Social Media Hook Spreader",
+            "target_audience": "Viral Short-Form Traffic",
+            "clicks_generated": 557,
+            "leads_captured": 26,
+            "status": "Active & Converting",
+            "timestamp": "2026-07-31 23:42:16"
+        },
+        {
+            "campaign_id": "CAMP-36240",
+            "channel": "Social Media Hook Spreader",
+            "target_audience": "Viral Short-Form Traffic",
+            "clicks_generated": 483,
+            "leads_captured": 27,
+            "status": "Active & Converting",
+            "timestamp": "2026-08-01 00:15:46"
+        },
+        {
+            "campaign_id": "CAMP-80520",
+            "channel": "Automated SEO Blog Feed",
+            "target_audience": "Global Affiliate Searchers",
+            "clicks_generated": 379,
+            "leads_captured": 23,
+            "status": "Active & Converting",
+            "timestamp": "2026-08-01 00:52:17"
+        },
+        {
+            "campaign_id": "CAMP-89148",
+            "channel": "Telegram Growth Swarm",
+            "target_audience": "Tech & SaaS Audiences",
+            "clicks_generated": 249,
+            "leads_captured": 32,
+            "status": "Active & Converting",
+            "timestamp": "2026-08-01 01:36:47"
+        },
+        {
+            "campaign_id": "CAMP-36076",
+            "channel": "Direct Corporate Outreach",
+            "target_audience": "B2B Lead Conversion",
+            "clicks_generated": 570,
+            "leads_captured": 41,
+            "status": "Active & Converting",
+            "timestamp": "2026-08-01 01:58:18"
+        },
+        {
+            "campaign_id": "CAMP-11550",
+            "channel": "Telegram Growth Swarm",
+            "target_audience": "Tech & SaaS Audiences",
+            "clicks_generated": 516,
+            "leads_captured": 21,
+            "status": "Active & Converting",
+            "timestamp": "2026-08-01 02:18:18"
+        },
+        {
+            "campaign_id": "CAMP-43275",
+            "channel": "Social Media Hook Spreader",
+            "target_audience": "Viral Short-Form Traffic",
+            "clicks_generated": 363,
+            "leads_captured": 26,
+            "status": "Active & Converting",
+            "timestamp": "2026-08-01 03:02:49"
+        },
+        {
+            "campaign_id": "CAMP-80475",
+            "channel": "Direct Corporate Outreach",
+            "target_audience": "B2B Lead Conversion",
+            "clicks_generated": 454,
+            "leads_captured": 13,
+            "status": "Active & Converting",
+            "timestamp": "2026-08-01 03:37:19"
+        },
+        {
+            "campaign_id": "CAMP-79446",
+            "channel": "Telegram Growth Swarm",
+            "target_audience": "Tech & SaaS Audiences",
+            "clicks_generated": 188,
+            "leads_captured": 35,
+            "status": "Active & Converting",
+            "timestamp": "2026-08-01 03:57:49"
+        },
+        {
+            "campaign_id": "CAMP-31083",
+            "channel": "Social Media Hook Spreader",
+            "target_audience": "Viral Short-Form Traffic",
+            "clicks_generated": 368,
+            "leads_captured": 26,
+            "status": "Active & Converting",
+            "timestamp": "2026-08-01 04:18:50"
+        },
+        {
+            "campaign_id": "CAMP-91501",
+            "channel": "Telegram Growth Swarm",
+            "target_audience": "Tech & SaaS Audiences",
+            "clicks_generated": 344,
+            "leads_captured": 31,
+            "status": "Active & Converting",
+            "timestamp": "2026-08-01 04:41:50"
+        },
+        {
+            "campaign_id": "CAMP-24172",
+            "channel": "Telegram Growth Swarm",
+            "target_audience": "Tech & SaaS Audiences",
+            "clicks_generated": 196,
+            "leads_captured": 19,
+            "status": "Active & Converting",
+            "timestamp": "2026-08-01 05:13:20"
+        },
+        {
+            "campaign_id": "CAMP-21294",
+            "channel": "Direct Corporate Outreach",
+            "target_audience": "B2B Lead Conversion",
+            "clicks_generated": 225,
+            "leads_captured": 25,
+            "status": "Active & Converting",
+            "timestamp": "2026-08-01 05:30:51"
+        },
+        {
+            "campaign_id": "CAMP-65345",
+            "channel": "Telegram Growth Swarm",
+            "target_audience": "Tech & SaaS Audiences",
+            "clicks_generated": 393,
+            "leads_captured": 21,
+            "status": "Active & Converting",
+            "timestamp": "2026-08-01 06:10:21"
+        },
+        {
+            "campaign_id": "CAMP-79953",
+            "channel": "Automated SEO Blog Feed",
+            "target_audience": "Global Affiliate Searchers",
+            "clicks_generated": 356,
+            "leads_captured": 27,
+            "status": "Active & Converting",
+            "timestamp": "2026-08-01 06:42:52"
+        },
+        {
+            "campaign_id": "CAMP-78568",
+            "channel": "Social Media Hook Spreader",
+            "target_audience": "Viral Short-Form Traffic",
+            "clicks_generated": 483,
+            "leads_captured": 22,
+            "status": "Active & Converting",
+            "timestamp": "2026-08-01 07:03:22"
+        },
+        {
+            "campaign_id": "CAMP-92511",
+            "channel": "Social Media Hook Spreader",
+            "target_audience": "Viral Short-Form Traffic",
+            "clicks_generated": 234,
+            "leads_captured": 33,
+            "status": "Active & Converting",
+            "timestamp": "2026-08-01 07:27:52"
+        },
+        {
+            "campaign_id": "CAMP-11772",
+            "channel": "Automated SEO Blog Feed",
+            "target_audience": "Global Affiliate Searchers",
+            "clicks_generated": 367,
+            "leads_captured": 45,
+            "status": "Active & Converting",
+            "timestamp": "2026-08-01 08:03:23"
+        },
+        {
+            "campaign_id": "CAMP-10527",
+            "channel": "Automated SEO Blog Feed",
+            "target_audience": "Global Affiliate Searchers",
+            "clicks_generated": 336,
+            "leads_captured": 14,
+            "status": "Active & Converting",
+            "timestamp": "2026-08-01 08:45:24"
+        },
+        {
+            "campaign_id": "CAMP-80023",
+            "channel": "Direct Corporate Outreach",
+            "target_audience": "B2B Lead Conversion",
+            "clicks_generated": 339,
+            "leads_captured": 41,
+            "status": "Active & Converting",
+            "timestamp": "2026-08-01 09:00:54"
+        },
+        {
+            "campaign_id": "CAMP-94858",
+            "channel": "Telegram Growth Swarm",
+            "target_audience": "Tech & SaaS Audiences",
+            "clicks_generated": 363,
+            "leads_captured": 40,
+            "status": "Active & Converting",
+            "timestamp": "2026-08-01 09:16:54"
+        },
+        {
+            "campaign_id": "CAMP-94402",
+            "channel": "Telegram Growth Swarm",
+            "target_audience": "Tech & SaaS Audiences",
+            "clicks_generated": 374,
+            "leads_captured": 27,
+            "status": "Active & Converting",
+            "timestamp": "2026-08-01 09:41:24"
+        },
+        {
+            "campaign_id": "CAMP-40849",
+            "channel": "Direct Corporate Outreach",
+            "target_audience": "B2B Lead Conversion",
+            "clicks_generated": 381,
+            "leads_captured": 40,
+            "status": "Active & Converting",
+            "timestamp": "2026-08-01 10:22:55"
+        },
+        {
+            "campaign_id": "CAMP-64652",
+            "channel": "Telegram Growth Swarm",
+            "target_audience": "Tech & SaaS Audiences",
+            "clicks_generated": 317,
+            "leads_captured": 41,
+            "status": "Active & Converting",
+            "timestamp": "2026-08-01 10:49:25"
+        },
+        {
+            "campaign_id": "CAMP-61098",
+            "channel": "Direct Corporate Outreach",
+            "target_audience": "B2B Lead Conversion",
+            "clicks_generated": 259,
+            "leads_captured": 25,
+            "status": "Active & Converting",
+            "timestamp": "2026-08-01 11:24:26"
+        },
+        {
+            "campaign_id": "CAMP-91203",
+            "channel": "Automated SEO Blog Feed",
+            "target_audience": "Global Affiliate Searchers",
+            "clicks_generated": 513,
+            "leads_captured": 17,
+            "status": "Active & Converting",
+            "timestamp": "2026-08-01 11:56:57"
+        },
+        {
+            "campaign_id": "CAMP-12902",
+            "channel": "Automated SEO Blog Feed",
+            "target_audience": "Global Affiliate Searchers",
+            "clicks_generated": 402,
+            "leads_captured": 27,
+            "status": "Active & Converting",
+            "timestamp": "2026-08-01 12:15:57"
+        },
+        {
+            "campaign_id": "CAMP-40265",
+            "channel": "Telegram Growth Swarm",
+            "target_audience": "Tech & SaaS Audiences",
+            "clicks_generated": 277,
+            "leads_captured": 25,
+            "status": "Active & Converting",
+            "timestamp": "2026-08-01 12:35:27"
+        },
+        {
+            "campaign_id": "CAMP-22734",
+            "channel": "Social Media Hook Spreader",
+            "target_audience": "Viral Short-Form Traffic",
+            "clicks_generated": 248,
+            "leads_captured": 41,
+            "status": "Active & Converting",
+            "timestamp": "2026-08-01 12:58:27"
+        },
+        {
+            "campaign_id": "CAMP-65374",
+            "channel": "Telegram Growth Swarm",
+            "target_audience": "Tech & SaaS Audiences",
+            "clicks_generated": 358,
+            "leads_captured": 36,
+            "status": "Active & Converting",
+            "timestamp": "2026-08-01 13:19:27"
+        },
+        {
+            "campaign_id": "CAMP-55261",
+            "channel": "Direct Corporate Outreach",
+            "target_audience": "B2B Lead Conversion",
+            "clicks_generated": 479,
+            "leads_captured": 38,
+            "status": "Active & Converting",
+            "timestamp": "2026-08-01 13:38:58"
+        },
+        {
+            "campaign_id": "CAMP-62334",
+            "channel": "Telegram Growth Swarm",
+            "target_audience": "Tech & SaaS Audiences",
+            "clicks_generated": 576,
+            "leads_captured": 23,
+            "status": "Active & Converting",
+            "timestamp": "2026-08-01 13:56:28"
+        },
+        {
+            "campaign_id": "CAMP-56649",
+            "channel": "Telegram Growth Swarm",
+            "target_audience": "Tech & SaaS Audiences",
+            "clicks_generated": 531,
+            "leads_captured": 42,
+            "status": "Active & Converting",
+            "timestamp": "2026-08-01 14:19:58"
+        },
+        {
+            "campaign_id": "CAMP-87711",
+            "channel": "Social Media Hook Spreader",
+            "target_audience": "Viral Short-Form Traffic",
+            "clicks_generated": 463,
+            "leads_captured": 14,
+            "status": "Active & Converting",
+            "timestamp": "2026-08-01 14:37:58"
+        },
+        {
+            "campaign_id": "CAMP-80615",
+            "channel": "Social Media Hook Spreader",
+            "target_audience": "Viral Short-Form Traffic",
+            "clicks_generated": 184,
+            "leads_captured": 16,
+            "status": "Active & Converting",
+            "timestamp": "2026-08-01 15:03:28"
+        },
+        {
+            "campaign_id": "CAMP-63193",
+            "channel": "Social Media Hook Spreader",
+            "target_audience": "Viral Short-Form Traffic",
+            "clicks_generated": 515,
+            "leads_captured": 29,
+            "status": "Active & Converting",
+            "timestamp": "2026-08-01 15:26:59"
+        },
+        {
+            "campaign_id": "CAMP-72737",
+            "channel": "Telegram Growth Swarm",
+            "target_audience": "Tech & SaaS Audiences",
+            "clicks_generated": 522,
+            "leads_captured": 16,
+            "status": "Active & Converting",
+            "timestamp": "2026-08-01 15:42:29"
+        },
+        {
+            "campaign_id": "CAMP-33482",
+            "channel": "Telegram Growth Swarm",
+            "target_audience": "Tech & SaaS Audiences",
+            "clicks_generated": 488,
+            "leads_captured": 13,
+            "status": "Active & Converting",
+            "timestamp": "2026-08-01 16:19:59"
+        },
+        {
+            "campaign_id": "CAMP-44057",
+            "channel": "Social Media Hook Spreader",
+            "target_audience": "Viral Short-Form Traffic",
+            "clicks_generated": 507,
+            "leads_captured": 14,
+            "status": "Active & Converting",
+            "timestamp": "2026-08-01 16:46:59"
+        },
+        {
+            "campaign_id": "CAMP-39125",
+            "channel": "Social Media Hook Spreader",
+            "target_audience": "Viral Short-Form Traffic",
+            "clicks_generated": 390,
+            "leads_captured": 16,
+            "status": "Active & Converting",
+            "timestamp": "2026-08-01 17:21:00"
+        },
+        {
+            "campaign_id": "CAMP-73507",
+            "channel": "Telegram Growth Swarm",
+            "target_audience": "Tech & SaaS Audiences",
+            "clicks_generated": 179,
+            "leads_captured": 43,
+            "status": "Active & Converting",
+            "timestamp": "2026-08-01 17:44:30"
+        },
+        {
+            "campaign_id": "CAMP-47130",
+            "channel": "Telegram Growth Swarm",
+            "target_audience": "Tech & SaaS Audiences",
+            "clicks_generated": 495,
+            "leads_captured": 31,
+            "status": "Active & Converting",
+            "timestamp": "2026-08-01 18:04:00"
+        },
+        {
+            "campaign_id": "CAMP-74796",
+            "channel": "Social Media Hook Spreader",
+            "target_audience": "Viral Short-Form Traffic",
+            "clicks_generated": 523,
+            "leads_captured": 45,
+            "status": "Active & Converting",
+            "timestamp": "2026-08-01 18:33:31"
+        },
+        {
+            "campaign_id": "CAMP-21984",
+            "channel": "Social Media Hook Spreader",
+            "target_audience": "Viral Short-Form Traffic",
+            "clicks_generated": 190,
+            "leads_captured": 15,
+            "status": "Active & Converting",
+            "timestamp": "2026-08-01 18:53:01"
+        },
+        {
+            "campaign_id": "CAMP-99794",
+            "channel": "Telegram Growth Swarm",
+            "target_audience": "Tech & SaaS Audiences",
+            "clicks_generated": 300,
+            "leads_captured": 44,
+            "status": "Active & Converting",
+            "timestamp": "2026-08-01 19:15:01"
+        },
+        {
+            "campaign_id": "CAMP-92852",
+            "channel": "Automated SEO Blog Feed",
+            "target_audience": "Global Affiliate Searchers",
+            "clicks_generated": 195,
+            "leads_captured": 36,
+            "status": "Active & Converting",
+            "timestamp": "2026-08-01 19:50:01"
+        },
+        {
+            "campaign_id": "CAMP-53290",
+            "channel": "Telegram Growth Swarm",
+            "target_audience": "Tech & SaaS Audiences",
+            "clicks_generated": 322,
+            "leads_captured": 28,
+            "status": "Active & Converting",
+            "timestamp": "2026-08-01 20:24:32"
+        },
+        {
+            "campaign_id": "CAMP-36469",
+            "channel": "Direct Corporate Outreach",
+            "target_audience": "B2B Lead Conversion",
+            "clicks_generated": 248,
+            "leads_captured": 21,
+            "status": "Active & Converting",
+            "timestamp": "2026-08-01 20:43:02"
+        },
+        {
+            "campaign_id": "CAMP-71069",
+            "channel": "Social Media Hook Spreader",
+            "target_audience": "Viral Short-Form Traffic",
+            "clicks_generated": 532,
+            "leads_captured": 22,
+            "status": "Active & Converting",
+            "timestamp": "2026-08-01 21:23:03"
+        },
+        {
+            "campaign_id": "CAMP-95244",
+            "channel": "Social Media Hook Spreader",
+            "target_audience": "Viral Short-Form Traffic",
+            "clicks_generated": 544,
+            "leads_captured": 16,
+            "status": "Active & Converting",
+            "timestamp": "2026-08-01 22:00:03"
+        },
+        {
+            "campaign_id": "CAMP-85995",
+            "channel": "Automated SEO Blog Feed",
+            "target_audience": "Global Affiliate Searchers",
+            "clicks_generated": 310,
+            "leads_captured": 36,
+            "status": "Active & Converting",
+            "timestamp": "2026-08-01 22:24:03"
+        },
+        {
+            "campaign_id": "CAMP-83699",
+            "channel": "Social Media Hook Spreader",
+            "target_audience": "Viral Short-Form Traffic",
+            "clicks_generated": 402,
+            "leads_captured": 30,
+            "status": "Active & Converting",
+            "timestamp": "2026-08-01 22:42:33"
+        },
+        {
+            "campaign_id": "CAMP-75257",
+            "channel": "Automated SEO Blog Feed",
+            "target_audience": "Global Affiliate Searchers",
+            "clicks_generated": 582,
+            "leads_captured": 29,
+            "status": "Active & Converting",
+            "timestamp": "2026-08-01 23:14:03"
+        },
+        {
+            "campaign_id": "CAMP-18047",
+            "channel": "Telegram Growth Swarm",
+            "target_audience": "Tech & SaaS Audiences",
+            "clicks_generated": 312,
+            "leads_captured": 31,
+            "status": "Active & Converting",
+            "timestamp": "2026-08-01 23:57:34"
+        },
+        {
+            "campaign_id": "CAMP-25746",
+            "channel": "Telegram Growth Swarm",
+            "target_audience": "Tech & SaaS Audiences",
+            "clicks_generated": 160,
+            "leads_captured": 29,
+            "status": "Active & Converting",
+            "timestamp": "2026-08-02 00:33:04"
+        },
+        {
+            "campaign_id": "CAMP-82531",
+            "channel": "Automated SEO Blog Feed",
+            "target_audience": "Global Affiliate Searchers",
+            "clicks_generated": 423,
+            "leads_captured": 31,
+            "status": "Active & Converting",
+            "timestamp": "2026-08-02 00:48:05"
+        },
+        {
+            "campaign_id": "CAMP-94302",
+            "channel": "Telegram Growth Swarm",
+            "target_audience": "Tech & SaaS Audiences",
+            "clicks_generated": 376,
+            "leads_captured": 18,
+            "status": "Active & Converting",
+            "timestamp": "2026-08-02 01:24:35"
+        },
+        {
+            "campaign_id": "CAMP-91856",
+            "channel": "Automated SEO Blog Feed",
+            "target_audience": "Global Affiliate Searchers",
+            "clicks_generated": 552,
+            "leads_captured": 33,
+            "status": "Active & Converting",
+            "timestamp": "2026-08-02 01:40:05"
+        },
+        {
+            "campaign_id": "CAMP-88954",
+            "channel": "Telegram Growth Swarm",
+            "target_audience": "Tech & SaaS Audiences",
+            "clicks_generated": 467,
+            "leads_captured": 32,
+            "status": "Active & Converting",
+            "timestamp": "2026-08-02 02:20:36"
+        },
+        {
+            "campaign_id": "CAMP-11676",
+            "channel": "Automated SEO Blog Feed",
+            "target_audience": "Global Affiliate Searchers",
+            "clicks_generated": 220,
+            "leads_captured": 37,
+            "status": "Active & Converting",
+            "timestamp": "2026-08-02 02:36:36"
+        },
+        {
+            "campaign_id": "CAMP-84930",
+            "channel": "Social Media Hook Spreader",
+            "target_audience": "Viral Short-Form Traffic",
+            "clicks_generated": 241,
+            "leads_captured": 32,
+            "status": "Active & Converting",
+            "timestamp": "2026-08-02 03:19:07"
+        },
+        {
+            "campaign_id": "CAMP-25674",
+            "channel": "Telegram Growth Swarm",
+            "target_audience": "Tech & SaaS Audiences",
+            "clicks_generated": 340,
+            "leads_captured": 35,
+            "status": "Active & Converting",
+            "timestamp": "2026-08-02 03:35:07"
+        },
+        {
+            "campaign_id": "CAMP-11972",
+            "channel": "Automated SEO Blog Feed",
+            "target_audience": "Global Affiliate Searchers",
+            "clicks_generated": 296,
+            "leads_captured": 27,
+            "status": "Active & Converting",
+            "timestamp": "2026-08-02 04:17:07"
+        },
+        {
+            "campaign_id": "CAMP-94866",
+            "channel": "Direct Corporate Outreach",
+            "target_audience": "B2B Lead Conversion",
+            "clicks_generated": 174,
+            "leads_captured": 15,
+            "status": "Active & Converting",
+            "timestamp": "2026-08-02 04:57:08"
+        },
+        {
+            "campaign_id": "CAMP-24644",
+            "channel": "Telegram Growth Swarm",
+            "target_audience": "Tech & SaaS Audiences",
+            "clicks_generated": 279,
+            "leads_captured": 32,
+            "status": "Active & Converting",
+            "timestamp": "2026-08-02 05:38:39"
+        },
+        {
+            "campaign_id": "CAMP-78972",
+            "channel": "Direct Corporate Outreach",
+            "target_audience": "B2B Lead Conversion",
+            "clicks_generated": 428,
+            "leads_captured": 45,
+            "status": "Active & Converting",
+            "timestamp": "2026-08-02 06:03:09"
+        },
+        {
+            "campaign_id": "CAMP-37987",
+            "channel": "Direct Corporate Outreach",
+            "target_audience": "B2B Lead Conversion",
+            "clicks_generated": 578,
+            "leads_captured": 34,
+            "status": "Active & Converting",
+            "timestamp": "2026-08-02 06:25:09"
+        },
+        {
+            "campaign_id": "CAMP-12268",
+            "channel": "Automated SEO Blog Feed",
+            "target_audience": "Global Affiliate Searchers",
+            "clicks_generated": 298,
+            "leads_captured": 30,
+            "status": "Active & Converting",
+            "timestamp": "2026-08-02 07:05:40"
+        },
+        {
+            "campaign_id": "CAMP-62774",
+            "channel": "Telegram Growth Swarm",
+            "target_audience": "Tech & SaaS Audiences",
+            "clicks_generated": 175,
+            "leads_captured": 26,
+            "status": "Active & Converting",
+            "timestamp": "2026-08-02 07:34:40"
+        },
+        {
+            "campaign_id": "CAMP-31497",
+            "channel": "Direct Corporate Outreach",
+            "target_audience": "B2B Lead Conversion",
+            "clicks_generated": 184,
+            "leads_captured": 15,
+            "status": "Active & Converting",
+            "timestamp": "2026-08-02 08:18:41"
+        },
+        {
+            "campaign_id": "CAMP-28786",
+            "channel": "Automated SEO Blog Feed",
+            "target_audience": "Global Affiliate Searchers",
+            "clicks_generated": 509,
+            "leads_captured": 44,
+            "status": "Active & Converting",
+            "timestamp": "2026-08-02 08:58:41"
+        },
+        {
+            "campaign_id": "CAMP-86231",
+            "channel": "Social Media Hook Spreader",
+            "target_audience": "Viral Short-Form Traffic",
+            "clicks_generated": 481,
+            "leads_captured": 35,
+            "status": "Active & Converting",
+            "timestamp": "2026-08-02 09:26:12"
+        },
+        {
+            "campaign_id": "CAMP-31607",
+            "channel": "Automated SEO Blog Feed",
+            "target_audience": "Global Affiliate Searchers",
+            "clicks_generated": 313,
+            "leads_captured": 15,
+            "status": "Active & Converting",
+            "timestamp": "2026-08-02 10:00:42"
+        },
+        {
+            "campaign_id": "CAMP-27676",
+            "channel": "Telegram Growth Swarm",
+            "target_audience": "Tech & SaaS Audiences",
+            "clicks_generated": 172,
+            "leads_captured": 15,
+            "status": "Active & Converting",
+            "timestamp": "2026-08-02 10:38:13"
+        },
+        {
+            "campaign_id": "CAMP-88759",
+            "channel": "Direct Corporate Outreach",
+            "target_audience": "B2B Lead Conversion",
+            "clicks_generated": 186,
+            "leads_captured": 24,
+            "status": "Active & Converting",
+            "timestamp": "2026-08-02 10:59:13"
+        },
+        {
+            "campaign_id": "CAMP-38079",
+            "channel": "Automated SEO Blog Feed",
+            "target_audience": "Global Affiliate Searchers",
+            "clicks_generated": 397,
+            "leads_captured": 38,
+            "status": "Active & Converting",
+            "timestamp": "2026-08-02 11:19:13"
+        },
+        {
+            "campaign_id": "CAMP-91814",
+            "channel": "Social Media Hook Spreader",
+            "target_audience": "Viral Short-Form Traffic",
+            "clicks_generated": 541,
+            "leads_captured": 16,
+            "status": "Active & Converting",
+            "timestamp": "2026-08-02 11:50:44"
+        },
+        {
+            "campaign_id": "CAMP-16673",
+            "channel": "Automated SEO Blog Feed",
+            "target_audience": "Global Affiliate Searchers",
+            "clicks_generated": 273,
+            "leads_captured": 39,
+            "status": "Active & Converting",
+            "timestamp": "2026-08-02 12:23:14"
+        },
+        {
+            "campaign_id": "CAMP-85782",
+            "channel": "Telegram Growth Swarm",
+            "target_audience": "Tech & SaaS Audiences",
+            "clicks_generated": 584,
+            "leads_captured": 31,
+            "status": "Active & Converting",
+            "timestamp": "2026-08-02 13:03:15"
+        },
+        {
+            "campaign_id": "CAMP-55961",
+            "channel": "Telegram Growth Swarm",
+            "target_audience": "Tech & SaaS Audiences",
+            "clicks_generated": 506,
+            "leads_captured": 41,
+            "status": "Active & Converting",
+            "timestamp": "2026-08-02 13:24:45"
+        },
+        {
+            "campaign_id": "CAMP-87289",
+            "channel": "Telegram Growth Swarm",
+            "target_audience": "Tech & SaaS Audiences",
+            "clicks_generated": 231,
+            "leads_captured": 42,
+            "status": "Active & Converting",
+            "timestamp": "2026-08-02 13:42:45"
+        },
+        {
+            "campaign_id": "CAMP-55095",
+            "channel": "Telegram Growth Swarm",
+            "target_audience": "Tech & SaaS Audiences",
+            "clicks_generated": 553,
+            "leads_captured": 12,
+            "status": "Active & Converting",
+            "timestamp": "2026-08-02 14:10:15"
+        },
+        {
+            "campaign_id": "CAMP-25402",
+            "channel": "Direct Corporate Outreach",
+            "target_audience": "B2B Lead Conversion",
+            "clicks_generated": 223,
+            "leads_captured": 42,
+            "status": "Active & Converting",
+            "timestamp": "2026-08-02 14:53:46"
+        },
+        {
+            "campaign_id": "CAMP-95600",
+            "channel": "Direct Corporate Outreach",
+            "target_audience": "B2B Lead Conversion",
+            "clicks_generated": 582,
+            "leads_captured": 22,
+            "status": "Active & Converting",
+            "timestamp": "2026-08-02 15:27:46"
+        },
+        {
+            "campaign_id": "CAMP-50502",
+            "channel": "Social Media Hook Spreader",
+            "target_audience": "Viral Short-Form Traffic",
+            "clicks_generated": 590,
+            "leads_captured": 24,
+            "status": "Active & Converting",
+            "timestamp": "2026-08-02 15:43:17"
+        },
+        {
+            "campaign_id": "CAMP-57944",
+            "channel": "Telegram Growth Swarm",
+            "target_audience": "Tech & SaaS Audiences",
+            "clicks_generated": 469,
+            "leads_captured": 31,
+            "status": "Active & Converting",
+            "timestamp": "2026-08-02 16:07:47"
+        },
+        {
+            "campaign_id": "CAMP-55158",
+            "channel": "Direct Corporate Outreach",
+            "target_audience": "B2B Lead Conversion",
+            "clicks_generated": 564,
+            "leads_captured": 14,
+            "status": "Active & Converting",
+            "timestamp": "2026-08-02 16:36:17"
+        },
+        {
+            "campaign_id": "CAMP-98371",
+            "channel": "Telegram Growth Swarm",
+            "target_audience": "Tech & SaaS Audiences",
+            "clicks_generated": 477,
+            "leads_captured": 18,
+            "status": "Active & Converting",
+            "timestamp": "2026-08-02 17:07:18"
+        },
+        {
+            "campaign_id": "CAMP-70331",
+            "channel": "Telegram Growth Swarm",
+            "target_audience": "Tech & SaaS Audiences",
+            "clicks_generated": 232,
+            "leads_captured": 42,
+            "status": "Active & Converting",
+            "timestamp": "2026-08-02 17:34:18"
+        },
+        {
+            "campaign_id": "CAMP-83068",
+            "channel": "Automated SEO Blog Feed",
+            "target_audience": "Global Affiliate Searchers",
+            "clicks_generated": 588,
+            "leads_captured": 20,
+            "status": "Active & Converting",
+            "timestamp": "2026-08-02 18:05:49"
+        },
+        {
+            "campaign_id": "CAMP-68064",
+            "channel": "Telegram Growth Swarm",
+            "target_audience": "Tech & SaaS Audiences",
+            "clicks_generated": 571,
+            "leads_captured": 35,
+            "status": "Active & Converting",
+            "timestamp": "2026-08-02 18:47:20"
+        },
+        {
+            "campaign_id": "CAMP-10955",
+            "channel": "Telegram Growth Swarm",
+            "target_audience": "Tech & SaaS Audiences",
+            "clicks_generated": 577,
+            "leads_captured": 26,
+            "status": "Active & Converting",
+            "timestamp": "2026-08-02 19:22:50"
+        },
+        {
+            "campaign_id": "CAMP-59079",
+            "channel": "Social Media Hook Spreader",
+            "target_audience": "Viral Short-Form Traffic",
+            "clicks_generated": 394,
+            "leads_captured": 24,
+            "status": "Active & Converting",
+            "timestamp": "2026-08-02 19:40:50"
+        },
+        {
+            "campaign_id": "CAMP-67924",
+            "channel": "Automated SEO Blog Feed",
+            "target_audience": "Global Affiliate Searchers",
+            "clicks_generated": 299,
+            "leads_captured": 21,
+            "status": "Active & Converting",
+            "timestamp": "2026-08-02 19:56:21"
+        },
+        {
+            "campaign_id": "CAMP-61413",
+            "channel": "Automated SEO Blog Feed",
+            "target_audience": "Global Affiliate Searchers",
+            "clicks_generated": 297,
+            "leads_captured": 36,
+            "status": "Active & Converting",
+            "timestamp": "2026-08-02 20:29:51"
+        },
+        {
+            "campaign_id": "CAMP-58182",
+            "channel": "Social Media Hook Spreader",
+            "target_audience": "Viral Short-Form Traffic",
+            "clicks_generated": 323,
+            "leads_captured": 13,
+            "status": "Active & Converting",
+            "timestamp": "2026-08-02 20:58:22"
+        },
+        {
+            "campaign_id": "CAMP-36436",
+            "channel": "Automated SEO Blog Feed",
+            "target_audience": "Global Affiliate Searchers",
+            "clicks_generated": 386,
+            "leads_captured": 37,
+            "status": "Active & Converting",
+            "timestamp": "2026-08-02 21:22:22"
+        },
+        {
+            "campaign_id": "CAMP-44171",
+            "channel": "Telegram Growth Swarm",
+            "target_audience": "Tech & SaaS Audiences",
+            "clicks_generated": 258,
+            "leads_captured": 24,
+            "status": "Active & Converting",
+            "timestamp": "2026-08-02 21:47:22"
+        },
+        {
+            "campaign_id": "CAMP-72453",
+            "channel": "Direct Corporate Outreach",
+            "target_audience": "B2B Lead Conversion",
+            "clicks_generated": 221,
+            "leads_captured": 31,
+            "status": "Active & Converting",
+            "timestamp": "2026-08-02 22:14:53"
+        },
+        {
+            "campaign_id": "CAMP-78137",
+            "channel": "Direct Corporate Outreach",
+            "target_audience": "B2B Lead Conversion",
+            "clicks_generated": 599,
+            "leads_captured": 17,
+            "status": "Active & Converting",
+            "timestamp": "2026-08-03 09:47:24"
+        },
+        {
+            "campaign_id": "CAMP-98946",
+            "channel": "Telegram Growth Swarm",
+            "target_audience": "Tech & SaaS Audiences",
+            "clicks_generated": 464,
+            "leads_captured": 30,
+            "status": "Active & Converting",
+            "timestamp": "2026-08-03 10:25:55"
+        },
+        {
+            "campaign_id": "CAMP-86841",
+            "channel": "Direct Corporate Outreach",
+            "target_audience": "B2B Lead Conversion",
+            "clicks_generated": 341,
+            "leads_captured": 31,
+            "status": "Active & Converting",
+            "timestamp": "2026-08-03 10:58:55"
+        },
+        {
+            "campaign_id": "CAMP-89653",
+            "channel": "Direct Corporate Outreach",
+            "target_audience": "B2B Lead Conversion",
+            "clicks_generated": 352,
+            "leads_captured": 25,
+            "status": "Active & Converting",
+            "timestamp": "2026-08-03 11:13:55"
+        },
+        {
+            "campaign_id": "CAMP-35830",
+            "channel": "Automated SEO Blog Feed",
+            "target_audience": "Global Affiliate Searchers",
+            "clicks_generated": 462,
+            "leads_captured": 26,
+            "status": "Active & Converting",
+            "timestamp": "2026-08-03 11:53:56"
+        },
+        {
+            "campaign_id": "CAMP-99238",
+            "channel": "Automated SEO Blog Feed",
+            "target_audience": "Global Affiliate Searchers",
+            "clicks_generated": 444,
+            "leads_captured": 23,
+            "status": "Active & Converting",
+            "timestamp": "2026-08-03 12:10:56"
+        },
+        {
+            "campaign_id": "CAMP-69315",
+            "channel": "Telegram Growth Swarm",
+            "target_audience": "Tech & SaaS Audiences",
+            "clicks_generated": 342,
+            "leads_captured": 37,
+            "status": "Active & Converting",
+            "timestamp": "2026-08-03 12:26:26"
+        },
+        {
+            "campaign_id": "CAMP-47739",
+            "channel": "Social Media Hook Spreader",
+            "target_audience": "Viral Short-Form Traffic",
+            "clicks_generated": 366,
+            "leads_captured": 17,
+            "status": "Active & Converting",
+            "timestamp": "2026-08-03 12:49:57"
+        },
+        {
+            "campaign_id": "CAMP-96620",
+            "channel": "Automated SEO Blog Feed",
+            "target_audience": "Global Affiliate Searchers",
+            "clicks_generated": 302,
+            "leads_captured": 16,
+            "status": "Active & Converting",
+            "timestamp": "2026-08-03 13:25:27"
+        },
+        {
+            "campaign_id": "CAMP-58080",
+            "channel": "Direct Corporate Outreach",
+            "target_audience": "B2B Lead Conversion",
+            "clicks_generated": 361,
+            "leads_captured": 42,
+            "status": "Active & Converting",
+            "timestamp": "2026-08-03 13:48:57"
+        },
+        {
+            "campaign_id": "CAMP-68247",
+            "channel": "Automated SEO Blog Feed",
+            "target_audience": "Global Affiliate Searchers",
+            "clicks_generated": 455,
+            "leads_captured": 36,
+            "status": "Active & Converting",
+            "timestamp": "2026-08-03 14:15:28"
+        },
+        {
+            "campaign_id": "CAMP-58000",
+            "channel": "Direct Corporate Outreach",
+            "target_audience": "B2B Lead Conversion",
+            "clicks_generated": 263,
+            "leads_captured": 25,
+            "status": "Active & Converting",
+            "timestamp": "2026-08-03 14:34:28"
+        },
+        {
+            "campaign_id": "CAMP-95271",
+            "channel": "Social Media Hook Spreader",
+            "target_audience": "Viral Short-Form Traffic",
+            "clicks_generated": 351,
+            "leads_captured": 29,
+            "status": "Active & Converting",
+            "timestamp": "2026-08-03 15:09:59"
+        },
+        {
+            "campaign_id": "CAMP-63191",
+            "channel": "Social Media Hook Spreader",
+            "target_audience": "Viral Short-Form Traffic",
+            "clicks_generated": 283,
+            "leads_captured": 14,
+            "status": "Active & Converting",
+            "timestamp": "2026-08-03 15:38:29"
+        },
+        {
+            "campaign_id": "CAMP-89827",
+            "channel": "Direct Corporate Outreach",
+            "target_audience": "B2B Lead Conversion",
+            "clicks_generated": 271,
+            "leads_captured": 36,
+            "status": "Active & Converting",
+            "timestamp": "2026-08-03 15:54:29"
+        },
+        {
+            "campaign_id": "CAMP-72603",
+            "channel": "Social Media Hook Spreader",
+            "target_audience": "Viral Short-Form Traffic",
+            "clicks_generated": 490,
+            "leads_captured": 45,
+            "status": "Active & Converting",
+            "timestamp": "2026-08-03 16:15:59"
+        },
+        {
+            "campaign_id": "CAMP-66519",
+            "channel": "Telegram Growth Swarm",
+            "target_audience": "Tech & SaaS Audiences",
+            "clicks_generated": 267,
+            "leads_captured": 45,
+            "status": "Active & Converting",
+            "timestamp": "2026-08-03 16:51:30"
+        },
+        {
+            "campaign_id": "CAMP-78129",
+            "channel": "Social Media Hook Spreader",
+            "target_audience": "Viral Short-Form Traffic",
+            "clicks_generated": 518,
+            "leads_captured": 20,
+            "status": "Active & Converting",
+            "timestamp": "2026-08-03 17:12:00"
         }
     ]
 }

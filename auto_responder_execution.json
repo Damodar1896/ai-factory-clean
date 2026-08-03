@@ -23,6 +23,2052 @@
             "recipient_tier": "Enterprise Lead",
             "status": "Auto-Responded & Nurtured",
             "timestamp": "2026-07-29 13:36:23"
+        },
+        {
+            "response_id": "RESP-51419",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-07-29 14:05:53"
+        },
+        {
+            "response_id": "RESP-88231",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-07-29 14:34:23"
+        },
+        {
+            "response_id": "RESP-88272",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-07-29 14:59:54"
+        },
+        {
+            "response_id": "RESP-44990",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-07-29 15:27:24"
+        },
+        {
+            "response_id": "RESP-98984",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-07-29 15:43:24"
+        },
+        {
+            "response_id": "RESP-62378",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-07-29 16:08:25"
+        },
+        {
+            "response_id": "RESP-82424",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-07-29 16:31:25"
+        },
+        {
+            "response_id": "RESP-27662",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-07-29 16:55:55"
+        },
+        {
+            "response_id": "RESP-49678",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-07-29 17:16:26"
+        },
+        {
+            "response_id": "RESP-33381",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-07-29 17:33:26"
+        },
+        {
+            "response_id": "RESP-28141",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-07-29 17:44:56"
+        },
+        {
+            "response_id": "RESP-80954",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-07-29 18:12:57"
+        },
+        {
+            "response_id": "RESP-94546",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-07-29 18:30:27"
+        },
+        {
+            "response_id": "RESP-44536",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-07-29 18:51:27"
+        },
+        {
+            "response_id": "RESP-70478",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-07-29 19:15:27"
+        },
+        {
+            "response_id": "RESP-78170",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-07-29 19:25:28"
+        },
+        {
+            "response_id": "RESP-30133",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-07-29 19:47:28"
+        },
+        {
+            "response_id": "RESP-40321",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-07-29 19:58:28"
+        },
+        {
+            "response_id": "RESP-16667",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-07-29 20:17:58"
+        },
+        {
+            "response_id": "RESP-39323",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-07-29 20:32:28"
+        },
+        {
+            "response_id": "RESP-47608",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-07-29 20:50:28"
+        },
+        {
+            "response_id": "RESP-53649",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-07-29 21:04:29"
+        },
+        {
+            "response_id": "RESP-38678",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-07-29 21:22:29"
+        },
+        {
+            "response_id": "RESP-20382",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-07-29 21:37:29"
+        },
+        {
+            "response_id": "RESP-66253",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-07-29 22:06:29"
+        },
+        {
+            "response_id": "RESP-11691",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-07-29 22:17:00"
+        },
+        {
+            "response_id": "RESP-45246",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-07-29 22:31:30"
+        },
+        {
+            "response_id": "RESP-13368",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-07-29 22:42:00"
+        },
+        {
+            "response_id": "RESP-79737",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-07-29 22:56:00"
+        },
+        {
+            "response_id": "RESP-30502",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-07-29 23:23:00"
+        },
+        {
+            "response_id": "RESP-58405",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-07-29 23:50:30"
+        },
+        {
+            "response_id": "RESP-10987",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-07-30 00:02:01"
+        },
+        {
+            "response_id": "RESP-83750",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-07-30 00:13:01"
+        },
+        {
+            "response_id": "RESP-72299",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-07-30 00:39:31"
+        },
+        {
+            "response_id": "RESP-13478",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-07-30 01:07:01"
+        },
+        {
+            "response_id": "RESP-27319",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-07-30 01:20:02"
+        },
+        {
+            "response_id": "RESP-14221",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-07-30 01:44:32"
+        },
+        {
+            "response_id": "RESP-70248",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-07-30 02:08:32"
+        },
+        {
+            "response_id": "RESP-67825",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-07-30 02:28:03"
+        },
+        {
+            "response_id": "RESP-95651",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-07-30 02:41:33"
+        },
+        {
+            "response_id": "RESP-74397",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-07-30 03:06:33"
+        },
+        {
+            "response_id": "RESP-94150",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-07-30 03:16:33"
+        },
+        {
+            "response_id": "RESP-73479",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-07-30 03:44:34"
+        },
+        {
+            "response_id": "RESP-97985",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-07-30 04:00:04"
+        },
+        {
+            "response_id": "RESP-13979",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-07-30 04:15:34"
+        },
+        {
+            "response_id": "RESP-85305",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-07-30 04:33:04"
+        },
+        {
+            "response_id": "RESP-73276",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-07-30 04:54:05"
+        },
+        {
+            "response_id": "RESP-94099",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-07-30 05:18:35"
+        },
+        {
+            "response_id": "RESP-86945",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-07-30 05:40:05"
+        },
+        {
+            "response_id": "RESP-86261",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-07-30 05:59:06"
+        },
+        {
+            "response_id": "RESP-79890",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-07-30 06:27:36"
+        },
+        {
+            "response_id": "RESP-38222",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-07-30 06:48:36"
+        },
+        {
+            "response_id": "RESP-45528",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-07-30 07:17:07"
+        },
+        {
+            "response_id": "RESP-48120",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-07-30 07:29:07"
+        },
+        {
+            "response_id": "RESP-74390",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-07-30 07:48:37"
+        },
+        {
+            "response_id": "RESP-40731",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-07-30 08:04:07"
+        },
+        {
+            "response_id": "RESP-67818",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-07-30 08:16:08"
+        },
+        {
+            "response_id": "RESP-37511",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-07-30 08:34:38"
+        },
+        {
+            "response_id": "RESP-45456",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-07-30 08:52:08"
+        },
+        {
+            "response_id": "RESP-88416",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-07-30 09:20:08"
+        },
+        {
+            "response_id": "RESP-23530",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-07-30 09:42:09"
+        },
+        {
+            "response_id": "RESP-83630",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-07-30 09:54:09"
+        },
+        {
+            "response_id": "RESP-20664",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-07-30 10:22:39"
+        },
+        {
+            "response_id": "RESP-31137",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-07-30 10:35:09"
+        },
+        {
+            "response_id": "RESP-14735",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-07-30 10:57:40"
+        },
+        {
+            "response_id": "RESP-20434",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-07-30 11:26:10"
+        },
+        {
+            "response_id": "RESP-43110",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-07-30 11:45:40"
+        },
+        {
+            "response_id": "RESP-91528",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-07-30 12:02:41"
+        },
+        {
+            "response_id": "RESP-55860",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-07-30 12:19:41"
+        },
+        {
+            "response_id": "RESP-81841",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-07-30 12:48:11"
+        },
+        {
+            "response_id": "RESP-59773",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-07-30 13:11:11"
+        },
+        {
+            "response_id": "RESP-62383",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-07-30 13:31:42"
+        },
+        {
+            "response_id": "RESP-92424",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-07-30 13:45:12"
+        },
+        {
+            "response_id": "RESP-99379",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-07-30 14:11:42"
+        },
+        {
+            "response_id": "RESP-95697",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-07-30 14:21:42"
+        },
+        {
+            "response_id": "RESP-53648",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-07-30 14:47:43"
+        },
+        {
+            "response_id": "RESP-19129",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-07-30 15:09:43"
+        },
+        {
+            "response_id": "RESP-67900",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-07-30 15:27:43"
+        },
+        {
+            "response_id": "RESP-89890",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-07-30 15:52:43"
+        },
+        {
+            "response_id": "RESP-16433",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-07-30 16:05:44"
+        },
+        {
+            "response_id": "RESP-81518",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-07-30 16:32:44"
+        },
+        {
+            "response_id": "RESP-85022",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-07-30 16:44:44"
+        },
+        {
+            "response_id": "RESP-81220",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-07-30 16:57:14"
+        },
+        {
+            "response_id": "RESP-75875",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-07-30 17:21:15"
+        },
+        {
+            "response_id": "RESP-53381",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-07-30 17:50:45"
+        },
+        {
+            "response_id": "RESP-59474",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-07-30 18:18:45"
+        },
+        {
+            "response_id": "RESP-78544",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-07-30 18:39:15"
+        },
+        {
+            "response_id": "RESP-85486",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-07-30 18:50:45"
+        },
+        {
+            "response_id": "RESP-38956",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-07-30 19:04:15"
+        },
+        {
+            "response_id": "RESP-81132",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-07-30 19:33:46"
+        },
+        {
+            "response_id": "RESP-94769",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-07-30 19:53:46"
+        },
+        {
+            "response_id": "RESP-25220",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-07-30 20:04:16"
+        },
+        {
+            "response_id": "RESP-72693",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-07-30 20:33:46"
+        },
+        {
+            "response_id": "RESP-76998",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-07-30 20:45:16"
+        },
+        {
+            "response_id": "RESP-18825",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-07-30 21:12:17"
+        },
+        {
+            "response_id": "RESP-28903",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-07-30 21:37:17"
+        },
+        {
+            "response_id": "RESP-32933",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-07-30 21:50:17"
+        },
+        {
+            "response_id": "RESP-93647",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-07-30 22:12:17"
+        },
+        {
+            "response_id": "RESP-67737",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-07-30 22:41:47"
+        },
+        {
+            "response_id": "RESP-95134",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-07-30 23:07:18"
+        },
+        {
+            "response_id": "RESP-19783",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-07-30 23:21:48"
+        },
+        {
+            "response_id": "RESP-45218",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-07-30 23:46:18"
+        },
+        {
+            "response_id": "RESP-55043",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-07-31 00:15:49"
+        },
+        {
+            "response_id": "RESP-93304",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-07-31 00:30:49"
+        },
+        {
+            "response_id": "RESP-40417",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-07-31 00:49:19"
+        },
+        {
+            "response_id": "RESP-60184",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-07-31 00:59:19"
+        },
+        {
+            "response_id": "RESP-30272",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-07-31 01:15:50"
+        },
+        {
+            "response_id": "RESP-96576",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-07-31 01:44:50"
+        },
+        {
+            "response_id": "RESP-35289",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-07-31 02:14:21"
+        },
+        {
+            "response_id": "RESP-51022",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-07-31 02:43:51"
+        },
+        {
+            "response_id": "RESP-14040",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-07-31 02:56:51"
+        },
+        {
+            "response_id": "RESP-73568",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-07-31 03:09:51"
+        },
+        {
+            "response_id": "RESP-43185",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-07-31 03:21:22"
+        },
+        {
+            "response_id": "RESP-47924",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-07-31 03:33:52"
+        },
+        {
+            "response_id": "RESP-76127",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-07-31 03:53:22"
+        },
+        {
+            "response_id": "RESP-23672",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-07-31 04:16:52"
+        },
+        {
+            "response_id": "RESP-10421",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-07-31 04:45:53"
+        },
+        {
+            "response_id": "RESP-35176",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-07-31 05:06:23"
+        },
+        {
+            "response_id": "RESP-85629",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-07-31 05:19:23"
+        },
+        {
+            "response_id": "RESP-92686",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-07-31 05:31:23"
+        },
+        {
+            "response_id": "RESP-86044",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-07-31 05:57:54"
+        },
+        {
+            "response_id": "RESP-75370",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-07-31 06:20:54"
+        },
+        {
+            "response_id": "RESP-40580",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-07-31 06:34:54"
+        },
+        {
+            "response_id": "RESP-36944",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-07-31 06:57:55"
+        },
+        {
+            "response_id": "RESP-78676",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-07-31 07:25:25"
+        },
+        {
+            "response_id": "RESP-42268",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-07-31 07:54:55"
+        },
+        {
+            "response_id": "RESP-89599",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-07-31 08:09:56"
+        },
+        {
+            "response_id": "RESP-39966",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-07-31 08:25:56"
+        },
+        {
+            "response_id": "RESP-85517",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-07-31 08:51:56"
+        },
+        {
+            "response_id": "RESP-36146",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-07-31 09:11:57"
+        },
+        {
+            "response_id": "RESP-90524",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-07-31 09:27:27"
+        },
+        {
+            "response_id": "RESP-94302",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-07-31 09:46:27"
+        },
+        {
+            "response_id": "RESP-40942",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-07-31 10:02:57"
+        },
+        {
+            "response_id": "RESP-23145",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-07-31 10:31:58"
+        },
+        {
+            "response_id": "RESP-99524",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-07-31 11:00:58"
+        },
+        {
+            "response_id": "RESP-10448",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-07-31 11:29:29"
+        },
+        {
+            "response_id": "RESP-22209",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-07-31 11:43:29"
+        },
+        {
+            "response_id": "RESP-11884",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-07-31 12:11:59"
+        },
+        {
+            "response_id": "RESP-65428",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-07-31 12:38:59"
+        },
+        {
+            "response_id": "RESP-89906",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-07-31 12:52:29"
+        },
+        {
+            "response_id": "RESP-74163",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-07-31 13:07:00"
+        },
+        {
+            "response_id": "RESP-71303",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-07-31 13:26:00"
+        },
+        {
+            "response_id": "RESP-61899",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-07-31 13:54:00"
+        },
+        {
+            "response_id": "RESP-34766",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-07-31 14:12:30"
+        },
+        {
+            "response_id": "RESP-96521",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-07-31 14:39:01"
+        },
+        {
+            "response_id": "RESP-10186",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-07-31 14:55:31"
+        },
+        {
+            "response_id": "RESP-46085",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-07-31 15:11:31"
+        },
+        {
+            "response_id": "RESP-30785",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-07-31 15:33:31"
+        },
+        {
+            "response_id": "RESP-14527",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-07-31 15:46:31"
+        },
+        {
+            "response_id": "RESP-32183",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-07-31 16:01:31"
+        },
+        {
+            "response_id": "RESP-10707",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-07-31 16:25:32"
+        },
+        {
+            "response_id": "RESP-76047",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-07-31 16:47:02"
+        },
+        {
+            "response_id": "RESP-82720",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-07-31 16:58:02"
+        },
+        {
+            "response_id": "RESP-55584",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-07-31 17:17:33"
+        },
+        {
+            "response_id": "RESP-67885",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-07-31 17:36:33"
+        },
+        {
+            "response_id": "RESP-15028",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-07-31 17:48:33"
+        },
+        {
+            "response_id": "RESP-22956",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-07-31 18:06:33"
+        },
+        {
+            "response_id": "RESP-78637",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-07-31 18:26:04"
+        },
+        {
+            "response_id": "RESP-10854",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-07-31 18:46:04"
+        },
+        {
+            "response_id": "RESP-25847",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-07-31 19:06:34"
+        },
+        {
+            "response_id": "RESP-94838",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-07-31 19:35:05"
+        },
+        {
+            "response_id": "RESP-29593",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-07-31 19:57:05"
+        },
+        {
+            "response_id": "RESP-43036",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-07-31 20:11:05"
+        },
+        {
+            "response_id": "RESP-45994",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-07-31 20:30:05"
+        },
+        {
+            "response_id": "RESP-12411",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-07-31 20:50:05"
+        },
+        {
+            "response_id": "RESP-60735",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-07-31 21:16:36"
+        },
+        {
+            "response_id": "RESP-82818",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-07-31 21:29:36"
+        },
+        {
+            "response_id": "RESP-52563",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-07-31 21:49:36"
+        },
+        {
+            "response_id": "RESP-37533",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-07-31 22:17:36"
+        },
+        {
+            "response_id": "RESP-43623",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-07-31 22:37:37"
+        },
+        {
+            "response_id": "RESP-58384",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-07-31 22:50:07"
+        },
+        {
+            "response_id": "RESP-61329",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-07-31 23:19:07"
+        },
+        {
+            "response_id": "RESP-56107",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-07-31 23:34:37"
+        },
+        {
+            "response_id": "RESP-95493",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-08-01 00:03:38"
+        },
+        {
+            "response_id": "RESP-91333",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-08-01 00:19:08"
+        },
+        {
+            "response_id": "RESP-77316",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-08-01 00:31:38"
+        },
+        {
+            "response_id": "RESP-89745",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-08-01 00:53:08"
+        },
+        {
+            "response_id": "RESP-23569",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-08-01 01:09:39"
+        },
+        {
+            "response_id": "RESP-18094",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-08-01 01:32:39"
+        },
+        {
+            "response_id": "RESP-56638",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-08-01 01:47:09"
+        },
+        {
+            "response_id": "RESP-78332",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-08-01 02:04:09"
+        },
+        {
+            "response_id": "RESP-31087",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-08-01 02:33:10"
+        },
+        {
+            "response_id": "RESP-61661",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-08-01 02:47:10"
+        },
+        {
+            "response_id": "RESP-70973",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-08-01 03:01:40"
+        },
+        {
+            "response_id": "RESP-41892",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-08-01 03:16:41"
+        },
+        {
+            "response_id": "RESP-61211",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-08-01 03:27:41"
+        },
+        {
+            "response_id": "RESP-25411",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-08-01 03:46:11"
+        },
+        {
+            "response_id": "RESP-93774",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-08-01 04:13:41"
+        },
+        {
+            "response_id": "RESP-55174",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-08-01 04:40:12"
+        },
+        {
+            "response_id": "RESP-82534",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-08-01 05:06:12"
+        },
+        {
+            "response_id": "RESP-77205",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-08-01 05:34:42"
+        },
+        {
+            "response_id": "RESP-86731",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-08-01 06:01:13"
+        },
+        {
+            "response_id": "RESP-96628",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-08-01 06:16:13"
+        },
+        {
+            "response_id": "RESP-37260",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-08-01 06:39:43"
+        },
+        {
+            "response_id": "RESP-24908",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-08-01 07:03:14"
+        },
+        {
+            "response_id": "RESP-81825",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-08-01 07:19:14"
+        },
+        {
+            "response_id": "RESP-10957",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-08-01 07:38:14"
+        },
+        {
+            "response_id": "RESP-92160",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-08-01 07:54:45"
+        },
+        {
+            "response_id": "RESP-96169",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-08-01 08:18:45"
+        },
+        {
+            "response_id": "RESP-14648",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-08-01 08:44:45"
+        },
+        {
+            "response_id": "RESP-72681",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-08-01 09:08:46"
+        },
+        {
+            "response_id": "RESP-14721",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-08-01 09:25:16"
+        },
+        {
+            "response_id": "RESP-28984",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-08-01 09:48:46"
+        },
+        {
+            "response_id": "RESP-29325",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-08-01 10:10:47"
+        },
+        {
+            "response_id": "RESP-94449",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-08-01 10:34:47"
+        },
+        {
+            "response_id": "RESP-31779",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-08-01 10:52:47"
+        },
+        {
+            "response_id": "RESP-11353",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-08-01 11:05:48"
+        },
+        {
+            "response_id": "RESP-46834",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-08-01 11:33:18"
+        },
+        {
+            "response_id": "RESP-10689",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-08-01 11:46:18"
+        },
+        {
+            "response_id": "RESP-44111",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-08-01 12:11:19"
+        },
+        {
+            "response_id": "RESP-64482",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-08-01 12:32:19"
+        },
+        {
+            "response_id": "RESP-52807",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-08-01 12:44:49"
+        },
+        {
+            "response_id": "RESP-80468",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-08-01 13:13:49"
+        },
+        {
+            "response_id": "RESP-68401",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-08-01 13:29:19"
+        },
+        {
+            "response_id": "RESP-86302",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-08-01 13:51:19"
+        },
+        {
+            "response_id": "RESP-98731",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-08-01 14:03:49"
+        },
+        {
+            "response_id": "RESP-55617",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-08-01 14:26:20"
+        },
+        {
+            "response_id": "RESP-75315",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-08-01 14:55:20"
+        },
+        {
+            "response_id": "RESP-55730",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-08-01 15:06:50"
+        },
+        {
+            "response_id": "RESP-77556",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-08-01 15:33:20"
+        },
+        {
+            "response_id": "RESP-34489",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-08-01 15:53:51"
+        },
+        {
+            "response_id": "RESP-92455",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-08-01 16:18:51"
+        },
+        {
+            "response_id": "RESP-86814",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-08-01 16:37:51"
+        },
+        {
+            "response_id": "RESP-83210",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-08-01 16:57:51"
+        },
+        {
+            "response_id": "RESP-39967",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-08-01 17:08:51"
+        },
+        {
+            "response_id": "RESP-32651",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-08-01 17:28:52"
+        },
+        {
+            "response_id": "RESP-60121",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-08-01 17:43:52"
+        },
+        {
+            "response_id": "RESP-17794",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-08-01 18:01:52"
+        },
+        {
+            "response_id": "RESP-26385",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-08-01 18:13:22"
+        },
+        {
+            "response_id": "RESP-55763",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-08-01 18:35:22"
+        },
+        {
+            "response_id": "RESP-38469",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-08-01 18:50:23"
+        },
+        {
+            "response_id": "RESP-64786",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-08-01 19:08:53"
+        },
+        {
+            "response_id": "RESP-65249",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-08-01 19:36:23"
+        },
+        {
+            "response_id": "RESP-60274",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-08-01 20:05:23"
+        },
+        {
+            "response_id": "RESP-31970",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-08-01 20:24:24"
+        },
+        {
+            "response_id": "RESP-99111",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-08-01 20:40:54"
+        },
+        {
+            "response_id": "RESP-86428",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-08-01 20:58:54"
+        },
+        {
+            "response_id": "RESP-28395",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-08-01 21:28:25"
+        },
+        {
+            "response_id": "RESP-48986",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-08-01 21:47:25"
+        },
+        {
+            "response_id": "RESP-69306",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-08-01 21:59:55"
+        },
+        {
+            "response_id": "RESP-90127",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-08-01 22:28:25"
+        },
+        {
+            "response_id": "RESP-22045",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-08-01 22:38:55"
+        },
+        {
+            "response_id": "RESP-49877",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-08-01 23:02:55"
+        },
+        {
+            "response_id": "RESP-49513",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-08-01 23:13:25"
+        },
+        {
+            "response_id": "RESP-20003",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-08-01 23:25:26"
+        },
+        {
+            "response_id": "RESP-96736",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-08-01 23:52:26"
+        },
+        {
+            "response_id": "RESP-26572",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-08-02 00:09:56"
+        },
+        {
+            "response_id": "RESP-87426",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-08-02 00:37:56"
+        },
+        {
+            "response_id": "RESP-90916",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-08-02 01:02:57"
+        },
+        {
+            "response_id": "RESP-12092",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-08-02 01:27:27"
+        },
+        {
+            "response_id": "RESP-89749",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-08-02 01:39:57"
+        },
+        {
+            "response_id": "RESP-26192",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-08-02 02:04:58"
+        },
+        {
+            "response_id": "RESP-88035",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-08-02 02:30:28"
+        },
+        {
+            "response_id": "RESP-89172",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-08-02 02:53:28"
+        },
+        {
+            "response_id": "RESP-74720",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-08-02 03:10:59"
+        },
+        {
+            "response_id": "RESP-43664",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-08-02 03:30:59"
+        },
+        {
+            "response_id": "RESP-18996",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-08-02 03:57:29"
+        },
+        {
+            "response_id": "RESP-70295",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-08-02 04:15:30"
+        },
+        {
+            "response_id": "RESP-12531",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-08-02 04:34:30"
+        },
+        {
+            "response_id": "RESP-60122",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-08-02 04:59:00"
+        },
+        {
+            "response_id": "RESP-62524",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-08-02 05:15:00"
+        },
+        {
+            "response_id": "RESP-16502",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-08-02 05:35:31"
+        },
+        {
+            "response_id": "RESP-98819",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-08-02 05:51:31"
+        },
+        {
+            "response_id": "RESP-42063",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-08-02 06:04:01"
+        },
+        {
+            "response_id": "RESP-85781",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-08-02 06:19:01"
+        },
+        {
+            "response_id": "RESP-47683",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-08-02 06:43:32"
+        },
+        {
+            "response_id": "RESP-98846",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-08-02 07:13:02"
+        },
+        {
+            "response_id": "RESP-47245",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-08-02 07:26:32"
+        },
+        {
+            "response_id": "RESP-70247",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-08-02 07:38:33"
+        },
+        {
+            "response_id": "RESP-95258",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-08-02 08:08:03"
+        },
+        {
+            "response_id": "RESP-93751",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-08-02 08:23:03"
+        },
+        {
+            "response_id": "RESP-61178",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-08-02 08:49:34"
+        },
+        {
+            "response_id": "RESP-12611",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-08-02 08:59:34"
+        },
+        {
+            "response_id": "RESP-13554",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-08-02 09:27:04"
+        },
+        {
+            "response_id": "RESP-45869",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-08-02 09:43:34"
+        },
+        {
+            "response_id": "RESP-35688",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-08-02 10:06:35"
+        },
+        {
+            "response_id": "RESP-78493",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-08-02 10:30:35"
+        },
+        {
+            "response_id": "RESP-87775",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-08-02 10:43:35"
+        },
+        {
+            "response_id": "RESP-31485",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-08-02 11:02:06"
+        },
+        {
+            "response_id": "RESP-26555",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-08-02 11:21:06"
+        },
+        {
+            "response_id": "RESP-36385",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-08-02 11:46:06"
+        },
+        {
+            "response_id": "RESP-61109",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-08-02 11:56:06"
+        },
+        {
+            "response_id": "RESP-98401",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-08-02 12:14:37"
+        },
+        {
+            "response_id": "RESP-33499",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-08-02 12:42:37"
+        },
+        {
+            "response_id": "RESP-22917",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-08-02 13:03:07"
+        },
+        {
+            "response_id": "RESP-82212",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-08-02 13:22:37"
+        },
+        {
+            "response_id": "RESP-28284",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-08-02 13:35:37"
+        },
+        {
+            "response_id": "RESP-14751",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-08-02 13:54:08"
+        },
+        {
+            "response_id": "RESP-12255",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-08-02 14:23:38"
+        },
+        {
+            "response_id": "RESP-78975",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-08-02 14:41:38"
+        },
+        {
+            "response_id": "RESP-94824",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-08-02 15:00:39"
+        },
+        {
+            "response_id": "RESP-92123",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-08-02 15:22:39"
+        },
+        {
+            "response_id": "RESP-80406",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-08-02 15:47:09"
+        },
+        {
+            "response_id": "RESP-80081",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-08-02 16:05:09"
+        },
+        {
+            "response_id": "RESP-77084",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-08-02 16:29:40"
+        },
+        {
+            "response_id": "RESP-39305",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-08-02 16:44:40"
+        },
+        {
+            "response_id": "RESP-11079",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-08-02 17:07:41"
+        },
+        {
+            "response_id": "RESP-50040",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-08-02 17:34:41"
+        },
+        {
+            "response_id": "RESP-77718",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-08-02 17:50:11"
+        },
+        {
+            "response_id": "RESP-76198",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-08-02 18:18:42"
+        },
+        {
+            "response_id": "RESP-64026",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-08-02 18:30:12"
+        },
+        {
+            "response_id": "RESP-73624",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-08-02 18:53:12"
+        },
+        {
+            "response_id": "RESP-46872",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-08-02 19:22:13"
+        },
+        {
+            "response_id": "RESP-50180",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-08-02 19:41:43"
+        },
+        {
+            "response_id": "RESP-95436",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-08-02 19:58:13"
+        },
+        {
+            "response_id": "RESP-45062",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-08-02 20:17:14"
+        },
+        {
+            "response_id": "RESP-31944",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-08-02 20:46:44"
+        },
+        {
+            "response_id": "RESP-21758",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-08-02 20:58:44"
+        },
+        {
+            "response_id": "RESP-61871",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-08-02 21:22:15"
+        },
+        {
+            "response_id": "RESP-67099",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-08-02 21:40:15"
+        },
+        {
+            "response_id": "RESP-64572",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-08-02 21:59:15"
+        },
+        {
+            "response_id": "RESP-38030",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-08-02 22:19:15"
+        },
+        {
+            "response_id": "RESP-11994",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-08-03 09:29:21"
+        },
+        {
+            "response_id": "RESP-84358",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-08-03 09:40:51"
+        },
+        {
+            "response_id": "RESP-95182",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-08-03 10:00:22"
+        },
+        {
+            "response_id": "RESP-64137",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-08-03 10:26:52"
+        },
+        {
+            "response_id": "RESP-17162",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-08-03 10:55:22"
+        },
+        {
+            "response_id": "RESP-76482",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-08-03 11:10:53"
+        },
+        {
+            "response_id": "RESP-96190",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-08-03 11:27:23"
+        },
+        {
+            "response_id": "RESP-70516",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-08-03 11:44:23"
+        },
+        {
+            "response_id": "RESP-82395",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-08-03 11:54:23"
+        },
+        {
+            "response_id": "RESP-21326",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-08-03 12:04:23"
+        },
+        {
+            "response_id": "RESP-15593",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-08-03 12:26:54"
+        },
+        {
+            "response_id": "RESP-88662",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-08-03 12:40:54"
+        },
+        {
+            "response_id": "RESP-68145",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-08-03 12:58:24"
+        },
+        {
+            "response_id": "RESP-38889",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-08-03 13:10:54"
+        },
+        {
+            "response_id": "RESP-37490",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-08-03 13:26:24"
+        },
+        {
+            "response_id": "RESP-81345",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-08-03 13:37:25"
+        },
+        {
+            "response_id": "RESP-72824",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-08-03 13:47:25"
+        },
+        {
+            "response_id": "RESP-83021",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-08-03 14:06:55"
+        },
+        {
+            "response_id": "RESP-43830",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-08-03 14:26:25"
+        },
+        {
+            "response_id": "RESP-13175",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-08-03 14:38:55"
+        },
+        {
+            "response_id": "RESP-43862",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-08-03 15:01:26"
+        },
+        {
+            "response_id": "RESP-93261",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-08-03 15:19:56"
+        },
+        {
+            "response_id": "RESP-37666",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-08-03 15:44:26"
+        },
+        {
+            "response_id": "RESP-10013",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-08-03 16:04:26"
+        },
+        {
+            "response_id": "RESP-11338",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-08-03 16:20:26"
+        },
+        {
+            "response_id": "RESP-94926",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-08-03 16:37:57"
+        },
+        {
+            "response_id": "RESP-34146",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-08-03 16:55:57"
+        },
+        {
+            "response_id": "RESP-43524",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-08-03 17:08:27"
+        },
+        {
+            "response_id": "RESP-18745",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-08-03 17:25:27"
         }
     ]
 }

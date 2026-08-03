@@ -120,5 +120,1515 @@
             "ip_session": "192.168.227.239",
             "timestamp": 1785336510.512513
         }
+    },
+    "total": {
+        "OpenAI API": {
+            "api_key": "sk-damodar-invincible-50x-openaiapi-30527509",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.60.164.143",
+            "timestamp": 1785336991.470527
+        },
+        "Anthropic Claude Console": {
+            "api_key": "sk-damodar-invincible-50x-anthropicclaudeconsole-25402183",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.117.196.235",
+            "timestamp": 1785336996.724779
+        },
+        "Groq Console": {
+            "api_key": "sk-damodar-invincible-50x-groqconsole-92446862",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.98.249.52",
+            "timestamp": 1785337004.868448
+        },
+        "Cohere AI": {
+            "api_key": "sk-damodar-invincible-50x-cohereai-40791033",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.48.180.153",
+            "timestamp": 1785337012.522636
+        },
+        "Mistral AI": {
+            "api_key": "sk-damodar-invincible-50x-mistralai-73665823",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.133.221.179",
+            "timestamp": 1785337017.8756611
+        },
+        "DeepSeek Platform": {
+            "api_key": "sk-damodar-invincible-50x-deepseekplatform-29119069",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.64.8.74",
+            "timestamp": 1785337027.635027
+        },
+        "Google AI Studio (Gemini)": {
+            "api_key": "sk-damodar-invincible-50x-googleaistudiogemini-70374854",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.246.233.151",
+            "timestamp": 1785337033.576155
+        },
+        "OpenRouter": {
+            "api_key": "sk-damodar-invincible-50x-openrouter-87061798",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.214.63.184",
+            "timestamp": 1785337039.443561
+        },
+        "Perplexity Labs": {
+            "api_key": "sk-damodar-invincible-50x-perplexitylabs-68089279",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.208.165.199",
+            "timestamp": 1785337047.384935
+        },
+        "Together AI": {
+            "api_key": "sk-damodar-invincible-50x-togetherai-21815057",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.108.103.40",
+            "timestamp": 1785337052.7833622
+        },
+        "HuggingFace Hub": {
+            "api_key": "sk-damodar-invincible-50x-huggingfacehub-57917712",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.214.210.101",
+            "timestamp": 1785337062.7417321
+        },
+        "Anyscale Endpoints": {
+            "api_key": "sk-damodar-invincible-50x-anyscaleendpoints-52951317",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.229.117.147",
+            "timestamp": 1785337072.134353
+        },
+        "Replicate API": {
+            "api_key": "sk-damodar-invincible-50x-replicateapi-23582995",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.204.9.162",
+            "timestamp": 1785337077.441752
+        },
+        "Fireworks AI": {
+            "api_key": "sk-damodar-invincible-50x-fireworksai-36630183",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.63.28.48",
+            "timestamp": 1785337085.891469
+        },
+        "Novita AI": {
+            "api_key": "sk-damodar-invincible-50x-novitaai-82457091",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.59.17.159",
+            "timestamp": 1785337093.27793
+        },
+        "DeepInfra": {
+            "api_key": "sk-damodar-invincible-50x-deepinfra-54744783",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.9.141.218",
+            "timestamp": 1785337101.011992
+        },
+        "SiliconFlow": {
+            "api_key": "sk-damodar-invincible-50x-siliconflow-48012217",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.42.123.141",
+            "timestamp": 1785337109.271619
+        },
+        "Baseten": {
+            "api_key": "sk-damodar-invincible-50x-baseten-82244137",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.36.190.18",
+            "timestamp": 1785337116.236396
+        },
+        "XAI Grok Console": {
+            "api_key": "sk-damodar-invincible-50x-xaigrokconsole-68187522",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.172.163.168",
+            "timestamp": 1785337125.184644
+        },
+        "Jina AI": {
+            "api_key": "sk-damodar-invincible-50x-jinaai-28948954",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.9.230.85",
+            "timestamp": 1785337130.220962
+        },
+        "Voyage AI": {
+            "api_key": "sk-damodar-invincible-50x-voyageai-70022699",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.122.144.251",
+            "timestamp": 1785337137.902145
+        },
+        "Phind API": {
+            "api_key": "sk-damodar-invincible-50x-phindapi-29825739",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.108.241.6",
+            "timestamp": 1785337146.056054
+        },
+        "Blackbox AI": {
+            "api_key": "sk-damodar-invincible-50x-blackboxai-66274899",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.48.224.9",
+            "timestamp": 1785337152.5434518
+        },
+        "Codeium API": {
+            "api_key": "sk-damodar-invincible-50x-codeiumapi-87246153",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.12.95.175",
+            "timestamp": 1785337161.335402
+        },
+        "Tabnine API": {
+            "api_key": "sk-damodar-invincible-50x-tabnineapi-84504682",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.223.50.27",
+            "timestamp": 1785337170.6936269
+        },
+        "SambaNova Cloud": {
+            "api_key": "sk-damodar-invincible-50x-sambanovacloud-88601404",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.99.111.228",
+            "timestamp": 1785337178.0190341
+        },
+        "Cerebras Inference": {
+            "api_key": "sk-damodar-invincible-50x-cerebrasinference-11768942",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.34.101.197",
+            "timestamp": 1785337183.666435
+        },
+        "Together Computer": {
+            "api_key": "sk-damodar-invincible-50x-togethercomputer-95128572",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.31.128.20",
+            "timestamp": 1785337190.783343
+        },
+        "Lepton AI": {
+            "api_key": "sk-damodar-invincible-50x-leptonai-10448805",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.173.122.248",
+            "timestamp": 1785337196.421359
+        },
+        "Modal Labs": {
+            "api_key": "sk-damodar-invincible-50x-modallabs-28259876",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.168.212.249",
+            "timestamp": 1785337202.821708
+        },
+        "Banana Dev": {
+            "api_key": "sk-damodar-invincible-50x-bananadev-11429318",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.36.247.66",
+            "timestamp": 1785337211.025554
+        },
+        "RunPod Serverless": {
+            "api_key": "sk-damodar-invincible-50x-runpodserverless-20714915",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.105.168.13",
+            "timestamp": 1785337217.58253
+        },
+        "Vast AI Endpoints": {
+            "api_key": "sk-damodar-invincible-50x-vastaiendpoints-59342745",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.216.113.154",
+            "timestamp": 1785337224.881803
+        },
+        "Lamini AI": {
+            "api_key": "sk-damodar-invincible-50x-laminiai-96567643",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.119.58.161",
+            "timestamp": 1785337231.689609
+        },
+        "Writer API": {
+            "api_key": "sk-damodar-invincible-50x-writerapi-81509276",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.25.221.152",
+            "timestamp": 1785337236.831075
+        },
+        "AI21 Labs Studio": {
+            "api_key": "sk-damodar-invincible-50x-ai21labsstudio-72785567",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.64.85.116",
+            "timestamp": 1785337241.961216
+        },
+        "Cohere Embed": {
+            "api_key": "sk-damodar-invincible-50x-cohereembed-53697543",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.222.251.20",
+            "timestamp": 1785337249.069042
+        },
+        "JigsawStack": {
+            "api_key": "sk-damodar-invincible-50x-jigsawstack-16814520",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.250.151.37",
+            "timestamp": 1785337256.3526132
+        },
+        "Exa AI": {
+            "api_key": "sk-damodar-invincible-50x-exaai-19941681",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.35.245.115",
+            "timestamp": 1785337265.6225762
+        },
+        "Tavily AI": {
+            "api_key": "sk-damodar-invincible-50x-tavilyai-47221893",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.156.153.194",
+            "timestamp": 1785337272.655395
+        },
+        "Serper Dev": {
+            "api_key": "sk-damodar-invincible-50x-serperdev-31078580",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.127.251.78",
+            "timestamp": 1785337280.424221
+        },
+        "Apify API": {
+            "api_key": "sk-damodar-invincible-50x-apifyapi-49962840",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.254.97.50",
+            "timestamp": 1785337290.4039161
+        },
+        "ScrapingBee": {
+            "api_key": "sk-damodar-invincible-50x-scrapingbee-39669208",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.192.119.134",
+            "timestamp": 1785337297.216875
+        },
+        "Firecrawl API": {
+            "api_key": "sk-damodar-invincible-50x-firecrawlapi-70119463",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.114.238.152",
+            "timestamp": 1785337306.394571
+        },
+        "Diffbot Knowledge Graph": {
+            "api_key": "sk-damodar-invincible-50x-diffbotknowledgegraph-20909534",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.41.232.209",
+            "timestamp": 1785337312.198955
+        },
+        "DeepL API": {
+            "api_key": "sk-damodar-invincible-50x-deeplapi-81434340",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.65.199.193",
+            "timestamp": 1785337321.186858
+        },
+        "ElevenLabs Voice API": {
+            "api_key": "sk-damodar-invincible-50x-elevenlabsvoiceapi-60117280",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.94.83.204",
+            "timestamp": 1785337330.689315
+        },
+        "Play.ht API": {
+            "api_key": "sk-damodar-invincible-50x-play.htapi-81709005",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.27.68.127",
+            "timestamp": 1785337339.9805892
+        },
+        "Cartesia AI": {
+            "api_key": "sk-damodar-invincible-50x-cartesiaai-78624713",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.100.121.17",
+            "timestamp": 1785337345.3515651
+        },
+        "Deepgram Speech-to-Text": {
+            "api_key": "sk-damodar-invincible-50x-deepgramspeech-to-text-40144759",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.236.118.137",
+            "timestamp": 1785337353.092768
+        }
+    },
+    "today": {
+        "OpenAI API": {
+            "api_key": "sk-damodar-invincible-50x-openaiapi-23761624",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.100.92.242",
+            "timestamp": 1785337359.899563
+        },
+        "Anthropic Claude Console": {
+            "api_key": "sk-damodar-invincible-50x-anthropicclaudeconsole-68459452",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.95.211.170",
+            "timestamp": 1785337368.3353322
+        },
+        "Groq Console": {
+            "api_key": "sk-damodar-invincible-50x-groqconsole-32534904",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.100.243.55",
+            "timestamp": 1785337374.4056902
+        },
+        "Cohere AI": {
+            "api_key": "sk-damodar-invincible-50x-cohereai-12337553",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.141.162.194",
+            "timestamp": 1785337381.265024
+        },
+        "Mistral AI": {
+            "api_key": "sk-damodar-invincible-50x-mistralai-52219550",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.97.228.223",
+            "timestamp": 1785337389.792523
+        },
+        "DeepSeek Platform": {
+            "api_key": "sk-damodar-invincible-50x-deepseekplatform-89003664",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.240.68.51",
+            "timestamp": 1785337397.562759
+        },
+        "Google AI Studio (Gemini)": {
+            "api_key": "sk-damodar-invincible-50x-googleaistudiogemini-95257131",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.105.42.166",
+            "timestamp": 1785337404.573632
+        },
+        "OpenRouter": {
+            "api_key": "sk-damodar-invincible-50x-openrouter-27764480",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.125.192.198",
+            "timestamp": 1785337412.448074
+        },
+        "Perplexity Labs": {
+            "api_key": "sk-damodar-invincible-50x-perplexitylabs-84960514",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.93.133.51",
+            "timestamp": 1785337420.10576
+        },
+        "Together AI": {
+            "api_key": "sk-damodar-invincible-50x-togetherai-20787303",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.156.32.47",
+            "timestamp": 1785337425.6119812
+        },
+        "HuggingFace Hub": {
+            "api_key": "sk-damodar-invincible-50x-huggingfacehub-72159910",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.248.184.118",
+            "timestamp": 1785337433.610511
+        },
+        "Anyscale Endpoints": {
+            "api_key": "sk-damodar-invincible-50x-anyscaleendpoints-97929445",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.86.138.204",
+            "timestamp": 1785337440.733718
+        },
+        "Replicate API": {
+            "api_key": "sk-damodar-invincible-50x-replicateapi-81543679",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.105.240.180",
+            "timestamp": 1785337447.315451
+        },
+        "Fireworks AI": {
+            "api_key": "sk-damodar-invincible-50x-fireworksai-78940912",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.235.14.142",
+            "timestamp": 1785337452.350226
+        },
+        "Novita AI": {
+            "api_key": "sk-damodar-invincible-50x-novitaai-12923804",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.158.223.184",
+            "timestamp": 1785337459.389261
+        },
+        "DeepInfra": {
+            "api_key": "sk-damodar-invincible-50x-deepinfra-30097134",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.179.74.239",
+            "timestamp": 1785337466.901502
+        },
+        "SiliconFlow": {
+            "api_key": "sk-damodar-invincible-50x-siliconflow-40026674",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.248.65.52",
+            "timestamp": 1785337474.578936
+        },
+        "Baseten": {
+            "api_key": "sk-damodar-invincible-50x-baseten-16157893",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.111.194.28",
+            "timestamp": 1785337480.7332668
+        },
+        "XAI Grok Console": {
+            "api_key": "sk-damodar-invincible-50x-xaigrokconsole-28046429",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.235.161.141",
+            "timestamp": 1785337488.6026392
+        },
+        "Jina AI": {
+            "api_key": "sk-damodar-invincible-50x-jinaai-27931025",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.98.52.109",
+            "timestamp": 1785337494.2933812
+        },
+        "Voyage AI": {
+            "api_key": "sk-damodar-invincible-50x-voyageai-69195283",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.49.169.206",
+            "timestamp": 1785337499.626394
+        },
+        "Phind API": {
+            "api_key": "sk-damodar-invincible-50x-phindapi-87113984",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.87.15.115",
+            "timestamp": 1785337508.176752
+        },
+        "Blackbox AI": {
+            "api_key": "sk-damodar-invincible-50x-blackboxai-48911766",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.71.113.75",
+            "timestamp": 1785337516.08404
+        },
+        "Codeium API": {
+            "api_key": "sk-damodar-invincible-50x-codeiumapi-83118638",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.13.205.108",
+            "timestamp": 1785337523.033063
+        },
+        "Tabnine API": {
+            "api_key": "sk-damodar-invincible-50x-tabnineapi-28993647",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.221.87.220",
+            "timestamp": 1785337528.1161358
+        },
+        "SambaNova Cloud": {
+            "api_key": "sk-damodar-invincible-50x-sambanovacloud-61840956",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.244.237.197",
+            "timestamp": 1785337536.199836
+        },
+        "Cerebras Inference": {
+            "api_key": "sk-damodar-invincible-50x-cerebrasinference-26340620",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.67.100.11",
+            "timestamp": 1785337541.914886
+        },
+        "Together Computer": {
+            "api_key": "sk-damodar-invincible-50x-togethercomputer-97865860",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.64.99.11",
+            "timestamp": 1785337550.9551098
+        },
+        "Lepton AI": {
+            "api_key": "sk-damodar-invincible-50x-leptonai-33254744",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.12.154.101",
+            "timestamp": 1785337560.646688
+        },
+        "Modal Labs": {
+            "api_key": "sk-damodar-invincible-50x-modallabs-52440764",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.216.86.151",
+            "timestamp": 1785337565.8383958
+        },
+        "Banana Dev": {
+            "api_key": "sk-damodar-invincible-50x-bananadev-19526651",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.88.6.149",
+            "timestamp": 1785337574.5912719
+        },
+        "RunPod Serverless": {
+            "api_key": "sk-damodar-invincible-50x-runpodserverless-37799135",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.209.71.108",
+            "timestamp": 1785337581.343507
+        },
+        "Vast AI Endpoints": {
+            "api_key": "sk-damodar-invincible-50x-vastaiendpoints-67236860",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.107.162.21",
+            "timestamp": 1785337590.2613602
+        },
+        "Lamini AI": {
+            "api_key": "sk-damodar-invincible-50x-laminiai-32797614",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.117.73.28",
+            "timestamp": 1785337597.968995
+        },
+        "Writer API": {
+            "api_key": "sk-damodar-invincible-50x-writerapi-12546559",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.158.88.101",
+            "timestamp": 1785337606.130496
+        },
+        "AI21 Labs Studio": {
+            "api_key": "sk-damodar-invincible-50x-ai21labsstudio-66387889",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.158.159.211",
+            "timestamp": 1785337615.937854
+        },
+        "Cohere Embed": {
+            "api_key": "sk-damodar-invincible-50x-cohereembed-43657810",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.57.133.32",
+            "timestamp": 1785337625.763981
+        },
+        "JigsawStack": {
+            "api_key": "sk-damodar-invincible-50x-jigsawstack-74422183",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.92.212.129",
+            "timestamp": 1785337631.2837708
+        },
+        "Exa AI": {
+            "api_key": "sk-damodar-invincible-50x-exaai-97597312",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.13.229.198",
+            "timestamp": 1785337637.86883
+        },
+        "Tavily AI": {
+            "api_key": "sk-damodar-invincible-50x-tavilyai-10049827",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.76.214.151",
+            "timestamp": 1785337643.158905
+        },
+        "Serper Dev": {
+            "api_key": "sk-damodar-invincible-50x-serperdev-39505066",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.182.174.144",
+            "timestamp": 1785337648.671488
+        },
+        "Apify API": {
+            "api_key": "sk-damodar-invincible-50x-apifyapi-52064809",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.153.12.8",
+            "timestamp": 1785337657.30319
+        },
+        "ScrapingBee": {
+            "api_key": "sk-damodar-invincible-50x-scrapingbee-23835137",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.105.64.250",
+            "timestamp": 1785337665.274414
+        },
+        "Firecrawl API": {
+            "api_key": "sk-damodar-invincible-50x-firecrawlapi-96043911",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.65.92.25",
+            "timestamp": 1785337673.29685
+        },
+        "Diffbot Knowledge Graph": {
+            "api_key": "sk-damodar-invincible-50x-diffbotknowledgegraph-90106007",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.61.28.126",
+            "timestamp": 1785337680.494813
+        },
+        "DeepL API": {
+            "api_key": "sk-damodar-invincible-50x-deeplapi-17362624",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.86.178.96",
+            "timestamp": 1785337689.291162
+        },
+        "ElevenLabs Voice API": {
+            "api_key": "sk-damodar-invincible-50x-elevenlabsvoiceapi-41594435",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.39.16.77",
+            "timestamp": 1785337699.0087922
+        },
+        "Play.ht API": {
+            "api_key": "sk-damodar-invincible-50x-play.htapi-18850907",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.92.149.65",
+            "timestamp": 1785337708.942996
+        },
+        "Cartesia AI": {
+            "api_key": "sk-damodar-invincible-50x-cartesiaai-25550587",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.187.39.97",
+            "timestamp": 1785337716.133067
+        },
+        "Deepgram Speech-to-Text": {
+            "api_key": "sk-damodar-invincible-50x-deepgramspeech-to-text-58193354",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.47.39.174",
+            "timestamp": 1785337725.761445
+        }
+    },
+    "date": {
+        "OpenAI API": {
+            "api_key": "sk-damodar-invincible-50x-openaiapi-23267074",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.129.62.74",
+            "timestamp": 1785337735.557798
+        },
+        "Anthropic Claude Console": {
+            "api_key": "sk-damodar-invincible-50x-anthropicclaudeconsole-85143783",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.122.110.217",
+            "timestamp": 1785337745.4797812
+        },
+        "Groq Console": {
+            "api_key": "sk-damodar-invincible-50x-groqconsole-97669222",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.4.117.222",
+            "timestamp": 1785337750.931338
+        },
+        "Cohere AI": {
+            "api_key": "sk-damodar-invincible-50x-cohereai-58240612",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.159.57.220",
+            "timestamp": 1785337757.981899
+        },
+        "Mistral AI": {
+            "api_key": "sk-damodar-invincible-50x-mistralai-17848888",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.202.177.224",
+            "timestamp": 1785337763.737101
+        },
+        "DeepSeek Platform": {
+            "api_key": "sk-damodar-invincible-50x-deepseekplatform-35530591",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.252.153.192",
+            "timestamp": 1785337770.559726
+        },
+        "Google AI Studio (Gemini)": {
+            "api_key": "sk-damodar-invincible-50x-googleaistudiogemini-29924949",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.96.24.65",
+            "timestamp": 1785337779.8049128
+        },
+        "OpenRouter": {
+            "api_key": "sk-damodar-invincible-50x-openrouter-13875257",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.93.222.123",
+            "timestamp": 1785337787.4296162
+        },
+        "Perplexity Labs": {
+            "api_key": "sk-damodar-invincible-50x-perplexitylabs-56124533",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.221.226.214",
+            "timestamp": 1785337793.689999
+        },
+        "Together AI": {
+            "api_key": "sk-damodar-invincible-50x-togetherai-97576529",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.23.21.119",
+            "timestamp": 1785337799.391166
+        },
+        "HuggingFace Hub": {
+            "api_key": "sk-damodar-invincible-50x-huggingfacehub-32708257",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.54.70.17",
+            "timestamp": 1785337805.59683
+        },
+        "Anyscale Endpoints": {
+            "api_key": "sk-damodar-invincible-50x-anyscaleendpoints-15794764",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.139.147.111",
+            "timestamp": 1785337812.986061
+        },
+        "Replicate API": {
+            "api_key": "sk-damodar-invincible-50x-replicateapi-80681217",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.196.194.104",
+            "timestamp": 1785337822.581365
+        },
+        "Fireworks AI": {
+            "api_key": "sk-damodar-invincible-50x-fireworksai-44636134",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.129.43.82",
+            "timestamp": 1785337830.5767858
+        },
+        "Novita AI": {
+            "api_key": "sk-damodar-invincible-50x-novitaai-70413193",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.89.126.79",
+            "timestamp": 1785337839.6275148
+        },
+        "DeepInfra": {
+            "api_key": "sk-damodar-invincible-50x-deepinfra-44210028",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.55.10.94",
+            "timestamp": 1785337847.730036
+        },
+        "SiliconFlow": {
+            "api_key": "sk-damodar-invincible-50x-siliconflow-73784350",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.182.215.52",
+            "timestamp": 1785337857.678174
+        },
+        "Baseten": {
+            "api_key": "sk-damodar-invincible-50x-baseten-14184066",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.138.171.205",
+            "timestamp": 1785337864.19203
+        },
+        "XAI Grok Console": {
+            "api_key": "sk-damodar-invincible-50x-xaigrokconsole-82170916",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.202.35.69",
+            "timestamp": 1785337871.668328
+        },
+        "Jina AI": {
+            "api_key": "sk-damodar-invincible-50x-jinaai-23073738",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.78.126.235",
+            "timestamp": 1785337878.365313
+        },
+        "Voyage AI": {
+            "api_key": "sk-damodar-invincible-50x-voyageai-46115551",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.16.180.150",
+            "timestamp": 1785337886.47026
+        },
+        "Phind API": {
+            "api_key": "sk-damodar-invincible-50x-phindapi-24772605",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.104.251.234",
+            "timestamp": 1785337893.57682
+        },
+        "Blackbox AI": {
+            "api_key": "sk-damodar-invincible-50x-blackboxai-84664602",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.219.46.93",
+            "timestamp": 1785337900.988679
+        },
+        "Codeium API": {
+            "api_key": "sk-damodar-invincible-50x-codeiumapi-12027070",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.179.188.239",
+            "timestamp": 1785337907.269709
+        },
+        "Tabnine API": {
+            "api_key": "sk-damodar-invincible-50x-tabnineapi-73797785",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.173.209.31",
+            "timestamp": 1785337915.912032
+        },
+        "SambaNova Cloud": {
+            "api_key": "sk-damodar-invincible-50x-sambanovacloud-41524755",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.154.39.164",
+            "timestamp": 1785337924.381016
+        },
+        "Cerebras Inference": {
+            "api_key": "sk-damodar-invincible-50x-cerebrasinference-75786498",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.42.252.193",
+            "timestamp": 1785337932.184344
+        },
+        "Together Computer": {
+            "api_key": "sk-damodar-invincible-50x-togethercomputer-64386821",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.89.78.162",
+            "timestamp": 1785337939.123871
+        },
+        "Lepton AI": {
+            "api_key": "sk-damodar-invincible-50x-leptonai-32107532",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.21.178.240",
+            "timestamp": 1785337945.950848
+        },
+        "Modal Labs": {
+            "api_key": "sk-damodar-invincible-50x-modallabs-54052513",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.88.117.253",
+            "timestamp": 1785337952.379196
+        },
+        "Banana Dev": {
+            "api_key": "sk-damodar-invincible-50x-bananadev-56017678",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.160.244.81",
+            "timestamp": 1785337962.376139
+        },
+        "RunPod Serverless": {
+            "api_key": "sk-damodar-invincible-50x-runpodserverless-55872165",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.43.176.248",
+            "timestamp": 1785337968.8929641
+        },
+        "Vast AI Endpoints": {
+            "api_key": "sk-damodar-invincible-50x-vastaiendpoints-17245577",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.8.150.204",
+            "timestamp": 1785337973.929161
+        },
+        "Lamini AI": {
+            "api_key": "sk-damodar-invincible-50x-laminiai-86287977",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.5.133.182",
+            "timestamp": 1785337979.236972
+        },
+        "Writer API": {
+            "api_key": "sk-damodar-invincible-50x-writerapi-38841269",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.20.194.32",
+            "timestamp": 1785337988.720865
+        },
+        "AI21 Labs Studio": {
+            "api_key": "sk-damodar-invincible-50x-ai21labsstudio-34293401",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.231.229.141",
+            "timestamp": 1785337996.711731
+        },
+        "Cohere Embed": {
+            "api_key": "sk-damodar-invincible-50x-cohereembed-94507917",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.68.42.207",
+            "timestamp": 1785338005.269631
+        },
+        "JigsawStack": {
+            "api_key": "sk-damodar-invincible-50x-jigsawstack-82863429",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.143.14.123",
+            "timestamp": 1785338014.229353
+        },
+        "Exa AI": {
+            "api_key": "sk-damodar-invincible-50x-exaai-95627567",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.78.153.73",
+            "timestamp": 1785338021.01227
+        },
+        "Tavily AI": {
+            "api_key": "sk-damodar-invincible-50x-tavilyai-79904757",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.111.142.38",
+            "timestamp": 1785338029.777969
+        },
+        "Serper Dev": {
+            "api_key": "sk-damodar-invincible-50x-serperdev-90119250",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.55.228.254",
+            "timestamp": 1785338036.8901088
+        },
+        "Apify API": {
+            "api_key": "sk-damodar-invincible-50x-apifyapi-97596588",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.5.60.202",
+            "timestamp": 1785338045.386525
+        },
+        "ScrapingBee": {
+            "api_key": "sk-damodar-invincible-50x-scrapingbee-78093909",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.249.212.25",
+            "timestamp": 1785338051.000743
+        },
+        "Firecrawl API": {
+            "api_key": "sk-damodar-invincible-50x-firecrawlapi-43515940",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.81.105.114",
+            "timestamp": 1785338056.164238
+        },
+        "Diffbot Knowledge Graph": {
+            "api_key": "sk-damodar-invincible-50x-diffbotknowledgegraph-10166435",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.125.180.236",
+            "timestamp": 1785338062.65393
+        },
+        "DeepL API": {
+            "api_key": "sk-damodar-invincible-50x-deeplapi-37053951",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.12.244.195",
+            "timestamp": 1785338068.711303
+        },
+        "ElevenLabs Voice API": {
+            "api_key": "sk-damodar-invincible-50x-elevenlabsvoiceapi-63522271",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.157.198.217",
+            "timestamp": 1785338074.4858298
+        },
+        "Play.ht API": {
+            "api_key": "sk-damodar-invincible-50x-play.htapi-39241971",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.135.52.86",
+            "timestamp": 1785338082.751393
+        },
+        "Cartesia AI": {
+            "api_key": "sk-damodar-invincible-50x-cartesiaai-18024658",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.53.30.232",
+            "timestamp": 1785338091.935702
+        },
+        "Deepgram Speech-to-Text": {
+            "api_key": "sk-damodar-invincible-50x-deepgramspeech-to-text-93767189",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.228.245.53",
+            "timestamp": 1785338098.4189289
+        }
+    },
+    "logs": {
+        "OpenAI API": {
+            "api_key": "sk-damodar-invincible-50x-openaiapi-19126221",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.162.133.217",
+            "timestamp": 1785338104.77903
+        },
+        "Anthropic Claude Console": {
+            "api_key": "sk-damodar-invincible-50x-anthropicclaudeconsole-77029003",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.234.140.223",
+            "timestamp": 1785338113.445771
+        },
+        "Groq Console": {
+            "api_key": "sk-damodar-invincible-50x-groqconsole-48446333",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.127.48.1",
+            "timestamp": 1785338123.404507
+        },
+        "Cohere AI": {
+            "api_key": "sk-damodar-invincible-50x-cohereai-98081958",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.201.237.223",
+            "timestamp": 1785338132.253294
+        },
+        "Mistral AI": {
+            "api_key": "sk-damodar-invincible-50x-mistralai-97910990",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.169.149.38",
+            "timestamp": 1785338141.569663
+        },
+        "DeepSeek Platform": {
+            "api_key": "sk-damodar-invincible-50x-deepseekplatform-83343468",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.232.211.111",
+            "timestamp": 1785338146.615903
+        },
+        "Google AI Studio (Gemini)": {
+            "api_key": "sk-damodar-invincible-50x-googleaistudiogemini-84560690",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.70.147.178",
+            "timestamp": 1785338152.133784
+        },
+        "OpenRouter": {
+            "api_key": "sk-damodar-invincible-50x-openrouter-54236875",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.56.173.175",
+            "timestamp": 1785338157.194765
+        },
+        "Perplexity Labs": {
+            "api_key": "sk-damodar-invincible-50x-perplexitylabs-34688125",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.85.58.87",
+            "timestamp": 1785338164.791306
+        },
+        "Together AI": {
+            "api_key": "sk-damodar-invincible-50x-togetherai-24323417",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.223.197.152",
+            "timestamp": 1785338171.0121012
+        },
+        "HuggingFace Hub": {
+            "api_key": "sk-damodar-invincible-50x-huggingfacehub-77012435",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.4.238.251",
+            "timestamp": 1785338176.474171
+        },
+        "Anyscale Endpoints": {
+            "api_key": "sk-damodar-invincible-50x-anyscaleendpoints-18872638",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.49.235.166",
+            "timestamp": 1785338183.12881
+        },
+        "Replicate API": {
+            "api_key": "sk-damodar-invincible-50x-replicateapi-93066217",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.127.137.183",
+            "timestamp": 1785338190.446115
+        },
+        "Fireworks AI": {
+            "api_key": "sk-damodar-invincible-50x-fireworksai-25274254",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.249.197.218",
+            "timestamp": 1785338196.5944
+        },
+        "Novita AI": {
+            "api_key": "sk-damodar-invincible-50x-novitaai-37239616",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.182.78.166",
+            "timestamp": 1785338205.098191
+        },
+        "DeepInfra": {
+            "api_key": "sk-damodar-invincible-50x-deepinfra-90294307",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.130.102.77",
+            "timestamp": 1785338212.981788
+        },
+        "SiliconFlow": {
+            "api_key": "sk-damodar-invincible-50x-siliconflow-58652643",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.171.226.62",
+            "timestamp": 1785338218.618043
+        },
+        "Baseten": {
+            "api_key": "sk-damodar-invincible-50x-baseten-18016064",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.177.155.76",
+            "timestamp": 1785338224.337909
+        },
+        "XAI Grok Console": {
+            "api_key": "sk-damodar-invincible-50x-xaigrokconsole-61367100",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.81.176.38",
+            "timestamp": 1785338231.285482
+        },
+        "Jina AI": {
+            "api_key": "sk-damodar-invincible-50x-jinaai-70312105",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.56.247.113",
+            "timestamp": 1785338238.539655
+        },
+        "Voyage AI": {
+            "api_key": "sk-damodar-invincible-50x-voyageai-57732669",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.252.227.118",
+            "timestamp": 1785338246.644865
+        },
+        "Phind API": {
+            "api_key": "sk-damodar-invincible-50x-phindapi-43935159",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.61.33.133",
+            "timestamp": 1785338256.617842
+        },
+        "Blackbox AI": {
+            "api_key": "sk-damodar-invincible-50x-blackboxai-99475431",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.95.219.240",
+            "timestamp": 1785338262.073299
+        },
+        "Codeium API": {
+            "api_key": "sk-damodar-invincible-50x-codeiumapi-66004324",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.37.28.72",
+            "timestamp": 1785338271.831249
+        },
+        "Tabnine API": {
+            "api_key": "sk-damodar-invincible-50x-tabnineapi-44014411",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.140.23.221",
+            "timestamp": 1785338279.774543
+        },
+        "SambaNova Cloud": {
+            "api_key": "sk-damodar-invincible-50x-sambanovacloud-18290512",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.94.117.231",
+            "timestamp": 1785338285.04722
+        },
+        "Cerebras Inference": {
+            "api_key": "sk-damodar-invincible-50x-cerebrasinference-76652660",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.144.192.53",
+            "timestamp": 1785338291.319985
+        },
+        "Together Computer": {
+            "api_key": "sk-damodar-invincible-50x-togethercomputer-65071484",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.167.73.220",
+            "timestamp": 1785338296.3641531
+        },
+        "Lepton AI": {
+            "api_key": "sk-damodar-invincible-50x-leptonai-11409923",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.50.244.250",
+            "timestamp": 1785338306.346293
+        },
+        "Modal Labs": {
+            "api_key": "sk-damodar-invincible-50x-modallabs-12745639",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.97.176.6",
+            "timestamp": 1785338313.766973
+        },
+        "Banana Dev": {
+            "api_key": "sk-damodar-invincible-50x-bananadev-90245082",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.142.108.253",
+            "timestamp": 1785338320.029609
+        },
+        "RunPod Serverless": {
+            "api_key": "sk-damodar-invincible-50x-runpodserverless-93892197",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.78.151.254",
+            "timestamp": 1785338325.553888
+        },
+        "Vast AI Endpoints": {
+            "api_key": "sk-damodar-invincible-50x-vastaiendpoints-16491236",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.79.14.241",
+            "timestamp": 1785338331.8766
+        },
+        "Lamini AI": {
+            "api_key": "sk-damodar-invincible-50x-laminiai-92734435",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.77.170.120",
+            "timestamp": 1785338341.4966981
+        },
+        "Writer API": {
+            "api_key": "sk-damodar-invincible-50x-writerapi-37833653",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.254.204.33",
+            "timestamp": 1785338348.695701
+        },
+        "AI21 Labs Studio": {
+            "api_key": "sk-damodar-invincible-50x-ai21labsstudio-10564866",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.56.16.164",
+            "timestamp": 1785338354.113081
+        },
+        "Cohere Embed": {
+            "api_key": "sk-damodar-invincible-50x-cohereembed-16932128",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.204.109.162",
+            "timestamp": 1785338362.714335
+        },
+        "JigsawStack": {
+            "api_key": "sk-damodar-invincible-50x-jigsawstack-53359808",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.113.16.193",
+            "timestamp": 1785338371.6587431
+        },
+        "Exa AI": {
+            "api_key": "sk-damodar-invincible-50x-exaai-65464492",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.141.24.161",
+            "timestamp": 1785338377.036562
+        },
+        "Tavily AI": {
+            "api_key": "sk-damodar-invincible-50x-tavilyai-84559022",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.93.22.22",
+            "timestamp": 1785338385.8386471
+        },
+        "Serper Dev": {
+            "api_key": "sk-damodar-invincible-50x-serperdev-48705975",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.129.231.85",
+            "timestamp": 1785338394.139534
+        },
+        "Apify API": {
+            "api_key": "sk-damodar-invincible-50x-apifyapi-40854971",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.65.32.126",
+            "timestamp": 1785338402.647661
+        },
+        "ScrapingBee": {
+            "api_key": "sk-damodar-invincible-50x-scrapingbee-44292281",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.29.12.190",
+            "timestamp": 1785338408.7504158
+        },
+        "Firecrawl API": {
+            "api_key": "sk-damodar-invincible-50x-firecrawlapi-86490434",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.112.151.65",
+            "timestamp": 1785338418.247023
+        },
+        "Diffbot Knowledge Graph": {
+            "api_key": "sk-damodar-invincible-50x-diffbotknowledgegraph-99695507",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.231.1.181",
+            "timestamp": 1785338426.320642
+        },
+        "DeepL API": {
+            "api_key": "sk-damodar-invincible-50x-deeplapi-67291972",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.152.249.251",
+            "timestamp": 1785338435.91936
+        },
+        "ElevenLabs Voice API": {
+            "api_key": "sk-damodar-invincible-50x-elevenlabsvoiceapi-63394850",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.146.142.52",
+            "timestamp": 1785338443.5601091
+        },
+        "Play.ht API": {
+            "api_key": "sk-damodar-invincible-50x-play.htapi-38500933",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.217.195.119",
+            "timestamp": 1785338449.369351
+        },
+        "Cartesia AI": {
+            "api_key": "sk-damodar-invincible-50x-cartesiaai-14345292",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.113.1.156",
+            "timestamp": 1785338456.11806
+        },
+        "Deepgram Speech-to-Text": {
+            "api_key": "sk-damodar-invincible-50x-deepgramspeech-to-text-71438024",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.23.164.47",
+            "timestamp": 1785338464.774812
+        }
+    },
+    "daily_breakdown": {
+        "OpenAI API": {
+            "api_key": "sk-damodar-invincible-50x-openaiapi-53580258",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.136.15.249",
+            "timestamp": 1785338473.632033
+        },
+        "Anthropic Claude Console": {
+            "api_key": "sk-damodar-invincible-50x-anthropicclaudeconsole-87435072",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.160.29.93",
+            "timestamp": 1785338482.003666
+        },
+        "Groq Console": {
+            "api_key": "sk-damodar-invincible-50x-groqconsole-58187485",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.176.172.53",
+            "timestamp": 1785338491.531914
+        },
+        "Cohere AI": {
+            "api_key": "sk-damodar-invincible-50x-cohereai-25152749",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.120.164.44",
+            "timestamp": 1785338498.7670898
+        },
+        "Mistral AI": {
+            "api_key": "sk-damodar-invincible-50x-mistralai-22672122",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.234.210.125",
+            "timestamp": 1785338505.348771
+        },
+        "DeepSeek Platform": {
+            "api_key": "sk-damodar-invincible-50x-deepseekplatform-32686398",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.172.74.175",
+            "timestamp": 1785338514.391118
+        },
+        "Google AI Studio (Gemini)": {
+            "api_key": "sk-damodar-invincible-50x-googleaistudiogemini-51279253",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.70.221.222",
+            "timestamp": 1785338523.429705
+        },
+        "OpenRouter": {
+            "api_key": "sk-damodar-invincible-50x-openrouter-52275636",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.188.236.58",
+            "timestamp": 1785338531.960236
+        },
+        "Perplexity Labs": {
+            "api_key": "sk-damodar-invincible-50x-perplexitylabs-58508276",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.144.45.208",
+            "timestamp": 1785338540.850395
+        },
+        "Together AI": {
+            "api_key": "sk-damodar-invincible-50x-togetherai-17410972",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.170.144.57",
+            "timestamp": 1785338548.1076632
+        },
+        "HuggingFace Hub": {
+            "api_key": "sk-damodar-invincible-50x-huggingfacehub-62963742",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.117.60.21",
+            "timestamp": 1785338556.114502
+        },
+        "Anyscale Endpoints": {
+            "api_key": "sk-damodar-invincible-50x-anyscaleendpoints-31387632",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.253.161.199",
+            "timestamp": 1785338561.180085
+        },
+        "Replicate API": {
+            "api_key": "sk-damodar-invincible-50x-replicateapi-12829089",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.182.121.53",
+            "timestamp": 1785338567.0553532
+        },
+        "Fireworks AI": {
+            "api_key": "sk-damodar-invincible-50x-fireworksai-60770175",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.28.243.209",
+            "timestamp": 1785338576.323446
+        },
+        "Novita AI": {
+            "api_key": "sk-damodar-invincible-50x-novitaai-20823998",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.156.184.73",
+            "timestamp": 1785338581.442106
+        },
+        "DeepInfra": {
+            "api_key": "sk-damodar-invincible-50x-deepinfra-40943179",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.85.208.195",
+            "timestamp": 1785338587.885514
+        },
+        "SiliconFlow": {
+            "api_key": "sk-damodar-invincible-50x-siliconflow-81902184",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.203.82.192",
+            "timestamp": 1785338596.432318
+        },
+        "Baseten": {
+            "api_key": "sk-damodar-invincible-50x-baseten-87586723",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.190.3.62",
+            "timestamp": 1785338602.129808
+        },
+        "XAI Grok Console": {
+            "api_key": "sk-damodar-invincible-50x-xaigrokconsole-38781980",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.142.1.37",
+            "timestamp": 1785338607.7239301
+        },
+        "Jina AI": {
+            "api_key": "sk-damodar-invincible-50x-jinaai-64345036",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.12.18.120",
+            "timestamp": 1785338612.892525
+        },
+        "Voyage AI": {
+            "api_key": "sk-damodar-invincible-50x-voyageai-44758946",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.39.43.61",
+            "timestamp": 1785338620.0588212
+        },
+        "Phind API": {
+            "api_key": "sk-damodar-invincible-50x-phindapi-11604766",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.91.33.121",
+            "timestamp": 1785338629.941893
+        },
+        "Blackbox AI": {
+            "api_key": "sk-damodar-invincible-50x-blackboxai-94562091",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.11.98.216",
+            "timestamp": 1785338638.8046799
+        },
+        "Codeium API": {
+            "api_key": "sk-damodar-invincible-50x-codeiumapi-77352717",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.148.158.144",
+            "timestamp": 1785338648.269341
+        },
+        "Tabnine API": {
+            "api_key": "sk-damodar-invincible-50x-tabnineapi-24103829",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.215.220.26",
+            "timestamp": 1785338657.955206
+        },
+        "SambaNova Cloud": {
+            "api_key": "sk-damodar-invincible-50x-sambanovacloud-59321776",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.20.109.73",
+            "timestamp": 1785338666.3600588
+        },
+        "Cerebras Inference": {
+            "api_key": "sk-damodar-invincible-50x-cerebrasinference-89237318",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.199.239.161",
+            "timestamp": 1785338672.030944
+        },
+        "Together Computer": {
+            "api_key": "sk-damodar-invincible-50x-togethercomputer-73067889",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.141.10.145",
+            "timestamp": 1785338678.314541
+        },
+        "Lepton AI": {
+            "api_key": "sk-damodar-invincible-50x-leptonai-18575351",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.192.103.94",
+            "timestamp": 1785338684.077357
+        },
+        "Modal Labs": {
+            "api_key": "sk-damodar-invincible-50x-modallabs-26239940",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.208.245.55",
+            "timestamp": 1785338693.0580962
+        },
+        "Banana Dev": {
+            "api_key": "sk-damodar-invincible-50x-bananadev-70540626",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.176.160.186",
+            "timestamp": 1785338702.948371
+        },
+        "RunPod Serverless": {
+            "api_key": "sk-damodar-invincible-50x-runpodserverless-96136886",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.197.121.21",
+            "timestamp": 1785338708.486677
+        },
+        "Vast AI Endpoints": {
+            "api_key": "sk-damodar-invincible-50x-vastaiendpoints-20717296",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.137.132.98",
+            "timestamp": 1785338717.007765
+        },
+        "Lamini AI": {
+            "api_key": "sk-damodar-invincible-50x-laminiai-90582592",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.87.88.72",
+            "timestamp": 1785338722.203299
+        },
+        "Writer API": {
+            "api_key": "sk-damodar-invincible-50x-writerapi-45867872",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.153.2.174",
+            "timestamp": 1785338731.2647512
+        },
+        "AI21 Labs Studio": {
+            "api_key": "sk-damodar-invincible-50x-ai21labsstudio-69632181",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.167.49.4",
+            "timestamp": 1785338739.599637
+        },
+        "Cohere Embed": {
+            "api_key": "sk-damodar-invincible-50x-cohereembed-15418755",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.9.194.74",
+            "timestamp": 1785338746.380455
+        },
+        "JigsawStack": {
+            "api_key": "sk-damodar-invincible-50x-jigsawstack-88366398",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.158.126.154",
+            "timestamp": 1785338753.18142
+        },
+        "Exa AI": {
+            "api_key": "sk-damodar-invincible-50x-exaai-45228258",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.50.42.124",
+            "timestamp": 1785338759.0805252
+        },
+        "Tavily AI": {
+            "api_key": "sk-damodar-invincible-50x-tavilyai-11506248",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.46.94.164",
+            "timestamp": 1785338767.6574998
+        },
+        "Serper Dev": {
+            "api_key": "sk-damodar-invincible-50x-serperdev-65312034",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.200.164.199",
+            "timestamp": 1785338776.569437
+        },
+        "Apify API": {
+            "api_key": "sk-damodar-invincible-50x-apifyapi-16356133",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.148.113.140",
+            "timestamp": 1785338783.388735
+        },
+        "ScrapingBee": {
+            "api_key": "sk-damodar-invincible-50x-scrapingbee-30778653",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.21.127.68",
+            "timestamp": 1785338791.060456
+        },
+        "Firecrawl API": {
+            "api_key": "sk-damodar-invincible-50x-firecrawlapi-69307479",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.180.13.57",
+            "timestamp": 1785338797.30586
+        },
+        "Diffbot Knowledge Graph": {
+            "api_key": "sk-damodar-invincible-50x-diffbotknowledgegraph-95967480",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.74.135.195",
+            "timestamp": 1785338805.155231
+        },
+        "DeepL API": {
+            "api_key": "sk-damodar-invincible-50x-deeplapi-56409272",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.151.178.143",
+            "timestamp": 1785338813.96008
+        },
+        "ElevenLabs Voice API": {
+            "api_key": "sk-damodar-invincible-50x-elevenlabsvoiceapi-30189201",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.85.200.47",
+            "timestamp": 1785338822.7384992
+        },
+        "Play.ht API": {
+            "api_key": "sk-damodar-invincible-50x-play.htapi-60008878",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.67.225.24",
+            "timestamp": 1785338830.298217
+        },
+        "Cartesia AI": {
+            "api_key": "sk-damodar-invincible-50x-cartesiaai-78261747",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.77.93.245",
+            "timestamp": 1785338835.688344
+        },
+        "Deepgram Speech-to-Text": {
+            "api_key": "sk-damodar-invincible-50x-deepgramspeech-to-text-46650217",
+            "status": "INVINCIBLE_ACTIVE",
+            "ip": "172.122.210.48",
+            "timestamp": 1785338841.830625
+        }
     }
 }

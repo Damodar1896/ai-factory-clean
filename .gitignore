@@ -3,3 +3,6 @@ browser_session_vault.json
 .env
 .vercel
 .env*
+
+# Local Netlify folder
+.netlify
