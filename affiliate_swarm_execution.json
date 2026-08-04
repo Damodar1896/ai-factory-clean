@@ -1,5 +1,5 @@
 {
-    "total_registered": 152,
+    "total_registered": 153,
     "partnerships": [
         {
             "network_name": "Upwork",
@@ -1410,6 +1410,14 @@
             "status": "Strict Corporate & Hardware IP Verified",
             "referral_link": "https://themeforest.net/affiliates/partner/damodar-16359",
             "timestamp": "2026-08-04 10:18:29.575529"
+        },
+        {
+            "network_name": "Tripadvisor",
+            "network_url": "https://www.tripadvisor.com/Affiliates",
+            "corporate_email": "portlegaldamodarventures11@enterprise-mail.com",
+            "status": "Strict Corporate & Hardware IP Verified",
+            "referral_link": "https://www.tripadvisor.com/Affiliates/partner/damodar-40913",
+            "timestamp": "2026-08-04 10:45:25.753424"
         }
     ],
     "daily_breakdown": {
@@ -1419,6 +1427,6 @@
         "2026-08-01": 26,
         "2026-08-02": 24,
         "2026-08-03": 20,
-        "2026-08-04": 14
+        "2026-08-04": 15
     }
 }
