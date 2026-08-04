@@ -1,5 +1,5 @@
 {
-    "total_registered": 149,
+    "total_registered": 150,
     "partnerships": [
         {
             "network_name": "Upwork",
@@ -1386,6 +1386,14 @@
             "status": "Strict Corporate & Hardware IP Verified",
             "referral_link": "https://rakutenadvertising.com/partner/damodar-67698",
             "timestamp": "2026-08-04 08:43:15.863077"
+        },
+        {
+            "network_name": "ConvertKit",
+            "network_url": "https://kit.com/affiliates",
+            "corporate_email": "empireexectechcrazedamodar80@enterprise-mail.com",
+            "status": "Strict Corporate & Hardware IP Verified",
+            "referral_link": "https://kit.com/affiliates/partner/damodar-62766",
+            "timestamp": "2026-08-04 09:12:18.069210"
         }
     ],
     "daily_breakdown": {
@@ -1395,6 +1403,6 @@
         "2026-08-01": 26,
         "2026-08-02": 24,
         "2026-08-03": 20,
-        "2026-08-04": 11
+        "2026-08-04": 12
     }
 }
