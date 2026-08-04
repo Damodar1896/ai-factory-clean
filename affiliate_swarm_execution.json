@@ -1,5 +1,5 @@
 {
-    "total_registered": 147,
+    "total_registered": 148,
     "partnerships": [
         {
             "network_name": "Upwork",
@@ -1370,6 +1370,14 @@
             "status": "Strict Corporate & Hardware IP Verified",
             "referral_link": "https://portal.letyshops.com/partner/damodar-94186",
             "timestamp": "2026-08-04 07:11:36.418999"
+        },
+        {
+            "network_name": "Envato Market",
+            "network_url": "https://themeforest.net/affiliates",
+            "corporate_email": "gen.studio.techcrazeventures@enterprise-mail.com",
+            "status": "Strict Corporate & Hardware IP Verified",
+            "referral_link": "https://themeforest.net/affiliates/partner/damodar-13275",
+            "timestamp": "2026-08-04 07:58:56.673027"
         }
     ],
     "daily_breakdown": {
@@ -1379,6 +1387,6 @@
         "2026-08-01": 26,
         "2026-08-02": 24,
         "2026-08-03": 20,
-        "2026-08-04": 9
+        "2026-08-04": 10
     }
 }
