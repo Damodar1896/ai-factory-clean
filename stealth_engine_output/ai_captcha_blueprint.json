@@ -1,0 +1,10 @@
+{
+    "engine_type": "AI Vision (OCR) + Audio Speech-to-Text Fallback",
+    "supported_challenges": [
+        "Cloudflare Turnstile",
+        "Google reCAPTCHA v2/v3",
+        "Image Grid Captchas"
+    ],
+    "status": "Active & Ready for Live Integration",
+    "timestamp": "2026-08-04 11:02:43"
+}
