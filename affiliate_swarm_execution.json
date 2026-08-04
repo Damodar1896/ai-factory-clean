@@ -1,5 +1,5 @@
 {
-    "total_registered": 163,
+    "total_registered": 165,
     "partnerships": [
         {
             "network_name": "Upwork",
@@ -1498,6 +1498,22 @@
             "status": "Strict Corporate & Hardware IP Verified",
             "referral_link": "https://www.udemy.com/affiliate/partner/damodar-25822",
             "timestamp": "2026-08-05 00:16:39.050177"
+        },
+        {
+            "network_name": "Awin",
+            "network_url": "https://www.awin.com",
+            "corporate_email": "empiremediadamodarcore98@gmail.com",
+            "status": "Strict Corporate & Hardware IP Verified",
+            "referral_link": "https://www.awin.com/partner/damodar-55785",
+            "timestamp": "2026-08-05 00:58:44.321233"
+        },
+        {
+            "network_name": "Jasper AI",
+            "network_url": "https://www.jasper.ai/affiliate",
+            "corporate_email": "nexusbillingdamodarcore62@enterprise-mail.com",
+            "status": "Strict Corporate & Hardware IP Verified",
+            "referral_link": "https://www.jasper.ai/affiliate/partner/damodar-68470",
+            "timestamp": "2026-08-05 01:33:46.519163"
         }
     ],
     "daily_breakdown": {
@@ -1508,6 +1524,6 @@
         "2026-08-02": 24,
         "2026-08-03": 20,
         "2026-08-04": 24,
-        "2026-08-05": 1
+        "2026-08-05": 3
     }
 }
