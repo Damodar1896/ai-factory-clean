@@ -2753,6 +2753,15 @@
             "leads_captured": 32,
             "status": "Active & Converting",
             "timestamp": "2026-08-04 23:38:22"
+        },
+        {
+            "campaign_id": "CAMP-25764",
+            "channel": "Social Media Hook Spreader",
+            "target_audience": "Viral Short-Form Traffic",
+            "clicks_generated": 293,
+            "leads_captured": 19,
+            "status": "Active & Converting",
+            "timestamp": "2026-08-05 00:07:23"
         }
     ]
 }

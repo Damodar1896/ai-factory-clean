@@ -1,5 +1,5 @@
 {
-    "total_registered": 162,
+    "total_registered": 163,
     "partnerships": [
         {
             "network_name": "Upwork",
@@ -1490,6 +1490,14 @@
             "status": "Strict Corporate & Hardware IP Verified",
             "referral_link": "https://nordvpn.com/affiliate/partner/damodar-49050",
             "timestamp": "2026-08-04 19:47:01.677388"
+        },
+        {
+            "network_name": "Udemy",
+            "network_url": "https://www.udemy.com/affiliate",
+            "corporate_email": "pro.support.damodarempire@gmail.com",
+            "status": "Strict Corporate & Hardware IP Verified",
+            "referral_link": "https://www.udemy.com/affiliate/partner/damodar-25822",
+            "timestamp": "2026-08-05 00:16:39.050177"
         }
     ],
     "daily_breakdown": {
@@ -1499,6 +1507,7 @@
         "2026-08-01": 26,
         "2026-08-02": 24,
         "2026-08-03": 20,
-        "2026-08-04": 24
+        "2026-08-04": 24,
+        "2026-08-05": 1
     }
 }
