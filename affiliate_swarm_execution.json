@@ -1,5 +1,5 @@
 {
-    "total_registered": 160,
+    "total_registered": 161,
     "partnerships": [
         {
             "network_name": "Upwork",
@@ -1474,6 +1474,14 @@
             "status": "Strict Corporate & Hardware IP Verified",
             "referral_link": "https://www.expressvpn.com/affiliates/partner/damodar-69123",
             "timestamp": "2026-08-04 16:48:50.253888"
+        },
+        {
+            "network_name": "Udemy",
+            "network_url": "https://www.udemy.com/affiliate",
+            "corporate_email": "realm.admin.damodartechcraze@enterprise-mail.com",
+            "status": "Strict Corporate & Hardware IP Verified",
+            "referral_link": "https://www.udemy.com/affiliate/partner/damodar-75238",
+            "timestamp": "2026-08-04 17:14:33.397167"
         }
     ],
     "daily_breakdown": {
@@ -1483,6 +1491,6 @@
         "2026-08-01": 26,
         "2026-08-02": 24,
         "2026-08-03": 20,
-        "2026-08-04": 22
+        "2026-08-04": 23
     }
 }
