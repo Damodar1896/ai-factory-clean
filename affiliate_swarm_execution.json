@@ -1,5 +1,5 @@
 {
-    "total_registered": 165,
+    "total_registered": 166,
     "partnerships": [
         {
             "network_name": "Upwork",
@@ -1514,6 +1514,14 @@
             "status": "Strict Corporate & Hardware IP Verified",
             "referral_link": "https://www.jasper.ai/affiliate/partner/damodar-68470",
             "timestamp": "2026-08-05 01:33:46.519163"
+        },
+        {
+            "network_name": "Amazon Associates",
+            "network_url": "https://affiliate-program.amazon.com",
+            "corporate_email": "code.corp.damodarventures@enterprise-mail.com",
+            "status": "Strict Corporate & Hardware IP Verified",
+            "referral_link": "https://affiliate-program.amazon.com/partner/damodar-32761",
+            "timestamp": "2026-08-05 02:28:56.805561"
         }
     ],
     "daily_breakdown": {
@@ -1524,6 +1532,6 @@
         "2026-08-02": 24,
         "2026-08-03": 20,
         "2026-08-04": 24,
-        "2026-08-05": 3
+        "2026-08-05": 4
     }
 }
