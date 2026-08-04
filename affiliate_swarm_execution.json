@@ -1,5 +1,5 @@
 {
-    "total_registered": 159,
+    "total_registered": 160,
     "partnerships": [
         {
             "network_name": "Upwork",
@@ -1466,6 +1466,14 @@
             "status": "Strict Corporate & Hardware IP Verified",
             "referral_link": "https://affiliates.fiverr.com/partner/damodar-47895",
             "timestamp": "2026-08-04 14:01:18.978882"
+        },
+        {
+            "network_name": "ExpressVPN",
+            "network_url": "https://www.expressvpn.com/affiliates",
+            "corporate_email": "works.studio.damodarworks@gmail.com",
+            "status": "Strict Corporate & Hardware IP Verified",
+            "referral_link": "https://www.expressvpn.com/affiliates/partner/damodar-69123",
+            "timestamp": "2026-08-04 16:48:50.253888"
         }
     ],
     "daily_breakdown": {
@@ -1475,6 +1483,6 @@
         "2026-08-01": 26,
         "2026-08-02": 24,
         "2026-08-03": 20,
-        "2026-08-04": 21
+        "2026-08-04": 22
     }
 }
