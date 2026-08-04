@@ -1,5 +1,5 @@
 {
-    "total_registered": 166,
+    "total_registered": 167,
     "partnerships": [
         {
             "network_name": "Upwork",
@@ -1522,6 +1522,14 @@
             "status": "Strict Corporate & Hardware IP Verified",
             "referral_link": "https://affiliate-program.amazon.com/partner/damodar-32761",
             "timestamp": "2026-08-05 02:28:56.805561"
+        },
+        {
+            "network_name": "Systeme.io",
+            "network_url": "https://systeme.io/affiliates",
+            "corporate_email": "vault.media.damodarempire@gmail.com",
+            "status": "Strict Corporate & Hardware IP Verified",
+            "referral_link": "https://systeme.io/affiliates/partner/damodar-75476",
+            "timestamp": "2026-08-05 03:19:58.069973"
         }
     ],
     "daily_breakdown": {
@@ -1532,6 +1540,6 @@
         "2026-08-02": 24,
         "2026-08-03": 20,
         "2026-08-04": 24,
-        "2026-08-05": 4
+        "2026-08-05": 5
     }
 }
