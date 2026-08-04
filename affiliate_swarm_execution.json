@@ -1,5 +1,5 @@
 {
-    "total_registered": 144,
+    "total_registered": 146,
     "partnerships": [
         {
             "network_name": "Upwork",
@@ -1346,6 +1346,22 @@
             "status": "Strict Corporate & Hardware IP Verified",
             "referral_link": "https://teachable.com/affiliate/partner/damodar-63529",
             "timestamp": "2026-08-04 05:13:24.556124"
+        },
+        {
+            "network_name": "Booking.com Affiliate",
+            "network_url": "https://www.booking.com/affiliate-program",
+            "corporate_email": "portadmindamodartechcraze56@gmail.com",
+            "status": "Strict Corporate & Hardware IP Verified",
+            "referral_link": "https://www.booking.com/affiliate-program/partner/damodar-39955",
+            "timestamp": "2026-08-04 05:57:26.822681"
+        },
+        {
+            "network_name": "Bluehost",
+            "network_url": "https://www.bluehost.com/track/affiliates",
+            "corporate_email": "empire.billing.venturestechcraze@gmail.com",
+            "status": "Strict Corporate & Hardware IP Verified",
+            "referral_link": "https://www.bluehost.com/track/affiliates/partner/damodar-24446",
+            "timestamp": "2026-08-04 06:27:17.212948"
         }
     ],
     "daily_breakdown": {
@@ -1355,6 +1371,6 @@
         "2026-08-01": 26,
         "2026-08-02": 24,
         "2026-08-03": 20,
-        "2026-08-04": 6
+        "2026-08-04": 8
     }
 }
