@@ -1,5 +1,5 @@
 {
-    "total_registered": 146,
+    "total_registered": 147,
     "partnerships": [
         {
             "network_name": "Upwork",
@@ -1362,6 +1362,14 @@
             "status": "Strict Corporate & Hardware IP Verified",
             "referral_link": "https://www.bluehost.com/track/affiliates/partner/damodar-24446",
             "timestamp": "2026-08-04 06:27:17.212948"
+        },
+        {
+            "network_name": "AliExpress Affiliate",
+            "network_url": "https://portal.letyshops.com",
+            "corporate_email": "gen.connect.damodartechcraze@enterprise-mail.com",
+            "status": "Strict Corporate & Hardware IP Verified",
+            "referral_link": "https://portal.letyshops.com/partner/damodar-94186",
+            "timestamp": "2026-08-04 07:11:36.418999"
         }
     ],
     "daily_breakdown": {
@@ -1371,6 +1379,6 @@
         "2026-08-01": 26,
         "2026-08-02": 24,
         "2026-08-03": 20,
-        "2026-08-04": 8
+        "2026-08-04": 9
     }
 }

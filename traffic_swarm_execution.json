@@ -2393,6 +2393,33 @@
             "leads_captured": 39,
             "status": "Active & Converting",
             "timestamp": "2026-08-04 06:32:10"
+        },
+        {
+            "campaign_id": "CAMP-61947",
+            "channel": "Direct Corporate Outreach",
+            "target_audience": "B2B Lead Conversion",
+            "clicks_generated": 434,
+            "leads_captured": 13,
+            "status": "Active & Converting",
+            "timestamp": "2026-08-04 06:56:10"
+        },
+        {
+            "campaign_id": "CAMP-57577",
+            "channel": "Social Media Hook Spreader",
+            "target_audience": "Viral Short-Form Traffic",
+            "clicks_generated": 532,
+            "leads_captured": 44,
+            "status": "Active & Converting",
+            "timestamp": "2026-08-04 07:21:11"
+        },
+        {
+            "campaign_id": "CAMP-54251",
+            "channel": "Direct Corporate Outreach",
+            "target_audience": "B2B Lead Conversion",
+            "clicks_generated": 451,
+            "leads_captured": 22,
+            "status": "Active & Converting",
+            "timestamp": "2026-08-04 07:38:11"
         }
     ]
 }
