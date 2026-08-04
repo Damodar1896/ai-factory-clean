@@ -1,5 +1,5 @@
 {
-    "total_registered": 154,
+    "total_registered": 156,
     "partnerships": [
         {
             "network_name": "Upwork",
@@ -1426,6 +1426,22 @@
             "status": "Strict Corporate & Hardware IP Verified",
             "referral_link": "https://www.skillshare.com/affiliates/partner/damodar-70453",
             "timestamp": "2026-08-04 11:11:02.925456"
+        },
+        {
+            "network_name": "AliExpress Affiliate",
+            "network_url": "https://portal.letyshops.com",
+            "corporate_email": "nexusgroupdamodarempire22@enterprise-mail.com",
+            "status": "Strict Corporate & Hardware IP Verified",
+            "referral_link": "https://portal.letyshops.com/partner/damodar-19523",
+            "timestamp": "2026-08-04 11:51:32.079232"
+        },
+        {
+            "network_name": "Surfshark",
+            "network_url": "https://surfshark.com/affiliate",
+            "corporate_email": "elitesalesdamodarcore54@gmail.com",
+            "status": "Strict Corporate & Hardware IP Verified",
+            "referral_link": "https://surfshark.com/affiliate/partner/damodar-47246",
+            "timestamp": "2026-08-04 12:18:12.279433"
         }
     ],
     "daily_breakdown": {
@@ -1435,6 +1451,6 @@
         "2026-08-01": 26,
         "2026-08-02": 24,
         "2026-08-03": 20,
-        "2026-08-04": 16
+        "2026-08-04": 18
     }
 }

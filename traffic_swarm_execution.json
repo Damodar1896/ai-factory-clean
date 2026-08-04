@@ -2501,6 +2501,24 @@
             "leads_captured": 43,
             "status": "Active & Converting",
             "timestamp": "2026-08-04 11:29:44"
+        },
+        {
+            "campaign_id": "CAMP-88925",
+            "channel": "Telegram Growth Swarm",
+            "target_audience": "Tech & SaaS Audiences",
+            "clicks_generated": 543,
+            "leads_captured": 40,
+            "status": "Active & Converting",
+            "timestamp": "2026-08-04 12:09:44"
+        },
+        {
+            "campaign_id": "CAMP-70019",
+            "channel": "Telegram Growth Swarm",
+            "target_audience": "Tech & SaaS Audiences",
+            "clicks_generated": 527,
+            "leads_captured": 39,
+            "status": "Active & Converting",
+            "timestamp": "2026-08-04 12:34:15"
         }
     ]
 }
