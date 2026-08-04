@@ -2,14 +2,8 @@ import os
 import sys
 import telebot
 from telebot import types
-from dotenv import load_dotenv
 
-load_dotenv()
-TOKEN = os.getenv("8658962388:AAHFohEKyLvbwQG_cbXnRQ2lG8gfa21x-Zw")
-
-if not TOKEN:
-    print("CRITICAL ERROR: Telegram Bot Token not found! Please check your .env file.", file=sys.stderr)
-    sys.exit(1)
+TOKEN = "8658962388:AAHFohEKyLvbwQG_cbXnRQ2lG8gfa21x-Zw"
 
 bot = telebot.TeleBot(TOKEN)
 
@@ -17,11 +11,9 @@ bot = telebot.TeleBot(TOKEN)
 def send_welcome(message):
     try:
         markup = types.InlineKeyboardMarkup(row_width=1)
-        
         btn_tools = types.InlineKeyboardButton("🎁 Free AI & Software Tools", callback_data="tools")
         btn_bonuses = types.InlineKeyboardButton("💎 VIP Exclusive Bonuses ($5k Value)", callback_data="bonuses")
         btn_affiliate = types.InlineKeyboardButton("🔥 Top Enterprise Partner Offers", callback_data="affiliate")
-        
         markup.add(btn_tools, btn_bonuses, btn_affiliate)
         
         welcome_text = (
@@ -31,7 +23,6 @@ def send_welcome(message):
             "and exclusive digital resources to scale your business.\n\n"
             "Select an option below to get started:"
         )
-        
         bot.send_message(message.chat.id, welcome_text, parse_mode="Markdown", reply_markup=markup)
     except Exception as e:
         print(f"Error in start handler: {e}")

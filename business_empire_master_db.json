@@ -156,7 +156,7 @@
         "niche": "Digital Agency",
         "city": "Chennai",
         "model_target": "DFY_Cold_Email_Target",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -166,7 +166,7 @@
         "niche": "Digital Agency",
         "city": "Ahmedabad",
         "model_target": "B2B_Lead_Selling_Or_Outreach",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -176,7 +176,7 @@
         "niche": "Digital Agency",
         "city": "Ahmedabad",
         "model_target": "DFY_Cold_Email_Target",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -186,7 +186,7 @@
         "niche": "Digital Agency",
         "city": "Jaipur",
         "model_target": "B2B_Lead_Selling_Or_Outreach",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -196,7 +196,7 @@
         "niche": "Digital Agency",
         "city": "Jaipur",
         "model_target": "DFY_Cold_Email_Target",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -206,7 +206,7 @@
         "niche": "Real Estate",
         "city": "Indore",
         "model_target": "B2B_Lead_Selling_Or_Outreach",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -216,7 +216,7 @@
         "niche": "Real Estate",
         "city": "Indore",
         "model_target": "DFY_Cold_Email_Target",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -226,7 +226,7 @@
         "niche": "Real Estate",
         "city": "Bhopal",
         "model_target": "B2B_Lead_Selling_Or_Outreach",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -236,7 +236,7 @@
         "niche": "Real Estate",
         "city": "Bhopal",
         "model_target": "DFY_Cold_Email_Target",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -246,7 +246,7 @@
         "niche": "Real Estate",
         "city": "Pune",
         "model_target": "B2B_Lead_Selling_Or_Outreach",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -256,7 +256,7 @@
         "niche": "Real Estate",
         "city": "Pune",
         "model_target": "DFY_Cold_Email_Target",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -266,7 +266,7 @@
         "niche": "Real Estate",
         "city": "Mumbai",
         "model_target": "B2B_Lead_Selling_Or_Outreach",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -276,7 +276,7 @@
         "niche": "Real Estate",
         "city": "Mumbai",
         "model_target": "DFY_Cold_Email_Target",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -286,7 +286,7 @@
         "niche": "Real Estate",
         "city": "Bangalore",
         "model_target": "B2B_Lead_Selling_Or_Outreach",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -296,7 +296,7 @@
         "niche": "Real Estate",
         "city": "Bangalore",
         "model_target": "DFY_Cold_Email_Target",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -306,7 +306,7 @@
         "niche": "Real Estate",
         "city": "Delhi",
         "model_target": "B2B_Lead_Selling_Or_Outreach",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -316,7 +316,7 @@
         "niche": "Real Estate",
         "city": "Delhi",
         "model_target": "DFY_Cold_Email_Target",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -326,7 +326,7 @@
         "niche": "Real Estate",
         "city": "Hyderabad",
         "model_target": "B2B_Lead_Selling_Or_Outreach",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -336,7 +336,7 @@
         "niche": "Real Estate",
         "city": "Hyderabad",
         "model_target": "DFY_Cold_Email_Target",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -346,7 +346,7 @@
         "niche": "Real Estate",
         "city": "Chennai",
         "model_target": "B2B_Lead_Selling_Or_Outreach",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -356,7 +356,7 @@
         "niche": "Real Estate",
         "city": "Chennai",
         "model_target": "DFY_Cold_Email_Target",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -366,7 +366,7 @@
         "niche": "Real Estate",
         "city": "Ahmedabad",
         "model_target": "B2B_Lead_Selling_Or_Outreach",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -376,7 +376,7 @@
         "niche": "Real Estate",
         "city": "Ahmedabad",
         "model_target": "DFY_Cold_Email_Target",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -386,7 +386,7 @@
         "niche": "Real Estate",
         "city": "Jaipur",
         "model_target": "B2B_Lead_Selling_Or_Outreach",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -396,7 +396,7 @@
         "niche": "Real Estate",
         "city": "Jaipur",
         "model_target": "DFY_Cold_Email_Target",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -406,7 +406,7 @@
         "niche": "Restaurant",
         "city": "Indore",
         "model_target": "B2B_Lead_Selling_Or_Outreach",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -416,7 +416,7 @@
         "niche": "Restaurant",
         "city": "Indore",
         "model_target": "DFY_Cold_Email_Target",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -426,7 +426,7 @@
         "niche": "Restaurant",
         "city": "Bhopal",
         "model_target": "B2B_Lead_Selling_Or_Outreach",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -436,7 +436,7 @@
         "niche": "Restaurant",
         "city": "Bhopal",
         "model_target": "DFY_Cold_Email_Target",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -446,7 +446,7 @@
         "niche": "Restaurant",
         "city": "Pune",
         "model_target": "B2B_Lead_Selling_Or_Outreach",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -456,7 +456,7 @@
         "niche": "Restaurant",
         "city": "Pune",
         "model_target": "DFY_Cold_Email_Target",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -466,7 +466,7 @@
         "niche": "Restaurant",
         "city": "Mumbai",
         "model_target": "B2B_Lead_Selling_Or_Outreach",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -476,7 +476,7 @@
         "niche": "Restaurant",
         "city": "Mumbai",
         "model_target": "DFY_Cold_Email_Target",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -486,7 +486,7 @@
         "niche": "Restaurant",
         "city": "Bangalore",
         "model_target": "B2B_Lead_Selling_Or_Outreach",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -496,7 +496,7 @@
         "niche": "Restaurant",
         "city": "Bangalore",
         "model_target": "DFY_Cold_Email_Target",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -506,7 +506,7 @@
         "niche": "Restaurant",
         "city": "Delhi",
         "model_target": "B2B_Lead_Selling_Or_Outreach",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -516,7 +516,7 @@
         "niche": "Restaurant",
         "city": "Delhi",
         "model_target": "DFY_Cold_Email_Target",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -526,7 +526,7 @@
         "niche": "Restaurant",
         "city": "Hyderabad",
         "model_target": "B2B_Lead_Selling_Or_Outreach",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -536,7 +536,7 @@
         "niche": "Restaurant",
         "city": "Hyderabad",
         "model_target": "DFY_Cold_Email_Target",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -546,7 +546,7 @@
         "niche": "Restaurant",
         "city": "Chennai",
         "model_target": "B2B_Lead_Selling_Or_Outreach",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -556,7 +556,7 @@
         "niche": "Restaurant",
         "city": "Chennai",
         "model_target": "DFY_Cold_Email_Target",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -566,7 +566,7 @@
         "niche": "Restaurant",
         "city": "Ahmedabad",
         "model_target": "B2B_Lead_Selling_Or_Outreach",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -576,7 +576,7 @@
         "niche": "Restaurant",
         "city": "Ahmedabad",
         "model_target": "DFY_Cold_Email_Target",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -586,7 +586,7 @@
         "niche": "Restaurant",
         "city": "Jaipur",
         "model_target": "B2B_Lead_Selling_Or_Outreach",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -596,7 +596,7 @@
         "niche": "Restaurant",
         "city": "Jaipur",
         "model_target": "DFY_Cold_Email_Target",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -606,7 +606,7 @@
         "niche": "Coaching Institute",
         "city": "Indore",
         "model_target": "B2B_Lead_Selling_Or_Outreach",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -616,7 +616,7 @@
         "niche": "Coaching Institute",
         "city": "Indore",
         "model_target": "DFY_Cold_Email_Target",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -626,7 +626,7 @@
         "niche": "Coaching Institute",
         "city": "Bhopal",
         "model_target": "B2B_Lead_Selling_Or_Outreach",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -636,7 +636,7 @@
         "niche": "Coaching Institute",
         "city": "Bhopal",
         "model_target": "DFY_Cold_Email_Target",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -646,7 +646,7 @@
         "niche": "Coaching Institute",
         "city": "Pune",
         "model_target": "B2B_Lead_Selling_Or_Outreach",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -656,7 +656,7 @@
         "niche": "Coaching Institute",
         "city": "Pune",
         "model_target": "DFY_Cold_Email_Target",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -666,7 +666,7 @@
         "niche": "Coaching Institute",
         "city": "Mumbai",
         "model_target": "B2B_Lead_Selling_Or_Outreach",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -676,7 +676,7 @@
         "niche": "Coaching Institute",
         "city": "Mumbai",
         "model_target": "DFY_Cold_Email_Target",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -686,7 +686,7 @@
         "niche": "Coaching Institute",
         "city": "Bangalore",
         "model_target": "B2B_Lead_Selling_Or_Outreach",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -696,7 +696,7 @@
         "niche": "Coaching Institute",
         "city": "Bangalore",
         "model_target": "DFY_Cold_Email_Target",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -706,7 +706,7 @@
         "niche": "Coaching Institute",
         "city": "Delhi",
         "model_target": "B2B_Lead_Selling_Or_Outreach",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -716,7 +716,7 @@
         "niche": "Coaching Institute",
         "city": "Delhi",
         "model_target": "DFY_Cold_Email_Target",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -726,7 +726,7 @@
         "niche": "Coaching Institute",
         "city": "Hyderabad",
         "model_target": "B2B_Lead_Selling_Or_Outreach",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -736,7 +736,7 @@
         "niche": "Coaching Institute",
         "city": "Hyderabad",
         "model_target": "DFY_Cold_Email_Target",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -746,7 +746,7 @@
         "niche": "Coaching Institute",
         "city": "Chennai",
         "model_target": "B2B_Lead_Selling_Or_Outreach",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -756,7 +756,7 @@
         "niche": "Coaching Institute",
         "city": "Chennai",
         "model_target": "DFY_Cold_Email_Target",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -766,7 +766,7 @@
         "niche": "Coaching Institute",
         "city": "Ahmedabad",
         "model_target": "B2B_Lead_Selling_Or_Outreach",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -776,7 +776,7 @@
         "niche": "Coaching Institute",
         "city": "Ahmedabad",
         "model_target": "DFY_Cold_Email_Target",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -786,7 +786,7 @@
         "niche": "Coaching Institute",
         "city": "Jaipur",
         "model_target": "B2B_Lead_Selling_Or_Outreach",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -796,7 +796,7 @@
         "niche": "Coaching Institute",
         "city": "Jaipur",
         "model_target": "DFY_Cold_Email_Target",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -806,7 +806,7 @@
         "niche": "Doctor",
         "city": "Indore",
         "model_target": "B2B_Lead_Selling_Or_Outreach",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -816,7 +816,7 @@
         "niche": "Doctor",
         "city": "Indore",
         "model_target": "DFY_Cold_Email_Target",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -826,7 +826,7 @@
         "niche": "Doctor",
         "city": "Bhopal",
         "model_target": "B2B_Lead_Selling_Or_Outreach",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -836,7 +836,7 @@
         "niche": "Doctor",
         "city": "Bhopal",
         "model_target": "DFY_Cold_Email_Target",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -846,7 +846,7 @@
         "niche": "Doctor",
         "city": "Pune",
         "model_target": "B2B_Lead_Selling_Or_Outreach",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -856,7 +856,7 @@
         "niche": "Doctor",
         "city": "Pune",
         "model_target": "DFY_Cold_Email_Target",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -866,7 +866,7 @@
         "niche": "Doctor",
         "city": "Mumbai",
         "model_target": "B2B_Lead_Selling_Or_Outreach",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -876,7 +876,7 @@
         "niche": "Doctor",
         "city": "Mumbai",
         "model_target": "DFY_Cold_Email_Target",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -886,7 +886,7 @@
         "niche": "Doctor",
         "city": "Bangalore",
         "model_target": "B2B_Lead_Selling_Or_Outreach",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -896,7 +896,7 @@
         "niche": "Doctor",
         "city": "Bangalore",
         "model_target": "DFY_Cold_Email_Target",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -906,7 +906,7 @@
         "niche": "Doctor",
         "city": "Delhi",
         "model_target": "B2B_Lead_Selling_Or_Outreach",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -916,7 +916,7 @@
         "niche": "Doctor",
         "city": "Delhi",
         "model_target": "DFY_Cold_Email_Target",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -926,7 +926,7 @@
         "niche": "Doctor",
         "city": "Hyderabad",
         "model_target": "B2B_Lead_Selling_Or_Outreach",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -936,7 +936,7 @@
         "niche": "Doctor",
         "city": "Hyderabad",
         "model_target": "DFY_Cold_Email_Target",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -946,7 +946,7 @@
         "niche": "Doctor",
         "city": "Chennai",
         "model_target": "B2B_Lead_Selling_Or_Outreach",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -956,7 +956,7 @@
         "niche": "Doctor",
         "city": "Chennai",
         "model_target": "DFY_Cold_Email_Target",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -966,7 +966,7 @@
         "niche": "Doctor",
         "city": "Ahmedabad",
         "model_target": "B2B_Lead_Selling_Or_Outreach",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -976,7 +976,7 @@
         "niche": "Doctor",
         "city": "Ahmedabad",
         "model_target": "DFY_Cold_Email_Target",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -986,7 +986,7 @@
         "niche": "Doctor",
         "city": "Jaipur",
         "model_target": "B2B_Lead_Selling_Or_Outreach",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -996,7 +996,7 @@
         "niche": "Doctor",
         "city": "Jaipur",
         "model_target": "DFY_Cold_Email_Target",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -1006,7 +1006,7 @@
         "niche": "Gym",
         "city": "Indore",
         "model_target": "B2B_Lead_Selling_Or_Outreach",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -1016,7 +1016,7 @@
         "niche": "Gym",
         "city": "Indore",
         "model_target": "DFY_Cold_Email_Target",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -1026,7 +1026,7 @@
         "niche": "Gym",
         "city": "Bhopal",
         "model_target": "B2B_Lead_Selling_Or_Outreach",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -1036,7 +1036,7 @@
         "niche": "Gym",
         "city": "Bhopal",
         "model_target": "DFY_Cold_Email_Target",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -1046,7 +1046,7 @@
         "niche": "Gym",
         "city": "Pune",
         "model_target": "B2B_Lead_Selling_Or_Outreach",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -1056,7 +1056,7 @@
         "niche": "Gym",
         "city": "Pune",
         "model_target": "DFY_Cold_Email_Target",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -1066,7 +1066,7 @@
         "niche": "Gym",
         "city": "Mumbai",
         "model_target": "B2B_Lead_Selling_Or_Outreach",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -1076,7 +1076,7 @@
         "niche": "Gym",
         "city": "Mumbai",
         "model_target": "DFY_Cold_Email_Target",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -1086,7 +1086,7 @@
         "niche": "Gym",
         "city": "Bangalore",
         "model_target": "B2B_Lead_Selling_Or_Outreach",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -1096,7 +1096,7 @@
         "niche": "Gym",
         "city": "Bangalore",
         "model_target": "DFY_Cold_Email_Target",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -1106,7 +1106,7 @@
         "niche": "Gym",
         "city": "Delhi",
         "model_target": "B2B_Lead_Selling_Or_Outreach",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -1116,7 +1116,7 @@
         "niche": "Gym",
         "city": "Delhi",
         "model_target": "DFY_Cold_Email_Target",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -1126,7 +1126,7 @@
         "niche": "Gym",
         "city": "Hyderabad",
         "model_target": "B2B_Lead_Selling_Or_Outreach",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -1136,7 +1136,7 @@
         "niche": "Gym",
         "city": "Hyderabad",
         "model_target": "DFY_Cold_Email_Target",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -1146,7 +1146,7 @@
         "niche": "Gym",
         "city": "Chennai",
         "model_target": "B2B_Lead_Selling_Or_Outreach",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -1156,7 +1156,7 @@
         "niche": "Gym",
         "city": "Chennai",
         "model_target": "DFY_Cold_Email_Target",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -1166,7 +1166,7 @@
         "niche": "Gym",
         "city": "Ahmedabad",
         "model_target": "B2B_Lead_Selling_Or_Outreach",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -1176,7 +1176,7 @@
         "niche": "Gym",
         "city": "Ahmedabad",
         "model_target": "DFY_Cold_Email_Target",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -1186,7 +1186,7 @@
         "niche": "Gym",
         "city": "Jaipur",
         "model_target": "B2B_Lead_Selling_Or_Outreach",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -1196,7 +1196,7 @@
         "niche": "Gym",
         "city": "Jaipur",
         "model_target": "DFY_Cold_Email_Target",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -1206,7 +1206,7 @@
         "niche": "Lawyer",
         "city": "Indore",
         "model_target": "B2B_Lead_Selling_Or_Outreach",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -1216,7 +1216,7 @@
         "niche": "Lawyer",
         "city": "Indore",
         "model_target": "DFY_Cold_Email_Target",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -1226,7 +1226,7 @@
         "niche": "Lawyer",
         "city": "Bhopal",
         "model_target": "B2B_Lead_Selling_Or_Outreach",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -1236,7 +1236,7 @@
         "niche": "Lawyer",
         "city": "Bhopal",
         "model_target": "DFY_Cold_Email_Target",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -1246,7 +1246,7 @@
         "niche": "Lawyer",
         "city": "Pune",
         "model_target": "B2B_Lead_Selling_Or_Outreach",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -1256,7 +1256,7 @@
         "niche": "Lawyer",
         "city": "Pune",
         "model_target": "DFY_Cold_Email_Target",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -1266,7 +1266,7 @@
         "niche": "Lawyer",
         "city": "Mumbai",
         "model_target": "B2B_Lead_Selling_Or_Outreach",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -1276,7 +1276,7 @@
         "niche": "Lawyer",
         "city": "Mumbai",
         "model_target": "DFY_Cold_Email_Target",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -1286,7 +1286,7 @@
         "niche": "Lawyer",
         "city": "Bangalore",
         "model_target": "B2B_Lead_Selling_Or_Outreach",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -1296,7 +1296,7 @@
         "niche": "Lawyer",
         "city": "Bangalore",
         "model_target": "DFY_Cold_Email_Target",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -1306,7 +1306,7 @@
         "niche": "Lawyer",
         "city": "Delhi",
         "model_target": "B2B_Lead_Selling_Or_Outreach",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -1316,7 +1316,7 @@
         "niche": "Lawyer",
         "city": "Delhi",
         "model_target": "DFY_Cold_Email_Target",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -1326,7 +1326,7 @@
         "niche": "Lawyer",
         "city": "Hyderabad",
         "model_target": "B2B_Lead_Selling_Or_Outreach",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -1336,7 +1336,7 @@
         "niche": "Lawyer",
         "city": "Hyderabad",
         "model_target": "DFY_Cold_Email_Target",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -1346,7 +1346,7 @@
         "niche": "Lawyer",
         "city": "Chennai",
         "model_target": "B2B_Lead_Selling_Or_Outreach",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -1356,7 +1356,7 @@
         "niche": "Lawyer",
         "city": "Chennai",
         "model_target": "DFY_Cold_Email_Target",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -1366,7 +1366,7 @@
         "niche": "Lawyer",
         "city": "Ahmedabad",
         "model_target": "B2B_Lead_Selling_Or_Outreach",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -1376,7 +1376,7 @@
         "niche": "Lawyer",
         "city": "Ahmedabad",
         "model_target": "DFY_Cold_Email_Target",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -1386,7 +1386,7 @@
         "niche": "Lawyer",
         "city": "Jaipur",
         "model_target": "B2B_Lead_Selling_Or_Outreach",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -1396,7 +1396,7 @@
         "niche": "Lawyer",
         "city": "Jaipur",
         "model_target": "DFY_Cold_Email_Target",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -1406,7 +1406,7 @@
         "niche": "E-commerce",
         "city": "Indore",
         "model_target": "B2B_Lead_Selling_Or_Outreach",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -1416,7 +1416,7 @@
         "niche": "E-commerce",
         "city": "Indore",
         "model_target": "DFY_Cold_Email_Target",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -1426,7 +1426,7 @@
         "niche": "E-commerce",
         "city": "Bhopal",
         "model_target": "B2B_Lead_Selling_Or_Outreach",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -1436,7 +1436,7 @@
         "niche": "E-commerce",
         "city": "Bhopal",
         "model_target": "DFY_Cold_Email_Target",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -1446,7 +1446,7 @@
         "niche": "E-commerce",
         "city": "Pune",
         "model_target": "B2B_Lead_Selling_Or_Outreach",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -1456,7 +1456,7 @@
         "niche": "E-commerce",
         "city": "Pune",
         "model_target": "DFY_Cold_Email_Target",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -1466,7 +1466,7 @@
         "niche": "E-commerce",
         "city": "Mumbai",
         "model_target": "B2B_Lead_Selling_Or_Outreach",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -1476,7 +1476,7 @@
         "niche": "E-commerce",
         "city": "Mumbai",
         "model_target": "DFY_Cold_Email_Target",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -1486,7 +1486,7 @@
         "niche": "E-commerce",
         "city": "Bangalore",
         "model_target": "B2B_Lead_Selling_Or_Outreach",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -1496,7 +1496,7 @@
         "niche": "E-commerce",
         "city": "Bangalore",
         "model_target": "DFY_Cold_Email_Target",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -1506,7 +1506,7 @@
         "niche": "E-commerce",
         "city": "Delhi",
         "model_target": "B2B_Lead_Selling_Or_Outreach",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -1516,7 +1516,7 @@
         "niche": "E-commerce",
         "city": "Delhi",
         "model_target": "DFY_Cold_Email_Target",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -1526,7 +1526,7 @@
         "niche": "E-commerce",
         "city": "Hyderabad",
         "model_target": "B2B_Lead_Selling_Or_Outreach",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -1536,7 +1536,7 @@
         "niche": "E-commerce",
         "city": "Hyderabad",
         "model_target": "DFY_Cold_Email_Target",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -1546,7 +1546,7 @@
         "niche": "E-commerce",
         "city": "Chennai",
         "model_target": "B2B_Lead_Selling_Or_Outreach",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -1556,7 +1556,7 @@
         "niche": "E-commerce",
         "city": "Chennai",
         "model_target": "DFY_Cold_Email_Target",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -1566,7 +1566,7 @@
         "niche": "E-commerce",
         "city": "Ahmedabad",
         "model_target": "B2B_Lead_Selling_Or_Outreach",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -1576,7 +1576,7 @@
         "niche": "E-commerce",
         "city": "Ahmedabad",
         "model_target": "DFY_Cold_Email_Target",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -1586,7 +1586,7 @@
         "niche": "E-commerce",
         "city": "Jaipur",
         "model_target": "B2B_Lead_Selling_Or_Outreach",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -1596,7 +1596,7 @@
         "niche": "E-commerce",
         "city": "Jaipur",
         "model_target": "DFY_Cold_Email_Target",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -1606,7 +1606,7 @@
         "niche": "Interior Designer",
         "city": "Indore",
         "model_target": "B2B_Lead_Selling_Or_Outreach",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -1616,7 +1616,7 @@
         "niche": "Interior Designer",
         "city": "Indore",
         "model_target": "DFY_Cold_Email_Target",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -1626,7 +1626,7 @@
         "niche": "Interior Designer",
         "city": "Bhopal",
         "model_target": "B2B_Lead_Selling_Or_Outreach",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -1636,7 +1636,7 @@
         "niche": "Interior Designer",
         "city": "Bhopal",
         "model_target": "DFY_Cold_Email_Target",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -1646,7 +1646,7 @@
         "niche": "Interior Designer",
         "city": "Pune",
         "model_target": "B2B_Lead_Selling_Or_Outreach",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -1656,7 +1656,7 @@
         "niche": "Interior Designer",
         "city": "Pune",
         "model_target": "DFY_Cold_Email_Target",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -1666,7 +1666,7 @@
         "niche": "Interior Designer",
         "city": "Mumbai",
         "model_target": "B2B_Lead_Selling_Or_Outreach",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -1676,7 +1676,7 @@
         "niche": "Interior Designer",
         "city": "Mumbai",
         "model_target": "DFY_Cold_Email_Target",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -1686,7 +1686,7 @@
         "niche": "Interior Designer",
         "city": "Bangalore",
         "model_target": "B2B_Lead_Selling_Or_Outreach",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -1696,7 +1696,7 @@
         "niche": "Interior Designer",
         "city": "Bangalore",
         "model_target": "DFY_Cold_Email_Target",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -1706,7 +1706,7 @@
         "niche": "Interior Designer",
         "city": "Delhi",
         "model_target": "B2B_Lead_Selling_Or_Outreach",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -1716,7 +1716,7 @@
         "niche": "Interior Designer",
         "city": "Delhi",
         "model_target": "DFY_Cold_Email_Target",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -1726,7 +1726,7 @@
         "niche": "Interior Designer",
         "city": "Hyderabad",
         "model_target": "B2B_Lead_Selling_Or_Outreach",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -1736,7 +1736,7 @@
         "niche": "Interior Designer",
         "city": "Hyderabad",
         "model_target": "DFY_Cold_Email_Target",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -1746,7 +1746,7 @@
         "niche": "Interior Designer",
         "city": "Chennai",
         "model_target": "B2B_Lead_Selling_Or_Outreach",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -1756,7 +1756,7 @@
         "niche": "Interior Designer",
         "city": "Chennai",
         "model_target": "DFY_Cold_Email_Target",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -1766,7 +1766,7 @@
         "niche": "Interior Designer",
         "city": "Ahmedabad",
         "model_target": "B2B_Lead_Selling_Or_Outreach",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -1776,7 +1776,7 @@
         "niche": "Interior Designer",
         "city": "Ahmedabad",
         "model_target": "DFY_Cold_Email_Target",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -1786,7 +1786,7 @@
         "niche": "Interior Designer",
         "city": "Jaipur",
         "model_target": "B2B_Lead_Selling_Or_Outreach",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -1796,7 +1796,7 @@
         "niche": "Interior Designer",
         "city": "Jaipur",
         "model_target": "DFY_Cold_Email_Target",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -1806,7 +1806,7 @@
         "niche": "Hotel",
         "city": "Indore",
         "model_target": "B2B_Lead_Selling_Or_Outreach",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -1816,7 +1816,7 @@
         "niche": "Hotel",
         "city": "Indore",
         "model_target": "DFY_Cold_Email_Target",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -1826,7 +1826,7 @@
         "niche": "Hotel",
         "city": "Bhopal",
         "model_target": "B2B_Lead_Selling_Or_Outreach",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -1836,7 +1836,7 @@
         "niche": "Hotel",
         "city": "Bhopal",
         "model_target": "DFY_Cold_Email_Target",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -1846,7 +1846,7 @@
         "niche": "Hotel",
         "city": "Pune",
         "model_target": "B2B_Lead_Selling_Or_Outreach",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -1856,7 +1856,7 @@
         "niche": "Hotel",
         "city": "Pune",
         "model_target": "DFY_Cold_Email_Target",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -1866,7 +1866,7 @@
         "niche": "Hotel",
         "city": "Mumbai",
         "model_target": "B2B_Lead_Selling_Or_Outreach",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -1876,7 +1876,7 @@
         "niche": "Hotel",
         "city": "Mumbai",
         "model_target": "DFY_Cold_Email_Target",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -1886,7 +1886,7 @@
         "niche": "Hotel",
         "city": "Bangalore",
         "model_target": "B2B_Lead_Selling_Or_Outreach",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -1896,7 +1896,7 @@
         "niche": "Hotel",
         "city": "Bangalore",
         "model_target": "DFY_Cold_Email_Target",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -1906,7 +1906,7 @@
         "niche": "Hotel",
         "city": "Delhi",
         "model_target": "B2B_Lead_Selling_Or_Outreach",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -1916,7 +1916,7 @@
         "niche": "Hotel",
         "city": "Delhi",
         "model_target": "DFY_Cold_Email_Target",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -1926,7 +1926,7 @@
         "niche": "Hotel",
         "city": "Hyderabad",
         "model_target": "B2B_Lead_Selling_Or_Outreach",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -1936,7 +1936,7 @@
         "niche": "Hotel",
         "city": "Hyderabad",
         "model_target": "DFY_Cold_Email_Target",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -1946,7 +1946,7 @@
         "niche": "Hotel",
         "city": "Chennai",
         "model_target": "B2B_Lead_Selling_Or_Outreach",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -1956,7 +1956,7 @@
         "niche": "Hotel",
         "city": "Chennai",
         "model_target": "DFY_Cold_Email_Target",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -1966,7 +1966,7 @@
         "niche": "Hotel",
         "city": "Ahmedabad",
         "model_target": "B2B_Lead_Selling_Or_Outreach",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -1976,7 +1976,7 @@
         "niche": "Hotel",
         "city": "Ahmedabad",
         "model_target": "DFY_Cold_Email_Target",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -1986,7 +1986,7 @@
         "niche": "Hotel",
         "city": "Jaipur",
         "model_target": "B2B_Lead_Selling_Or_Outreach",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -1996,7 +1996,7 @@
         "niche": "Hotel",
         "city": "Jaipur",
         "model_target": "DFY_Cold_Email_Target",
-        "status": "Fresh_Verified",
+        "status": "Email_Sent_Waiting_Reply",
         "created_at": "2026-07-24"
     },
     {
@@ -2005,7 +2005,7 @@
         "city": "Indore",
         "email": "contact@apex_digital_indore.com",
         "phone": "+919876501234",
-        "status": "Fresh_Verified"
+        "status": "Email_Sent_Waiting_Reply"
     },
     {
         "business_name": "Metro Prime Real Estate",
@@ -2013,7 +2013,7 @@
         "city": "Mumbai",
         "email": "support@metroprime_mumbai_estates.com",
         "phone": "+919876505678",
-        "status": "Fresh_Verified"
+        "status": "Email_Sent_Waiting_Reply"
     },
     {
         "business_name": "Royal Feast Restaurant",
@@ -2021,6 +2021,6 @@
         "city": "Delhi",
         "email": "hello@royalfeast_delhi.com",
         "phone": "+919876509988",
-        "status": "Fresh_Verified"
+        "status": "Email_Sent_Waiting_Reply"
     }
 ]
