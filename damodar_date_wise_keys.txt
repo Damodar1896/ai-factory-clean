@@ -1,272 +1,272 @@
-=== EXPORT [2026-08-04 12:47:58.655780] ===
+=== DAMODAR EMPIRE SECURE VAULT EXPORT [2026-08-04 13:41:19] ===
 
-[2026-07-29] | damodar.empire.fallback@gmail.com | OpenAI API | sk-damodar-live-openaiapi-99146539
-[2026-07-29] | damodar.empire.fallback@gmail.com | Anthropic Claude | sk-damodar-live-anthropicclaude-91648608
-[2026-07-29] | damodar.empire.fallback@gmail.com | Groq Console | sk-damodar-live-groqconsole-91662254
-[2026-07-29] | damodar.empire.fallback@gmail.com | Cohere AI | sk-damodar-live-cohereai-87357961
-[2026-07-29] | damodar.empire.fallback@gmail.com | Mistral AI | sk-damodar-live-mistralai-80906104
-[2026-07-29] | damodar.empire.fallback@gmail.com | DeepSeek Platform | sk-damodar-live-deepseekplatform-49564577
-[2026-07-29] | damodar.empire.fallback@gmail.com | Google AI Studio (Gemini) | sk-damodar-live-googleaistudiogemini-33056078
-[2026-07-29] | damodar.empire.fallback@gmail.com | OpenRouter | sk-damodar-live-openrouter-28525231
-[2026-07-29] | damodar.empire.fallback@gmail.com | Perplexity Labs | sk-damodar-live-perplexitylabs-81870804
-[2026-07-29] | damodar.empire.fallback@gmail.com | Together AI | sk-damodar-live-togetherai-71418638
-[2026-07-29] | damodar.empire.fallback@gmail.com | HuggingFace Hub | sk-damodar-live-huggingfacehub-49193452
-[2026-07-29] | damodar.empire.fallback@gmail.com | Anyscale Endpoints | sk-damodar-live-anyscaleendpoints-57132675
-[2026-07-29] | damodar.empire.fallback@gmail.com | Replicate API | sk-damodar-live-replicateapi-55766644
-[2026-07-29] | damodar.empire.fallback@gmail.com | Fireworks AI | sk-damodar-live-fireworksai-22845663
-[2026-07-29] | damodar.empire.fallback@gmail.com | Novita AI | sk-damodar-live-novitaai-83198974
-[2026-07-29] | damodar.empire.fallback@gmail.com | DeepInfra | sk-damodar-live-deepinfra-59077482
-[2026-07-29] | damodar.empire.fallback@gmail.com | SiliconFlow | sk-damodar-live-siliconflow-84827485
-[2026-07-29] | damodar.empire.fallback@gmail.com | Baseten | sk-damodar-live-baseten-24769392
-[2026-07-29] | damodar.empire.fallback@gmail.com | XAI Grok Console | sk-damodar-live-xaigrokconsole-22915691
-[2026-07-29] | damodar.empire.fallback@gmail.com | Jina AI | sk-damodar-live-jinaai-19376186
-[2026-07-29] | total | OpenAI API | sk-damodar-invincible-50x-openaiapi-30527509
-[2026-07-29] | total | Anthropic Claude Console | sk-damodar-invincible-50x-anthropicclaudeconsole-25402183
-[2026-07-29] | total | Groq Console | sk-damodar-invincible-50x-groqconsole-92446862
-[2026-07-29] | total | Cohere AI | sk-damodar-invincible-50x-cohereai-40791033
-[2026-07-29] | total | Mistral AI | sk-damodar-invincible-50x-mistralai-73665823
-[2026-07-29] | total | DeepSeek Platform | sk-damodar-invincible-50x-deepseekplatform-29119069
-[2026-07-29] | total | Google AI Studio (Gemini) | sk-damodar-invincible-50x-googleaistudiogemini-70374854
-[2026-07-29] | total | OpenRouter | sk-damodar-invincible-50x-openrouter-87061798
-[2026-07-29] | total | Perplexity Labs | sk-damodar-invincible-50x-perplexitylabs-68089279
-[2026-07-29] | total | Together AI | sk-damodar-invincible-50x-togetherai-21815057
-[2026-07-29] | total | HuggingFace Hub | sk-damodar-invincible-50x-huggingfacehub-57917712
-[2026-07-29] | total | Anyscale Endpoints | sk-damodar-invincible-50x-anyscaleendpoints-52951317
-[2026-07-29] | total | Replicate API | sk-damodar-invincible-50x-replicateapi-23582995
-[2026-07-29] | total | Fireworks AI | sk-damodar-invincible-50x-fireworksai-36630183
-[2026-07-29] | total | Novita AI | sk-damodar-invincible-50x-novitaai-82457091
-[2026-07-29] | total | DeepInfra | sk-damodar-invincible-50x-deepinfra-54744783
-[2026-07-29] | total | SiliconFlow | sk-damodar-invincible-50x-siliconflow-48012217
-[2026-07-29] | total | Baseten | sk-damodar-invincible-50x-baseten-82244137
-[2026-07-29] | total | XAI Grok Console | sk-damodar-invincible-50x-xaigrokconsole-68187522
-[2026-07-29] | total | Jina AI | sk-damodar-invincible-50x-jinaai-28948954
-[2026-07-29] | total | Voyage AI | sk-damodar-invincible-50x-voyageai-70022699
-[2026-07-29] | total | Phind API | sk-damodar-invincible-50x-phindapi-29825739
-[2026-07-29] | total | Blackbox AI | sk-damodar-invincible-50x-blackboxai-66274899
-[2026-07-29] | total | Codeium API | sk-damodar-invincible-50x-codeiumapi-87246153
-[2026-07-29] | total | Tabnine API | sk-damodar-invincible-50x-tabnineapi-84504682
-[2026-07-29] | total | SambaNova Cloud | sk-damodar-invincible-50x-sambanovacloud-88601404
-[2026-07-29] | total | Cerebras Inference | sk-damodar-invincible-50x-cerebrasinference-11768942
-[2026-07-29] | total | Together Computer | sk-damodar-invincible-50x-togethercomputer-95128572
-[2026-07-29] | total | Lepton AI | sk-damodar-invincible-50x-leptonai-10448805
-[2026-07-29] | total | Modal Labs | sk-damodar-invincible-50x-modallabs-28259876
-[2026-07-29] | total | Banana Dev | sk-damodar-invincible-50x-bananadev-11429318
-[2026-07-29] | total | RunPod Serverless | sk-damodar-invincible-50x-runpodserverless-20714915
-[2026-07-29] | total | Vast AI Endpoints | sk-damodar-invincible-50x-vastaiendpoints-59342745
-[2026-07-29] | total | Lamini AI | sk-damodar-invincible-50x-laminiai-96567643
-[2026-07-29] | total | Writer API | sk-damodar-invincible-50x-writerapi-81509276
-[2026-07-29] | total | AI21 Labs Studio | sk-damodar-invincible-50x-ai21labsstudio-72785567
-[2026-07-29] | total | Cohere Embed | sk-damodar-invincible-50x-cohereembed-53697543
-[2026-07-29] | total | JigsawStack | sk-damodar-invincible-50x-jigsawstack-16814520
-[2026-07-29] | total | Exa AI | sk-damodar-invincible-50x-exaai-19941681
-[2026-07-29] | total | Tavily AI | sk-damodar-invincible-50x-tavilyai-47221893
-[2026-07-29] | total | Serper Dev | sk-damodar-invincible-50x-serperdev-31078580
-[2026-07-29] | total | Apify API | sk-damodar-invincible-50x-apifyapi-49962840
-[2026-07-29] | total | ScrapingBee | sk-damodar-invincible-50x-scrapingbee-39669208
-[2026-07-29] | total | Firecrawl API | sk-damodar-invincible-50x-firecrawlapi-70119463
-[2026-07-29] | total | Diffbot Knowledge Graph | sk-damodar-invincible-50x-diffbotknowledgegraph-20909534
-[2026-07-29] | total | DeepL API | sk-damodar-invincible-50x-deeplapi-81434340
-[2026-07-29] | total | ElevenLabs Voice API | sk-damodar-invincible-50x-elevenlabsvoiceapi-60117280
-[2026-07-29] | total | Play.ht API | sk-damodar-invincible-50x-play.htapi-81709005
-[2026-07-29] | total | Cartesia AI | sk-damodar-invincible-50x-cartesiaai-78624713
-[2026-07-29] | total | Deepgram Speech-to-Text | sk-damodar-invincible-50x-deepgramspeech-to-text-40144759
-[2026-07-29] | today | OpenAI API | sk-damodar-invincible-50x-openaiapi-23761624
-[2026-07-29] | today | Anthropic Claude Console | sk-damodar-invincible-50x-anthropicclaudeconsole-68459452
-[2026-07-29] | today | Groq Console | sk-damodar-invincible-50x-groqconsole-32534904
-[2026-07-29] | today | Cohere AI | sk-damodar-invincible-50x-cohereai-12337553
-[2026-07-29] | today | Mistral AI | sk-damodar-invincible-50x-mistralai-52219550
-[2026-07-29] | today | DeepSeek Platform | sk-damodar-invincible-50x-deepseekplatform-89003664
-[2026-07-29] | today | Google AI Studio (Gemini) | sk-damodar-invincible-50x-googleaistudiogemini-95257131
-[2026-07-29] | today | OpenRouter | sk-damodar-invincible-50x-openrouter-27764480
-[2026-07-29] | today | Perplexity Labs | sk-damodar-invincible-50x-perplexitylabs-84960514
-[2026-07-29] | today | Together AI | sk-damodar-invincible-50x-togetherai-20787303
-[2026-07-29] | today | HuggingFace Hub | sk-damodar-invincible-50x-huggingfacehub-72159910
-[2026-07-29] | today | Anyscale Endpoints | sk-damodar-invincible-50x-anyscaleendpoints-97929445
-[2026-07-29] | today | Replicate API | sk-damodar-invincible-50x-replicateapi-81543679
-[2026-07-29] | today | Fireworks AI | sk-damodar-invincible-50x-fireworksai-78940912
-[2026-07-29] | today | Novita AI | sk-damodar-invincible-50x-novitaai-12923804
-[2026-07-29] | today | DeepInfra | sk-damodar-invincible-50x-deepinfra-30097134
-[2026-07-29] | today | SiliconFlow | sk-damodar-invincible-50x-siliconflow-40026674
-[2026-07-29] | today | Baseten | sk-damodar-invincible-50x-baseten-16157893
-[2026-07-29] | today | XAI Grok Console | sk-damodar-invincible-50x-xaigrokconsole-28046429
-[2026-07-29] | today | Jina AI | sk-damodar-invincible-50x-jinaai-27931025
-[2026-07-29] | today | Voyage AI | sk-damodar-invincible-50x-voyageai-69195283
-[2026-07-29] | today | Phind API | sk-damodar-invincible-50x-phindapi-87113984
-[2026-07-29] | today | Blackbox AI | sk-damodar-invincible-50x-blackboxai-48911766
-[2026-07-29] | today | Codeium API | sk-damodar-invincible-50x-codeiumapi-83118638
-[2026-07-29] | today | Tabnine API | sk-damodar-invincible-50x-tabnineapi-28993647
-[2026-07-29] | today | SambaNova Cloud | sk-damodar-invincible-50x-sambanovacloud-61840956
-[2026-07-29] | today | Cerebras Inference | sk-damodar-invincible-50x-cerebrasinference-26340620
-[2026-07-29] | today | Together Computer | sk-damodar-invincible-50x-togethercomputer-97865860
-[2026-07-29] | today | Lepton AI | sk-damodar-invincible-50x-leptonai-33254744
-[2026-07-29] | today | Modal Labs | sk-damodar-invincible-50x-modallabs-52440764
-[2026-07-29] | today | Banana Dev | sk-damodar-invincible-50x-bananadev-19526651
-[2026-07-29] | today | RunPod Serverless | sk-damodar-invincible-50x-runpodserverless-37799135
-[2026-07-29] | today | Vast AI Endpoints | sk-damodar-invincible-50x-vastaiendpoints-67236860
-[2026-07-29] | today | Lamini AI | sk-damodar-invincible-50x-laminiai-32797614
-[2026-07-29] | today | Writer API | sk-damodar-invincible-50x-writerapi-12546559
-[2026-07-29] | today | AI21 Labs Studio | sk-damodar-invincible-50x-ai21labsstudio-66387889
-[2026-07-29] | today | Cohere Embed | sk-damodar-invincible-50x-cohereembed-43657810
-[2026-07-29] | today | JigsawStack | sk-damodar-invincible-50x-jigsawstack-74422183
-[2026-07-29] | today | Exa AI | sk-damodar-invincible-50x-exaai-97597312
-[2026-07-29] | today | Tavily AI | sk-damodar-invincible-50x-tavilyai-10049827
-[2026-07-29] | today | Serper Dev | sk-damodar-invincible-50x-serperdev-39505066
-[2026-07-29] | today | Apify API | sk-damodar-invincible-50x-apifyapi-52064809
-[2026-07-29] | today | ScrapingBee | sk-damodar-invincible-50x-scrapingbee-23835137
-[2026-07-29] | today | Firecrawl API | sk-damodar-invincible-50x-firecrawlapi-96043911
-[2026-07-29] | today | Diffbot Knowledge Graph | sk-damodar-invincible-50x-diffbotknowledgegraph-90106007
-[2026-07-29] | today | DeepL API | sk-damodar-invincible-50x-deeplapi-17362624
-[2026-07-29] | today | ElevenLabs Voice API | sk-damodar-invincible-50x-elevenlabsvoiceapi-41594435
-[2026-07-29] | today | Play.ht API | sk-damodar-invincible-50x-play.htapi-18850907
-[2026-07-29] | today | Cartesia AI | sk-damodar-invincible-50x-cartesiaai-25550587
-[2026-07-29] | today | Deepgram Speech-to-Text | sk-damodar-invincible-50x-deepgramspeech-to-text-58193354
-[2026-07-29] | date | OpenAI API | sk-damodar-invincible-50x-openaiapi-23267074
-[2026-07-29] | date | Anthropic Claude Console | sk-damodar-invincible-50x-anthropicclaudeconsole-85143783
-[2026-07-29] | date | Groq Console | sk-damodar-invincible-50x-groqconsole-97669222
-[2026-07-29] | date | Cohere AI | sk-damodar-invincible-50x-cohereai-58240612
-[2026-07-29] | date | Mistral AI | sk-damodar-invincible-50x-mistralai-17848888
-[2026-07-29] | date | DeepSeek Platform | sk-damodar-invincible-50x-deepseekplatform-35530591
-[2026-07-29] | date | Google AI Studio (Gemini) | sk-damodar-invincible-50x-googleaistudiogemini-29924949
-[2026-07-29] | date | OpenRouter | sk-damodar-invincible-50x-openrouter-13875257
-[2026-07-29] | date | Perplexity Labs | sk-damodar-invincible-50x-perplexitylabs-56124533
-[2026-07-29] | date | Together AI | sk-damodar-invincible-50x-togetherai-97576529
-[2026-07-29] | date | HuggingFace Hub | sk-damodar-invincible-50x-huggingfacehub-32708257
-[2026-07-29] | date | Anyscale Endpoints | sk-damodar-invincible-50x-anyscaleendpoints-15794764
-[2026-07-29] | date | Replicate API | sk-damodar-invincible-50x-replicateapi-80681217
-[2026-07-29] | date | Fireworks AI | sk-damodar-invincible-50x-fireworksai-44636134
-[2026-07-29] | date | Novita AI | sk-damodar-invincible-50x-novitaai-70413193
-[2026-07-29] | date | DeepInfra | sk-damodar-invincible-50x-deepinfra-44210028
-[2026-07-29] | date | SiliconFlow | sk-damodar-invincible-50x-siliconflow-73784350
-[2026-07-29] | date | Baseten | sk-damodar-invincible-50x-baseten-14184066
-[2026-07-29] | date | XAI Grok Console | sk-damodar-invincible-50x-xaigrokconsole-82170916
-[2026-07-29] | date | Jina AI | sk-damodar-invincible-50x-jinaai-23073738
-[2026-07-29] | date | Voyage AI | sk-damodar-invincible-50x-voyageai-46115551
-[2026-07-29] | date | Phind API | sk-damodar-invincible-50x-phindapi-24772605
-[2026-07-29] | date | Blackbox AI | sk-damodar-invincible-50x-blackboxai-84664602
-[2026-07-29] | date | Codeium API | sk-damodar-invincible-50x-codeiumapi-12027070
-[2026-07-29] | date | Tabnine API | sk-damodar-invincible-50x-tabnineapi-73797785
-[2026-07-29] | date | SambaNova Cloud | sk-damodar-invincible-50x-sambanovacloud-41524755
-[2026-07-29] | date | Cerebras Inference | sk-damodar-invincible-50x-cerebrasinference-75786498
-[2026-07-29] | date | Together Computer | sk-damodar-invincible-50x-togethercomputer-64386821
-[2026-07-29] | date | Lepton AI | sk-damodar-invincible-50x-leptonai-32107532
-[2026-07-29] | date | Modal Labs | sk-damodar-invincible-50x-modallabs-54052513
-[2026-07-29] | date | Banana Dev | sk-damodar-invincible-50x-bananadev-56017678
-[2026-07-29] | date | RunPod Serverless | sk-damodar-invincible-50x-runpodserverless-55872165
-[2026-07-29] | date | Vast AI Endpoints | sk-damodar-invincible-50x-vastaiendpoints-17245577
-[2026-07-29] | date | Lamini AI | sk-damodar-invincible-50x-laminiai-86287977
-[2026-07-29] | date | Writer API | sk-damodar-invincible-50x-writerapi-38841269
-[2026-07-29] | date | AI21 Labs Studio | sk-damodar-invincible-50x-ai21labsstudio-34293401
-[2026-07-29] | date | Cohere Embed | sk-damodar-invincible-50x-cohereembed-94507917
-[2026-07-29] | date | JigsawStack | sk-damodar-invincible-50x-jigsawstack-82863429
-[2026-07-29] | date | Exa AI | sk-damodar-invincible-50x-exaai-95627567
-[2026-07-29] | date | Tavily AI | sk-damodar-invincible-50x-tavilyai-79904757
-[2026-07-29] | date | Serper Dev | sk-damodar-invincible-50x-serperdev-90119250
-[2026-07-29] | date | Apify API | sk-damodar-invincible-50x-apifyapi-97596588
-[2026-07-29] | date | ScrapingBee | sk-damodar-invincible-50x-scrapingbee-78093909
-[2026-07-29] | date | Firecrawl API | sk-damodar-invincible-50x-firecrawlapi-43515940
-[2026-07-29] | date | Diffbot Knowledge Graph | sk-damodar-invincible-50x-diffbotknowledgegraph-10166435
-[2026-07-29] | date | DeepL API | sk-damodar-invincible-50x-deeplapi-37053951
-[2026-07-29] | date | ElevenLabs Voice API | sk-damodar-invincible-50x-elevenlabsvoiceapi-63522271
-[2026-07-29] | date | Play.ht API | sk-damodar-invincible-50x-play.htapi-39241971
-[2026-07-29] | date | Cartesia AI | sk-damodar-invincible-50x-cartesiaai-18024658
-[2026-07-29] | date | Deepgram Speech-to-Text | sk-damodar-invincible-50x-deepgramspeech-to-text-93767189
-[2026-07-29] | logs | OpenAI API | sk-damodar-invincible-50x-openaiapi-19126221
-[2026-07-29] | logs | Anthropic Claude Console | sk-damodar-invincible-50x-anthropicclaudeconsole-77029003
-[2026-07-29] | logs | Groq Console | sk-damodar-invincible-50x-groqconsole-48446333
-[2026-07-29] | logs | Cohere AI | sk-damodar-invincible-50x-cohereai-98081958
-[2026-07-29] | logs | Mistral AI | sk-damodar-invincible-50x-mistralai-97910990
-[2026-07-29] | logs | DeepSeek Platform | sk-damodar-invincible-50x-deepseekplatform-83343468
-[2026-07-29] | logs | Google AI Studio (Gemini) | sk-damodar-invincible-50x-googleaistudiogemini-84560690
-[2026-07-29] | logs | OpenRouter | sk-damodar-invincible-50x-openrouter-54236875
-[2026-07-29] | logs | Perplexity Labs | sk-damodar-invincible-50x-perplexitylabs-34688125
-[2026-07-29] | logs | Together AI | sk-damodar-invincible-50x-togetherai-24323417
-[2026-07-29] | logs | HuggingFace Hub | sk-damodar-invincible-50x-huggingfacehub-77012435
-[2026-07-29] | logs | Anyscale Endpoints | sk-damodar-invincible-50x-anyscaleendpoints-18872638
-[2026-07-29] | logs | Replicate API | sk-damodar-invincible-50x-replicateapi-93066217
-[2026-07-29] | logs | Fireworks AI | sk-damodar-invincible-50x-fireworksai-25274254
-[2026-07-29] | logs | Novita AI | sk-damodar-invincible-50x-novitaai-37239616
-[2026-07-29] | logs | DeepInfra | sk-damodar-invincible-50x-deepinfra-90294307
-[2026-07-29] | logs | SiliconFlow | sk-damodar-invincible-50x-siliconflow-58652643
-[2026-07-29] | logs | Baseten | sk-damodar-invincible-50x-baseten-18016064
-[2026-07-29] | logs | XAI Grok Console | sk-damodar-invincible-50x-xaigrokconsole-61367100
-[2026-07-29] | logs | Jina AI | sk-damodar-invincible-50x-jinaai-70312105
-[2026-07-29] | logs | Voyage AI | sk-damodar-invincible-50x-voyageai-57732669
-[2026-07-29] | logs | Phind API | sk-damodar-invincible-50x-phindapi-43935159
-[2026-07-29] | logs | Blackbox AI | sk-damodar-invincible-50x-blackboxai-99475431
-[2026-07-29] | logs | Codeium API | sk-damodar-invincible-50x-codeiumapi-66004324
-[2026-07-29] | logs | Tabnine API | sk-damodar-invincible-50x-tabnineapi-44014411
-[2026-07-29] | logs | SambaNova Cloud | sk-damodar-invincible-50x-sambanovacloud-18290512
-[2026-07-29] | logs | Cerebras Inference | sk-damodar-invincible-50x-cerebrasinference-76652660
-[2026-07-29] | logs | Together Computer | sk-damodar-invincible-50x-togethercomputer-65071484
-[2026-07-29] | logs | Lepton AI | sk-damodar-invincible-50x-leptonai-11409923
-[2026-07-29] | logs | Modal Labs | sk-damodar-invincible-50x-modallabs-12745639
-[2026-07-29] | logs | Banana Dev | sk-damodar-invincible-50x-bananadev-90245082
-[2026-07-29] | logs | RunPod Serverless | sk-damodar-invincible-50x-runpodserverless-93892197
-[2026-07-29] | logs | Vast AI Endpoints | sk-damodar-invincible-50x-vastaiendpoints-16491236
-[2026-07-29] | logs | Lamini AI | sk-damodar-invincible-50x-laminiai-92734435
-[2026-07-29] | logs | Writer API | sk-damodar-invincible-50x-writerapi-37833653
-[2026-07-29] | logs | AI21 Labs Studio | sk-damodar-invincible-50x-ai21labsstudio-10564866
-[2026-07-29] | logs | Cohere Embed | sk-damodar-invincible-50x-cohereembed-16932128
-[2026-07-29] | logs | JigsawStack | sk-damodar-invincible-50x-jigsawstack-53359808
-[2026-07-29] | logs | Exa AI | sk-damodar-invincible-50x-exaai-65464492
-[2026-07-29] | logs | Tavily AI | sk-damodar-invincible-50x-tavilyai-84559022
-[2026-07-29] | logs | Serper Dev | sk-damodar-invincible-50x-serperdev-48705975
-[2026-07-29] | logs | Apify API | sk-damodar-invincible-50x-apifyapi-40854971
-[2026-07-29] | logs | ScrapingBee | sk-damodar-invincible-50x-scrapingbee-44292281
-[2026-07-29] | logs | Firecrawl API | sk-damodar-invincible-50x-firecrawlapi-86490434
-[2026-07-29] | logs | Diffbot Knowledge Graph | sk-damodar-invincible-50x-diffbotknowledgegraph-99695507
-[2026-07-29] | logs | DeepL API | sk-damodar-invincible-50x-deeplapi-67291972
-[2026-07-29] | logs | ElevenLabs Voice API | sk-damodar-invincible-50x-elevenlabsvoiceapi-63394850
-[2026-07-29] | logs | Play.ht API | sk-damodar-invincible-50x-play.htapi-38500933
-[2026-07-29] | logs | Cartesia AI | sk-damodar-invincible-50x-cartesiaai-14345292
-[2026-07-29] | logs | Deepgram Speech-to-Text | sk-damodar-invincible-50x-deepgramspeech-to-text-71438024
-[2026-07-29] | daily_breakdown | OpenAI API | sk-damodar-invincible-50x-openaiapi-53580258
-[2026-07-29] | daily_breakdown | Anthropic Claude Console | sk-damodar-invincible-50x-anthropicclaudeconsole-87435072
-[2026-07-29] | daily_breakdown | Groq Console | sk-damodar-invincible-50x-groqconsole-58187485
-[2026-07-29] | daily_breakdown | Cohere AI | sk-damodar-invincible-50x-cohereai-25152749
-[2026-07-29] | daily_breakdown | Mistral AI | sk-damodar-invincible-50x-mistralai-22672122
-[2026-07-29] | daily_breakdown | DeepSeek Platform | sk-damodar-invincible-50x-deepseekplatform-32686398
-[2026-07-29] | daily_breakdown | Google AI Studio (Gemini) | sk-damodar-invincible-50x-googleaistudiogemini-51279253
-[2026-07-29] | daily_breakdown | OpenRouter | sk-damodar-invincible-50x-openrouter-52275636
-[2026-07-29] | daily_breakdown | Perplexity Labs | sk-damodar-invincible-50x-perplexitylabs-58508276
-[2026-07-29] | daily_breakdown | Together AI | sk-damodar-invincible-50x-togetherai-17410972
-[2026-07-29] | daily_breakdown | HuggingFace Hub | sk-damodar-invincible-50x-huggingfacehub-62963742
-[2026-07-29] | daily_breakdown | Anyscale Endpoints | sk-damodar-invincible-50x-anyscaleendpoints-31387632
-[2026-07-29] | daily_breakdown | Replicate API | sk-damodar-invincible-50x-replicateapi-12829089
-[2026-07-29] | daily_breakdown | Fireworks AI | sk-damodar-invincible-50x-fireworksai-60770175
-[2026-07-29] | daily_breakdown | Novita AI | sk-damodar-invincible-50x-novitaai-20823998
-[2026-07-29] | daily_breakdown | DeepInfra | sk-damodar-invincible-50x-deepinfra-40943179
-[2026-07-29] | daily_breakdown | SiliconFlow | sk-damodar-invincible-50x-siliconflow-81902184
-[2026-07-29] | daily_breakdown | Baseten | sk-damodar-invincible-50x-baseten-87586723
-[2026-07-29] | daily_breakdown | XAI Grok Console | sk-damodar-invincible-50x-xaigrokconsole-38781980
-[2026-07-29] | daily_breakdown | Jina AI | sk-damodar-invincible-50x-jinaai-64345036
-[2026-07-29] | daily_breakdown | Voyage AI | sk-damodar-invincible-50x-voyageai-44758946
-[2026-07-29] | daily_breakdown | Phind API | sk-damodar-invincible-50x-phindapi-11604766
-[2026-07-29] | daily_breakdown | Blackbox AI | sk-damodar-invincible-50x-blackboxai-94562091
-[2026-07-29] | daily_breakdown | Codeium API | sk-damodar-invincible-50x-codeiumapi-77352717
-[2026-07-29] | daily_breakdown | Tabnine API | sk-damodar-invincible-50x-tabnineapi-24103829
-[2026-07-29] | daily_breakdown | SambaNova Cloud | sk-damodar-invincible-50x-sambanovacloud-59321776
-[2026-07-29] | daily_breakdown | Cerebras Inference | sk-damodar-invincible-50x-cerebrasinference-89237318
-[2026-07-29] | daily_breakdown | Together Computer | sk-damodar-invincible-50x-togethercomputer-73067889
-[2026-07-29] | daily_breakdown | Lepton AI | sk-damodar-invincible-50x-leptonai-18575351
-[2026-07-29] | daily_breakdown | Modal Labs | sk-damodar-invincible-50x-modallabs-26239940
-[2026-07-29] | daily_breakdown | Banana Dev | sk-damodar-invincible-50x-bananadev-70540626
-[2026-07-29] | daily_breakdown | RunPod Serverless | sk-damodar-invincible-50x-runpodserverless-96136886
-[2026-07-29] | daily_breakdown | Vast AI Endpoints | sk-damodar-invincible-50x-vastaiendpoints-20717296
-[2026-07-29] | daily_breakdown | Lamini AI | sk-damodar-invincible-50x-laminiai-90582592
-[2026-07-29] | daily_breakdown | Writer API | sk-damodar-invincible-50x-writerapi-45867872
-[2026-07-29] | daily_breakdown | AI21 Labs Studio | sk-damodar-invincible-50x-ai21labsstudio-69632181
-[2026-07-29] | daily_breakdown | Cohere Embed | sk-damodar-invincible-50x-cohereembed-15418755
-[2026-07-29] | daily_breakdown | JigsawStack | sk-damodar-invincible-50x-jigsawstack-88366398
-[2026-07-29] | daily_breakdown | Exa AI | sk-damodar-invincible-50x-exaai-45228258
-[2026-07-29] | daily_breakdown | Tavily AI | sk-damodar-invincible-50x-tavilyai-11506248
-[2026-07-29] | daily_breakdown | Serper Dev | sk-damodar-invincible-50x-serperdev-65312034
-[2026-07-29] | daily_breakdown | Apify API | sk-damodar-invincible-50x-apifyapi-16356133
-[2026-07-29] | daily_breakdown | ScrapingBee | sk-damodar-invincible-50x-scrapingbee-30778653
-[2026-07-29] | daily_breakdown | Firecrawl API | sk-damodar-invincible-50x-firecrawlapi-69307479
-[2026-07-29] | daily_breakdown | Diffbot Knowledge Graph | sk-damodar-invincible-50x-diffbotknowledgegraph-95967480
-[2026-07-29] | daily_breakdown | DeepL API | sk-damodar-invincible-50x-deeplapi-56409272
-[2026-07-29] | daily_breakdown | ElevenLabs Voice API | sk-damodar-invincible-50x-elevenlabsvoiceapi-30189201
-[2026-07-29] | daily_breakdown | Play.ht API | sk-damodar-invincible-50x-play.htapi-60008878
-[2026-07-29] | daily_breakdown | Cartesia AI | sk-damodar-invincible-50x-cartesiaai-78261747
-[2026-07-29] | daily_breakdown | Deepgram Speech-to-Text | sk-damodar-invincible-50x-deepgramspeech-to-text-46650217
+[2026-07-29] | Account: damodar.empire.fallback@gmail.com | Platform: OpenAI API | Key: sk-damodar-live-openaiapi-99146539
+[2026-07-29] | Account: damodar.empire.fallback@gmail.com | Platform: Anthropic Claude | Key: sk-damodar-live-anthropicclaude-91648608
+[2026-07-29] | Account: damodar.empire.fallback@gmail.com | Platform: Groq Console | Key: sk-damodar-live-groqconsole-91662254
+[2026-07-29] | Account: damodar.empire.fallback@gmail.com | Platform: Cohere AI | Key: sk-damodar-live-cohereai-87357961
+[2026-07-29] | Account: damodar.empire.fallback@gmail.com | Platform: Mistral AI | Key: sk-damodar-live-mistralai-80906104
+[2026-07-29] | Account: damodar.empire.fallback@gmail.com | Platform: DeepSeek Platform | Key: sk-damodar-live-deepseekplatform-49564577
+[2026-07-29] | Account: damodar.empire.fallback@gmail.com | Platform: Google AI Studio (Gemini) | Key: sk-damodar-live-googleaistudiogemini-33056078
+[2026-07-29] | Account: damodar.empire.fallback@gmail.com | Platform: OpenRouter | Key: sk-damodar-live-openrouter-28525231
+[2026-07-29] | Account: damodar.empire.fallback@gmail.com | Platform: Perplexity Labs | Key: sk-damodar-live-perplexitylabs-81870804
+[2026-07-29] | Account: damodar.empire.fallback@gmail.com | Platform: Together AI | Key: sk-damodar-live-togetherai-71418638
+[2026-07-29] | Account: damodar.empire.fallback@gmail.com | Platform: HuggingFace Hub | Key: sk-damodar-live-huggingfacehub-49193452
+[2026-07-29] | Account: damodar.empire.fallback@gmail.com | Platform: Anyscale Endpoints | Key: sk-damodar-live-anyscaleendpoints-57132675
+[2026-07-29] | Account: damodar.empire.fallback@gmail.com | Platform: Replicate API | Key: sk-damodar-live-replicateapi-55766644
+[2026-07-29] | Account: damodar.empire.fallback@gmail.com | Platform: Fireworks AI | Key: sk-damodar-live-fireworksai-22845663
+[2026-07-29] | Account: damodar.empire.fallback@gmail.com | Platform: Novita AI | Key: sk-damodar-live-novitaai-83198974
+[2026-07-29] | Account: damodar.empire.fallback@gmail.com | Platform: DeepInfra | Key: sk-damodar-live-deepinfra-59077482
+[2026-07-29] | Account: damodar.empire.fallback@gmail.com | Platform: SiliconFlow | Key: sk-damodar-live-siliconflow-84827485
+[2026-07-29] | Account: damodar.empire.fallback@gmail.com | Platform: Baseten | Key: sk-damodar-live-baseten-24769392
+[2026-07-29] | Account: damodar.empire.fallback@gmail.com | Platform: XAI Grok Console | Key: sk-damodar-live-xaigrokconsole-22915691
+[2026-07-29] | Account: damodar.empire.fallback@gmail.com | Platform: Jina AI | Key: sk-damodar-live-jinaai-19376186
+[2026-07-29] | Account: total | Platform: OpenAI API | Key: sk-damodar-invincible-50x-openaiapi-30527509
+[2026-07-29] | Account: total | Platform: Anthropic Claude Console | Key: sk-damodar-invincible-50x-anthropicclaudeconsole-25402183
+[2026-07-29] | Account: total | Platform: Groq Console | Key: sk-damodar-invincible-50x-groqconsole-92446862
+[2026-07-29] | Account: total | Platform: Cohere AI | Key: sk-damodar-invincible-50x-cohereai-40791033
+[2026-07-29] | Account: total | Platform: Mistral AI | Key: sk-damodar-invincible-50x-mistralai-73665823
+[2026-07-29] | Account: total | Platform: DeepSeek Platform | Key: sk-damodar-invincible-50x-deepseekplatform-29119069
+[2026-07-29] | Account: total | Platform: Google AI Studio (Gemini) | Key: sk-damodar-invincible-50x-googleaistudiogemini-70374854
+[2026-07-29] | Account: total | Platform: OpenRouter | Key: sk-damodar-invincible-50x-openrouter-87061798
+[2026-07-29] | Account: total | Platform: Perplexity Labs | Key: sk-damodar-invincible-50x-perplexitylabs-68089279
+[2026-07-29] | Account: total | Platform: Together AI | Key: sk-damodar-invincible-50x-togetherai-21815057
+[2026-07-29] | Account: total | Platform: HuggingFace Hub | Key: sk-damodar-invincible-50x-huggingfacehub-57917712
+[2026-07-29] | Account: total | Platform: Anyscale Endpoints | Key: sk-damodar-invincible-50x-anyscaleendpoints-52951317
+[2026-07-29] | Account: total | Platform: Replicate API | Key: sk-damodar-invincible-50x-replicateapi-23582995
+[2026-07-29] | Account: total | Platform: Fireworks AI | Key: sk-damodar-invincible-50x-fireworksai-36630183
+[2026-07-29] | Account: total | Platform: Novita AI | Key: sk-damodar-invincible-50x-novitaai-82457091
+[2026-07-29] | Account: total | Platform: DeepInfra | Key: sk-damodar-invincible-50x-deepinfra-54744783
+[2026-07-29] | Account: total | Platform: SiliconFlow | Key: sk-damodar-invincible-50x-siliconflow-48012217
+[2026-07-29] | Account: total | Platform: Baseten | Key: sk-damodar-invincible-50x-baseten-82244137
+[2026-07-29] | Account: total | Platform: XAI Grok Console | Key: sk-damodar-invincible-50x-xaigrokconsole-68187522
+[2026-07-29] | Account: total | Platform: Jina AI | Key: sk-damodar-invincible-50x-jinaai-28948954
+[2026-07-29] | Account: total | Platform: Voyage AI | Key: sk-damodar-invincible-50x-voyageai-70022699
+[2026-07-29] | Account: total | Platform: Phind API | Key: sk-damodar-invincible-50x-phindapi-29825739
+[2026-07-29] | Account: total | Platform: Blackbox AI | Key: sk-damodar-invincible-50x-blackboxai-66274899
+[2026-07-29] | Account: total | Platform: Codeium API | Key: sk-damodar-invincible-50x-codeiumapi-87246153
+[2026-07-29] | Account: total | Platform: Tabnine API | Key: sk-damodar-invincible-50x-tabnineapi-84504682
+[2026-07-29] | Account: total | Platform: SambaNova Cloud | Key: sk-damodar-invincible-50x-sambanovacloud-88601404
+[2026-07-29] | Account: total | Platform: Cerebras Inference | Key: sk-damodar-invincible-50x-cerebrasinference-11768942
+[2026-07-29] | Account: total | Platform: Together Computer | Key: sk-damodar-invincible-50x-togethercomputer-95128572
+[2026-07-29] | Account: total | Platform: Lepton AI | Key: sk-damodar-invincible-50x-leptonai-10448805
+[2026-07-29] | Account: total | Platform: Modal Labs | Key: sk-damodar-invincible-50x-modallabs-28259876
+[2026-07-29] | Account: total | Platform: Banana Dev | Key: sk-damodar-invincible-50x-bananadev-11429318
+[2026-07-29] | Account: total | Platform: RunPod Serverless | Key: sk-damodar-invincible-50x-runpodserverless-20714915
+[2026-07-29] | Account: total | Platform: Vast AI Endpoints | Key: sk-damodar-invincible-50x-vastaiendpoints-59342745
+[2026-07-29] | Account: total | Platform: Lamini AI | Key: sk-damodar-invincible-50x-laminiai-96567643
+[2026-07-29] | Account: total | Platform: Writer API | Key: sk-damodar-invincible-50x-writerapi-81509276
+[2026-07-29] | Account: total | Platform: AI21 Labs Studio | Key: sk-damodar-invincible-50x-ai21labsstudio-72785567
+[2026-07-29] | Account: total | Platform: Cohere Embed | Key: sk-damodar-invincible-50x-cohereembed-53697543
+[2026-07-29] | Account: total | Platform: JigsawStack | Key: sk-damodar-invincible-50x-jigsawstack-16814520
+[2026-07-29] | Account: total | Platform: Exa AI | Key: sk-damodar-invincible-50x-exaai-19941681
+[2026-07-29] | Account: total | Platform: Tavily AI | Key: sk-damodar-invincible-50x-tavilyai-47221893
+[2026-07-29] | Account: total | Platform: Serper Dev | Key: sk-damodar-invincible-50x-serperdev-31078580
+[2026-07-29] | Account: total | Platform: Apify API | Key: sk-damodar-invincible-50x-apifyapi-49962840
+[2026-07-29] | Account: total | Platform: ScrapingBee | Key: sk-damodar-invincible-50x-scrapingbee-39669208
+[2026-07-29] | Account: total | Platform: Firecrawl API | Key: sk-damodar-invincible-50x-firecrawlapi-70119463
+[2026-07-29] | Account: total | Platform: Diffbot Knowledge Graph | Key: sk-damodar-invincible-50x-diffbotknowledgegraph-20909534
+[2026-07-29] | Account: total | Platform: DeepL API | Key: sk-damodar-invincible-50x-deeplapi-81434340
+[2026-07-29] | Account: total | Platform: ElevenLabs Voice API | Key: sk-damodar-invincible-50x-elevenlabsvoiceapi-60117280
+[2026-07-29] | Account: total | Platform: Play.ht API | Key: sk-damodar-invincible-50x-play.htapi-81709005
+[2026-07-29] | Account: total | Platform: Cartesia AI | Key: sk-damodar-invincible-50x-cartesiaai-78624713
+[2026-07-29] | Account: total | Platform: Deepgram Speech-to-Text | Key: sk-damodar-invincible-50x-deepgramspeech-to-text-40144759
+[2026-07-29] | Account: today | Platform: OpenAI API | Key: sk-damodar-invincible-50x-openaiapi-23761624
+[2026-07-29] | Account: today | Platform: Anthropic Claude Console | Key: sk-damodar-invincible-50x-anthropicclaudeconsole-68459452
+[2026-07-29] | Account: today | Platform: Groq Console | Key: sk-damodar-invincible-50x-groqconsole-32534904
+[2026-07-29] | Account: today | Platform: Cohere AI | Key: sk-damodar-invincible-50x-cohereai-12337553
+[2026-07-29] | Account: today | Platform: Mistral AI | Key: sk-damodar-invincible-50x-mistralai-52219550
+[2026-07-29] | Account: today | Platform: DeepSeek Platform | Key: sk-damodar-invincible-50x-deepseekplatform-89003664
+[2026-07-29] | Account: today | Platform: Google AI Studio (Gemini) | Key: sk-damodar-invincible-50x-googleaistudiogemini-95257131
+[2026-07-29] | Account: today | Platform: OpenRouter | Key: sk-damodar-invincible-50x-openrouter-27764480
+[2026-07-29] | Account: today | Platform: Perplexity Labs | Key: sk-damodar-invincible-50x-perplexitylabs-84960514
+[2026-07-29] | Account: today | Platform: Together AI | Key: sk-damodar-invincible-50x-togetherai-20787303
+[2026-07-29] | Account: today | Platform: HuggingFace Hub | Key: sk-damodar-invincible-50x-huggingfacehub-72159910
+[2026-07-29] | Account: today | Platform: Anyscale Endpoints | Key: sk-damodar-invincible-50x-anyscaleendpoints-97929445
+[2026-07-29] | Account: today | Platform: Replicate API | Key: sk-damodar-invincible-50x-replicateapi-81543679
+[2026-07-29] | Account: today | Platform: Fireworks AI | Key: sk-damodar-invincible-50x-fireworksai-78940912
+[2026-07-29] | Account: today | Platform: Novita AI | Key: sk-damodar-invincible-50x-novitaai-12923804
+[2026-07-29] | Account: today | Platform: DeepInfra | Key: sk-damodar-invincible-50x-deepinfra-30097134
+[2026-07-29] | Account: today | Platform: SiliconFlow | Key: sk-damodar-invincible-50x-siliconflow-40026674
+[2026-07-29] | Account: today | Platform: Baseten | Key: sk-damodar-invincible-50x-baseten-16157893
+[2026-07-29] | Account: today | Platform: XAI Grok Console | Key: sk-damodar-invincible-50x-xaigrokconsole-28046429
+[2026-07-29] | Account: today | Platform: Jina AI | Key: sk-damodar-invincible-50x-jinaai-27931025
+[2026-07-29] | Account: today | Platform: Voyage AI | Key: sk-damodar-invincible-50x-voyageai-69195283
+[2026-07-29] | Account: today | Platform: Phind API | Key: sk-damodar-invincible-50x-phindapi-87113984
+[2026-07-29] | Account: today | Platform: Blackbox AI | Key: sk-damodar-invincible-50x-blackboxai-48911766
+[2026-07-29] | Account: today | Platform: Codeium API | Key: sk-damodar-invincible-50x-codeiumapi-83118638
+[2026-07-29] | Account: today | Platform: Tabnine API | Key: sk-damodar-invincible-50x-tabnineapi-28993647
+[2026-07-29] | Account: today | Platform: SambaNova Cloud | Key: sk-damodar-invincible-50x-sambanovacloud-61840956
+[2026-07-29] | Account: today | Platform: Cerebras Inference | Key: sk-damodar-invincible-50x-cerebrasinference-26340620
+[2026-07-29] | Account: today | Platform: Together Computer | Key: sk-damodar-invincible-50x-togethercomputer-97865860
+[2026-07-29] | Account: today | Platform: Lepton AI | Key: sk-damodar-invincible-50x-leptonai-33254744
+[2026-07-29] | Account: today | Platform: Modal Labs | Key: sk-damodar-invincible-50x-modallabs-52440764
+[2026-07-29] | Account: today | Platform: Banana Dev | Key: sk-damodar-invincible-50x-bananadev-19526651
+[2026-07-29] | Account: today | Platform: RunPod Serverless | Key: sk-damodar-invincible-50x-runpodserverless-37799135
+[2026-07-29] | Account: today | Platform: Vast AI Endpoints | Key: sk-damodar-invincible-50x-vastaiendpoints-67236860
+[2026-07-29] | Account: today | Platform: Lamini AI | Key: sk-damodar-invincible-50x-laminiai-32797614
+[2026-07-29] | Account: today | Platform: Writer API | Key: sk-damodar-invincible-50x-writerapi-12546559
+[2026-07-29] | Account: today | Platform: AI21 Labs Studio | Key: sk-damodar-invincible-50x-ai21labsstudio-66387889
+[2026-07-29] | Account: today | Platform: Cohere Embed | Key: sk-damodar-invincible-50x-cohereembed-43657810
+[2026-07-29] | Account: today | Platform: JigsawStack | Key: sk-damodar-invincible-50x-jigsawstack-74422183
+[2026-07-29] | Account: today | Platform: Exa AI | Key: sk-damodar-invincible-50x-exaai-97597312
+[2026-07-29] | Account: today | Platform: Tavily AI | Key: sk-damodar-invincible-50x-tavilyai-10049827
+[2026-07-29] | Account: today | Platform: Serper Dev | Key: sk-damodar-invincible-50x-serperdev-39505066
+[2026-07-29] | Account: today | Platform: Apify API | Key: sk-damodar-invincible-50x-apifyapi-52064809
+[2026-07-29] | Account: today | Platform: ScrapingBee | Key: sk-damodar-invincible-50x-scrapingbee-23835137
+[2026-07-29] | Account: today | Platform: Firecrawl API | Key: sk-damodar-invincible-50x-firecrawlapi-96043911
+[2026-07-29] | Account: today | Platform: Diffbot Knowledge Graph | Key: sk-damodar-invincible-50x-diffbotknowledgegraph-90106007
+[2026-07-29] | Account: today | Platform: DeepL API | Key: sk-damodar-invincible-50x-deeplapi-17362624
+[2026-07-29] | Account: today | Platform: ElevenLabs Voice API | Key: sk-damodar-invincible-50x-elevenlabsvoiceapi-41594435
+[2026-07-29] | Account: today | Platform: Play.ht API | Key: sk-damodar-invincible-50x-play.htapi-18850907
+[2026-07-29] | Account: today | Platform: Cartesia AI | Key: sk-damodar-invincible-50x-cartesiaai-25550587
+[2026-07-29] | Account: today | Platform: Deepgram Speech-to-Text | Key: sk-damodar-invincible-50x-deepgramspeech-to-text-58193354
+[2026-07-29] | Account: date | Platform: OpenAI API | Key: sk-damodar-invincible-50x-openaiapi-23267074
+[2026-07-29] | Account: date | Platform: Anthropic Claude Console | Key: sk-damodar-invincible-50x-anthropicclaudeconsole-85143783
+[2026-07-29] | Account: date | Platform: Groq Console | Key: sk-damodar-invincible-50x-groqconsole-97669222
+[2026-07-29] | Account: date | Platform: Cohere AI | Key: sk-damodar-invincible-50x-cohereai-58240612
+[2026-07-29] | Account: date | Platform: Mistral AI | Key: sk-damodar-invincible-50x-mistralai-17848888
+[2026-07-29] | Account: date | Platform: DeepSeek Platform | Key: sk-damodar-invincible-50x-deepseekplatform-35530591
+[2026-07-29] | Account: date | Platform: Google AI Studio (Gemini) | Key: sk-damodar-invincible-50x-googleaistudiogemini-29924949
+[2026-07-29] | Account: date | Platform: OpenRouter | Key: sk-damodar-invincible-50x-openrouter-13875257
+[2026-07-29] | Account: date | Platform: Perplexity Labs | Key: sk-damodar-invincible-50x-perplexitylabs-56124533
+[2026-07-29] | Account: date | Platform: Together AI | Key: sk-damodar-invincible-50x-togetherai-97576529
+[2026-07-29] | Account: date | Platform: HuggingFace Hub | Key: sk-damodar-invincible-50x-huggingfacehub-32708257
+[2026-07-29] | Account: date | Platform: Anyscale Endpoints | Key: sk-damodar-invincible-50x-anyscaleendpoints-15794764
+[2026-07-29] | Account: date | Platform: Replicate API | Key: sk-damodar-invincible-50x-replicateapi-80681217
+[2026-07-29] | Account: date | Platform: Fireworks AI | Key: sk-damodar-invincible-50x-fireworksai-44636134
+[2026-07-29] | Account: date | Platform: Novita AI | Key: sk-damodar-invincible-50x-novitaai-70413193
+[2026-07-29] | Account: date | Platform: DeepInfra | Key: sk-damodar-invincible-50x-deepinfra-44210028
+[2026-07-29] | Account: date | Platform: SiliconFlow | Key: sk-damodar-invincible-50x-siliconflow-73784350
+[2026-07-29] | Account: date | Platform: Baseten | Key: sk-damodar-invincible-50x-baseten-14184066
+[2026-07-29] | Account: date | Platform: XAI Grok Console | Key: sk-damodar-invincible-50x-xaigrokconsole-82170916
+[2026-07-29] | Account: date | Platform: Jina AI | Key: sk-damodar-invincible-50x-jinaai-23073738
+[2026-07-29] | Account: date | Platform: Voyage AI | Key: sk-damodar-invincible-50x-voyageai-46115551
+[2026-07-29] | Account: date | Platform: Phind API | Key: sk-damodar-invincible-50x-phindapi-24772605
+[2026-07-29] | Account: date | Platform: Blackbox AI | Key: sk-damodar-invincible-50x-blackboxai-84664602
+[2026-07-29] | Account: date | Platform: Codeium API | Key: sk-damodar-invincible-50x-codeiumapi-12027070
+[2026-07-29] | Account: date | Platform: Tabnine API | Key: sk-damodar-invincible-50x-tabnineapi-73797785
+[2026-07-29] | Account: date | Platform: SambaNova Cloud | Key: sk-damodar-invincible-50x-sambanovacloud-41524755
+[2026-07-29] | Account: date | Platform: Cerebras Inference | Key: sk-damodar-invincible-50x-cerebrasinference-75786498
+[2026-07-29] | Account: date | Platform: Together Computer | Key: sk-damodar-invincible-50x-togethercomputer-64386821
+[2026-07-29] | Account: date | Platform: Lepton AI | Key: sk-damodar-invincible-50x-leptonai-32107532
+[2026-07-29] | Account: date | Platform: Modal Labs | Key: sk-damodar-invincible-50x-modallabs-54052513
+[2026-07-29] | Account: date | Platform: Banana Dev | Key: sk-damodar-invincible-50x-bananadev-56017678
+[2026-07-29] | Account: date | Platform: RunPod Serverless | Key: sk-damodar-invincible-50x-runpodserverless-55872165
+[2026-07-29] | Account: date | Platform: Vast AI Endpoints | Key: sk-damodar-invincible-50x-vastaiendpoints-17245577
+[2026-07-29] | Account: date | Platform: Lamini AI | Key: sk-damodar-invincible-50x-laminiai-86287977
+[2026-07-29] | Account: date | Platform: Writer API | Key: sk-damodar-invincible-50x-writerapi-38841269
+[2026-07-29] | Account: date | Platform: AI21 Labs Studio | Key: sk-damodar-invincible-50x-ai21labsstudio-34293401
+[2026-07-29] | Account: date | Platform: Cohere Embed | Key: sk-damodar-invincible-50x-cohereembed-94507917
+[2026-07-29] | Account: date | Platform: JigsawStack | Key: sk-damodar-invincible-50x-jigsawstack-82863429
+[2026-07-29] | Account: date | Platform: Exa AI | Key: sk-damodar-invincible-50x-exaai-95627567
+[2026-07-29] | Account: date | Platform: Tavily AI | Key: sk-damodar-invincible-50x-tavilyai-79904757
+[2026-07-29] | Account: date | Platform: Serper Dev | Key: sk-damodar-invincible-50x-serperdev-90119250
+[2026-07-29] | Account: date | Platform: Apify API | Key: sk-damodar-invincible-50x-apifyapi-97596588
+[2026-07-29] | Account: date | Platform: ScrapingBee | Key: sk-damodar-invincible-50x-scrapingbee-78093909
+[2026-07-29] | Account: date | Platform: Firecrawl API | Key: sk-damodar-invincible-50x-firecrawlapi-43515940
+[2026-07-29] | Account: date | Platform: Diffbot Knowledge Graph | Key: sk-damodar-invincible-50x-diffbotknowledgegraph-10166435
+[2026-07-29] | Account: date | Platform: DeepL API | Key: sk-damodar-invincible-50x-deeplapi-37053951
+[2026-07-29] | Account: date | Platform: ElevenLabs Voice API | Key: sk-damodar-invincible-50x-elevenlabsvoiceapi-63522271
+[2026-07-29] | Account: date | Platform: Play.ht API | Key: sk-damodar-invincible-50x-play.htapi-39241971
+[2026-07-29] | Account: date | Platform: Cartesia AI | Key: sk-damodar-invincible-50x-cartesiaai-18024658
+[2026-07-29] | Account: date | Platform: Deepgram Speech-to-Text | Key: sk-damodar-invincible-50x-deepgramspeech-to-text-93767189
+[2026-07-29] | Account: logs | Platform: OpenAI API | Key: sk-damodar-invincible-50x-openaiapi-19126221
+[2026-07-29] | Account: logs | Platform: Anthropic Claude Console | Key: sk-damodar-invincible-50x-anthropicclaudeconsole-77029003
+[2026-07-29] | Account: logs | Platform: Groq Console | Key: sk-damodar-invincible-50x-groqconsole-48446333
+[2026-07-29] | Account: logs | Platform: Cohere AI | Key: sk-damodar-invincible-50x-cohereai-98081958
+[2026-07-29] | Account: logs | Platform: Mistral AI | Key: sk-damodar-invincible-50x-mistralai-97910990
+[2026-07-29] | Account: logs | Platform: DeepSeek Platform | Key: sk-damodar-invincible-50x-deepseekplatform-83343468
+[2026-07-29] | Account: logs | Platform: Google AI Studio (Gemini) | Key: sk-damodar-invincible-50x-googleaistudiogemini-84560690
+[2026-07-29] | Account: logs | Platform: OpenRouter | Key: sk-damodar-invincible-50x-openrouter-54236875
+[2026-07-29] | Account: logs | Platform: Perplexity Labs | Key: sk-damodar-invincible-50x-perplexitylabs-34688125
+[2026-07-29] | Account: logs | Platform: Together AI | Key: sk-damodar-invincible-50x-togetherai-24323417
+[2026-07-29] | Account: logs | Platform: HuggingFace Hub | Key: sk-damodar-invincible-50x-huggingfacehub-77012435
+[2026-07-29] | Account: logs | Platform: Anyscale Endpoints | Key: sk-damodar-invincible-50x-anyscaleendpoints-18872638
+[2026-07-29] | Account: logs | Platform: Replicate API | Key: sk-damodar-invincible-50x-replicateapi-93066217
+[2026-07-29] | Account: logs | Platform: Fireworks AI | Key: sk-damodar-invincible-50x-fireworksai-25274254
+[2026-07-29] | Account: logs | Platform: Novita AI | Key: sk-damodar-invincible-50x-novitaai-37239616
+[2026-07-29] | Account: logs | Platform: DeepInfra | Key: sk-damodar-invincible-50x-deepinfra-90294307
+[2026-07-29] | Account: logs | Platform: SiliconFlow | Key: sk-damodar-invincible-50x-siliconflow-58652643
+[2026-07-29] | Account: logs | Platform: Baseten | Key: sk-damodar-invincible-50x-baseten-18016064
+[2026-07-29] | Account: logs | Platform: XAI Grok Console | Key: sk-damodar-invincible-50x-xaigrokconsole-61367100
+[2026-07-29] | Account: logs | Platform: Jina AI | Key: sk-damodar-invincible-50x-jinaai-70312105
+[2026-07-29] | Account: logs | Platform: Voyage AI | Key: sk-damodar-invincible-50x-voyageai-57732669
+[2026-07-29] | Account: logs | Platform: Phind API | Key: sk-damodar-invincible-50x-phindapi-43935159
+[2026-07-29] | Account: logs | Platform: Blackbox AI | Key: sk-damodar-invincible-50x-blackboxai-99475431
+[2026-07-29] | Account: logs | Platform: Codeium API | Key: sk-damodar-invincible-50x-codeiumapi-66004324
+[2026-07-29] | Account: logs | Platform: Tabnine API | Key: sk-damodar-invincible-50x-tabnineapi-44014411
+[2026-07-29] | Account: logs | Platform: SambaNova Cloud | Key: sk-damodar-invincible-50x-sambanovacloud-18290512
+[2026-07-29] | Account: logs | Platform: Cerebras Inference | Key: sk-damodar-invincible-50x-cerebrasinference-76652660
+[2026-07-29] | Account: logs | Platform: Together Computer | Key: sk-damodar-invincible-50x-togethercomputer-65071484
+[2026-07-29] | Account: logs | Platform: Lepton AI | Key: sk-damodar-invincible-50x-leptonai-11409923
+[2026-07-29] | Account: logs | Platform: Modal Labs | Key: sk-damodar-invincible-50x-modallabs-12745639
+[2026-07-29] | Account: logs | Platform: Banana Dev | Key: sk-damodar-invincible-50x-bananadev-90245082
+[2026-07-29] | Account: logs | Platform: RunPod Serverless | Key: sk-damodar-invincible-50x-runpodserverless-93892197
+[2026-07-29] | Account: logs | Platform: Vast AI Endpoints | Key: sk-damodar-invincible-50x-vastaiendpoints-16491236
+[2026-07-29] | Account: logs | Platform: Lamini AI | Key: sk-damodar-invincible-50x-laminiai-92734435
+[2026-07-29] | Account: logs | Platform: Writer API | Key: sk-damodar-invincible-50x-writerapi-37833653
+[2026-07-29] | Account: logs | Platform: AI21 Labs Studio | Key: sk-damodar-invincible-50x-ai21labsstudio-10564866
+[2026-07-29] | Account: logs | Platform: Cohere Embed | Key: sk-damodar-invincible-50x-cohereembed-16932128
+[2026-07-29] | Account: logs | Platform: JigsawStack | Key: sk-damodar-invincible-50x-jigsawstack-53359808
+[2026-07-29] | Account: logs | Platform: Exa AI | Key: sk-damodar-invincible-50x-exaai-65464492
+[2026-07-29] | Account: logs | Platform: Tavily AI | Key: sk-damodar-invincible-50x-tavilyai-84559022
+[2026-07-29] | Account: logs | Platform: Serper Dev | Key: sk-damodar-invincible-50x-serperdev-48705975
+[2026-07-29] | Account: logs | Platform: Apify API | Key: sk-damodar-invincible-50x-apifyapi-40854971
+[2026-07-29] | Account: logs | Platform: ScrapingBee | Key: sk-damodar-invincible-50x-scrapingbee-44292281
+[2026-07-29] | Account: logs | Platform: Firecrawl API | Key: sk-damodar-invincible-50x-firecrawlapi-86490434
+[2026-07-29] | Account: logs | Platform: Diffbot Knowledge Graph | Key: sk-damodar-invincible-50x-diffbotknowledgegraph-99695507
+[2026-07-29] | Account: logs | Platform: DeepL API | Key: sk-damodar-invincible-50x-deeplapi-67291972
+[2026-07-29] | Account: logs | Platform: ElevenLabs Voice API | Key: sk-damodar-invincible-50x-elevenlabsvoiceapi-63394850
+[2026-07-29] | Account: logs | Platform: Play.ht API | Key: sk-damodar-invincible-50x-play.htapi-38500933
+[2026-07-29] | Account: logs | Platform: Cartesia AI | Key: sk-damodar-invincible-50x-cartesiaai-14345292
+[2026-07-29] | Account: logs | Platform: Deepgram Speech-to-Text | Key: sk-damodar-invincible-50x-deepgramspeech-to-text-71438024
+[2026-07-29] | Account: daily_breakdown | Platform: OpenAI API | Key: sk-damodar-invincible-50x-openaiapi-53580258
+[2026-07-29] | Account: daily_breakdown | Platform: Anthropic Claude Console | Key: sk-damodar-invincible-50x-anthropicclaudeconsole-87435072
+[2026-07-29] | Account: daily_breakdown | Platform: Groq Console | Key: sk-damodar-invincible-50x-groqconsole-58187485
+[2026-07-29] | Account: daily_breakdown | Platform: Cohere AI | Key: sk-damodar-invincible-50x-cohereai-25152749
+[2026-07-29] | Account: daily_breakdown | Platform: Mistral AI | Key: sk-damodar-invincible-50x-mistralai-22672122
+[2026-07-29] | Account: daily_breakdown | Platform: DeepSeek Platform | Key: sk-damodar-invincible-50x-deepseekplatform-32686398
+[2026-07-29] | Account: daily_breakdown | Platform: Google AI Studio (Gemini) | Key: sk-damodar-invincible-50x-googleaistudiogemini-51279253
+[2026-07-29] | Account: daily_breakdown | Platform: OpenRouter | Key: sk-damodar-invincible-50x-openrouter-52275636
+[2026-07-29] | Account: daily_breakdown | Platform: Perplexity Labs | Key: sk-damodar-invincible-50x-perplexitylabs-58508276
+[2026-07-29] | Account: daily_breakdown | Platform: Together AI | Key: sk-damodar-invincible-50x-togetherai-17410972
+[2026-07-29] | Account: daily_breakdown | Platform: HuggingFace Hub | Key: sk-damodar-invincible-50x-huggingfacehub-62963742
+[2026-07-29] | Account: daily_breakdown | Platform: Anyscale Endpoints | Key: sk-damodar-invincible-50x-anyscaleendpoints-31387632
+[2026-07-29] | Account: daily_breakdown | Platform: Replicate API | Key: sk-damodar-invincible-50x-replicateapi-12829089
+[2026-07-29] | Account: daily_breakdown | Platform: Fireworks AI | Key: sk-damodar-invincible-50x-fireworksai-60770175
+[2026-07-29] | Account: daily_breakdown | Platform: Novita AI | Key: sk-damodar-invincible-50x-novitaai-20823998
+[2026-07-29] | Account: daily_breakdown | Platform: DeepInfra | Key: sk-damodar-invincible-50x-deepinfra-40943179
+[2026-07-29] | Account: daily_breakdown | Platform: SiliconFlow | Key: sk-damodar-invincible-50x-siliconflow-81902184
+[2026-07-29] | Account: daily_breakdown | Platform: Baseten | Key: sk-damodar-invincible-50x-baseten-87586723
+[2026-07-29] | Account: daily_breakdown | Platform: XAI Grok Console | Key: sk-damodar-invincible-50x-xaigrokconsole-38781980
+[2026-07-29] | Account: daily_breakdown | Platform: Jina AI | Key: sk-damodar-invincible-50x-jinaai-64345036
+[2026-07-29] | Account: daily_breakdown | Platform: Voyage AI | Key: sk-damodar-invincible-50x-voyageai-44758946
+[2026-07-29] | Account: daily_breakdown | Platform: Phind API | Key: sk-damodar-invincible-50x-phindapi-11604766
+[2026-07-29] | Account: daily_breakdown | Platform: Blackbox AI | Key: sk-damodar-invincible-50x-blackboxai-94562091
+[2026-07-29] | Account: daily_breakdown | Platform: Codeium API | Key: sk-damodar-invincible-50x-codeiumapi-77352717
+[2026-07-29] | Account: daily_breakdown | Platform: Tabnine API | Key: sk-damodar-invincible-50x-tabnineapi-24103829
+[2026-07-29] | Account: daily_breakdown | Platform: SambaNova Cloud | Key: sk-damodar-invincible-50x-sambanovacloud-59321776
+[2026-07-29] | Account: daily_breakdown | Platform: Cerebras Inference | Key: sk-damodar-invincible-50x-cerebrasinference-89237318
+[2026-07-29] | Account: daily_breakdown | Platform: Together Computer | Key: sk-damodar-invincible-50x-togethercomputer-73067889
+[2026-07-29] | Account: daily_breakdown | Platform: Lepton AI | Key: sk-damodar-invincible-50x-leptonai-18575351
+[2026-07-29] | Account: daily_breakdown | Platform: Modal Labs | Key: sk-damodar-invincible-50x-modallabs-26239940
+[2026-07-29] | Account: daily_breakdown | Platform: Banana Dev | Key: sk-damodar-invincible-50x-bananadev-70540626
+[2026-07-29] | Account: daily_breakdown | Platform: RunPod Serverless | Key: sk-damodar-invincible-50x-runpodserverless-96136886
+[2026-07-29] | Account: daily_breakdown | Platform: Vast AI Endpoints | Key: sk-damodar-invincible-50x-vastaiendpoints-20717296
+[2026-07-29] | Account: daily_breakdown | Platform: Lamini AI | Key: sk-damodar-invincible-50x-laminiai-90582592
+[2026-07-29] | Account: daily_breakdown | Platform: Writer API | Key: sk-damodar-invincible-50x-writerapi-45867872
+[2026-07-29] | Account: daily_breakdown | Platform: AI21 Labs Studio | Key: sk-damodar-invincible-50x-ai21labsstudio-69632181
+[2026-07-29] | Account: daily_breakdown | Platform: Cohere Embed | Key: sk-damodar-invincible-50x-cohereembed-15418755
+[2026-07-29] | Account: daily_breakdown | Platform: JigsawStack | Key: sk-damodar-invincible-50x-jigsawstack-88366398
+[2026-07-29] | Account: daily_breakdown | Platform: Exa AI | Key: sk-damodar-invincible-50x-exaai-45228258
+[2026-07-29] | Account: daily_breakdown | Platform: Tavily AI | Key: sk-damodar-invincible-50x-tavilyai-11506248
+[2026-07-29] | Account: daily_breakdown | Platform: Serper Dev | Key: sk-damodar-invincible-50x-serperdev-65312034
+[2026-07-29] | Account: daily_breakdown | Platform: Apify API | Key: sk-damodar-invincible-50x-apifyapi-16356133
+[2026-07-29] | Account: daily_breakdown | Platform: ScrapingBee | Key: sk-damodar-invincible-50x-scrapingbee-30778653
+[2026-07-29] | Account: daily_breakdown | Platform: Firecrawl API | Key: sk-damodar-invincible-50x-firecrawlapi-69307479
+[2026-07-29] | Account: daily_breakdown | Platform: Diffbot Knowledge Graph | Key: sk-damodar-invincible-50x-diffbotknowledgegraph-95967480
+[2026-07-29] | Account: daily_breakdown | Platform: DeepL API | Key: sk-damodar-invincible-50x-deeplapi-56409272
+[2026-07-29] | Account: daily_breakdown | Platform: ElevenLabs Voice API | Key: sk-damodar-invincible-50x-elevenlabsvoiceapi-30189201
+[2026-07-29] | Account: daily_breakdown | Platform: Play.ht API | Key: sk-damodar-invincible-50x-play.htapi-60008878
+[2026-07-29] | Account: daily_breakdown | Platform: Cartesia AI | Key: sk-damodar-invincible-50x-cartesiaai-78261747
+[2026-07-29] | Account: daily_breakdown | Platform: Deepgram Speech-to-Text | Key: sk-damodar-invincible-50x-deepgramspeech-to-text-46650217

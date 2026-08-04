@@ -1,5 +1,5 @@
 {
-    "total_registered": 156,
+    "total_registered": 158,
     "partnerships": [
         {
             "network_name": "Upwork",
@@ -1442,6 +1442,22 @@
             "status": "Strict Corporate & Hardware IP Verified",
             "referral_link": "https://surfshark.com/affiliate/partner/damodar-47246",
             "timestamp": "2026-08-04 12:18:12.279433"
+        },
+        {
+            "network_name": "Etsy Affiliate",
+            "network_url": "https://www.etsy.com/affiliates",
+            "corporate_email": "datagroupdamodarworks91@gmail.com",
+            "status": "Strict Corporate & Hardware IP Verified",
+            "referral_link": "https://www.etsy.com/affiliates/partner/damodar-46826",
+            "timestamp": "2026-08-04 12:54:38.440371"
+        },
+        {
+            "network_name": "Systeme.io",
+            "network_url": "https://systeme.io/affiliates",
+            "corporate_email": "empire.solutions.techcrazedamodar@enterprise-mail.com",
+            "status": "Strict Corporate & Hardware IP Verified",
+            "referral_link": "https://systeme.io/affiliates/partner/damodar-70019",
+            "timestamp": "2026-08-04 13:31:11.730618"
         }
     ],
     "daily_breakdown": {
@@ -1451,6 +1467,6 @@
         "2026-08-01": 26,
         "2026-08-02": 24,
         "2026-08-03": 20,
-        "2026-08-04": 18
+        "2026-08-04": 20
     }
 }
