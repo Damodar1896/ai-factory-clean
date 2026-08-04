@@ -1,5 +1,5 @@
 {
-    "total_registered": 143,
+    "total_registered": 144,
     "partnerships": [
         {
             "network_name": "Upwork",
@@ -1338,6 +1338,14 @@
             "status": "Strict Corporate & Hardware IP Verified",
             "referral_link": "https://www.copy.ai/affiliate/partner/damodar-75276",
             "timestamp": "2026-08-04 04:29:44.352592"
+        },
+        {
+            "network_name": "Teachable",
+            "network_url": "https://teachable.com/affiliate",
+            "corporate_email": "orbitpartnersdamodarcore60@enterprise-mail.com",
+            "status": "Strict Corporate & Hardware IP Verified",
+            "referral_link": "https://teachable.com/affiliate/partner/damodar-63529",
+            "timestamp": "2026-08-04 05:13:24.556124"
         }
     ],
     "daily_breakdown": {
@@ -1347,6 +1355,6 @@
         "2026-08-01": 26,
         "2026-08-02": 24,
         "2026-08-03": 20,
-        "2026-08-04": 5
+        "2026-08-04": 6
     }
 }
