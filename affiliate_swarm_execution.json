@@ -1,5 +1,5 @@
 {
-    "total_registered": 167,
+    "total_registered": 168,
     "partnerships": [
         {
             "network_name": "Upwork",
@@ -1530,6 +1530,14 @@
             "status": "Strict Corporate & Hardware IP Verified",
             "referral_link": "https://systeme.io/affiliates/partner/damodar-75476",
             "timestamp": "2026-08-05 03:19:58.069973"
+        },
+        {
+            "network_name": "Bluehost",
+            "network_url": "https://www.bluehost.com/track/affiliates",
+            "corporate_email": "primesecuritydamodarworks36@enterprise-mail.com",
+            "status": "Strict Corporate & Hardware IP Verified",
+            "referral_link": "https://www.bluehost.com/track/affiliates/partner/damodar-79133",
+            "timestamp": "2026-08-05 03:55:23.353383"
         }
     ],
     "daily_breakdown": {
@@ -1540,6 +1548,6 @@
         "2026-08-02": 24,
         "2026-08-03": 20,
         "2026-08-04": 24,
-        "2026-08-05": 5
+        "2026-08-05": 6
     }
 }
