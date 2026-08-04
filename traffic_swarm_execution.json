@@ -2456,6 +2456,33 @@
             "leads_captured": 12,
             "status": "Active & Converting",
             "timestamp": "2026-08-04 09:14:42"
+        },
+        {
+            "campaign_id": "CAMP-78396",
+            "channel": "Social Media Hook Spreader",
+            "target_audience": "Viral Short-Form Traffic",
+            "clicks_generated": 377,
+            "leads_captured": 35,
+            "status": "Active & Converting",
+            "timestamp": "2026-08-04 09:53:43"
+        },
+        {
+            "campaign_id": "CAMP-12700",
+            "channel": "Telegram Growth Swarm",
+            "target_audience": "Tech & SaaS Audiences",
+            "clicks_generated": 240,
+            "leads_captured": 22,
+            "status": "Active & Converting",
+            "timestamp": "2026-08-04 10:10:13"
+        },
+        {
+            "campaign_id": "CAMP-82959",
+            "channel": "Social Media Hook Spreader",
+            "target_audience": "Viral Short-Form Traffic",
+            "clicks_generated": 270,
+            "leads_captured": 43,
+            "status": "Active & Converting",
+            "timestamp": "2026-08-04 10:36:13"
         }
     ]
 }

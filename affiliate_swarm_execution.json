@@ -1,5 +1,5 @@
 {
-    "total_registered": 150,
+    "total_registered": 152,
     "partnerships": [
         {
             "network_name": "Upwork",
@@ -1394,6 +1394,22 @@
             "status": "Strict Corporate & Hardware IP Verified",
             "referral_link": "https://kit.com/affiliates/partner/damodar-62766",
             "timestamp": "2026-08-04 09:12:18.069210"
+        },
+        {
+            "network_name": "Amazon Associates",
+            "network_url": "https://affiliate-program.amazon.com",
+            "corporate_email": "official.connect.venturestechcraze@gmail.com",
+            "status": "Strict Corporate & Hardware IP Verified",
+            "referral_link": "https://affiliate-program.amazon.com/partner/damodar-20933",
+            "timestamp": "2026-08-04 09:53:42.340335"
+        },
+        {
+            "network_name": "Envato Market",
+            "network_url": "https://themeforest.net/affiliates",
+            "corporate_email": "deskstudioventurestechcraze32@enterprise-mail.com",
+            "status": "Strict Corporate & Hardware IP Verified",
+            "referral_link": "https://themeforest.net/affiliates/partner/damodar-16359",
+            "timestamp": "2026-08-04 10:18:29.575529"
         }
     ],
     "daily_breakdown": {
@@ -1403,6 +1419,6 @@
         "2026-08-01": 26,
         "2026-08-02": 24,
         "2026-08-03": 20,
-        "2026-08-04": 12
+        "2026-08-04": 14
     }
 }
