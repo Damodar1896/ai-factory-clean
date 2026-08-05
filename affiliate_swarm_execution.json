@@ -1,5 +1,5 @@
 {
-    "total_registered": 172,
+    "total_registered": 174,
     "partnerships": [
         {
             "network_name": "Upwork",
@@ -1570,6 +1570,22 @@
             "status": "Strict Corporate & Hardware IP Verified",
             "referral_link": "https://www.cj.com/partner/damodar-62486",
             "timestamp": "2026-08-05 06:29:05.230147"
+        },
+        {
+            "network_name": "WarriorPlus",
+            "network_url": "https://warriorplus.com",
+            "corporate_email": "coreconnectdamodarcore87@enterprise-mail.com",
+            "status": "Strict Corporate & Hardware IP Verified",
+            "referral_link": "https://warriorplus.com/partner/damodar-18559",
+            "timestamp": "2026-08-05 06:56:18.458283"
+        },
+        {
+            "network_name": "ClickFunnels",
+            "network_url": "https://www.clickfunnels.com/affiliate",
+            "corporate_email": "desk.security.damodarcore@enterprise-mail.com",
+            "status": "Strict Corporate & Hardware IP Verified",
+            "referral_link": "https://www.clickfunnels.com/affiliate/partner/damodar-37899",
+            "timestamp": "2026-08-05 07:21:51.610529"
         }
     ],
     "daily_breakdown": {
@@ -1580,6 +1596,6 @@
         "2026-08-02": 24,
         "2026-08-03": 20,
         "2026-08-04": 24,
-        "2026-08-05": 10
+        "2026-08-05": 12
     }
 }
