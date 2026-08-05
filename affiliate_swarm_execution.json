@@ -1,5 +1,5 @@
 {
-    "total_registered": 181,
+    "total_registered": 182,
     "partnerships": [
         {
             "network_name": "Upwork",
@@ -1642,6 +1642,14 @@
             "status": "Strict Corporate & Hardware IP Verified",
             "referral_link": "https://www.coursera.org/partners/partner/damodar-45640",
             "timestamp": "2026-08-05 11:39:33.991387"
+        },
+        {
+            "network_name": "eBay Partner Network",
+            "network_url": "https://partnernetwork.ebay.com",
+            "corporate_email": "nova.admin.damodardigital@gmail.com",
+            "status": "Strict Corporate & Hardware IP Verified",
+            "referral_link": "https://partnernetwork.ebay.com/partner/damodar-20937",
+            "timestamp": "2026-08-05 12:27:28.177441"
         }
     ],
     "daily_breakdown": {
@@ -1652,6 +1660,6 @@
         "2026-08-02": 24,
         "2026-08-03": 20,
         "2026-08-04": 24,
-        "2026-08-05": 19
+        "2026-08-05": 20
     }
 }
