@@ -1,5 +1,5 @@
 {
-    "total_registered": 190,
+    "total_registered": 191,
     "partnerships": [
         {
             "network_name": "Upwork",
@@ -1714,6 +1714,14 @@
             "status": "Strict Corporate & Hardware IP Verified",
             "referral_link": "https://www.shareasale.com/partner/damodar-74082",
             "timestamp": "2026-08-06 01:58:20.199702"
+        },
+        {
+            "network_name": "WarriorPlus",
+            "network_url": "https://warriorplus.com",
+            "corporate_email": "workspartnersventurestechcraze60@enterprise-mail.com",
+            "status": "Strict Corporate & Hardware IP Verified",
+            "referral_link": "https://warriorplus.com/partner/damodar-99661",
+            "timestamp": "2026-08-06 02:50:49.497804"
         }
     ],
     "daily_breakdown": {
@@ -1725,6 +1733,6 @@
         "2026-08-03": 20,
         "2026-08-04": 24,
         "2026-08-05": 27,
-        "2026-08-06": 1
+        "2026-08-06": 2
     }
 }
