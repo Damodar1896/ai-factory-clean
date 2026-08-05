@@ -1,5 +1,5 @@
 {
-    "total_registered": 186,
+    "total_registered": 187,
     "partnerships": [
         {
             "network_name": "Upwork",
@@ -1682,6 +1682,14 @@
             "status": "Strict Corporate & Hardware IP Verified",
             "referral_link": "https://www.upwork.com/affiliates/partner/damodar-78177",
             "timestamp": "2026-08-05 17:27:40.318830"
+        },
+        {
+            "network_name": "Booking.com Affiliate",
+            "network_url": "https://www.booking.com/affiliate-program",
+            "corporate_email": "studiostudioventuresdamodar23@gmail.com",
+            "status": "Strict Corporate & Hardware IP Verified",
+            "referral_link": "https://www.booking.com/affiliate-program/partner/damodar-90373",
+            "timestamp": "2026-08-05 17:58:38.450706"
         }
     ],
     "daily_breakdown": {
@@ -1692,6 +1700,6 @@
         "2026-08-02": 24,
         "2026-08-03": 20,
         "2026-08-04": 24,
-        "2026-08-05": 24
+        "2026-08-05": 25
     }
 }

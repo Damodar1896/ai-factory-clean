@@ -1,0 +1,13 @@
+import shutil, psutil
+t, u, f = shutil.disk_usage("/")
+r = psutil.virtual_memory()
+print("="*40)
+print("🍏 MACBOOK M2 SYSTEM HEALTH REPORT 🍏")
+print("="*40)
+print(f"💽 Storage Total : {t / (1024**3):.2f} GB")
+print(f"💽 Storage Used  : {u / (1024**3):.2f} GB ({(u/t)*100:.1f}%)")
+print(f"💽 Storage Free  : {f / (1024**3):.2f} GB")
+print(f"🧠 Total RAM     : {r.total / (1024**3):.2f} GB")
+print(f"🧠 Used RAM      : {r.used / (1024**3):.2f} GB ({r.percent}%)")
+print(f"⚡ CPU Usage     : {psutil.cpu_percent(interval=1)}% Load")
+print("="*40)
