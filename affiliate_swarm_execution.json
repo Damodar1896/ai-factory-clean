@@ -1,5 +1,5 @@
 {
-    "total_registered": 175,
+    "total_registered": 176,
     "partnerships": [
         {
             "network_name": "Upwork",
@@ -1594,6 +1594,14 @@
             "status": "Strict Corporate & Hardware IP Verified",
             "referral_link": "https://www.copy.ai/affiliate/partner/damodar-82721",
             "timestamp": "2026-08-05 07:51:27.891574"
+        },
+        {
+            "network_name": "Klook",
+            "network_url": "https://www.klook.com/affiliate",
+            "corporate_email": "base.connect.damodarempire@enterprise-mail.com",
+            "status": "Strict Corporate & Hardware IP Verified",
+            "referral_link": "https://www.klook.com/affiliate/partner/damodar-92853",
+            "timestamp": "2026-08-05 08:37:48.067392"
         }
     ],
     "daily_breakdown": {
@@ -1604,6 +1612,6 @@
         "2026-08-02": 24,
         "2026-08-03": 20,
         "2026-08-04": 24,
-        "2026-08-05": 13
+        "2026-08-05": 14
     }
 }

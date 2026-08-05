@@ -2897,6 +2897,15 @@
             "leads_captured": 38,
             "status": "Active & Converting",
             "timestamp": "2026-08-05 07:34:59"
+        },
+        {
+            "campaign_id": "CAMP-39441",
+            "channel": "Direct Corporate Outreach",
+            "target_audience": "B2B Lead Conversion",
+            "clicks_generated": 372,
+            "leads_captured": 37,
+            "status": "Active & Converting",
+            "timestamp": "2026-08-05 08:08:59"
         }
     ]
 }
