@@ -1,5 +1,5 @@
 {
-    "total_registered": 179,
+    "total_registered": 181,
     "partnerships": [
         {
             "network_name": "Upwork",
@@ -1626,6 +1626,22 @@
             "status": "Strict Corporate & Hardware IP Verified",
             "referral_link": "https://nordvpn.com/affiliate/partner/damodar-74430",
             "timestamp": "2026-08-05 10:21:55.691604"
+        },
+        {
+            "network_name": "WarriorPlus",
+            "network_url": "https://warriorplus.com",
+            "corporate_email": "hive.hr.damodarventures@enterprise-mail.com",
+            "status": "Strict Corporate & Hardware IP Verified",
+            "referral_link": "https://warriorplus.com/partner/damodar-19607",
+            "timestamp": "2026-08-05 11:05:59.854402"
+        },
+        {
+            "network_name": "Coursera",
+            "network_url": "https://www.coursera.org/partners",
+            "corporate_email": "ai.hr.damodartechcraze@gmail.com",
+            "status": "Strict Corporate & Hardware IP Verified",
+            "referral_link": "https://www.coursera.org/partners/partner/damodar-45640",
+            "timestamp": "2026-08-05 11:39:33.991387"
         }
     ],
     "daily_breakdown": {
@@ -1636,6 +1652,6 @@
         "2026-08-02": 24,
         "2026-08-03": 20,
         "2026-08-04": 24,
-        "2026-08-05": 17
+        "2026-08-05": 19
     }
 }
