@@ -1,5 +1,5 @@
 {
-    "total_registered": 177,
+    "total_registered": 178,
     "partnerships": [
         {
             "network_name": "Upwork",
@@ -1610,6 +1610,14 @@
             "status": "Strict Corporate & Hardware IP Verified",
             "referral_link": "https://affiliates.walmart.com/partner/damodar-43691",
             "timestamp": "2026-08-05 09:07:50.256544"
+        },
+        {
+            "network_name": "Tripadvisor",
+            "network_url": "https://www.tripadvisor.com/Affiliates",
+            "corporate_email": "datasalesdamodarworks67@enterprise-mail.com",
+            "status": "Strict Corporate & Hardware IP Verified",
+            "referral_link": "https://www.tripadvisor.com/Affiliates/partner/damodar-64616",
+            "timestamp": "2026-08-05 09:50:10.446948"
         }
     ],
     "daily_breakdown": {
@@ -1620,6 +1628,6 @@
         "2026-08-02": 24,
         "2026-08-03": 20,
         "2026-08-04": 24,
-        "2026-08-05": 15
+        "2026-08-05": 16
     }
 }
