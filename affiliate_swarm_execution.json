@@ -1,5 +1,5 @@
 {
-    "total_registered": 185,
+    "total_registered": 186,
     "partnerships": [
         {
             "network_name": "Upwork",
@@ -1674,6 +1674,14 @@
             "status": "Strict Corporate & Hardware IP Verified",
             "referral_link": "https://www.bluehost.com/track/affiliates/partner/damodar-24054",
             "timestamp": "2026-08-05 14:53:36.044888"
+        },
+        {
+            "network_name": "Upwork",
+            "network_url": "https://www.upwork.com/affiliates",
+            "corporate_email": "vault.media.damodarempire@gmail.com",
+            "status": "Strict Corporate & Hardware IP Verified",
+            "referral_link": "https://www.upwork.com/affiliates/partner/damodar-78177",
+            "timestamp": "2026-08-05 17:27:40.318830"
         }
     ],
     "daily_breakdown": {
@@ -1684,6 +1692,6 @@
         "2026-08-02": 24,
         "2026-08-03": 20,
         "2026-08-04": 24,
-        "2026-08-05": 23
+        "2026-08-05": 24
     }
 }
