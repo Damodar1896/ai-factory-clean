@@ -4,10 +4,11 @@ from reportlab.lib.styles import getSampleStyleSheet, ParagraphStyle
 from reportlab.lib import colors
 
 def add_footer(canvas, doc):
+    if doc.page == 1:
+        return
     canvas.saveState()
     canvas.setFont('Helvetica', 8)
     canvas.setFillColor(colors.HexColor('#718096'))
-    # Footer text
     footer_text = f"Damodar Tech & AI Ecosystem Hub  |  Confidential VIP Bonus  |  Page {doc.page}"
     canvas.drawRightString(572, 30, footer_text)
     canvas.setStrokeColor(colors.HexColor('#E2E8F0'))
@@ -18,78 +19,78 @@ def add_footer(canvas, doc):
 def create_pdf():
     filename = "masterguide.pdf"
     doc = SimpleDocTemplate(filename, pagesize=letter,
-                            rightMargin=40, leftMargin=40,
-                            topMargin=50, bottomMargin=50)
+                            rightMargin=36, leftMargin=36,
+                            topMargin=36, bottomMargin=36)
     story = []
     styles = getSampleStyleSheet()
 
-    # Premium Color Palette
-    primary_color = colors.HexColor('#0F172A')   # Deep Slate / Dark Navy
-    accent_color = colors.HexColor('#2563EB')    # Vibrant Tech Blue
-    text_dark = colors.HexColor('#1E293B')       # Rich Charcoal
-    text_muted = colors.HexColor('#64748B')      # Slate Grey
-    card_bg = colors.HexColor('#F8FAFC')         # Soft Clean Off-White
-    border_color = colors.HexColor('#E2E8F0')    # Light Border Grey
+    bg_deep_navy = colors.HexColor('#090D16')
+    accent_blue = colors.HexColor('#38BDF8')
+    text_white = colors.HexColor('#FFFFFF')
+    text_muted = colors.HexColor('#94A3B8')
+    
+    card_bg = colors.HexColor('#F8FAFC')
+    border_color = colors.HexColor('#E2E8F0')
+    accent_bar = colors.HexColor('#2563EB')
 
-    # Styles
     cover_title_style = ParagraphStyle(
         'CoverTitle', parent=styles['Heading1'],
-        fontSize=24, textColor=colors.white,
-        alignment=1, spaceAfter=12, fontName="Helvetica-Bold", leading=30
+        fontSize=26, textColor=text_white,
+        alignment=1, spaceAfter=12, fontName="Helvetica-Bold", leading=32
     )
     
     cover_sub_style = ParagraphStyle(
         'CoverSub', parent=styles['Normal'],
-        fontSize=12, textColor=colors.HexColor('#94A3B8'),
+        fontSize=11, textColor=text_muted,
         alignment=1, fontName="Helvetica", leading=18
     )
 
     mod_heading_style = ParagraphStyle(
         'ModHeading', parent=styles['Heading2'],
-        fontSize=15, textColor=primary_color,
-        spaceBefore=10, spaceAfter=14, fontName="Helvetica-Bold",
-        borderPadding=4
+        fontSize=14, textColor=colors.HexColor('#0F172A'),
+        spaceBefore=10, spaceAfter=12, fontName="Helvetica-Bold"
     )
 
     prompt_title_style = ParagraphStyle(
         'PromptTitle', parent=styles['Normal'],
-        fontSize=9.5, textColor=accent_color,
+        fontSize=9.5, textColor=accent_bar,
         fontName="Helvetica-Bold", spaceAfter=3
     )
 
     prompt_desc_style = ParagraphStyle(
         'PromptDesc', parent=styles['Normal'],
-        fontSize=9, textColor=text_dark,
+        fontSize=9, textColor=colors.HexColor('#1E293B'),
         fontName="Helvetica", leading=13
     )
 
-    # ==================== PAGE 1: LUXURY COVER PAGE ====================
-    cover_content = [
-        Spacer(1, 40),
-        Paragraph("💎 THE ULTIMATE VIP BONUS", ParagraphStyle('Badge', parent=styles['Normal'], fontSize=11, textColor=colors.HexColor('#38BDF8'), alignment=1, fontName="Helvetica-Bold", spaceAfter=20)),
+    # ==================== PAGE 1: LUXURY FULL COVER ====================
+    cover_elements = [
+        Spacer(1, 90),
+        Paragraph("💎 THE ULTIMATE VIP BONUS PACKAGE", ParagraphStyle('Badge', parent=styles['Normal'], fontSize=11, textColor=accent_blue, alignment=1, fontName="Helvetica-Bold", spaceAfter=20)),
         Paragraph("100+ AI Business & Automation Prompts Masterguide", cover_title_style),
         Spacer(1, 10),
         Paragraph("The exact engineering frameworks and high-performance prompts used to scale digital operations, programmatic SEO, and automated revenue streams.", cover_sub_style),
-        Spacer(1, 120),
-        Paragraph("<b>CURATED & PUBLISHED BY:</b>", ParagraphStyle('PubTop', parent=styles['Normal'], fontSize=8, textColor=colors.HexColor('#64748B'), alignment=1)),
+        Spacer(1, 130),
+        Paragraph("<b>CURATED & PUBLISHED EXCLUSIVELY BY:</b>", ParagraphStyle('PubTop', parent=styles['Normal'], fontSize=8, textColor=colors.HexColor('#64748B'), alignment=1)),
         Spacer(1, 5),
-        Paragraph("Damodar Tech & AI Ecosystem Hub", ParagraphStyle('PubBot', parent=styles['Normal'], fontSize=14, textColor=colors.white, alignment=1, fontName="Helvetica-Bold")),
+        Paragraph("Damodar Tech & AI Ecosystem Hub", ParagraphStyle('PubBot', parent=styles['Normal'], fontSize=14, textColor=text_white, alignment=1, fontName="Helvetica-Bold")),
         Spacer(1, 40)
     ]
     
-    cover_table = Table([[cover_content]], colWidths=[532])
+    # Safe height of 680 to fit perfectly on Page 1 without spilling over
+    cover_table = Table([[cover_elements]], colWidths=[540], rowHeights=[680])
     cover_table.setStyle(TableStyle([
-        ('BACKGROUND', (0,0), (-1,-1), primary_color),
+        ('BACKGROUND', (0,0), (-1,-1), bg_deep_navy),
         ('ALIGN', (0,0), (-1,-1), 'CENTER'),
-        ('VALIGN', (0,0), (-1,-1), 'MIDDLE'),
-        ('TOPPADDING', (0,0), (-1,-1), 40),
-        ('BOTTOMPADDING', (0,0), (-1,-1), 40),
+        ('VALIGN', (0,0), (-1,-1), 'TOP'),
+        ('TOPPADDING', (0,0), (-1,-1), 0),
+        ('BOTTOMPADDING', (0,0), (-1,-1), 0),
         ('LEFTPADDING', (0,0), (-1,-1), 30),
         ('RIGHTPADDING', (0,0), (-1,-1), 30),
     ]))
     
     story.append(cover_table)
-    story.append(PageBreak())  # Force content to start fresh on Page 2
+    story.append(PageBreak())
 
     # ==================== PROMPTS DATA ====================
     modules = [
@@ -206,10 +207,6 @@ def create_pdf():
     ]
 
     for idx, (mod_title, prompts) in enumerate(modules):
-        # Every module starts cleanly on a fresh page
-        if idx > 0:
-            story.append(PageBreak())
-        
         story.append(Paragraph(mod_title, mod_heading_style))
         story.append(Spacer(1, 4))
 
@@ -217,8 +214,7 @@ def create_pdf():
             p_title = Paragraph(title, prompt_title_style)
             p_desc = Paragraph(desc, prompt_desc_style)
             
-            # Put inside a neat card table
-            card_table = Table([[ [p_title, p_desc] ]], colWidths=[532])
+            card_table = Table([[ [p_title, p_desc] ]], colWidths=[540])
             card_table.setStyle(TableStyle([
                 ('BACKGROUND', (0,0), (-1,-1), card_bg),
                 ('TOPPADDING', (0,0), (-1,-1), 6),
@@ -226,13 +222,16 @@ def create_pdf():
                 ('LEFTPADDING', (0,0), (-1,-1), 10),
                 ('RIGHTPADDING', (0,0), (-1,-1), 10),
                 ('BOX', (0,0), (-1,-1), 0.5, border_color),
-                ('LINELEFT', (0,0), (0,-1), 3.5, accent_color), # Stylish professional blue left bar
+                ('LINELEFT', (0,0), (0,-1), 3.5, accent_bar),
             ]))
             story.append(card_table)
             story.append(Spacer(1, 5))
+        
+        if idx < len(modules) - 1:
+            story.append(PageBreak())
 
-    doc.build(story, onFirstPage=add_footer, onLaterPages=add_footer)
-    print("Success! High-end luxury styled PDF generated.")
+    doc.build(story, onFirstPage=lambda c, d: None, onLaterPages=add_footer)
+    print("Success! Clean full-bleed luxury cover PDF generated.")
 
 if __name__ == '__main__':
     create_pdf()
