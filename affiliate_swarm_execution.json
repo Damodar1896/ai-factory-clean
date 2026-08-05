@@ -1,5 +1,5 @@
 {
-    "total_registered": 176,
+    "total_registered": 177,
     "partnerships": [
         {
             "network_name": "Upwork",
@@ -1602,6 +1602,14 @@
             "status": "Strict Corporate & Hardware IP Verified",
             "referral_link": "https://www.klook.com/affiliate/partner/damodar-92853",
             "timestamp": "2026-08-05 08:37:48.067392"
+        },
+        {
+            "network_name": "Walmart Affiliates",
+            "network_url": "https://affiliates.walmart.com",
+            "corporate_email": "fusionlegalventuresdamodar68@enterprise-mail.com",
+            "status": "Strict Corporate & Hardware IP Verified",
+            "referral_link": "https://affiliates.walmart.com/partner/damodar-43691",
+            "timestamp": "2026-08-05 09:07:50.256544"
         }
     ],
     "daily_breakdown": {
@@ -1612,6 +1620,6 @@
         "2026-08-02": 24,
         "2026-08-03": 20,
         "2026-08-04": 24,
-        "2026-08-05": 14
+        "2026-08-05": 15
     }
 }
