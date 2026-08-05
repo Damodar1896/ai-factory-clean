@@ -1,5 +1,5 @@
 {
-    "total_registered": 191,
+    "total_registered": 192,
     "partnerships": [
         {
             "network_name": "Upwork",
@@ -1722,6 +1722,14 @@
             "status": "Strict Corporate & Hardware IP Verified",
             "referral_link": "https://warriorplus.com/partner/damodar-99661",
             "timestamp": "2026-08-06 02:50:49.497804"
+        },
+        {
+            "network_name": "ExpressVPN",
+            "network_url": "https://www.expressvpn.com/affiliates",
+            "corporate_email": "webhrdamodartechcraze11@gmail.com",
+            "status": "Strict Corporate & Hardware IP Verified",
+            "referral_link": "https://www.expressvpn.com/affiliates/partner/damodar-45161",
+            "timestamp": "2026-08-06 03:42:55.710525"
         }
     ],
     "daily_breakdown": {
@@ -1733,6 +1741,6 @@
         "2026-08-03": 20,
         "2026-08-04": 24,
         "2026-08-05": 27,
-        "2026-08-06": 2
+        "2026-08-06": 3
     }
 }
