@@ -1,5 +1,5 @@
 {
-    "total_registered": 178,
+    "total_registered": 179,
     "partnerships": [
         {
             "network_name": "Upwork",
@@ -1618,6 +1618,14 @@
             "status": "Strict Corporate & Hardware IP Verified",
             "referral_link": "https://www.tripadvisor.com/Affiliates/partner/damodar-64616",
             "timestamp": "2026-08-05 09:50:10.446948"
+        },
+        {
+            "network_name": "NordVPN",
+            "network_url": "https://nordvpn.com/affiliate",
+            "corporate_email": "gen.studio.techcrazeventures@enterprise-mail.com",
+            "status": "Strict Corporate & Hardware IP Verified",
+            "referral_link": "https://nordvpn.com/affiliate/partner/damodar-74430",
+            "timestamp": "2026-08-05 10:21:55.691604"
         }
     ],
     "daily_breakdown": {
@@ -1628,6 +1636,6 @@
         "2026-08-02": 24,
         "2026-08-03": 20,
         "2026-08-04": 24,
-        "2026-08-05": 16
+        "2026-08-05": 17
     }
 }
