@@ -1,5 +1,5 @@
 {
-    "total_registered": 188,
+    "total_registered": 189,
     "partnerships": [
         {
             "network_name": "Upwork",
@@ -1698,6 +1698,14 @@
             "status": "Strict Corporate & Hardware IP Verified",
             "referral_link": "https://nordvpn.com/affiliate/partner/damodar-82591",
             "timestamp": "2026-08-05 18:46:54.584471"
+        },
+        {
+            "network_name": "AliExpress Affiliate",
+            "network_url": "https://portal.letyshops.com",
+            "corporate_email": "port.press.damodarempire@gmail.com",
+            "status": "Strict Corporate & Hardware IP Verified",
+            "referral_link": "https://portal.letyshops.com/partner/damodar-66644",
+            "timestamp": "2026-08-05 21:21:44.834037"
         }
     ],
     "daily_breakdown": {
@@ -1708,6 +1716,6 @@
         "2026-08-02": 24,
         "2026-08-03": 20,
         "2026-08-04": 24,
-        "2026-08-05": 26
+        "2026-08-05": 27
     }
 }
