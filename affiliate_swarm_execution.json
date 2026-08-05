@@ -1,5 +1,5 @@
 {
-    "total_registered": 174,
+    "total_registered": 175,
     "partnerships": [
         {
             "network_name": "Upwork",
@@ -1586,6 +1586,14 @@
             "status": "Strict Corporate & Hardware IP Verified",
             "referral_link": "https://www.clickfunnels.com/affiliate/partner/damodar-37899",
             "timestamp": "2026-08-05 07:21:51.610529"
+        },
+        {
+            "network_name": "Copy.ai",
+            "network_url": "https://www.copy.ai/affiliate",
+            "corporate_email": "elitesalesdamodarcore54@gmail.com",
+            "status": "Strict Corporate & Hardware IP Verified",
+            "referral_link": "https://www.copy.ai/affiliate/partner/damodar-82721",
+            "timestamp": "2026-08-05 07:51:27.891574"
         }
     ],
     "daily_breakdown": {
@@ -1596,6 +1604,6 @@
         "2026-08-02": 24,
         "2026-08-03": 20,
         "2026-08-04": 24,
-        "2026-08-05": 12
+        "2026-08-05": 13
     }
 }
