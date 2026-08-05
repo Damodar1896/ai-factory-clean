@@ -1,5 +1,5 @@
 {
-    "total_registered": 183,
+    "total_registered": 184,
     "partnerships": [
         {
             "network_name": "Upwork",
@@ -1658,6 +1658,14 @@
             "status": "Strict Corporate & Hardware IP Verified",
             "referral_link": "https://www.coursera.org/partners/partner/damodar-60113",
             "timestamp": "2026-08-05 13:18:01.514485"
+        },
+        {
+            "network_name": "JVZoo",
+            "network_url": "https://www.jvzoo.com",
+            "corporate_email": "apex.partners.damodarempire@gmail.com",
+            "status": "Strict Corporate & Hardware IP Verified",
+            "referral_link": "https://www.jvzoo.com/partner/damodar-46851",
+            "timestamp": "2026-08-05 14:07:15.791499"
         }
     ],
     "daily_breakdown": {
@@ -1668,6 +1676,6 @@
         "2026-08-02": 24,
         "2026-08-03": 20,
         "2026-08-04": 24,
-        "2026-08-05": 21
+        "2026-08-05": 22
     }
 }
