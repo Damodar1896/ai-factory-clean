@@ -1,5 +1,5 @@
 {
-    "total": 566,
+    "total": 568,
     "today": 75,
     "date": "2026-07-26",
     "logs": [
@@ -3814,6 +3814,20 @@
             "status": "Warming-Up (Hardware ADB IP Rotated - Primary Inbox Ready)",
             "warmup_days_completed": 1,
             "time": "2026-08-05 14:28:52.082216"
+        },
+        {
+            "email": "novastudioventuresdamodar81@outlook.com",
+            "date": "2026-08-05",
+            "status": "Warming-Up (Hardware ADB IP Rotated - Primary Inbox Ready)",
+            "warmup_days_completed": 1,
+            "time": "2026-08-05 14:56:16.457201"
+        },
+        {
+            "email": "labspressventuresdamodar25@gmail.com",
+            "date": "2026-08-05",
+            "status": "Warming-Up (Hardware ADB IP Rotated - Primary Inbox Ready)",
+            "warmup_days_completed": 1,
+            "time": "2026-08-05 15:29:10.945333"
         }
     ],
     "daily_breakdown": {
@@ -3827,6 +3841,6 @@
         "2026-08-02": 49,
         "2026-08-03": 32,
         "2026-08-04": 53,
-        "2026-08-05": 29
+        "2026-08-05": 31
     }
 }
