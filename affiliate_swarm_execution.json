@@ -1,5 +1,5 @@
 {
-    "total_registered": 189,
+    "total_registered": 190,
     "partnerships": [
         {
             "network_name": "Upwork",
@@ -1706,6 +1706,14 @@
             "status": "Strict Corporate & Hardware IP Verified",
             "referral_link": "https://portal.letyshops.com/partner/damodar-66644",
             "timestamp": "2026-08-05 21:21:44.834037"
+        },
+        {
+            "network_name": "ShareASale",
+            "network_url": "https://www.shareasale.com",
+            "corporate_email": "net.ventures.damodarworks@gmail.com",
+            "status": "Strict Corporate & Hardware IP Verified",
+            "referral_link": "https://www.shareasale.com/partner/damodar-74082",
+            "timestamp": "2026-08-06 01:58:20.199702"
         }
     ],
     "daily_breakdown": {
@@ -1716,6 +1724,7 @@
         "2026-08-02": 24,
         "2026-08-03": 20,
         "2026-08-04": 24,
-        "2026-08-05": 27
+        "2026-08-05": 27,
+        "2026-08-06": 1
     }
 }
