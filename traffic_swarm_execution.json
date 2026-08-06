@@ -3419,6 +3419,24 @@
             "leads_captured": 18,
             "status": "Active & Converting",
             "timestamp": "2026-08-06 14:54:42"
+        },
+        {
+            "campaign_id": "CAMP-65017",
+            "channel": "Social Media Hook Spreader",
+            "target_audience": "Viral Short-Form Traffic",
+            "clicks_generated": 243,
+            "leads_captured": 14,
+            "status": "Active & Converting",
+            "timestamp": "2026-08-06 15:32:13"
+        },
+        {
+            "campaign_id": "CAMP-17393",
+            "channel": "Direct Corporate Outreach",
+            "target_audience": "B2B Lead Conversion",
+            "clicks_generated": 489,
+            "leads_captured": 41,
+            "status": "Active & Converting",
+            "timestamp": "2026-08-06 15:50:13"
         }
     ]
 }

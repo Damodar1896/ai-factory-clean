@@ -1,5 +1,5 @@
 {
-    "total_registered": 205,
+    "total_registered": 206,
     "partnerships": [
         {
             "network_name": "Upwork",
@@ -1834,6 +1834,14 @@
             "status": "Strict Corporate & Hardware IP Verified",
             "referral_link": "https://themeforest.net/affiliates/partner/damodar-33118",
             "timestamp": "2026-08-06 14:59:41.592686"
+        },
+        {
+            "network_name": "Jasper AI",
+            "network_url": "https://www.jasper.ai/affiliate",
+            "corporate_email": "next.solutions.techcrazeventures@enterprise-mail.com",
+            "status": "Strict Corporate & Hardware IP Verified",
+            "referral_link": "https://www.jasper.ai/affiliate/partner/damodar-32510",
+            "timestamp": "2026-08-06 15:46:24.840035"
         }
     ],
     "daily_breakdown": {
@@ -1845,6 +1853,6 @@
         "2026-08-03": 20,
         "2026-08-04": 24,
         "2026-08-05": 27,
-        "2026-08-06": 16
+        "2026-08-06": 17
     }
 }
