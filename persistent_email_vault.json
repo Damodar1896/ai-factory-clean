@@ -1,5 +1,5 @@
 {
-    "total": 610,
+    "total": 611,
     "today": 75,
     "date": "2026-07-26",
     "logs": [
@@ -4122,6 +4122,13 @@
             "status": "Warming-Up (Hardware ADB IP Rotated - Primary Inbox Ready)",
             "warmup_days_completed": 1,
             "time": "2026-08-06 14:18:37.175071"
+        },
+        {
+            "email": "corelabsdamodartechcraze47@outlook.com",
+            "date": "2026-08-06",
+            "status": "Warming-Up (Hardware ADB IP Rotated - Primary Inbox Ready)",
+            "warmup_days_completed": 1,
+            "time": "2026-08-06 14:43:21.074059"
         }
     ],
     "daily_breakdown": {
@@ -4136,6 +4143,6 @@
         "2026-08-03": 32,
         "2026-08-04": 53,
         "2026-08-05": 50,
-        "2026-08-06": 23
+        "2026-08-06": 24
     }
 }

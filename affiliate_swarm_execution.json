@@ -1,5 +1,5 @@
 {
-    "total_registered": 204,
+    "total_registered": 205,
     "partnerships": [
         {
             "network_name": "Upwork",
@@ -1826,6 +1826,14 @@
             "status": "Strict Corporate & Hardware IP Verified",
             "referral_link": "https://systeme.io/affiliates/partner/damodar-68401",
             "timestamp": "2026-08-06 14:12:46.433923"
+        },
+        {
+            "network_name": "Envato Market",
+            "network_url": "https://themeforest.net/affiliates",
+            "corporate_email": "gen.connect.damodartechcraze@enterprise-mail.com",
+            "status": "Strict Corporate & Hardware IP Verified",
+            "referral_link": "https://themeforest.net/affiliates/partner/damodar-33118",
+            "timestamp": "2026-08-06 14:59:41.592686"
         }
     ],
     "daily_breakdown": {
@@ -1837,6 +1845,6 @@
         "2026-08-03": 20,
         "2026-08-04": 24,
         "2026-08-05": 27,
-        "2026-08-06": 15
+        "2026-08-06": 16
     }
 }
