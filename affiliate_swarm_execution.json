@@ -1,5 +1,5 @@
 {
-    "total_registered": 202,
+    "total_registered": 203,
     "partnerships": [
         {
             "network_name": "Upwork",
@@ -1810,6 +1810,14 @@
             "status": "Strict Corporate & Hardware IP Verified",
             "referral_link": "https://surfshark.com/affiliate/partner/damodar-26179",
             "timestamp": "2026-08-06 13:00:47.019938"
+        },
+        {
+            "network_name": "Copy.ai",
+            "network_url": "https://www.copy.ai/affiliate",
+            "corporate_email": "aiventurestechcrazedamodar88@enterprise-mail.com",
+            "status": "Strict Corporate & Hardware IP Verified",
+            "referral_link": "https://www.copy.ai/affiliate/partner/damodar-25536",
+            "timestamp": "2026-08-06 13:28:24.184652"
         }
     ],
     "daily_breakdown": {
@@ -1821,6 +1829,6 @@
         "2026-08-03": 20,
         "2026-08-04": 24,
         "2026-08-05": 27,
-        "2026-08-06": 13
+        "2026-08-06": 14
     }
 }
