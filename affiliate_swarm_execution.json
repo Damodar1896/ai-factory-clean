@@ -1,5 +1,5 @@
 {
-    "total_registered": 207,
+    "total_registered": 208,
     "partnerships": [
         {
             "network_name": "Upwork",
@@ -1850,6 +1850,14 @@
             "status": "Strict Corporate & Hardware IP Verified",
             "referral_link": "https://www.notion.so/affiliates/partner/damodar-28843",
             "timestamp": "2026-08-06 16:17:35.106327"
+        },
+        {
+            "network_name": "Klook",
+            "network_url": "https://www.klook.com/affiliate",
+            "corporate_email": "labs.exec.damodartechcraze@enterprise-mail.com",
+            "status": "Strict Corporate & Hardware IP Verified",
+            "referral_link": "https://www.klook.com/affiliate/partner/damodar-61698",
+            "timestamp": "2026-08-06 17:11:22.355184"
         }
     ],
     "daily_breakdown": {
@@ -1861,6 +1869,6 @@
         "2026-08-03": 20,
         "2026-08-04": 24,
         "2026-08-05": 27,
-        "2026-08-06": 18
+        "2026-08-06": 19
     }
 }
