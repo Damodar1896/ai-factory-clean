@@ -1,5 +1,5 @@
 {
-    "total_registered": 192,
+    "total_registered": 194,
     "partnerships": [
         {
             "network_name": "Upwork",
@@ -1730,6 +1730,22 @@
             "status": "Strict Corporate & Hardware IP Verified",
             "referral_link": "https://www.expressvpn.com/affiliates/partner/damodar-45161",
             "timestamp": "2026-08-06 03:42:55.710525"
+        },
+        {
+            "network_name": "Tripadvisor",
+            "network_url": "https://www.tripadvisor.com/Affiliates",
+            "corporate_email": "pro.support.damodarempire@gmail.com",
+            "status": "Strict Corporate & Hardware IP Verified",
+            "referral_link": "https://www.tripadvisor.com/Affiliates/partner/damodar-73228",
+            "timestamp": "2026-08-06 07:38:35.199434"
+        },
+        {
+            "network_name": "ExpressVPN",
+            "network_url": "https://www.expressvpn.com/affiliates",
+            "corporate_email": "probillingventuresdamodar92@enterprise-mail.com",
+            "status": "Strict Corporate & Hardware IP Verified",
+            "referral_link": "https://www.expressvpn.com/affiliates/partner/damodar-79370",
+            "timestamp": "2026-08-06 08:09:20.463198"
         }
     ],
     "daily_breakdown": {
@@ -1741,6 +1757,6 @@
         "2026-08-03": 20,
         "2026-08-04": 24,
         "2026-08-05": 27,
-        "2026-08-06": 3
+        "2026-08-06": 5
     }
 }
