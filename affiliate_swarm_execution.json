@@ -1,5 +1,5 @@
 {
-    "total_registered": 210,
+    "total_registered": 211,
     "partnerships": [
         {
             "network_name": "Upwork",
@@ -1874,6 +1874,14 @@
             "status": "Strict Corporate & Hardware IP Verified",
             "referral_link": "https://www.cj.com/partner/damodar-68942",
             "timestamp": "2026-08-06 18:21:18.722915"
+        },
+        {
+            "network_name": "Rakuten Advertising",
+            "network_url": "https://rakutenadvertising.com",
+            "corporate_email": "code.solutions.damodartechcraze@gmail.com",
+            "status": "Strict Corporate & Hardware IP Verified",
+            "referral_link": "https://rakutenadvertising.com/partner/damodar-17593",
+            "timestamp": "2026-08-06 19:14:07.972751"
         }
     ],
     "daily_breakdown": {
@@ -1885,6 +1893,6 @@
         "2026-08-03": 20,
         "2026-08-04": 24,
         "2026-08-05": 27,
-        "2026-08-06": 21
+        "2026-08-06": 22
     }
 }
