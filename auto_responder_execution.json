@@ -3341,6 +3341,18 @@
             "recipient_tier": "Enterprise Lead",
             "status": "Auto-Responded & Nurtured",
             "timestamp": "2026-08-06 19:06:44"
+        },
+        {
+            "response_id": "RESP-59959",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-08-06 19:24:14"
+        },
+        {
+            "response_id": "RESP-32709",
+            "recipient_tier": "Enterprise Lead",
+            "status": "Auto-Responded & Nurtured",
+            "timestamp": "2026-08-06 19:53:14"
         }
     ]
 }

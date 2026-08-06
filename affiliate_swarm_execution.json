@@ -1,5 +1,5 @@
 {
-    "total_registered": 211,
+    "total_registered": 212,
     "partnerships": [
         {
             "network_name": "Upwork",
@@ -1882,6 +1882,14 @@
             "status": "Strict Corporate & Hardware IP Verified",
             "referral_link": "https://rakutenadvertising.com/partner/damodar-17593",
             "timestamp": "2026-08-06 19:14:07.972751"
+        },
+        {
+            "network_name": "Canva",
+            "network_url": "https://www.canva.com/affiliates",
+            "corporate_email": "cloud.admin.venturesdamodar@enterprise-mail.com",
+            "status": "Strict Corporate & Hardware IP Verified",
+            "referral_link": "https://www.canva.com/affiliates/partner/damodar-58093",
+            "timestamp": "2026-08-06 20:06:22.207288"
         }
     ],
     "daily_breakdown": {
@@ -1893,6 +1901,6 @@
         "2026-08-03": 20,
         "2026-08-04": 24,
         "2026-08-05": 27,
-        "2026-08-06": 22
+        "2026-08-06": 23
     }
 }
