@@ -1,5 +1,5 @@
 {
-    "total_registered": 195,
+    "total_registered": 196,
     "partnerships": [
         {
             "network_name": "Upwork",
@@ -1754,6 +1754,14 @@
             "status": "Strict Corporate & Hardware IP Verified",
             "referral_link": "https://www.jasper.ai/affiliate/partner/damodar-84599",
             "timestamp": "2026-08-06 09:01:30.721238"
+        },
+        {
+            "network_name": "Systeme.io",
+            "network_url": "https://systeme.io/affiliates",
+            "corporate_email": "portstudiodamodarworks66@enterprise-mail.com",
+            "status": "Strict Corporate & Hardware IP Verified",
+            "referral_link": "https://systeme.io/affiliates/partner/damodar-59342",
+            "timestamp": "2026-08-06 09:42:46.951115"
         }
     ],
     "daily_breakdown": {
@@ -1765,6 +1773,6 @@
         "2026-08-03": 20,
         "2026-08-04": 24,
         "2026-08-05": 27,
-        "2026-08-06": 6
+        "2026-08-06": 7
     }
 }
