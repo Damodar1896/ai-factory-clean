@@ -1,5 +1,5 @@
 {
-    "total_registered": 208,
+    "total_registered": 209,
     "partnerships": [
         {
             "network_name": "Upwork",
@@ -1858,6 +1858,14 @@
             "status": "Strict Corporate & Hardware IP Verified",
             "referral_link": "https://www.klook.com/affiliate/partner/damodar-61698",
             "timestamp": "2026-08-06 17:11:22.355184"
+        },
+        {
+            "network_name": "ClickBank",
+            "network_url": "https://www.clickbank.com",
+            "corporate_email": "nova.billing.damodarempire@gmail.com",
+            "status": "Strict Corporate & Hardware IP Verified",
+            "referral_link": "https://www.clickbank.com/partner/damodar-46559",
+            "timestamp": "2026-08-06 17:39:39.550246"
         }
     ],
     "daily_breakdown": {
@@ -1869,6 +1877,6 @@
         "2026-08-03": 20,
         "2026-08-04": 24,
         "2026-08-05": 27,
-        "2026-08-06": 19
+        "2026-08-06": 20
     }
 }

@@ -1,5 +1,5 @@
 {
-    "total": 616,
+    "total": 618,
     "today": 75,
     "date": "2026-07-26",
     "logs": [
@@ -4164,6 +4164,20 @@
             "status": "Warming-Up (Hardware ADB IP Rotated - Primary Inbox Ready)",
             "warmup_days_completed": 1,
             "time": "2026-08-06 16:57:32.559814"
+        },
+        {
+            "email": "primedeskdamodartechcraze25@enterprise-mail.com",
+            "date": "2026-08-06",
+            "status": "Warming-Up (Hardware ADB IP Rotated - Primary Inbox Ready)",
+            "warmup_days_completed": 1,
+            "time": "2026-08-06 17:19:46.646239"
+        },
+        {
+            "email": "nova.ventures.venturestechcraze@proton.me",
+            "date": "2026-08-06",
+            "status": "Warming-Up (Hardware ADB IP Rotated - Primary Inbox Ready)",
+            "warmup_days_completed": 1,
+            "time": "2026-08-06 17:50:30.572422"
         }
     ],
     "daily_breakdown": {
@@ -4178,6 +4192,6 @@
         "2026-08-03": 32,
         "2026-08-04": 53,
         "2026-08-05": 50,
-        "2026-08-06": 29
+        "2026-08-06": 31
     }
 }
