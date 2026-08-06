@@ -1,5 +1,5 @@
 {
-    "total": 596,
+    "total": 598,
     "today": 75,
     "date": "2026-07-26",
     "logs": [
@@ -4024,6 +4024,20 @@
             "status": "Warming-Up (Hardware ADB IP Rotated - Primary Inbox Ready)",
             "warmup_days_completed": 1,
             "time": "2026-08-06 07:52:01.599970"
+        },
+        {
+            "email": "realmpartnersdamodarworks52@outlook.com",
+            "date": "2026-08-06",
+            "status": "Warming-Up (Hardware ADB IP Rotated - Primary Inbox Ready)",
+            "warmup_days_completed": 1,
+            "time": "2026-08-06 08:23:56.065494"
+        },
+        {
+            "email": "empire.corp.damodarcore@enterprise-mail.com",
+            "date": "2026-08-06",
+            "status": "Warming-Up (Hardware ADB IP Rotated - Primary Inbox Ready)",
+            "warmup_days_completed": 1,
+            "time": "2026-08-06 08:50:10.334650"
         }
     ],
     "daily_breakdown": {
@@ -4038,6 +4052,6 @@
         "2026-08-03": 32,
         "2026-08-04": 53,
         "2026-08-05": 50,
-        "2026-08-06": 9
+        "2026-08-06": 11
     }
 }

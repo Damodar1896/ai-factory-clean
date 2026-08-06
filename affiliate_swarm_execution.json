@@ -1,5 +1,5 @@
 {
-    "total_registered": 194,
+    "total_registered": 195,
     "partnerships": [
         {
             "network_name": "Upwork",
@@ -1746,6 +1746,14 @@
             "status": "Strict Corporate & Hardware IP Verified",
             "referral_link": "https://www.expressvpn.com/affiliates/partner/damodar-79370",
             "timestamp": "2026-08-06 08:09:20.463198"
+        },
+        {
+            "network_name": "Jasper AI",
+            "network_url": "https://www.jasper.ai/affiliate",
+            "corporate_email": "core.sales.techcrazeventures@gmail.com",
+            "status": "Strict Corporate & Hardware IP Verified",
+            "referral_link": "https://www.jasper.ai/affiliate/partner/damodar-84599",
+            "timestamp": "2026-08-06 09:01:30.721238"
         }
     ],
     "daily_breakdown": {
@@ -1757,6 +1765,6 @@
         "2026-08-03": 20,
         "2026-08-04": 24,
         "2026-08-05": 27,
-        "2026-08-06": 5
+        "2026-08-06": 6
     }
 }

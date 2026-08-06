@@ -5,68 +5,68 @@
         {
             "trigger": "Trigger 1: Multi-Account IP Overuse",
             "fix": "Mitigated via Dynamic Residential IP Rotation",
-            "jitter": 8.636495923329367
+            "jitter": 5.447110853872657
         },
         {
             "trigger": "Trigger 2: Identical Metadata & Timing",
             "fix": "Mitigated via Behavioral Jitter & Clock Drift",
-            "jitter": 7.4816602669172445
+            "jitter": 9.474861118049382
         },
         {
             "trigger": "Trigger 3: Sudden Traffic Spikes",
             "fix": "Mitigated via Staggered Multi-Platform Throttling",
-            "jitter": 5.294414971977314
+            "jitter": 2.5766521824717827
         },
         {
             "trigger": "Point 4: Browser Fingerprint Entropy",
             "fix": "Mitigated via Canvas & Hardware Header Mutation",
-            "jitter": 7.880292323109568
+            "jitter": 5.706916621005475
         },
         {
             "trigger": "Point 5: Autonomous Circuit Breakers",
             "fix": "Mitigated via 429/403 Error Catch & 10m Cooldown",
-            "jitter": 5.027854283879936
+            "jitter": 2.877231036620176
         },
         {
             "trigger": "Point 6: Session Cookie Warmup",
             "fix": "Mitigated via 5-min Fake Human Browsing Simulation",
-            "jitter": 8.56142461017566
+            "jitter": 8.445483756644819
         },
         {
             "trigger": "Point 7: Semantic Content Mutation",
             "fix": "Mitigated via Dynamic Synonyms & Phrasing Refactor",
-            "jitter": 2.838614435615528
+            "jitter": 2.7194765384422688
         },
         {
             "trigger": "Point 8: Emergency Kill-Switch",
             "fix": "Mitigated via Automated JSON Log Dump & Pause",
-            "jitter": 2.5742140438367285
+            "jitter": 6.732989123184854
         },
         {
             "trigger": "Point 9: Local Vault Data Redundancy",
             "fix": "Mitigated via 6-Hour Encrypted SQLite Backups",
-            "jitter": 3.8973273308638507
+            "jitter": 5.09589452701651
         },
         {
             "trigger": "Point 10: Master Supervisor Daemon",
             "fix": "Mitigated via 24/7 Autopilot Background Loop",
-            "jitter": 6.209022870829557
+            "jitter": 8.027199163588204
         },
         {
             "trigger": "Point 11: Anti-Plagiarism Filter",
             "fix": "Mitigated via Signature Randomization Engine",
-            "jitter": 8.13399639611455
+            "jitter": 9.79097810694229
         },
         {
             "trigger": "Point 12: Rate-Limit Shield",
             "fix": "Mitigated via Intelligent Request Throttling",
-            "jitter": 5.652022158486367
+            "jitter": 4.872169730001046
         },
         {
             "trigger": "Point 13: Self-Healing Recovery",
             "fix": "Mitigated via Automatic State Restoration",
-            "jitter": 5.870505026873763
+            "jitter": 2.794183150035465
         }
     ],
-    "timestamp": 1785984518.687558
+    "timestamp": 1785987582.165102
 }
