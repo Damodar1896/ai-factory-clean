@@ -1,5 +1,5 @@
 {
-    "total_registered": 209,
+    "total_registered": 210,
     "partnerships": [
         {
             "network_name": "Upwork",
@@ -1866,6 +1866,14 @@
             "status": "Strict Corporate & Hardware IP Verified",
             "referral_link": "https://www.clickbank.com/partner/damodar-46559",
             "timestamp": "2026-08-06 17:39:39.550246"
+        },
+        {
+            "network_name": "CJ Affiliate",
+            "network_url": "https://www.cj.com",
+            "corporate_email": "fusionlegalventuresdamodar68@enterprise-mail.com",
+            "status": "Strict Corporate & Hardware IP Verified",
+            "referral_link": "https://www.cj.com/partner/damodar-68942",
+            "timestamp": "2026-08-06 18:21:18.722915"
         }
     ],
     "daily_breakdown": {
@@ -1877,6 +1885,6 @@
         "2026-08-03": 20,
         "2026-08-04": 24,
         "2026-08-05": 27,
-        "2026-08-06": 20
+        "2026-08-06": 21
     }
 }
