@@ -3563,6 +3563,15 @@
             "leads_captured": 12,
             "status": "Active & Converting",
             "timestamp": "2026-08-06 22:44:49"
+        },
+        {
+            "campaign_id": "CAMP-71773",
+            "channel": "Telegram Growth Swarm",
+            "target_audience": "Tech & SaaS Audiences",
+            "clicks_generated": 395,
+            "leads_captured": 29,
+            "status": "Active & Converting",
+            "timestamp": "2026-08-06 23:19:50"
         }
     ]
 }
