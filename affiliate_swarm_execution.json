@@ -1,5 +1,5 @@
 {
-    "total_registered": 212,
+    "total_registered": 213,
     "partnerships": [
         {
             "network_name": "Upwork",
@@ -1890,6 +1890,14 @@
             "status": "Strict Corporate & Hardware IP Verified",
             "referral_link": "https://www.canva.com/affiliates/partner/damodar-58093",
             "timestamp": "2026-08-06 20:06:22.207288"
+        },
+        {
+            "network_name": "Notion",
+            "network_url": "https://www.notion.so/affiliates",
+            "corporate_email": "deskpartnersventuresdamodar84@enterprise-mail.com",
+            "status": "Strict Corporate & Hardware IP Verified",
+            "referral_link": "https://www.notion.so/affiliates/partner/damodar-39604",
+            "timestamp": "2026-08-07 00:41:06.504625"
         }
     ],
     "daily_breakdown": {
@@ -1901,6 +1909,7 @@
         "2026-08-03": 20,
         "2026-08-04": 24,
         "2026-08-05": 27,
-        "2026-08-06": 23
+        "2026-08-06": 23,
+        "2026-08-07": 1
     }
 }
