@@ -1,5 +1,5 @@
 {
-    "total_registered": 196,
+    "total_registered": 198,
     "partnerships": [
         {
             "network_name": "Upwork",
@@ -1762,6 +1762,22 @@
             "status": "Strict Corporate & Hardware IP Verified",
             "referral_link": "https://systeme.io/affiliates/partner/damodar-59342",
             "timestamp": "2026-08-06 09:42:46.951115"
+        },
+        {
+            "network_name": "Impact.com",
+            "network_url": "https://impact.com",
+            "corporate_email": "data.admin.venturesdamodar@enterprise-mail.com",
+            "status": "Strict Corporate & Hardware IP Verified",
+            "referral_link": "https://impact.com/partner/damodar-69475",
+            "timestamp": "2026-08-06 10:27:00.127258"
+        },
+        {
+            "network_name": "Elementor",
+            "network_url": "https://elementor.com/affiliate-program",
+            "corporate_email": "primedeskdamodardigital59@enterprise-mail.com",
+            "status": "Strict Corporate & Hardware IP Verified",
+            "referral_link": "https://elementor.com/affiliate-program/partner/damodar-30996",
+            "timestamp": "2026-08-06 10:50:52.327518"
         }
     ],
     "daily_breakdown": {
@@ -1773,6 +1789,6 @@
         "2026-08-03": 20,
         "2026-08-04": 24,
         "2026-08-05": 27,
-        "2026-08-06": 7
+        "2026-08-06": 9
     }
 }
