@@ -1,5 +1,5 @@
 {
-    "total_registered": 198,
+    "total_registered": 200,
     "partnerships": [
         {
             "network_name": "Upwork",
@@ -1778,6 +1778,22 @@
             "status": "Strict Corporate & Hardware IP Verified",
             "referral_link": "https://elementor.com/affiliate-program/partner/damodar-30996",
             "timestamp": "2026-08-06 10:50:52.327518"
+        },
+        {
+            "network_name": "Hostinger",
+            "network_url": "https://www.hostinger.com/affiliates",
+            "corporate_email": "deskstudioventuresdamodar87@enterprise-mail.com",
+            "status": "Strict Corporate & Hardware IP Verified",
+            "referral_link": "https://www.hostinger.com/affiliates/partner/damodar-87087",
+            "timestamp": "2026-08-06 11:20:09.551571"
+        },
+        {
+            "network_name": "JVZoo",
+            "network_url": "https://www.jvzoo.com",
+            "corporate_email": "hubconnectdamodarventures27@enterprise-mail.com",
+            "status": "Strict Corporate & Hardware IP Verified",
+            "referral_link": "https://www.jvzoo.com/partner/damodar-43752",
+            "timestamp": "2026-08-06 11:58:52.700103"
         }
     ],
     "daily_breakdown": {
@@ -1789,6 +1805,6 @@
         "2026-08-03": 20,
         "2026-08-04": 24,
         "2026-08-05": 27,
-        "2026-08-06": 9
+        "2026-08-06": 11
     }
 }
