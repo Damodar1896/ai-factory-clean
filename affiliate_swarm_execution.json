@@ -1,5 +1,5 @@
 {
-    "total_registered": 217,
+    "total_registered": 219,
     "partnerships": [
         {
             "network_name": "Upwork",
@@ -1930,6 +1930,22 @@
             "status": "Strict Corporate & Hardware IP Verified",
             "referral_link": "https://affiliates.fiverr.com/partner/damodar-47290",
             "timestamp": "2026-08-07 11:21:53.003883"
+        },
+        {
+            "network_name": "ClickFunnels",
+            "network_url": "https://www.clickfunnels.com/affiliate",
+            "corporate_email": "fusionteamdamodardigital70@gmail.com",
+            "status": "Strict Corporate & Hardware IP Verified",
+            "referral_link": "https://www.clickfunnels.com/affiliate/partner/damodar-30128",
+            "timestamp": "2026-08-07 12:12:16.216267"
+        },
+        {
+            "network_name": "Skyscanner",
+            "network_url": "https://www.skyscanner.net/affiliates",
+            "corporate_email": "nextsolutionsdamodarworks84@gmail.com",
+            "status": "Strict Corporate & Hardware IP Verified",
+            "referral_link": "https://www.skyscanner.net/affiliates/partner/damodar-56522",
+            "timestamp": "2026-08-07 12:46:52.485826"
         }
     ],
     "daily_breakdown": {
@@ -1942,6 +1958,6 @@
         "2026-08-04": 24,
         "2026-08-05": 27,
         "2026-08-06": 23,
-        "2026-08-07": 5
+        "2026-08-07": 7
     }
 }
