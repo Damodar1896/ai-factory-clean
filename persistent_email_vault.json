@@ -1,5 +1,5 @@
 {
-    "total": 650,
+    "total": 651,
     "today": 75,
     "date": "2026-07-26",
     "logs": [
@@ -4402,6 +4402,13 @@
             "status": "Warming-Up (Hardware ADB IP Rotated - Primary Inbox Ready)",
             "warmup_days_completed": 1,
             "time": "2026-08-07 16:42:33.392547"
+        },
+        {
+            "email": "global.billing.crazeventures@enterprise-mail.com",
+            "date": "2026-08-07",
+            "status": "Warming-Up (Hardware ADB IP Rotated - Primary Inbox Ready)",
+            "warmup_days_completed": 1,
+            "time": "2026-08-07 17:03:17.429609"
         }
     ],
     "daily_breakdown": {
@@ -4417,6 +4424,6 @@
         "2026-08-04": 53,
         "2026-08-05": 50,
         "2026-08-06": 45,
-        "2026-08-07": 18
+        "2026-08-07": 19
     }
 }
