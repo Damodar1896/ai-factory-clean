@@ -1,5 +1,5 @@
 {
-    "total_registered": 233,
+    "total_registered": 235,
     "partnerships": [
         {
             "network_name": "Upwork",
@@ -2058,6 +2058,22 @@
             "status": "Strict Corporate & Hardware IP Verified",
             "referral_link": "https://www.activecampaign.com/partners/affiliates/partner/damodar-51112",
             "timestamp": "2026-08-07 23:32:43.031077"
+        },
+        {
+            "network_name": "DigiStore24",
+            "network_url": "https://www.digistore24.com",
+            "corporate_email": "realmdeskventuresdamodar77@enterprise-mail.com",
+            "status": "Strict Corporate & Hardware IP Verified",
+            "referral_link": "https://www.digistore24.com/partner/damodar-20836",
+            "timestamp": "2026-08-08 00:16:06.261298"
+        },
+        {
+            "network_name": "Hostinger",
+            "network_url": "https://www.hostinger.com/affiliates",
+            "corporate_email": "cloud.connect.damodarempire@gmail.com",
+            "status": "Strict Corporate & Hardware IP Verified",
+            "referral_link": "https://www.hostinger.com/affiliates/partner/damodar-70839",
+            "timestamp": "2026-08-08 00:48:44.525984"
         }
     ],
     "daily_breakdown": {
@@ -2070,6 +2086,7 @@
         "2026-08-04": 24,
         "2026-08-05": 27,
         "2026-08-06": 23,
-        "2026-08-07": 21
+        "2026-08-07": 21,
+        "2026-08-08": 2
     }
 }
