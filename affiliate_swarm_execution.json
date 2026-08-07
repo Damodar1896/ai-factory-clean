@@ -1,5 +1,5 @@
 {
-    "total_registered": 216,
+    "total_registered": 217,
     "partnerships": [
         {
             "network_name": "Upwork",
@@ -1922,6 +1922,14 @@
             "status": "Strict Corporate & Hardware IP Verified",
             "referral_link": "https://www.cj.com/partner/damodar-14587",
             "timestamp": "2026-08-07 10:26:31.805342"
+        },
+        {
+            "network_name": "Fiverr Affiliates",
+            "network_url": "https://affiliates.fiverr.com",
+            "corporate_email": "nova.group.techcrazeventures@enterprise-mail.com",
+            "status": "Strict Corporate & Hardware IP Verified",
+            "referral_link": "https://affiliates.fiverr.com/partner/damodar-47290",
+            "timestamp": "2026-08-07 11:21:53.003883"
         }
     ],
     "daily_breakdown": {
@@ -1934,6 +1942,6 @@
         "2026-08-04": 24,
         "2026-08-05": 27,
         "2026-08-06": 23,
-        "2026-08-07": 4
+        "2026-08-07": 5
     }
 }
