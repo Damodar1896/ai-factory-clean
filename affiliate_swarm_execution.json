@@ -1,5 +1,5 @@
 {
-    "total_registered": 232,
+    "total_registered": 233,
     "partnerships": [
         {
             "network_name": "Upwork",
@@ -2050,6 +2050,14 @@
             "status": "Strict Corporate & Hardware IP Verified",
             "referral_link": "https://elementor.com/affiliate-program/partner/damodar-10555",
             "timestamp": "2026-08-07 21:06:45.745568"
+        },
+        {
+            "network_name": "ActiveCampaign",
+            "network_url": "https://www.activecampaign.com/partners/affiliates",
+            "corporate_email": "appconnectdamodardigital60@enterprise-mail.com",
+            "status": "Strict Corporate & Hardware IP Verified",
+            "referral_link": "https://www.activecampaign.com/partners/affiliates/partner/damodar-51112",
+            "timestamp": "2026-08-07 23:32:43.031077"
         }
     ],
     "daily_breakdown": {
@@ -2062,6 +2070,6 @@
         "2026-08-04": 24,
         "2026-08-05": 27,
         "2026-08-06": 23,
-        "2026-08-07": 20
+        "2026-08-07": 21
     }
 }
