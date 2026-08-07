@@ -3815,6 +3815,15 @@
             "leads_captured": 16,
             "status": "Active & Converting",
             "timestamp": "2026-08-07 21:04:32"
+        },
+        {
+            "campaign_id": "CAMP-66608",
+            "channel": "Automated SEO Blog Feed",
+            "target_audience": "Global Affiliate Searchers",
+            "clicks_generated": 223,
+            "leads_captured": 18,
+            "status": "Active & Converting",
+            "timestamp": "2026-08-07 21:27:32"
         }
     ]
 }
