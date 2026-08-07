@@ -1,5 +1,5 @@
 {
-    "total_registered": 230,
+    "total_registered": 231,
     "partnerships": [
         {
             "network_name": "Upwork",
@@ -2034,6 +2034,14 @@
             "status": "Strict Corporate & Hardware IP Verified",
             "referral_link": "https://affiliates.walmart.com/partner/damodar-58447",
             "timestamp": "2026-08-07 19:48:07.432664"
+        },
+        {
+            "network_name": "Thinkific",
+            "network_url": "https://www.thinkific.com/affiliate",
+            "corporate_email": "web.security.venturestechcraze@gmail.com",
+            "status": "Strict Corporate & Hardware IP Verified",
+            "referral_link": "https://www.thinkific.com/affiliate/partner/damodar-44273",
+            "timestamp": "2026-08-07 20:15:05.619849"
         }
     ],
     "daily_breakdown": {
@@ -2046,6 +2054,6 @@
         "2026-08-04": 24,
         "2026-08-05": 27,
         "2026-08-06": 23,
-        "2026-08-07": 18
+        "2026-08-07": 19
     }
 }
