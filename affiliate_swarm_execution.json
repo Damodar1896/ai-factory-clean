@@ -1,5 +1,5 @@
 {
-    "total_registered": 219,
+    "total_registered": 220,
     "partnerships": [
         {
             "network_name": "Upwork",
@@ -1946,6 +1946,14 @@
             "status": "Strict Corporate & Hardware IP Verified",
             "referral_link": "https://www.skyscanner.net/affiliates/partner/damodar-56522",
             "timestamp": "2026-08-07 12:46:52.485826"
+        },
+        {
+            "network_name": "ConvertKit",
+            "network_url": "https://kit.com/affiliates",
+            "corporate_email": "group.press.techcrazedamodar@enterprise-mail.com",
+            "status": "Strict Corporate & Hardware IP Verified",
+            "referral_link": "https://kit.com/affiliates/partner/damodar-96432",
+            "timestamp": "2026-08-07 13:38:16.679294"
         }
     ],
     "daily_breakdown": {
@@ -1958,6 +1966,6 @@
         "2026-08-04": 24,
         "2026-08-05": 27,
         "2026-08-06": 23,
-        "2026-08-07": 7
+        "2026-08-07": 8
     }
 }
