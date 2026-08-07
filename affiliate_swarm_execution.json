@@ -1,5 +1,5 @@
 {
-    "total_registered": 227,
+    "total_registered": 229,
     "partnerships": [
         {
             "network_name": "Upwork",
@@ -2010,6 +2010,22 @@
             "status": "Strict Corporate & Hardware IP Verified",
             "referral_link": "https://affiliates.fiverr.com/partner/damodar-80872",
             "timestamp": "2026-08-07 17:52:01.746844"
+        },
+        {
+            "network_name": "Awin",
+            "network_url": "https://www.awin.com",
+            "corporate_email": "pro.connect.damodarempire@gmail.com",
+            "status": "Strict Corporate & Hardware IP Verified",
+            "referral_link": "https://www.awin.com/partner/damodar-98143",
+            "timestamp": "2026-08-07 18:24:57.965363"
+        },
+        {
+            "network_name": "Skillshare",
+            "network_url": "https://www.skillshare.com/affiliates",
+            "corporate_email": "axis.team.techcrazedamodar@enterprise-mail.com",
+            "status": "Strict Corporate & Hardware IP Verified",
+            "referral_link": "https://www.skillshare.com/affiliates/partner/damodar-72846",
+            "timestamp": "2026-08-07 19:01:38.256411"
         }
     ],
     "daily_breakdown": {
@@ -2022,6 +2038,6 @@
         "2026-08-04": 24,
         "2026-08-05": 27,
         "2026-08-06": 23,
-        "2026-08-07": 15
+        "2026-08-07": 17
     }
 }

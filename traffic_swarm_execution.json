@@ -3752,6 +3752,24 @@
             "leads_captured": 44,
             "status": "Active & Converting",
             "timestamp": "2026-08-07 17:54:00"
+        },
+        {
+            "campaign_id": "CAMP-19986",
+            "channel": "Automated SEO Blog Feed",
+            "target_audience": "Global Affiliate Searchers",
+            "clicks_generated": 204,
+            "leads_captured": 13,
+            "status": "Active & Converting",
+            "timestamp": "2026-08-07 18:33:30"
+        },
+        {
+            "campaign_id": "CAMP-80829",
+            "channel": "Automated SEO Blog Feed",
+            "target_audience": "Global Affiliate Searchers",
+            "clicks_generated": 508,
+            "leads_captured": 35,
+            "status": "Active & Converting",
+            "timestamp": "2026-08-07 18:59:30"
         }
     ]
 }
