@@ -1,5 +1,5 @@
 {
-    "total_registered": 229,
+    "total_registered": 230,
     "partnerships": [
         {
             "network_name": "Upwork",
@@ -2026,6 +2026,14 @@
             "status": "Strict Corporate & Hardware IP Verified",
             "referral_link": "https://www.skillshare.com/affiliates/partner/damodar-72846",
             "timestamp": "2026-08-07 19:01:38.256411"
+        },
+        {
+            "network_name": "Walmart Affiliates",
+            "network_url": "https://affiliates.walmart.com",
+            "corporate_email": "websalesdamodarcore82@gmail.com",
+            "status": "Strict Corporate & Hardware IP Verified",
+            "referral_link": "https://affiliates.walmart.com/partner/damodar-58447",
+            "timestamp": "2026-08-07 19:48:07.432664"
         }
     ],
     "daily_breakdown": {
@@ -2038,6 +2046,6 @@
         "2026-08-04": 24,
         "2026-08-05": 27,
         "2026-08-06": 23,
-        "2026-08-07": 17
+        "2026-08-07": 18
     }
 }

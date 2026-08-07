@@ -3770,6 +3770,24 @@
             "leads_captured": 35,
             "status": "Active & Converting",
             "timestamp": "2026-08-07 18:59:30"
+        },
+        {
+            "campaign_id": "CAMP-59070",
+            "channel": "Social Media Hook Spreader",
+            "target_audience": "Viral Short-Form Traffic",
+            "clicks_generated": 430,
+            "leads_captured": 19,
+            "status": "Active & Converting",
+            "timestamp": "2026-08-07 19:32:01"
+        },
+        {
+            "campaign_id": "CAMP-52926",
+            "channel": "Automated SEO Blog Feed",
+            "target_audience": "Global Affiliate Searchers",
+            "clicks_generated": 514,
+            "leads_captured": 41,
+            "status": "Active & Converting",
+            "timestamp": "2026-08-07 19:48:31"
         }
     ]
 }
