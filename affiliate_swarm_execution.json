@@ -1,5 +1,5 @@
 {
-    "total_registered": 231,
+    "total_registered": 232,
     "partnerships": [
         {
             "network_name": "Upwork",
@@ -2042,6 +2042,14 @@
             "status": "Strict Corporate & Hardware IP Verified",
             "referral_link": "https://www.thinkific.com/affiliate/partner/damodar-44273",
             "timestamp": "2026-08-07 20:15:05.619849"
+        },
+        {
+            "network_name": "Elementor",
+            "network_url": "https://elementor.com/affiliate-program",
+            "corporate_email": "appcorpdamodarworks27@gmail.com",
+            "status": "Strict Corporate & Hardware IP Verified",
+            "referral_link": "https://elementor.com/affiliate-program/partner/damodar-10555",
+            "timestamp": "2026-08-07 21:06:45.745568"
         }
     ],
     "daily_breakdown": {
@@ -2054,6 +2062,6 @@
         "2026-08-04": 24,
         "2026-08-05": 27,
         "2026-08-06": 23,
-        "2026-08-07": 19
+        "2026-08-07": 20
     }
 }
