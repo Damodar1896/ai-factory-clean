@@ -1,5 +1,5 @@
 {
-    "total_registered": 235,
+    "total_registered": 237,
     "partnerships": [
         {
             "network_name": "Upwork",
@@ -2074,6 +2074,22 @@
             "status": "Strict Corporate & Hardware IP Verified",
             "referral_link": "https://www.hostinger.com/affiliates/partner/damodar-70839",
             "timestamp": "2026-08-08 00:48:44.525984"
+        },
+        {
+            "network_name": "Grammarly",
+            "network_url": "https://www.grammarly.com/affiliates",
+            "corporate_email": "orbit.support.techcrazeventures@gmail.com",
+            "status": "Strict Corporate & Hardware IP Verified",
+            "referral_link": "https://www.grammarly.com/affiliates/partner/damodar-89696",
+            "timestamp": "2026-08-08 01:21:40.761183"
+        },
+        {
+            "network_name": "Notion",
+            "network_url": "https://www.notion.so/affiliates",
+            "corporate_email": "core.sales.techcrazeventures@gmail.com",
+            "status": "Strict Corporate & Hardware IP Verified",
+            "referral_link": "https://www.notion.so/affiliates/partner/damodar-96960",
+            "timestamp": "2026-08-08 02:01:16.031078"
         }
     ],
     "daily_breakdown": {
@@ -2087,6 +2103,6 @@
         "2026-08-05": 27,
         "2026-08-06": 23,
         "2026-08-07": 21,
-        "2026-08-08": 2
+        "2026-08-08": 4
     }
 }
