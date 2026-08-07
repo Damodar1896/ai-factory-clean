@@ -1,5 +1,5 @@
 {
-    "total_registered": 214,
+    "total_registered": 215,
     "partnerships": [
         {
             "network_name": "Upwork",
@@ -1906,6 +1906,14 @@
             "status": "Strict Corporate & Hardware IP Verified",
             "referral_link": "https://www.canva.com/affiliates/partner/damodar-93101",
             "timestamp": "2026-08-07 01:34:19.747251"
+        },
+        {
+            "network_name": "ExpressVPN",
+            "network_url": "https://www.expressvpn.com/affiliates",
+            "corporate_email": "cloudventurestechcrazeventures52@enterprise-mail.com",
+            "status": "Strict Corporate & Hardware IP Verified",
+            "referral_link": "https://www.expressvpn.com/affiliates/partner/damodar-60033",
+            "timestamp": "2026-08-07 09:58:27.630899"
         }
     ],
     "daily_breakdown": {
@@ -1918,6 +1926,6 @@
         "2026-08-04": 24,
         "2026-08-05": 27,
         "2026-08-06": 23,
-        "2026-08-07": 2
+        "2026-08-07": 3
     }
 }
