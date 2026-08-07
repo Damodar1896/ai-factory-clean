@@ -1,5 +1,5 @@
 {
-    "total_registered": 223,
+    "total_registered": 224,
     "partnerships": [
         {
             "network_name": "Upwork",
@@ -1978,6 +1978,14 @@
             "status": "Strict Corporate & Hardware IP Verified",
             "referral_link": "https://kit.com/affiliates/partner/damodar-89459",
             "timestamp": "2026-08-07 15:35:22.427329"
+        },
+        {
+            "network_name": "Bluehost",
+            "network_url": "https://www.bluehost.com/track/affiliates",
+            "corporate_email": "appbillingtechcrazedamodar45@enterprise-mail.com",
+            "status": "Strict Corporate & Hardware IP Verified",
+            "referral_link": "https://www.bluehost.com/track/affiliates/partner/damodar-20886",
+            "timestamp": "2026-08-07 16:01:56.698875"
         }
     ],
     "daily_breakdown": {
@@ -1990,6 +1998,6 @@
         "2026-08-04": 24,
         "2026-08-05": 27,
         "2026-08-06": 23,
-        "2026-08-07": 11
+        "2026-08-07": 12
     }
 }
