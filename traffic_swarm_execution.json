@@ -4193,6 +4193,24 @@
             "leads_captured": 24,
             "status": "Active & Converting",
             "timestamp": "2026-08-08 21:20:05"
+        },
+        {
+            "campaign_id": "CAMP-62184",
+            "channel": "Direct Corporate Outreach",
+            "target_audience": "B2B Lead Conversion",
+            "clicks_generated": 221,
+            "leads_captured": 27,
+            "status": "Active & Converting",
+            "timestamp": "2026-08-08 21:36:05"
+        },
+        {
+            "campaign_id": "CAMP-66062",
+            "channel": "Automated SEO Blog Feed",
+            "target_audience": "Global Affiliate Searchers",
+            "clicks_generated": 395,
+            "leads_captured": 31,
+            "status": "Active & Converting",
+            "timestamp": "2026-08-08 22:14:06"
         }
     ]
 }

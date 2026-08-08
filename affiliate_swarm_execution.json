@@ -1,5 +1,5 @@
 {
-    "total_registered": 256,
+    "total_registered": 257,
     "partnerships": [
         {
             "network_name": "Upwork",
@@ -2242,6 +2242,14 @@
             "status": "Strict Corporate & Hardware IP Verified",
             "referral_link": "https://affiliates.fiverr.com/partner/damodar-28841",
             "timestamp": "2026-08-08 19:35:01.941719"
+        },
+        {
+            "network_name": "PartnerStack",
+            "network_url": "https://partnerstack.com",
+            "corporate_email": "globalteamdamodardigital43@gmail.com",
+            "status": "Strict Corporate & Hardware IP Verified",
+            "referral_link": "https://partnerstack.com/partner/damodar-85312",
+            "timestamp": "2026-08-08 21:59:19.161338"
         }
     ],
     "daily_breakdown": {
@@ -2255,6 +2263,6 @@
         "2026-08-05": 27,
         "2026-08-06": 23,
         "2026-08-07": 21,
-        "2026-08-08": 23
+        "2026-08-08": 24
     }
 }
