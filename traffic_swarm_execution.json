@@ -3905,6 +3905,33 @@
             "leads_captured": 37,
             "status": "Active & Converting",
             "timestamp": "2026-08-08 02:05:36"
+        },
+        {
+            "campaign_id": "CAMP-79624",
+            "channel": "Social Media Hook Spreader",
+            "target_audience": "Viral Short-Form Traffic",
+            "clicks_generated": 186,
+            "leads_captured": 20,
+            "status": "Active & Converting",
+            "timestamp": "2026-08-08 02:23:06"
+        },
+        {
+            "campaign_id": "CAMP-83871",
+            "channel": "Direct Corporate Outreach",
+            "target_audience": "B2B Lead Conversion",
+            "clicks_generated": 377,
+            "leads_captured": 40,
+            "status": "Active & Converting",
+            "timestamp": "2026-08-08 02:38:37"
+        },
+        {
+            "campaign_id": "CAMP-87020",
+            "channel": "Telegram Growth Swarm",
+            "target_audience": "Tech & SaaS Audiences",
+            "clicks_generated": 215,
+            "leads_captured": 41,
+            "status": "Active & Converting",
+            "timestamp": "2026-08-08 08:08:55"
         }
     ]
 }
