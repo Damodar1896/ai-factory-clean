@@ -6,3 +6,4 @@ browser_session_vault.json
 
 # Local Netlify folder
 .netlify
+.env

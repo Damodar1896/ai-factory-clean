@@ -1,5 +1,5 @@
 {
-    "total_registered": 251,
+    "total_registered": 253,
     "partnerships": [
         {
             "network_name": "Upwork",
@@ -2202,6 +2202,22 @@
             "status": "Strict Corporate & Hardware IP Verified",
             "referral_link": "https://www.skyscanner.net/affiliates/partner/damodar-47256",
             "timestamp": "2026-08-08 17:05:30.872634"
+        },
+        {
+            "network_name": "Upwork",
+            "network_url": "https://www.upwork.com/affiliates",
+            "corporate_email": "port.partners.techcrazedamodar@enterprise-mail.com",
+            "status": "Strict Corporate & Hardware IP Verified",
+            "referral_link": "https://www.upwork.com/affiliates/partner/damodar-91267",
+            "timestamp": "2026-08-08 17:43:11.037618"
+        },
+        {
+            "network_name": "ConvertKit",
+            "network_url": "https://kit.com/affiliates",
+            "corporate_email": "groupdeskdamodartechcraze53@enterprise-mail.com",
+            "status": "Strict Corporate & Hardware IP Verified",
+            "referral_link": "https://kit.com/affiliates/partner/damodar-28113",
+            "timestamp": "2026-08-08 18:13:12.207199"
         }
     ],
     "daily_breakdown": {
@@ -2215,6 +2231,6 @@
         "2026-08-05": 27,
         "2026-08-06": 23,
         "2026-08-07": 21,
-        "2026-08-08": 18
+        "2026-08-08": 20
     }
 }
