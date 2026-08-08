@@ -1,77 +1,114 @@
 import os
-import sys
-import time
-import telebot
-from telebot import types
+import logging
 from dotenv import load_dotenv
+from telegram import Update
+from telegram.ext import ApplicationBuilder, ContextTypes, CommandHandler
 
-# Load environment variables securely
+# Load environment variables from .env file
 load_dotenv()
-TOKEN = os.getenv("TELEGRAM_BOT_TOKEN")
-TOOL_LINK = os.getenv("TOOL_LINK", "https://yourdomain.com")
-BONUS_LINK = os.getenv("BONUS_LINK", "https://yourdomain.com")
-AFFILIATE_HUB_LINK = os.getenv("AFFILIATE_HUB_LINK", "https://yourdomain.com")
-COMMUNITY_LINK = os.getenv("COMMUNITY_LINK", "https://t.me/your_channel_link")
 
-if not TOKEN:
-    print("CRITICAL ERROR: Telegram Bot Token missing!", file=sys.stderr)
-    sys.exit(1)
+# Enable logging
+logging.basicConfig(
+    format="%(asctime)s - %(name)s - %(levelname)s - %(message)s", level=logging.INFO
+)
 
-bot = telebot.TeleBot(TOKEN, parse_mode="Markdown")
+# Fetch tokens and links from .env (Damodar Tech bot)
+TOKEN = os.getenv("DAMODAR_TECH_BOT_TOKEN")
+BONUS_LINK = os.getenv("BONUS_LINK")
+TOOL_LINK = os.getenv("TOOL_LINK")
 
-@bot.message_handler(commands=['start', 'help'])
-def send_welcome(message):
+# Start Command
+async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
+    user_name = update.effective_user.first_name
+    welcome_message = (
+        f"नमस्कार {user_name} भाई! Damodar Tech Bot में आपका स्वागत है। 🚀\n\n"
+        f"यहाँ आपको मिलेंगे बेहतरीन AI टूल्स, ऑटोमेशन और बिजनेस रिसोर्स।\n\n"
+        f"📌 **नीचे दिए गए कमांड्स का उपयोग करें:**\n"
+        f"👉 /bonus - अपना फ्री VIP बोनस पाने के लिए\n"
+        f"👉 /pay - पेमेंट मेथड्स और QR कोड देखने के लिए\n"
+        f"👉 /tools - हमारे रिकमेंडेड टूल्स देखने के लिए"
+    )
+    await update.message.reply_text(welcome_message, parse_mode="Markdown")
+
+# Bonus Command
+async def bonus(update: Update, context: ContextTypes.DEFAULT_TYPE):
+    bonus_text = (
+        f"🎁 **आपका VIP AI मास्टरगाइड बोनस तैयार है!**\n\n"
+        f"नीचे दिए गए लिंक से आप इसे डाउनलोड कर सकते हैं:\n"
+        f"{BONUS_LINK}"
+    )
+    await update.message.reply_text(bonus_text, parse_mode="Markdown")
+
+# Tools Command
+async def tools(update: Update, context: ContextTypes.DEFAULT_TYPE):
+    tools_text = (
+        f"🛠️ **Recommended Business Tools:**\n\n"
+        f"हमारा बेस्ट होस्टिंग और टूल प्लेटफॉर्म देखने के लिए यहाँ क्लिक करें:\n"
+        f"{TOOL_LINK}"
+    )
+    await update.message.reply_text(tools_text, parse_mode="Markdown")
+
+# Pay Command (Sends Payment Options & QR Codes)
+async def pay(update: Update, context: ContextTypes.DEFAULT_TYPE):
+    chat_id = update.effective_chat.id
+    
+    info_text = (
+        "💳 **Payment Methods & QR Codes:**\n\n"
+        "आप नीचे दिए गए किसी भी माध्यम से पेमेंट कर सकते हैं। पेमेंट करने के बाद स्क्रीनशॉट एडमिन को भेजें।"
+    )
+    await context.bot.send_message(chat_id=chat_id, text=info_text, parse_mode="Markdown")
+
+    # Send Canara Bank QR & Details
     try:
-        markup = types.InlineKeyboardMarkup(row_width=1)
-        
-        # Interactive Affiliate & Resource Buttons
-        btn_tools = types.InlineKeyboardButton("🎁 Free AI & Software Tools", callback_data="tools")
-        btn_bonuses = types.InlineKeyboardButton("💎 VIP Exclusive Bonuses ($5k Value)", callback_data="bonuses")
-        btn_affiliate = types.InlineKeyboardButton("🔥 Top Enterprise Partner Offers", callback_data="affiliate")
-        btn_community = types.InlineKeyboardButton("🌐 Join Community Hub", url=COMMUNITY_LINK)
-        
-        markup.add(btn_tools, btn_bonuses, btn_affiliate, btn_community)
-        
-        welcome_text = (
-            f"Welcome, {message.from_user.first_name}! 🚀\n\n"
-            "You've arrived at the **Damodar Tech & AI Ecosystem Hub**.\n\n"
-            "Unlock access to elite AI tools, premium software discounts, "
-            "and exclusive digital resources to scale your business.\n\n"
-            "Select an option below to get started:"
+        canara_caption = f"🏦 **Canara Bank UPI**\nUPI ID: `{os.getenv('CANARA_UPI_ID')}`\nName: {os.getenv('CANARA_PAYEE_NAME')}"
+        with open(os.getenv('CANARA_QR_IMAGE'), 'rb') as photo:
+            await context.bot.send_photo(chat_id=chat_id, photo=photo, caption=canara_caption, parse_mode="Markdown")
+    except Exception as e:
+        print(f"Canara QR error: {e}")
+
+    # Send Google Pay QR & Details
+    try:
+        gpay_caption = f"📱 **Google Pay (Axis Bank)**\nUPI ID: `{os.getenv('GPAY_UPI_ID')}`\nName: {os.getenv('GPAY_PAYEE_NAME')}"
+        with open(os.getenv('GPAY_QR_IMAGE'), 'rb') as photo:
+            await context.bot.send_photo(chat_id=chat_id, photo=photo, caption=gpay_caption, parse_mode="Markdown")
+    except Exception as e:
+        print(f"GPay QR error: {e}")
+
+    # Send PhonePe QR
+    try:
+        phonepe_caption = f"📲 **PhonePe Business**\nName: {os.getenv('PHONEPE_PAYEE_NAME')}"
+        with open(os.getenv('PHONEPE_QR_IMAGE'), 'rb') as photo:
+            await context.bot.send_photo(chat_id=chat_id, photo=photo, caption=phonepe_caption, parse_mode="Markdown")
+    except Exception as e:
+        print(f"PhonePe QR error: {e}")
+
+    # Send Crypto / USDT Details
+    try:
+        crypto_caption = (
+            f"₿ **Crypto / USDT Payment**\n"
+            f"Wallet Address:\n`{os.getenv('CRYPTO_BTC_WALLET')}`\n\n"
+            f"{os.getenv('PAYMENT_INSTRUCTIONS')}"
         )
-        bot.send_message(message.chat.id, welcome_text, reply_markup=markup)
+        with open(os.getenv('CRYPTO_QR_IMAGE'), 'rb') as photo:
+            await context.bot.send_photo(chat_id=chat_id, photo=photo, caption=crypto_caption, parse_mode="Markdown")
     except Exception as e:
-        print(f"[Error] {e}")
+        print(f"Crypto QR error: {e}")
 
-@bot.callback_query_handler(func=lambda call: True)
-def callback_query(call):
-    try:
-        if call.data == "tools":
-            bot.answer_callback_query(call.id)
-            markup = types.InlineKeyboardMarkup()
-            markup.add(types.InlineKeyboardButton("👉 Access Free Tools Portal", url=TOOL_LINK))
-            bot.send_message(call.message.chat.id, "🎁 **Free AI & Software Resource Center**:\n\nClick below to access top-tier AI generators, scripts, and software resources:", reply_markup=markup)
-            
-        elif call.data == "bonuses":
-            bot.answer_callback_query(call.id)
-            markup = types.InlineKeyboardMarkup()
-            markup.add(types.InlineKeyboardButton("👉 Claim VIP Bonuses Now", url=BONUS_LINK))
-            bot.send_message(call.message.chat.id, "💎 **Exclusive VIP Bonuses ($5,000+ Value)**:\n\nQualify for premium software templates and scaling frameworks through our partner portals:", reply_markup=markup)
-            
-        elif call.data == "affiliate":
-            bot.answer_callback_query(call.id)
-            markup = types.InlineKeyboardMarkup()
-            markup.add(types.InlineKeyboardButton("🚀 Browse 105+ Partner Networks", url=AFFILIATE_HUB_LINK))
-            bot.send_message(call.message.chat.id, "🔥 **Top Enterprise Partner Offers (105+ Networks)**:\n\nExplore our verified high-yield partner portals (Hostinger, Binance, AI tools, etc.) to start earning instantly:", reply_markup=markup)
-            
-    except Exception as e:
-        print(f"[Error] {e}")
+def main():
+    if not TOKEN:
+        print("Error: Damodar Tech Bot Token is missing in .env file!")
+        return
+
+    application = ApplicationBuilder().token(TOKEN).build()
+
+    # Handlers
+    application.add_handler(CommandHandler("start", start))
+    application.add_handler(CommandHandler("bonus", bonus))
+    application.add_handler(CommandHandler("tools", tools))
+    application.add_handler(CommandHandler("pay", pay))
+
+    print("🤖 Damodar Tech Bot is starting and polling for messages...")
+    application.run_polling()
 
 if __name__ == "__main__":
-    print("Damodar Tech Master Bot is running with Affiliate Engine... 24/7 Ready.")
-    while True:
-        try:
-            bot.infinity_polling(skip_pending=True, timeout=60, long_polling_timeout=60)
-        except Exception as e:
-            print(f"[RECOVERY] Reconnecting in 5 seconds...")
-            time.sleep(5)
+    main()
