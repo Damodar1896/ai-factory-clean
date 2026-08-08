@@ -1,5 +1,5 @@
 {
-    "total_registered": 239,
+    "total_registered": 240,
     "partnerships": [
         {
             "network_name": "Upwork",
@@ -2106,6 +2106,14 @@
             "status": "Strict Corporate & Hardware IP Verified",
             "referral_link": "https://affiliate-program.amazon.com/partner/damodar-72957",
             "timestamp": "2026-08-08 08:45:19.165492"
+        },
+        {
+            "network_name": "AppSumo",
+            "network_url": "https://appsumo.com/affiliate",
+            "corporate_email": "nova.team.damodarempire@gmail.com",
+            "status": "Strict Corporate & Hardware IP Verified",
+            "referral_link": "https://appsumo.com/affiliate/partner/damodar-96995",
+            "timestamp": "2026-08-08 09:22:19.361268"
         }
     ],
     "daily_breakdown": {
@@ -2119,6 +2127,6 @@
         "2026-08-05": 27,
         "2026-08-06": 23,
         "2026-08-07": 21,
-        "2026-08-08": 6
+        "2026-08-08": 7
     }
 }
