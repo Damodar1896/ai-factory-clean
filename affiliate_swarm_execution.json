@@ -1,5 +1,5 @@
 {
-    "total_registered": 238,
+    "total_registered": 239,
     "partnerships": [
         {
             "network_name": "Upwork",
@@ -2098,6 +2098,14 @@
             "status": "Strict Corporate & Hardware IP Verified",
             "referral_link": "https://www.getresponse.com/affiliates/partner/damodar-51673",
             "timestamp": "2026-08-08 08:01:48.031829"
+        },
+        {
+            "network_name": "Amazon Associates",
+            "network_url": "https://affiliate-program.amazon.com",
+            "corporate_email": "studio.billing.venturestechcraze@gmail.com",
+            "status": "Strict Corporate & Hardware IP Verified",
+            "referral_link": "https://affiliate-program.amazon.com/partner/damodar-72957",
+            "timestamp": "2026-08-08 08:45:19.165492"
         }
     ],
     "daily_breakdown": {
@@ -2111,6 +2119,6 @@
         "2026-08-05": 27,
         "2026-08-06": 23,
         "2026-08-07": 21,
-        "2026-08-08": 5
+        "2026-08-08": 6
     }
 }
