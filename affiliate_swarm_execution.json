@@ -1,5 +1,5 @@
 {
-    "total_registered": 246,
+    "total_registered": 247,
     "partnerships": [
         {
             "network_name": "Upwork",
@@ -2162,6 +2162,14 @@
             "status": "Strict Corporate & Hardware IP Verified",
             "referral_link": "https://www.skillshare.com/affiliates/partner/damodar-79620",
             "timestamp": "2026-08-08 13:34:40.714360"
+        },
+        {
+            "network_name": "PartnerStack",
+            "network_url": "https://partnerstack.com",
+            "corporate_email": "data.ventures.venturesdamodar@gmail.com",
+            "status": "Strict Corporate & Hardware IP Verified",
+            "referral_link": "https://partnerstack.com/partner/damodar-36169",
+            "timestamp": "2026-08-08 14:17:19.950501"
         }
     ],
     "daily_breakdown": {
@@ -2175,6 +2183,6 @@
         "2026-08-05": 27,
         "2026-08-06": 23,
         "2026-08-07": 21,
-        "2026-08-08": 13
+        "2026-08-08": 14
     }
 }
