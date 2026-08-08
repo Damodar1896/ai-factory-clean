@@ -1,5 +1,5 @@
 {
-    "total_registered": 244,
+    "total_registered": 245,
     "partnerships": [
         {
             "network_name": "Upwork",
@@ -2146,6 +2146,14 @@
             "status": "Strict Corporate & Hardware IP Verified",
             "referral_link": "https://affiliates.walmart.com/partner/damodar-38407",
             "timestamp": "2026-08-08 12:09:33.303674"
+        },
+        {
+            "network_name": "AliExpress Affiliate",
+            "network_url": "https://portal.letyshops.com",
+            "corporate_email": "gatehrdamodarempire18@gmail.com",
+            "status": "Strict Corporate & Hardware IP Verified",
+            "referral_link": "https://portal.letyshops.com/partner/damodar-73172",
+            "timestamp": "2026-08-08 12:41:32.519532"
         }
     ],
     "daily_breakdown": {
@@ -2159,6 +2167,6 @@
         "2026-08-05": 27,
         "2026-08-06": 23,
         "2026-08-07": 21,
-        "2026-08-08": 11
+        "2026-08-08": 12
     }
 }
