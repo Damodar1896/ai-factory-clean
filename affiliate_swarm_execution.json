@@ -1,5 +1,5 @@
 {
-    "total_registered": 243,
+    "total_registered": 244,
     "partnerships": [
         {
             "network_name": "Upwork",
@@ -2138,6 +2138,14 @@
             "status": "Strict Corporate & Hardware IP Verified",
             "referral_link": "https://www.activecampaign.com/partners/affiliates/partner/damodar-50460",
             "timestamp": "2026-08-08 11:22:26.053587"
+        },
+        {
+            "network_name": "Walmart Affiliates",
+            "network_url": "https://affiliates.walmart.com",
+            "corporate_email": "globalpartnersdamodardigital50@enterprise-mail.com",
+            "status": "Strict Corporate & Hardware IP Verified",
+            "referral_link": "https://affiliates.walmart.com/partner/damodar-38407",
+            "timestamp": "2026-08-08 12:09:33.303674"
         }
     ],
     "daily_breakdown": {
@@ -2151,6 +2159,6 @@
         "2026-08-05": 27,
         "2026-08-06": 23,
         "2026-08-07": 21,
-        "2026-08-08": 10
+        "2026-08-08": 11
     }
 }
