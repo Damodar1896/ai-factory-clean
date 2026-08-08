@@ -1,5 +1,5 @@
 {
-    "total_registered": 242,
+    "total_registered": 243,
     "partnerships": [
         {
             "network_name": "Upwork",
@@ -2130,6 +2130,14 @@
             "status": "Strict Corporate & Hardware IP Verified",
             "referral_link": "https://www.coursera.org/partners/partner/damodar-59141",
             "timestamp": "2026-08-08 10:40:45.837578"
+        },
+        {
+            "network_name": "ActiveCampaign",
+            "network_url": "https://www.activecampaign.com/partners/affiliates",
+            "corporate_email": "stack.group.damodarempire@enterprise-mail.com",
+            "status": "Strict Corporate & Hardware IP Verified",
+            "referral_link": "https://www.activecampaign.com/partners/affiliates/partner/damodar-50460",
+            "timestamp": "2026-08-08 11:22:26.053587"
         }
     ],
     "daily_breakdown": {
@@ -2143,6 +2151,6 @@
         "2026-08-05": 27,
         "2026-08-06": 23,
         "2026-08-07": 21,
-        "2026-08-08": 9
+        "2026-08-08": 10
     }
 }
