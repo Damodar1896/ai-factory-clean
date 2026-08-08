@@ -1,5 +1,5 @@
 {
-    "total_registered": 247,
+    "total_registered": 248,
     "partnerships": [
         {
             "network_name": "Upwork",
@@ -2170,6 +2170,14 @@
             "status": "Strict Corporate & Hardware IP Verified",
             "referral_link": "https://partnerstack.com/partner/damodar-36169",
             "timestamp": "2026-08-08 14:17:19.950501"
+        },
+        {
+            "network_name": "Awin",
+            "network_url": "https://www.awin.com",
+            "corporate_email": "primedeskdamodartechcraze25@enterprise-mail.com",
+            "status": "Strict Corporate & Hardware IP Verified",
+            "referral_link": "https://www.awin.com/partner/damodar-80307",
+            "timestamp": "2026-08-08 14:59:52.180230"
         }
     ],
     "daily_breakdown": {
@@ -2183,6 +2191,6 @@
         "2026-08-05": 27,
         "2026-08-06": 23,
         "2026-08-07": 21,
-        "2026-08-08": 14
+        "2026-08-08": 15
     }
 }
