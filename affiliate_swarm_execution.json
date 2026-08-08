@@ -1,5 +1,5 @@
 {
-    "total_registered": 240,
+    "total_registered": 241,
     "partnerships": [
         {
             "network_name": "Upwork",
@@ -2114,6 +2114,14 @@
             "status": "Strict Corporate & Hardware IP Verified",
             "referral_link": "https://appsumo.com/affiliate/partner/damodar-96995",
             "timestamp": "2026-08-08 09:22:19.361268"
+        },
+        {
+            "network_name": "Awin",
+            "network_url": "https://www.awin.com",
+            "corporate_email": "webventuresdamodarteam36@enterprise-mail.com",
+            "status": "Strict Corporate & Hardware IP Verified",
+            "referral_link": "https://www.awin.com/partner/damodar-89859",
+            "timestamp": "2026-08-08 10:10:43.587534"
         }
     ],
     "daily_breakdown": {
@@ -2127,6 +2135,6 @@
         "2026-08-05": 27,
         "2026-08-06": 23,
         "2026-08-07": 21,
-        "2026-08-08": 7
+        "2026-08-08": 8
     }
 }
