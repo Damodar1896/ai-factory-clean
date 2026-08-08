@@ -1,5 +1,5 @@
 {
-    "total_registered": 253,
+    "total_registered": 255,
     "partnerships": [
         {
             "network_name": "Upwork",
@@ -2218,6 +2218,22 @@
             "status": "Strict Corporate & Hardware IP Verified",
             "referral_link": "https://kit.com/affiliates/partner/damodar-28113",
             "timestamp": "2026-08-08 18:13:12.207199"
+        },
+        {
+            "network_name": "Grammarly",
+            "network_url": "https://www.grammarly.com/affiliates",
+            "corporate_email": "netadmintechcrazeventures50@enterprise-mail.com",
+            "status": "Strict Corporate & Hardware IP Verified",
+            "referral_link": "https://www.grammarly.com/affiliates/partner/damodar-42914",
+            "timestamp": "2026-08-08 18:41:56.393516"
+        },
+        {
+            "network_name": "JVZoo",
+            "network_url": "https://www.jvzoo.com",
+            "corporate_email": "probillingventuresdamodar92@enterprise-mail.com",
+            "status": "Strict Corporate & Hardware IP Verified",
+            "referral_link": "https://www.jvzoo.com/partner/damodar-37886",
+            "timestamp": "2026-08-08 19:08:43.661634"
         }
     ],
     "daily_breakdown": {
@@ -2231,6 +2247,6 @@
         "2026-08-05": 27,
         "2026-08-06": 23,
         "2026-08-07": 21,
-        "2026-08-08": 20
+        "2026-08-08": 22
     }
 }

@@ -1,5 +1,5 @@
 {
-    "total": 694,
+    "total": 696,
     "today": 75,
     "date": "2026-07-26",
     "logs": [
@@ -4710,6 +4710,20 @@
             "status": "Warming-Up (Hardware ADB IP Rotated - Primary Inbox Ready)",
             "warmup_days_completed": 1,
             "time": "2026-08-08 18:16:07.224240"
+        },
+        {
+            "email": "apexsupporttechcrazedamodar26@enterprise-mail.com",
+            "date": "2026-08-08",
+            "status": "Warming-Up (Hardware ADB IP Rotated - Primary Inbox Ready)",
+            "warmup_days_completed": 1,
+            "time": "2026-08-08 18:36:10.937557"
+        },
+        {
+            "email": "desklabsdamodarworks38@gmail.com",
+            "date": "2026-08-08",
+            "status": "Warming-Up (Hardware ADB IP Rotated - Primary Inbox Ready)",
+            "warmup_days_completed": 1,
+            "time": "2026-08-08 19:09:25.260223"
         }
     ],
     "daily_breakdown": {
@@ -4726,6 +4740,6 @@
         "2026-08-05": 50,
         "2026-08-06": 45,
         "2026-08-07": 35,
-        "2026-08-08": 27
+        "2026-08-08": 29
     }
 }
