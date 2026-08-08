@@ -1,5 +1,5 @@
 {
-    "total_registered": 245,
+    "total_registered": 246,
     "partnerships": [
         {
             "network_name": "Upwork",
@@ -2154,6 +2154,14 @@
             "status": "Strict Corporate & Hardware IP Verified",
             "referral_link": "https://portal.letyshops.com/partner/damodar-73172",
             "timestamp": "2026-08-08 12:41:32.519532"
+        },
+        {
+            "network_name": "Skillshare",
+            "network_url": "https://www.skillshare.com/affiliates",
+            "corporate_email": "basemediadamodardigital43@gmail.com",
+            "status": "Strict Corporate & Hardware IP Verified",
+            "referral_link": "https://www.skillshare.com/affiliates/partner/damodar-79620",
+            "timestamp": "2026-08-08 13:34:40.714360"
         }
     ],
     "daily_breakdown": {
@@ -2167,6 +2175,6 @@
         "2026-08-05": 27,
         "2026-08-06": 23,
         "2026-08-07": 21,
-        "2026-08-08": 12
+        "2026-08-08": 13
     }
 }
